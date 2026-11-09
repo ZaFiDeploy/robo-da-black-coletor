@@ -4,7 +4,7 @@
 // destaques.json = primeira tela, leve. todas.json = busca e departamentos (carrega depois).
 import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
-import { comAfiliado } from '../src/afiliado.js';
+import { comAfiliado, VITRINES_PARCEIRAS } from '../src/afiliado.js';
 
 const [ORIGEM, DESTINO] = process.argv.slice(2);
 if (!ORIGEM || !DESTINO) throw new Error('uso: node scripts/gerar-telegram.mjs <dados do app> <saída>');
@@ -45,6 +45,6 @@ const resumo = {
   monitorados: indice.monitorados, lojasMonitoradas: indice.lojasMonitoradas, porClasse: indice.porClasse
 };
 
-writeFileSync(join(DESTINO, 'destaques.json'), JSON.stringify({ resumo, relampago, deVerdade, fraudes, checando, departamentos }));
+writeFileSync(join(DESTINO, 'destaques.json'), JSON.stringify({ resumo, relampago, deVerdade, fraudes, checando, departamentos, parceiros: VITRINES_PARCEIRAS }));
 writeFileSync(join(DESTINO, 'todas.json'), JSON.stringify(todas));
 console.log(`Telegram: ${todas.length} ofertas · ${relampago.length} relâmpago · ${deVerdade.length} de verdade · ${fraudes.length} fraudes · ${checando.length} em destaque checando · ${departamentos.length} departamentos`);

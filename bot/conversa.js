@@ -5,6 +5,7 @@
 import { idDoLink } from '../src/links.js';
 import { compararAntesDepois } from '../src/antes-depois.js';
 import { scoreSeguranca, analisarUrl } from '../src/score.js';
+import { VITRINES_PARCEIRAS } from '../src/afiliado.js';
 import { T, teclado, SUGESTOES, AVISOS, avisoAtual, esc, reais } from './textos.js';
 
 const msg = (chat_id, text, reply_markup) => ({ metodo: 'sendMessage', params: { chat_id, text, parse_mode: 'HTML', disable_web_page_preview: true, ...(reply_markup ? { reply_markup } : {}) } });
@@ -185,8 +186,15 @@ function textoAjustes(a, alvo) {
 }
 async function relampago(loja, chat) {
   const lista = await loja.relampagoHoje();
-  if (!lista.length) return [msg(chat, T.semRelampago, teclado.voltar())];
+  if (!lista.length) return [msg(chat, T.semRelampago, tecladoRelampago())];
   const itens = lista.slice(0, 5).map((o, i) => `${i + 1}. <a href="${esc(o.url)}">${esc(o.nome)}</a>\n<b>${reais(o.preco)}</b> · -${Math.round(o.real * 100)}% de verdade · ${esc(o.loja)}`);
-  return [msg(chat, '⚡ <b>Relâmpago de hoje</b>\nAs maiores quedas reais do momento.\n\n' + itens.join('\n\n'), teclado.voltar())];
+  return [msg(chat, '⚡ <b>Relâmpago de hoje</b>\nAs maiores quedas reais do momento.\n\n' + itens.join('\n\n') + (VITRINES_PARCEIRAS.length ? '\n\n🛍️ <b>Mais ofertas nas lojas parceiras</b>' : ''), tecladoRelampago())];
 }
 function lerEstado(a) { try { return JSON.parse(a.estado || '{}') || {}; } catch { return {}; } }
+
+// Relâmpago com caminho para as lojas onde o Milton é afiliado (link com a tag dele).
+function tecladoRelampago() {
+  const base = teclado.voltar();
+  const parceiros = VITRINES_PARCEIRAS.map((v) => [{ text: '🛍️ ' + v.titulo, url: v.url }]);
+  return { inline_keyboard: [...parceiros, ...(base.inline_keyboard || [])] };
+}

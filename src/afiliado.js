@@ -19,3 +19,12 @@ export function comAfiliado(url, cfg = AFILIADO) {
   }
   return url;
 }
+
+// Caminho para as lojas onde o Milton é afiliado (aparece no Relâmpago do app, do app do Telegram e do Jackbot).
+// Link com a tag = compra feita a partir dele conta para o afiliado. Shopee entra quando a conta for aprovada
+// (o link de afiliado da Shopee só sai do painel/API de afiliados): até lá fica sem url e não aparece.
+export const VITRINES_PARCEIRAS = [
+  { loja: 'Amazon', titulo: 'Black Friday da Amazon', sub: 'Todas as ofertas da Black na Amazon', url: `https://www.amazon.com.br/blackfriday?tag=${AFILIADO.amazonTag}` },
+  { loja: 'Amazon', titulo: 'Mais vendidos da Amazon', sub: 'O que mais sai agora, por departamento', url: `https://www.amazon.com.br/gp/bestsellers?tag=${AFILIADO.amazonTag}` },
+  { loja: 'Shopee', titulo: 'Ofertas da Shopee', sub: 'Cupons e ofertas do dia', url: process.env.SHOPEE_VITRINE_URL || null }
+].filter((v) => v.url);
