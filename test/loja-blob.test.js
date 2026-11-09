@@ -66,3 +66,22 @@ test('canal: posta as boas com desconto real e 1 fraude, sem repetir na rodada s
   assert.equal((await postarNoCanal({ loja: nova(blob), telegram, canal: '@teste', agora: new Date('2026-11-20T02:00:00-03:00'), log: () => {} })).motivo, 'madrugada');
   assert.doesNotMatch(textoCanal({ classe: 'otimo', nome: '<x>', preco: 10, real: 0.2, loja: 'L' }), /<x>/);
 });
+
+test('ofertas do dia: vai direto para quem está ligado, com link de afiliado, sem repetir e com opção de desligar', async () => {
+  const { enviarOfertasDoDia } = await import('../bot/canal.js');
+  const blob = blobFalso();
+  await responder(msg('/start'), { loja: nova(blob), ligarSemApp: true, env: {} });
+  const envios = [];
+  const telegram = { chamar: async (m, p) => envios.push(p) };
+  const agora = new Date('2026-11-20T15:00:00-03:00');
+  const r = await enviarOfertasDoDia({ loja: nova(blob), telegram, agora, log: () => {} });
+  assert.equal(r.enviados, 2);                      // 1 boa + 1 Black Fraude
+  assert.match(envios[0].text, /Ofertas do dia/);
+  assert.equal(envios[1].chat_id, 9);
+  await enviarOfertasDoDia({ loja: nova(blob), telegram, agora, log: () => {} });
+  assert.equal(envios.length, 3, 'não repete');
+  const toque = (data) => responder({ callback_query: { id: 'q', data, message: { chat: { id: 9 }, message_id: 1 } } }, { loja: nova(blob), env: {} });
+  await toque('feed');
+  assert.equal(JSON.parse(blob.m.get('bot/c/9.json')).assinante.ofertas_do_dia, false);
+  assert.equal((await enviarOfertasDoDia({ loja: nova(blob), telegram, agora: new Date('2026-11-21T15:00:00-03:00'), log: () => {} })).pessoas, 0);
+});

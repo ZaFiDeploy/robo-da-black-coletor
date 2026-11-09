@@ -88,6 +88,7 @@ export const teclado = {
   ajustes: (a) => ({
     inline_keyboard: [
       ...Object.entries(AVISOS).map(([id, x]) => [b((a.aviso === id ? '🔘 ' : '⚪ ') + x.nome, 'av:' + id)]),
+      [b(a.feed ? '🔥 Ofertas do dia: ligadas' : '🔥 Ofertas do dia: desligadas', 'feed')],
       [b((a.silencio ? '🌙 Silêncio à noite: ligado' : '🌙 Silêncio à noite: desligado'), 'noite')],
       [b(a.pausado ? '▶️ Voltar a avisar' : '⏸ Pausar alertas', 'pausa')],
       [b('⬅️ Menu', 'menu')]

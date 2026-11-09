@@ -1,4 +1,5 @@
-// Canal de ofertas do Jackbot (como os canais de promoção): depois de cada coleta, posta no canal do Telegram
+// Ofertas do Jackbot (como os canais de promoção): depois de cada coleta, manda direto para cada pessoa
+// (enviarOfertasDoDia) e, se existir CANAL_ID, posta também num canal
 // as melhores ofertas com desconto REAL e, de vez em quando, uma Black Fraude pega no flagra.
 // Regras: até 6 posts por rodada, nada de madrugada (23h–7h), não repete a mesma oferta em 3 dias
 // (só reposta se o preço cair mais 5%), loja com nota de segurança abaixo de 60 não entra.
@@ -61,4 +62,38 @@ export async function postarNoCanal({ loja, telegram, canal = process.env.CANAL_
   }
   log(`Canal ${canal}: ${ok} de ${plano.length} postados.`);
   return { postados: ok, planejados: plano.length };
+}
+
+// ---------- Ofertas do dia, direto na conversa de cada pessoa ----------
+export const REGRAS_FEED = { ...REGRAS_CANAL, maxPorRodada: 3, fraudesPorRodada: 1 };
+
+export async function enviarOfertasDoDia({ loja, telegram, agora = new Date(), log = console.log, R = REGRAS_FEED }) {
+  const h = horaSP(agora);
+  if (h >= 22 || h < 8) return { pessoas: 0, enviados: 0, motivo: 'noite' };
+  const pessoas = (await loja.assinantesAtivos()).filter((a) => a.ofertas_do_dia !== false);
+  const ofertas = await loja.ofertasCanal();
+  let enviados = 0;
+  for (const a of pessoas) {
+    // não repete o que já foi como alerta nem como oferta do dia
+    const ja = [...(await loja.feedPostados(a.id)), ...(await loja.alertasEnviados(new Date(agora.getTime() - R.diasSemRepetir * 86400000).toISOString()))
+      .filter((x) => x.assinante_id === a.id).map((x) => ({ chave: x.produto_chave, preco: +x.preco, em: x.enviado_em }))];
+    const plano = planejarCanal(ofertas, ja, agora, R);
+    if (!plano.length) continue;
+    try {
+      await telegram.chamar('sendMessage', { chat_id: a.telegram_chat_id, parse_mode: 'HTML', text: '🎰 <b>Ofertas do dia</b> · checadas pelo Jackbot' });
+      for (const o of plano) {
+        const teclado = { inline_keyboard: [[{ text: o.classe === 'falso' ? 'Ver na loja' : 'Ver oferta →', url: comAfiliado(o.url) }]] };
+        const legenda = textoCanal(o);
+        if (o.img) await telegram.chamar('sendPhoto', { chat_id: a.telegram_chat_id, photo: o.img, caption: legenda, parse_mode: 'HTML', reply_markup: teclado });
+        else await telegram.chamar('sendMessage', { chat_id: a.telegram_chat_id, text: legenda, parse_mode: 'HTML', reply_markup: teclado, disable_web_page_preview: true });
+        enviados++;
+      }
+      await loja.registrarFeed(a.id, plano.map((o) => ({ chave: o.chave, preco: o.preco, em: agora.toISOString() })));
+    } catch (e) {
+      log(`ofertas do dia: falhou para ${a.id}: ${e.message}`);
+      if (e.codigo === 403) await loja.atualizarAssinante(a.id, { telegram_chat_id: null }); // bloqueou o bot
+    }
+  }
+  log(`Ofertas do dia: ${enviados} mensagens para ${pessoas.length} pessoas.`);
+  return { pessoas: pessoas.length, enviados };
 }

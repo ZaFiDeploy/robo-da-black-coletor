@@ -63,8 +63,8 @@ export async function responder(update, ctx) {
       await loja.salvarAlvo(a.id, { classes: AVISOS[data.slice(3)].classes });
       const novo = { ...alvo, classes: AVISOS[data.slice(3)].classes };
       out.push(editar(chat, mid, textoAjustes(a, novo), teclado.ajustes(estadoAjustes(a, novo))));
-    } else if (data === 'noite' || data === 'pausa') {
-      const campos = data === 'noite' ? { silencio_noite: !a.silencio_noite } : { pausado: !a.pausado };
+    } else if (data === 'noite' || data === 'pausa' || data === 'feed') {
+      const campos = data === 'noite' ? { silencio_noite: !a.silencio_noite } : data === 'feed' ? { ofertas_do_dia: a.ofertas_do_dia === false } : { pausado: !a.pausado };
       await loja.atualizarAssinante(a.id, campos);
       const novoA = { ...a, ...campos };
       out.push(editar(chat, mid, textoAjustes(novoA, alvo), teclado.ajustes(estadoAjustes(novoA, alvo))));
@@ -176,10 +176,11 @@ async function textoLista(loja, a, alvo) {
   linhas.push('', 'Para adicionar, escreva o nome do produto. Toque num item para tirar.');
   return linhas.join('\n');
 }
-function estadoAjustes(a, alvo) { return { aviso: avisoAtual(alvo.classes), silencio: a.silencio_noite !== false, pausado: !!a.pausado }; }
+function estadoAjustes(a, alvo) { return { aviso: avisoAtual(alvo.classes), silencio: a.silencio_noite !== false, pausado: !!a.pausado, feed: a.ofertas_do_dia !== false }; }
 function textoAjustes(a, alvo) {
   const e = estadoAjustes(a, alvo);
   return ['⚙️ <b>Ajustes</b>', '', '<b>Quando te aviso</b>', AVISOS[e.aviso].nome + ' · ' + AVISOS[e.aviso].sub, '',
+    e.feed ? '🔥 Ofertas do dia: mando as melhores com desconto de verdade, 2 vezes por dia.' : '🔥 Ofertas do dia: desligadas (só aviso o que você vigia).',
     e.silencio ? '🌙 Entre 22h e 8h só mando as imperdíveis.' : '🌙 Aviso a qualquer hora.', e.pausado ? '⏸ Alertas pausados.' : ''].join('\n').trim();
 }
 async function relampago(loja, chat) {

@@ -116,6 +116,13 @@ export function criarLojaBlob({ blob = { put, get, list }, fetchFn = fetch, font
         referencia: o.mercado, real: o.real, classe: o.classe, score: o.score, menorEm90: !!o.menorEm90, relampago: !!o.relampago
       }));
     },
+    async feedPostados(id) { return (await ficha(id))?.feed || []; },
+    async registrarFeed(id, lista) {
+      const f = await ficha(id); if (!f) return;
+      const corte = Date.now() - 7 * 86400000;
+      f.feed = (f.feed || []).filter((x) => Date.parse(x.em) >= Math.min(corte, Date.parse(lista[0]?.em) - 7 * 86400000)).concat(lista);
+      await salvar(f);
+    },
     async canalPostados() { return (await lerJSON('bot/canal.json', blob))?.postados || []; },
     async registrarCanal(p) {
       const corte = Date.parse(p.em) - 7 * 86400000;

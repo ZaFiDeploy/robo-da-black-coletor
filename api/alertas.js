@@ -1,9 +1,10 @@
-// Dispara os alertas do Jackbot e os posts do canal de ofertas (CANAL_ID). Chamado pelo publicar.sh do app Ofertas depois de cada coleta
+// Depois de cada coleta: alertas do que cada pessoa vigia, Ofertas do dia direto na conversa de cada um
+// e, se existir CANAL_ID, os posts do canal. Chamado pelo publicar.sh do app Ofertas depois de cada coleta
 // (cabeçalho x-segredo = TELEGRAM_SECRET) e pelo cron diário da Vercel (Authorization: Bearer CRON_SECRET).
 import { enviarAlertas } from '../bot/enviar-alertas.js';
 import { criarLoja } from '../bot/escolher-loja.js';
 import { criarTelegram } from '../bot/telegram.js';
-import { postarNoCanal } from '../bot/canal.js';
+import { postarNoCanal, enviarOfertasDoDia } from '../bot/canal.js';
 
 export default async function handler(req, res) {
   const s = process.env.TELEGRAM_SECRET, c = process.env.CRON_SECRET;
@@ -12,8 +13,9 @@ export default async function handler(req, res) {
   try {
     const loja = criarLoja(), telegram = criarTelegram(), log = (t) => console.log(t);
     const alertas = await enviarAlertas({ loja, telegram, log });
+    const ofertasDoDia = loja.feedPostados ? await enviarOfertasDoDia({ loja, telegram, log }) : { enviados: 0 };
     const canal = loja.ofertasCanal ? await postarNoCanal({ loja, telegram, log }) : { postados: 0 };
-    res.status(200).json({ alertas, canal });
+    res.status(200).json({ alertas, ofertasDoDia, canal });
   } catch (e) {
     console.error('alertas', e);
     res.status(500).json({ erro: e.message });
