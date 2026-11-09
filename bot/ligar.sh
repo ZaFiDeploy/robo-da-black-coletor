@@ -11,8 +11,12 @@ BOT_URL="https://robo-da-black-bot.vercel.app"
 SEGREDO_LOCAL="$HOME/dev/03 Dev/robo-da-black-telegram/.segredo-bot"
 
 echo 'Copie o token no Telegram (BotFather → /mybots → JackbotDaBlackBot → API Token).'
-printf 'Depois cole aqui e aperte Enter — ou só aperte Enter que eu pego do que você copiou: '
-read -rs DIGITADO; echo
+if [ "$1" = "copiado" ]; then
+  DIGITADO=""   # bash ligar.sh copiado → nem pergunta, usa direto o que está copiado
+else
+  printf 'Depois cole aqui e aperte Enter — ou só aperte Enter que eu pego do que você copiou: '
+  read -rs DIGITADO; echo
+fi
 # Se não colou nada, usa a área de transferência. Em qualquer caso, pega só o token (números:letras),
 # mesmo que tenha vindo junto o texto inteiro da mensagem do BotFather.
 [ -z "$DIGITADO" ] && DIGITADO="$(pbpaste 2>/dev/null)"
