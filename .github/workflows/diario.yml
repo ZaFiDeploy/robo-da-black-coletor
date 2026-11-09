@@ -1,0 +1,85 @@
+# Coleta diária do Robô da Black, sem depender do Mac. 2 rodadas por dia.
+# 1) cada loja em paralelo (robô educado: robots.txt + sitemap + JSON-LD, 1 pedido a cada 1,5 s, para no 1º bloqueio)
+# 2) um job junta tudo: amostras do dia + fotografia de preço (histórico) → dados do app → dados do Telegram → commit
+# 3) avisa o Jackbot para mandar os alertas da coleta nova
+# Apps e bot leem publico/ direto daqui (raw.githubusercontent.com), então dado novo não precisa de deploy.
+name: coleta-diaria
+on:
+  schedule:
+    - cron: '41 5 * * *'     # 02:41 em Brasília
+    - cron: '41 17 * * *'    # 14:41 em Brasília
+  workflow_dispatch:
+concurrency: { group: coleta-diaria, cancel-in-progress: false }
+permissions: { contents: write }
+
+jobs:
+  lojas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    continue-on-error: true            # loja que bloquear ou cair não derruba as outras
+    strategy:
+      fail-fast: false
+      matrix:
+        loja: [kabum, americanas, carrefour, cobasi, tokstok, polishop, rihappy, decathlon, lojasrenner]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Pausa do KaBuM! (desafiou em 07/11; volta em 09/11)
+        id: pausa
+        run: |
+          if [ "${{ matrix.loja }}" = "kabum" ] && [ "$(date -u +%s)" -lt "$(date -u -d '2026-11-09T12:00:00Z' +%s)" ]; then echo "pular=1" >> "$GITHUB_OUTPUT"; fi
+      - name: Coletar ${{ matrix.loja }}
+        if: steps.pausa.outputs.pular != '1'
+        run: node src/coletor.js --fonte sitemap --loja ${{ matrix.loja }} --limite 300 --por-sitemap 40 --saida saida/${{ matrix.loja }}
+      - name: Guardar a coleta
+        if: steps.pausa.outputs.pular != '1'
+        uses: actions/upload-artifact@v4
+        with:
+          name: amostra-${{ matrix.loja }}
+          path: |
+            amostras/${{ matrix.loja }}-sitemap-*.json
+            amostras/historico/*-${{ matrix.loja }}.json
+          if-no-files-found: ignore
+          retention-days: 3
+
+  juntar:
+    needs: lojas
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Trazer as coletas das lojas
+        uses: actions/download-artifact@v4
+        with: { path: coletas, pattern: amostra-*, merge-multiple: true }
+      - name: Colocar em amostras/
+        run: |
+          mkdir -p amostras/historico
+          [ -d coletas ] || { echo "Nenhuma loja trouxe coleta nesta rodada."; exit 0; }
+          find coletas -path '*historico*' -name '*.json' -exec cp {} amostras/historico/ \;
+          find coletas -name '*-sitemap-*.json' -not -path '*historico*' -exec cp {} amostras/ \;
+          ls amostras | tail -20
+      - name: Gerar dados do app e do Telegram
+        run: |
+          mkdir -p ../robo-da-black
+          SEM_TELEGRAM=1 node scripts/gerar-ofertas-app.js
+          rm -rf publico/dados && mkdir -p publico && cp -r ../robo-da-black/dados publico/dados
+          cp ../robo-da-black/ofertas-ml.js publico/ofertas-ml.js
+          node scripts/gerar-telegram.mjs publico/dados publico/telegram
+      - name: Guardar no repositório
+        run: |
+          git config user.name "robo-da-black[bot]"
+          git config user.email "robo-da-black@users.noreply.github.com"
+          git add amostras publico
+          if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
+          git commit -q -m "Coleta $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+      - name: Avisar o Jackbot (alertas)
+        if: env.SEGREDO != ''
+        env: { SEGREDO: '${{ secrets.TELEGRAM_SECRET }}' }
+        run: |
+          sleep 330   # raw.githubusercontent.com guarda cache por 5 min
+          curl -s -m 90 -X POST -H "x-segredo: $SEGREDO" https://robo-da-black-bot.vercel.app/api/alertas || true

@@ -1,0 +1,8 @@
+node_modules/
+.env
+saida/
+.vercel
+.env*.local
+PLANO-DE-NEGOCIO.md
+PLANO-APP-CACA.md
+.DS_Store

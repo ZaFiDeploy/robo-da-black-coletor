@@ -1,0 +1,1312 @@
+{
+ "MLB1430": {
+  "nome": "Calçados, Roupas e Bolsas",
+  "subs": [
+   {
+    "id": "MLB1451",
+    "nome": "Acessórios de Moda",
+    "n": 129
+   },
+   {
+    "id": "MLB455528",
+    "nome": "Agasalhos",
+    "n": 52
+   },
+   {
+    "id": "MLB188064",
+    "nome": "Bermudas e Shorts",
+    "n": 56
+   },
+   {
+    "id": "MLB3112",
+    "nome": "Blusas",
+    "n": 58
+   },
+   {
+    "id": "MLB23262",
+    "nome": "Calçados",
+    "n": 752
+   },
+   {
+    "id": "MLB188065",
+    "nome": "Calças",
+    "n": 90
+   },
+   {
+    "id": "MLB107292",
+    "nome": "Camisas",
+    "n": 15
+   },
+   {
+    "id": "MLB31447",
+    "nome": "Camisetas e Regatas",
+    "n": 202
+   },
+   {
+    "id": "MLB271862",
+    "nome": "Indumentária Laboral e Escolar",
+    "n": 16
+   },
+   {
+    "id": "MLB271219",
+    "nome": "Kits de Conjuntos de Roupa",
+    "n": 9
+   },
+   {
+    "id": "MLB278018",
+    "nome": "Leggings",
+    "n": 6
+   },
+   {
+    "id": "MLB27250",
+    "nome": "Macacão",
+    "n": 12
+   },
+   {
+    "id": "MLB1457",
+    "nome": "Malas e Bolsas",
+    "n": 244
+   },
+   {
+    "id": "MLB270215",
+    "nome": "Moda Fitness",
+    "n": 222
+   },
+   {
+    "id": "MLB430391",
+    "nome": "Moda Praia",
+    "n": 9
+   },
+   {
+    "id": "MLB108786",
+    "nome": "Moda Íntima e Lingerie",
+    "n": 222
+   },
+   {
+    "id": "MLB1911",
+    "nome": "Outros",
+    "n": 3
+   },
+   {
+    "id": "MLB5366",
+    "nome": "Roupas para Bebês",
+    "n": 51
+   },
+   {
+    "id": "MLB185489",
+    "nome": "Saias",
+    "n": 9
+   },
+   {
+    "id": "MLB108831",
+    "nome": "Ternos",
+    "n": 17
+   },
+   {
+    "id": "MLB108704",
+    "nome": "Vestidos",
+    "n": 48
+   }
+  ]
+ },
+ "MLB1574": {
+  "nome": "Casa, Móveis e Decoração",
+  "subs": [
+   {
+    "id": "MLB1613",
+    "nome": "Banheiros",
+    "n": 332
+   },
+   {
+    "id": "MLB438928",
+    "nome": "Camas, Colchões e Acessórios",
+    "n": 294
+   },
+   {
+    "id": "MLB1618",
+    "nome": "Cozinha",
+    "n": 650
+   },
+   {
+    "id": "MLB264051",
+    "nome": "Cuidado da Casa e Lavanderia",
+    "n": 237
+   },
+   {
+    "id": "MLB1631",
+    "nome": "Enfeites e Decoração da Casa",
+    "n": 605
+   },
+   {
+    "id": "MLB1582",
+    "nome": "Iluminação Residencial",
+    "n": 300
+   },
+   {
+    "id": "MLB1621",
+    "nome": "Jardim e Ar Livre",
+    "n": 401
+   },
+   {
+    "id": "MLB436380",
+    "nome": "Móveis para Casa",
+    "n": 268
+   },
+   {
+    "id": "MLB436414",
+    "nome": "Organização para Casa",
+    "n": 184
+   },
+   {
+    "id": "MLB7069",
+    "nome": "Segurança para Casa",
+    "n": 163
+   },
+   {
+    "id": "MLB436246",
+    "nome": "Têxteis de Casa e Decoração",
+    "n": 446
+   }
+  ]
+ },
+ "MLB1276": {
+  "nome": "Esportes e Fitness",
+  "subs": [
+   {
+    "id": "MLB2480",
+    "nome": "Artes Marciais e Boxe",
+    "n": 8
+   },
+   {
+    "id": "MLB1309",
+    "nome": "Basquete",
+    "n": 6
+   },
+   {
+    "id": "MLB1362",
+    "nome": "Camping, Caça e Pesca",
+    "n": 173
+   },
+   {
+    "id": "MLB1292",
+    "nome": "Ciclismo",
+    "n": 82
+   },
+   {
+    "id": "MLB458011",
+    "nome": "Cotoveleiras",
+    "n": 2
+   },
+   {
+    "id": "MLB223498",
+    "nome": "Equitação",
+    "n": 14
+   },
+   {
+    "id": "MLB421368",
+    "nome": "Esqui e Snowboard",
+    "n": 6
+   },
+   {
+    "id": "MLB1338",
+    "nome": "Fitness e Musculação",
+    "n": 148
+   },
+   {
+    "id": "MLB1286",
+    "nome": "Futebol",
+    "n": 117
+   },
+   {
+    "id": "MLB9900",
+    "nome": "Golfe",
+    "n": 2
+   },
+   {
+    "id": "MLB438767",
+    "nome": "Handebol",
+    "n": 12
+   },
+   {
+    "id": "MLB251434",
+    "nome": "Hóquei",
+    "n": 2
+   },
+   {
+    "id": "MLB438999",
+    "nome": "Jogos de Salão",
+    "n": 6
+   },
+   {
+    "id": "MLB1279",
+    "nome": "Mergulho",
+    "n": 16
+   },
+   {
+    "id": "MLB1339",
+    "nome": "Moda Fitness",
+    "n": 227
+   },
+   {
+    "id": "MLB123103",
+    "nome": "Monitores Esportivos",
+    "n": 4
+   },
+   {
+    "id": "MLB1278",
+    "nome": "Natação",
+    "n": 4
+   },
+   {
+    "id": "MLB9896",
+    "nome": "Paintball",
+    "n": 8
+   },
+   {
+    "id": "MLB410723",
+    "nome": "Patinetes e Scooters",
+    "n": 11
+   },
+   {
+    "id": "MLB1293",
+    "nome": "Patín e Skateboard",
+    "n": 12
+   },
+   {
+    "id": "MLB1357",
+    "nome": "Rapel, Montanhismo e Escalada",
+    "n": 10
+   },
+   {
+    "id": "MLB438178",
+    "nome": "Suplementos e Shakers",
+    "n": 212
+   },
+   {
+    "id": "MLB1281",
+    "nome": "Surf e Bodyboard",
+    "n": 2
+   },
+   {
+    "id": "MLB440904",
+    "nome": "Tiro Esportivo",
+    "n": 4
+   },
+   {
+    "id": "MLB3900",
+    "nome": "Tênis",
+    "n": 499
+   },
+   {
+    "id": "MLB1322",
+    "nome": "Tênis, Paddle e Squash",
+    "n": 12
+   }
+  ]
+ },
+ "MLB1246": {
+  "nome": "Beleza e Cuidado Pessoal",
+  "subs": [
+   {
+    "id": "MLB455174",
+    "nome": "Artefatos para Cabelo",
+    "n": 46
+   },
+   {
+    "id": "MLB264751",
+    "nome": "Artigos para Cabeleireiros",
+    "n": 36
+   },
+   {
+    "id": "MLB264787",
+    "nome": "Barbearia",
+    "n": 25
+   },
+   {
+    "id": "MLB199407",
+    "nome": "Cuidados com a Pele",
+    "n": 176
+   },
+   {
+    "id": "MLB1263",
+    "nome": "Cuidados com o Cabelo",
+    "n": 149
+   },
+   {
+    "id": "MLB5383",
+    "nome": "Depilação",
+    "n": 8
+   },
+   {
+    "id": "MLB198312",
+    "nome": "Higiene Pessoal",
+    "n": 44
+   },
+   {
+    "id": "MLB29884",
+    "nome": "Manicure e Pedicure",
+    "n": 37
+   },
+   {
+    "id": "MLB1248",
+    "nome": "Maquiagem",
+    "n": 113
+   },
+   {
+    "id": "MLB1275",
+    "nome": "Outros",
+    "n": 1
+   },
+   {
+    "id": "MLB6284",
+    "nome": "Perfumes",
+    "n": 117
+   },
+   {
+    "id": "MLB278194",
+    "nome": "Tratamentos de Beleza",
+    "n": 10
+   }
+  ]
+ },
+ "MLB5672": {
+  "nome": "Acessórios para Veículos",
+  "subs": [
+   {
+    "id": "MLB1747",
+    "nome": "Aces. de Carros e Caminhonetes",
+    "n": 148
+   },
+   {
+    "id": "MLB1771",
+    "nome": "Aces. de Motos e Quadriciclos",
+    "n": 77
+   },
+   {
+    "id": "MLB6005",
+    "nome": "Acessórios Náuticos",
+    "n": 8
+   },
+   {
+    "id": "MLB438364",
+    "nome": "Acessórios de Linha Pesada",
+    "n": 10
+   },
+   {
+    "id": "MLB2227",
+    "nome": "Ferramentas para Veículos",
+    "n": 85
+   },
+   {
+    "id": "MLB188063",
+    "nome": "Limpeza Automotiva",
+    "n": 51
+   },
+   {
+    "id": "MLB456111",
+    "nome": "Lubrificantes e Fluidos",
+    "n": 10
+   },
+   {
+    "id": "MLB260634",
+    "nome": "Performance",
+    "n": 11
+   },
+   {
+    "id": "MLB456046",
+    "nome": "Peças Náuticas",
+    "n": 5
+   },
+   {
+    "id": "MLB22693",
+    "nome": "Peças de Carros e Caminhonetes",
+    "n": 371
+   },
+   {
+    "id": "MLB419936",
+    "nome": "Peças de Linha Pesada",
+    "n": 17
+   },
+   {
+    "id": "MLB243551",
+    "nome": "Peças de Motos e Quadriciclos",
+    "n": 120
+   },
+   {
+    "id": "MLB2238",
+    "nome": "Pneus e Acessórios",
+    "n": 6
+   },
+   {
+    "id": "MLB255788",
+    "nome": "Rodas",
+    "n": 2
+   },
+   {
+    "id": "MLB2239",
+    "nome": "Segurança Veicular",
+    "n": 43
+   },
+   {
+    "id": "MLB3381",
+    "nome": "Som Automotivo",
+    "n": 30
+   },
+   {
+    "id": "MLB1776",
+    "nome": "Tuning",
+    "n": 62
+   }
+  ]
+ },
+ "MLB1403": {
+  "nome": "Alimentos e Bebidas",
+  "subs": [
+   {
+    "id": "MLB278123",
+    "nome": "Bebidas",
+    "n": 54
+   },
+   {
+    "id": "MLB410883",
+    "nome": "Comida Preparada",
+    "n": 2
+   },
+   {
+    "id": "MLB439739",
+    "nome": "Frescos",
+    "n": 1
+   },
+   {
+    "id": "MLB1423",
+    "nome": "Mercearia",
+    "n": 117
+   }
+  ]
+ },
+ "MLB1368": {
+  "nome": "Arte, Papelaria e Armarinho",
+  "subs": [
+   {
+    "id": "MLB1369",
+    "nome": "Arte e Trabalhos Manuais",
+    "n": 28
+   },
+   {
+    "id": "MLB270263",
+    "nome": "Artigos de Armarinho",
+    "n": 51
+   },
+   {
+    "id": "MLB44011",
+    "nome": "Materiais Escolares",
+    "n": 139
+   }
+  ]
+ },
+ "MLB1384": {
+  "nome": "Bebês",
+  "subs": [
+   {
+    "id": "MLB5360",
+    "nome": "Alimentação e Amamentação",
+    "n": 19
+   },
+   {
+    "id": "MLB420332",
+    "nome": "Andadores e Mini Veículos",
+    "n": 4
+   },
+   {
+    "id": "MLB420334",
+    "nome": "Banho do Bebê",
+    "n": 3
+   },
+   {
+    "id": "MLB1392",
+    "nome": "Brinquedos para Bebês",
+    "n": 34
+   },
+   {
+    "id": "MLB420293",
+    "nome": "Chupetas e Mordedores",
+    "n": 4
+   },
+   {
+    "id": "MLB420375",
+    "nome": "Higiene e Cuidados com o Bebê",
+    "n": 14
+   },
+   {
+    "id": "MLB420295",
+    "nome": "Maternidade",
+    "n": 18
+   },
+   {
+    "id": "MLB420409",
+    "nome": "Passeio do Bebê",
+    "n": 15
+   },
+   {
+    "id": "MLB420361",
+    "nome": "Quarto do Bebê",
+    "n": 28
+   },
+   {
+    "id": "MLB1396",
+    "nome": "Roupas de Bebê",
+    "n": 55
+   },
+   {
+    "id": "MLB420353",
+    "nome": "Saúde do Bebê",
+    "n": 5
+   },
+   {
+    "id": "MLB5358",
+    "nome": "Segurança para Bebê",
+    "n": 12
+   }
+  ]
+ },
+ "MLB1132": {
+  "nome": "Brinquedos e Hobbies",
+  "subs": [
+   {
+    "id": "MLB432991",
+    "nome": "Anti-stress e Engenho",
+    "n": 33
+   },
+   {
+    "id": "MLB6911",
+    "nome": "Ar Livre e Playground",
+    "n": 14
+   },
+   {
+    "id": "MLB418656",
+    "nome": "Artes e Atividades",
+    "n": 13
+   },
+   {
+    "id": "MLB264337",
+    "nome": "Bonecos e Bonecas",
+    "n": 26
+   },
+   {
+    "id": "MLB2961",
+    "nome": "Brinquedos Eletrônicos",
+    "n": 13
+   },
+   {
+    "id": "MLB432818",
+    "nome": "Brinquedos de Faz de Conta",
+    "n": 19
+   },
+   {
+    "id": "MLB455425",
+    "nome": "Brinquedos de Montar",
+    "n": 11
+   },
+   {
+    "id": "MLB433069",
+    "nome": "Brinquedos de Praia e Piscina",
+    "n": 16
+   },
+   {
+    "id": "MLB3655",
+    "nome": "Brinquedos para Bebês",
+    "n": 15
+   },
+   {
+    "id": "MLB433060",
+    "nome": "Casinhas e Barracas",
+    "n": 2
+   },
+   {
+    "id": "MLB432873",
+    "nome": "Hobbies",
+    "n": 2
+   },
+   {
+    "id": "MLB11229",
+    "nome": "Instrumentos Musicais",
+    "n": 5
+   },
+   {
+    "id": "MLB437648",
+    "nome": "Jogos de Salão",
+    "n": 9
+   },
+   {
+    "id": "MLB432988",
+    "nome": "Jogos de Tabuleiro e Cartas",
+    "n": 23
+   },
+   {
+    "id": "MLB255050",
+    "nome": "Lançadores de Brinquedo",
+    "n": 7
+   },
+   {
+    "id": "MLB270072",
+    "nome": "Mesas e Cadeiras",
+    "n": 3
+   },
+   {
+    "id": "MLB6905",
+    "nome": "Mini Veículos e Bicicletas",
+    "n": 24
+   },
+   {
+    "id": "MLB457877",
+    "nome": "Miniaturas",
+    "n": 2
+   },
+   {
+    "id": "MLB1910",
+    "nome": "Outros",
+    "n": 1
+   },
+   {
+    "id": "MLB1166",
+    "nome": "Pelúcias",
+    "n": 19
+   },
+   {
+    "id": "MLB12468",
+    "nome": "Piscinas de Bolas e Infláveis",
+    "n": 2
+   },
+   {
+    "id": "MLB432871",
+    "nome": "Veículos de Brinquedo",
+    "n": 71
+   },
+   {
+    "id": "MLB1831",
+    "nome": "Álbuns e Figurinhas",
+    "n": 14
+   }
+  ]
+ },
+ "MLB1051": {
+  "nome": "Celulares e Telefones",
+  "subs": [
+   {
+    "id": "MLB3813",
+    "nome": "Acessórios para Celulares",
+    "n": 342
+   },
+   {
+    "id": "MLB1055",
+    "nome": "Celulares e Smartphones",
+    "n": 34
+   },
+   {
+    "id": "MLB7462",
+    "nome": "Peças para Celular",
+    "n": 16
+   },
+   {
+    "id": "MLB2908",
+    "nome": "Rádio Comunicadores",
+    "n": 8
+   },
+   {
+    "id": "MLB417704",
+    "nome": "Smartwatches e Acessórios",
+    "n": 86
+   },
+   {
+    "id": "MLB459590",
+    "nome": "Óculos",
+    "n": 2
+   }
+  ]
+ },
+ "MLB1500": {
+  "nome": "Construção",
+  "subs": [
+   {
+    "id": "MLB438772",
+    "nome": "Aberturas",
+    "n": 15
+   },
+   {
+    "id": "MLB455443",
+    "nome": "Acessórios de Construção",
+    "n": 16
+   },
+   {
+    "id": "MLB435273",
+    "nome": "Encanamento",
+    "n": 23
+   },
+   {
+    "id": "MLB2467",
+    "nome": "Energia",
+    "n": 131
+   },
+   {
+    "id": "MLB241354",
+    "nome": "Loja das Tintas",
+    "n": 46
+   },
+   {
+    "id": "MLB403697",
+    "nome": "Materiais de Obra",
+    "n": 46
+   },
+   {
+    "id": "MLB269773",
+    "nome": "Mobiliário para Banheiros",
+    "n": 104
+   },
+   {
+    "id": "MLB269958",
+    "nome": "Mobiliário para Cozinhas",
+    "n": 62
+   },
+   {
+    "id": "MLB14548",
+    "nome": "Pisos e Rejuntes",
+    "n": 28
+   }
+  ]
+ },
+ "MLB1039": {
+  "nome": "Câmeras e Acessórios",
+  "subs": [
+   {
+    "id": "MLB1049",
+    "nome": "Acessórios para Câmeras",
+    "n": 35
+   },
+   {
+    "id": "MLB191839",
+    "nome": "Câmeras",
+    "n": 5
+   },
+   {
+    "id": "MLB430403",
+    "nome": "Drones e Acessórios",
+    "n": 2
+   },
+   {
+    "id": "MLB6989",
+    "nome": "Filmadoras",
+    "n": 4
+   },
+   {
+    "id": "MLB4062",
+    "nome": "Instrumentos Ópticos ",
+    "n": 2
+   },
+   {
+    "id": "MLB438021",
+    "nome": "Lentes e Filtros",
+    "n": 1
+   },
+   {
+    "id": "MLB437831",
+    "nome": "Álbuns e Porta-retratos",
+    "n": 7
+   }
+  ]
+ },
+ "MLB5726": {
+  "nome": "Eletrodomésticos",
+  "subs": [
+   {
+    "id": "MLB252358",
+    "nome": "Ar e Ventilação",
+    "n": 127
+   },
+   {
+    "id": "MLB21171",
+    "nome": "Bebedouros e Purificadores",
+    "n": 24
+   },
+   {
+    "id": "MLB439347",
+    "nome": "Cuidado Pessoal",
+    "n": 55
+   },
+   {
+    "id": "MLB1580",
+    "nome": "Fornos e Fogões",
+    "n": 43
+   },
+   {
+    "id": "MLB438282",
+    "nome": "Lavadores",
+    "n": 31
+   },
+   {
+    "id": "MLB438284",
+    "nome": "Pequenos Eletrodomésticos",
+    "n": 138
+   },
+   {
+    "id": "MLB1576",
+    "nome": "Refrigeração",
+    "n": 12
+   }
+  ]
+ },
+ "MLB1000": {
+  "nome": "Eletrônicos, Áudio e Vídeo",
+  "subs": [
+   {
+    "id": "MLB1007",
+    "nome": "Acessórios para TV",
+    "n": 11
+   },
+   {
+    "id": "MLB4887",
+    "nome": "Acessórios para Áudio e Vídeo",
+    "n": 12
+   },
+   {
+    "id": "MLB10737",
+    "nome": "Cabos",
+    "n": 11
+   },
+   {
+    "id": "MLB6999",
+    "nome": "Componentes Eletrônicos",
+    "n": 33
+   },
+   {
+    "id": "MLB4914",
+    "nome": "Controles Remotos",
+    "n": 4
+   },
+   {
+    "id": "MLB264065",
+    "nome": "Drones e Acessórios",
+    "n": 10
+   },
+   {
+    "id": "MLB133950",
+    "nome": "Media Streaming",
+    "n": 6
+   },
+   {
+    "id": "MLB322074",
+    "nome": "Peças para TV",
+    "n": 1
+   },
+   {
+    "id": "MLB4900",
+    "nome": "Pilhas e Carregadores",
+    "n": 18
+   },
+   {
+    "id": "MLB2830",
+    "nome": "Projetores e Telas",
+    "n": 39
+   },
+   {
+    "id": "MLB1002",
+    "nome": "Televisores",
+    "n": 33
+   },
+   {
+    "id": "MLB3835",
+    "nome": "Áudio",
+    "n": 201
+   }
+  ]
+ },
+ "MLB263532": {
+  "nome": "Ferramentas",
+  "subs": [
+   {
+    "id": "MLB2528",
+    "nome": "Acessórios para Ferramentas",
+    "n": 88
+   },
+   {
+    "id": "MLB189210",
+    "nome": "Caixas e Organizadores",
+    "n": 19
+   },
+   {
+    "id": "MLB2526",
+    "nome": "Ferramentas Elétricas",
+    "n": 198
+   },
+   {
+    "id": "MLB439064",
+    "nome": "Ferramentas Industriais",
+    "n": 18
+   },
+   {
+    "id": "MLB2527",
+    "nome": "Ferramentas Manuais",
+    "n": 131
+   },
+   {
+    "id": "MLB437789",
+    "nome": "Ferramentas Pneumáticas",
+    "n": 7
+   },
+   {
+    "id": "MLB269932",
+    "nome": "Ferramentas para Jardim",
+    "n": 75
+   },
+   {
+    "id": "MLB5550",
+    "nome": "Medições e Instrumentação",
+    "n": 43
+   },
+   {
+    "id": "MLB5236",
+    "nome": "Outros",
+    "n": 1
+   }
+  ]
+ },
+ "MLB12404": {
+  "nome": "Festas e Lembrancinhas",
+  "subs": [
+   {
+    "id": "MLB256810",
+    "nome": "Artigos para Festas",
+    "n": 11
+   },
+   {
+    "id": "MLB50656",
+    "nome": "Decoração de Festa",
+    "n": 43
+   },
+   {
+    "id": "MLB256841",
+    "nome": "Descartáveis para Festa",
+    "n": 28
+   },
+   {
+    "id": "MLB457417",
+    "nome": "Equipamento para Festas",
+    "n": 5
+   },
+   {
+    "id": "MLB455857",
+    "nome": "Fantasias e Cosplay",
+    "n": 22
+   },
+   {
+    "id": "MLB40189",
+    "nome": "Lembrancinhas",
+    "n": 11
+   },
+   {
+    "id": "MLB457521",
+    "nome": "Lembrancinhas para Fiestas",
+    "n": 21
+   }
+  ]
+ },
+ "MLB1144": {
+  "nome": "Games",
+  "subs": [
+   {
+    "id": "MLB438578",
+    "nome": "Acessórios para Consoles",
+    "n": 21
+   },
+   {
+    "id": "MLB439527",
+    "nome": "Acessórios para PC Gaming",
+    "n": 15
+   },
+   {
+    "id": "MLB11172",
+    "nome": "Consoles",
+    "n": 4
+   },
+   {
+    "id": "MLB438579",
+    "nome": "Peças para Consoles",
+    "n": 3
+   },
+   {
+    "id": "MLB186456",
+    "nome": "Video Games",
+    "n": 1
+   }
+  ]
+ },
+ "MLB1648": {
+  "nome": "Informática",
+  "subs": [
+   {
+    "id": "MLB447778",
+    "nome": "Acessórios para PC Gaming",
+    "n": 16
+   },
+   {
+    "id": "MLB430598",
+    "nome": "Armazenamento",
+    "n": 9
+   },
+   {
+    "id": "MLB430918",
+    "nome": "Cabos e Hubs USB",
+    "n": 27
+   },
+   {
+    "id": "MLB1712",
+    "nome": "Componentes para PC",
+    "n": 18
+   },
+   {
+    "id": "MLB1700",
+    "nome": "Conectividade e Redes",
+    "n": 25
+   },
+   {
+    "id": "MLB1718",
+    "nome": "Estabilizadores e No Breaks",
+    "n": 2
+   },
+   {
+    "id": "MLB5875",
+    "nome": "Impressão",
+    "n": 67
+   },
+   {
+    "id": "MLB271908",
+    "nome": "Leitores e Scanners",
+    "n": 5
+   },
+   {
+    "id": "MLB99944",
+    "nome": "Limpeza de PCs",
+    "n": 4
+   },
+   {
+    "id": "MLB14370",
+    "nome": "Monitores e Acessórios",
+    "n": 23
+   },
+   {
+    "id": "MLB430637",
+    "nome": "PC de Mesa",
+    "n": 6
+   },
+   {
+    "id": "MLB454379",
+    "nome": "Periféricos para PC",
+    "n": 37
+   },
+   {
+    "id": "MLB430687",
+    "nome": "Portáteis e Acessórios",
+    "n": 57
+   },
+   {
+    "id": "MLB1657",
+    "nome": "Projetores e Telas",
+    "n": 39
+   },
+   {
+    "id": "MLB1723",
+    "nome": "Softwares",
+    "n": 2
+   },
+   {
+    "id": "MLB91757",
+    "nome": "Tablets e Acessórios",
+    "n": 80
+   }
+  ]
+ },
+ "MLB1182": {
+  "nome": "Instrumentos Musicais",
+  "subs": [
+   {
+    "id": "MLB3004",
+    "nome": "Baterias e Percussão",
+    "n": 7
+   },
+   {
+    "id": "MLB4472",
+    "nome": "Caixas de Som",
+    "n": 5
+   },
+   {
+    "id": "MLB4474",
+    "nome": "Equipamento para DJs",
+    "n": 5
+   },
+   {
+    "id": "MLB434917",
+    "nome": "Estúdio de Gravação",
+    "n": 1
+   },
+   {
+    "id": "MLB278055",
+    "nome": "Instrumentos de Corda",
+    "n": 13
+   },
+   {
+    "id": "MLB278056",
+    "nome": "Instrumentos de Sopro",
+    "n": 3
+   },
+   {
+    "id": "MLB434816",
+    "nome": "Microfones e Amplificadores",
+    "n": 7
+   },
+   {
+    "id": "MLB438490",
+    "nome": "Partituras e Letras",
+    "n": 1
+   },
+   {
+    "id": "MLB432934",
+    "nome": "Pedais e Acessórios",
+    "n": 3
+   },
+   {
+    "id": "MLB3022",
+    "nome": "Pianos e Teclados",
+    "n": 7
+   }
+  ]
+ },
+ "MLB3937": {
+  "nome": "Joias e Relógios",
+  "subs": [
+   {
+    "id": "MLB118024",
+    "nome": "Acessórios Para Relógios",
+    "n": 4
+   },
+   {
+    "id": "MLB404419",
+    "nome": "Artigos de Joalharia",
+    "n": 4
+   },
+   {
+    "id": "MLB1431",
+    "nome": "Joias e Bijuterias",
+    "n": 190
+   },
+   {
+    "id": "MLB1441",
+    "nome": "Pedra Preciosa e Semipreciosa",
+    "n": 3
+   },
+   {
+    "id": "MLB5122",
+    "nome": "Piercings",
+    "n": 6
+   },
+   {
+    "id": "MLB40282",
+    "nome": "Porta Joias",
+    "n": 11
+   },
+   {
+    "id": "MLB118017",
+    "nome": "Relógios",
+    "n": 235
+   }
+  ]
+ },
+ "MLB1071": {
+  "nome": "Pet Shop",
+  "subs": [
+   {
+    "id": "MLB1100",
+    "nome": "Aves e Acessórios",
+    "n": 21
+   },
+   {
+    "id": "MLB1117",
+    "nome": "Cavalos",
+    "n": 4
+   },
+   {
+    "id": "MLB458036",
+    "nome": "Coleiras",
+    "n": 2
+   },
+   {
+    "id": "MLB458051",
+    "nome": "Creme Dental",
+    "n": 1
+   },
+   {
+    "id": "MLB1072",
+    "nome": "Cães",
+    "n": 110
+   },
+   {
+    "id": "MLB1081",
+    "nome": "Gatos",
+    "n": 48
+   },
+   {
+    "id": "MLB1091",
+    "nome": "Peixes",
+    "n": 16
+   },
+   {
+    "id": "MLB1105",
+    "nome": "Roedores",
+    "n": 3
+   }
+  ]
+ },
+ "MLB264586": {
+  "nome": "Saúde",
+  "subs": [
+   {
+    "id": "MLB264192",
+    "nome": "Cuidado da Saúde",
+    "n": 43
+   },
+   {
+    "id": "MLB277969",
+    "nome": "Equipamento Médico",
+    "n": 29
+   },
+   {
+    "id": "MLB10217",
+    "nome": "Massagem",
+    "n": 30
+   },
+   {
+    "id": "MLB264180",
+    "nome": "Mobilidade",
+    "n": 12
+   },
+   {
+    "id": "MLB264200",
+    "nome": "Ortopedia",
+    "n": 37
+   },
+   {
+    "id": "MLB264678",
+    "nome": "Outros",
+    "n": 3
+   },
+   {
+    "id": "MLB264201",
+    "nome": "Suplementos Alimentares",
+    "n": 226
+   },
+   {
+    "id": "MLB438401",
+    "nome": "Terapias Alternativas",
+    "n": 20
+   }
+  ]
+ }
+}

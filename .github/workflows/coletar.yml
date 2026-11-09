@@ -1,0 +1,30 @@
+# Coleta de hora em hora: fontes com API (ML token, Shopee, TikTok). Fonte sem chave é pulada com aviso.
+# Repositório PÚBLICO = minutos ilimitados no plano Free. Segredos ficam em Settings → Secrets (nunca no código).
+name: coletar-apis
+on:
+  # agenda desligada até existirem as chaves (sem chave a fonte só é pulada); ligar de volta com schedule
+  workflow_dispatch:
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Coletar
+        env:
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+          TIKTOK_APP_KEY: ${{ secrets.TIKTOK_APP_KEY }}
+          TIKTOK_APP_SECRET: ${{ secrets.TIKTOK_APP_SECRET }}
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+        run: node src/coletor.js --fonte mercadolivre --fonte shopee --fonte tiktok --entrada alvos/ml-produtos.txt --termos "$(cat alvos/termos.txt | tr '\n' ',')" --saida saida
+      - name: Publicar no Supabase Storage
+        if: env.SUPABASE_URL != ''
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE: ${{ secrets.SUPABASE_SERVICE_ROLE }}
+        run: node scripts/publicar-storage.js saida/dados

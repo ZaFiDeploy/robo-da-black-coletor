@@ -1,0 +1,20 @@
+{
+  "name": "robo-da-black-coletor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Motor de oportunidades do Robô da Black: coleta, desconto real, score de segurança, Relâmpago e alertas.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "coletar": "node src/coletor.js",
+    "coletar:exemplo": "node src/coletor.js --fonte manual --entrada amostras/ml-2026-11-07.json --saida saida",
+    "ofertas:importar": "node scripts/importar-ml-ofertas.js",
+    "ofertas:app": "node scripts/gerar-ofertas-app.js"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.8.2"
+  }
+}

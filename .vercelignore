@@ -1,0 +1,7 @@
+/amostras
+/saida
+/alvos
+/test
+/.github
+*.md
+.env*

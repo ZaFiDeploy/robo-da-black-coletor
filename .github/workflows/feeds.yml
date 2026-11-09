@@ -1,0 +1,27 @@
+# Feeds de afiliado, 2x por dia (catálogos inteiros): Awin, Lomadee, impact.com.
+name: coletar-feeds
+on:
+  # agenda desligada até existirem as chaves (sem chave a fonte só é pulada); ligar de volta com schedule
+  workflow_dispatch:
+jobs:
+  feeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Coletar feeds
+        env:
+          AWIN_FEED_KEY: ${{ secrets.AWIN_FEED_KEY }}
+          LOMADEE_APP_TOKEN: ${{ secrets.LOMADEE_APP_TOKEN }}
+          LOMADEE_SOURCE_ID: ${{ secrets.LOMADEE_SOURCE_ID }}
+          IMPACT_SID: ${{ secrets.IMPACT_SID }}
+          IMPACT_TOKEN: ${{ secrets.IMPACT_TOKEN }}
+        run: node src/coletor.js --fonte awin --fonte lomadee --fonte impact --saida saida
+      - name: Publicar no Supabase Storage
+        if: env.SUPABASE_URL != ''
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE: ${{ secrets.SUPABASE_SERVICE_ROLE }}
+        run: node scripts/publicar-storage.js saida/dados
