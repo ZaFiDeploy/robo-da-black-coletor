@@ -40,5 +40,5 @@ test('lojas monitoradas pelo robô educado: o id é o caminho da página do prod
   assert.equal(idDoLink('https://www.americanas.com.br/produto/7531234').chave, 'americanas:7531234');
   assert.equal(idDoLink('https://www.lojasrenner.com.br/p/camisa-x/-/A-123').chave, 'lojasrenner:p/camisa-x/-/a-123');
   assert.equal(idDoLink('https://www.cobasi.com.br/racao-golden/p').loja, 'cobasi');
-  assert.equal(idDoLink('https://www.decathlon.com.br/').loja, 'decathlon'); // home: id vazio → null
+  assert.equal(idDoLink('https://www.decathlon.com.br/'), null); // home: sem produto
 });
