@@ -10,9 +10,15 @@ ESCOPO="--scope zafideploys-projects"
 BOT_URL="https://robo-da-black-bot.vercel.app"
 SEGREDO_LOCAL="$HOME/dev/03 Dev/robo-da-black-telegram/.segredo-bot"
 
-printf 'Cole o token do @JackbotDaBlackBot (BotFather → /mybots → API Token) e aperte Enter: '
-read -rs TELEGRAM_TOKEN; echo
-[ -z "$TELEGRAM_TOKEN" ] && { echo 'Nenhum token colado.'; exit 1; }
+echo 'Copie o token no Telegram (BotFather → /mybots → JackbotDaBlackBot → API Token).'
+printf 'Depois cole aqui e aperte Enter — ou só aperte Enter que eu pego do que você copiou: '
+read -rs DIGITADO; echo
+# Se não colou nada, usa a área de transferência. Em qualquer caso, pega só o token (números:letras),
+# mesmo que tenha vindo junto o texto inteiro da mensagem do BotFather.
+[ -z "$DIGITADO" ] && DIGITADO="$(pbpaste 2>/dev/null)"
+TELEGRAM_TOKEN="$(printf '%s' "$DIGITADO" | grep -Eo '[0-9]{6,12}:[A-Za-z0-9_-]{30,}' | head -1)"
+unset DIGITADO
+[ -z "$TELEGRAM_TOKEN" ] && { echo 'Não achei um token no que foi colado nem no que está copiado. Copie o token no BotFather e rode de novo.'; exit 1; }
 
 # Confere o token antes de gravar
 NOME=$(curl -s "https://api.telegram.org/bot$TELEGRAM_TOKEN/getMe" | node -e "let s='';process.stdin.on('data',d=>s+=d).on('end',()=>{const j=JSON.parse(s);console.log(j.ok?j.result.username:'')})")
