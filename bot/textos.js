@@ -24,7 +24,7 @@ export const COMANDOS = [
   { command: 'ajuda', description: 'Como o Jackbot funciona' }
 ];
 export const DESCRICAO_CURTA = 'Vigio os produtos que você quer e aviso quando o preço cai de verdade. Pego desconto falso.';
-export const DESCRICAO = 'Eu sou o Jackbot, o robô do Robô da Black.\n\n🎯 Você me diz o que quer comprar.\n🔔 Eu aviso quando o preço cair de verdade.\n🚨 Mostro quando o desconto é falso.\n🛡️ Dou uma nota de segurança para cada oferta.\n\nPara começar, abra o app do Robô da Black e toque em "Abrir no Telegram".';
+export const DESCRICAO = 'Eu sou o Jackbot, o robô do Robô da Black.\n\n🎯 Você me diz o que quer comprar.\n🔔 Eu aviso quando o preço cair de verdade.\n🚨 Mostro quando o desconto é falso.\n🛡️ Dou uma nota de segurança para cada oferta.\n\nToque em Iniciar para começar.';
 
 const b = (text, callback_data) => ({ text, callback_data });
 const u = (text, url) => ({ text, url });

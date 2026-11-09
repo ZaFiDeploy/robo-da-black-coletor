@@ -4,6 +4,7 @@
 // destaques.json = primeira tela, leve. todas.json = busca e departamentos (carrega depois).
 import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
+import { comAfiliado } from '../src/afiliado.js';
 
 const [ORIGEM, DESTINO] = process.argv.slice(2);
 if (!ORIGEM || !DESTINO) throw new Error('uso: node scripts/gerar-telegram.mjs <dados do app> <saída>');
@@ -11,7 +12,7 @@ mkdirSync(DESTINO, { recursive: true });
 
 const indice = JSON.parse(readFileSync(join(ORIGEM, 'indice.json'), 'utf8'));
 const CAMPOS = ['id', 'nome', 'loja', 'preco', 'de', 'mercado', 'lojas', 'url', 'img', 'classe', 'real', 'score', 'faixa', 'top', 'relampago', 'menorEm90'];
-const enxuta = (o) => Object.fromEntries(CAMPOS.filter((k) => o[k] != null && o[k] !== false).map((k) => [k, o[k]]));
+const enxuta = (o) => Object.fromEntries(CAMPOS.filter((k) => o[k] != null && o[k] !== false).map((k) => [k, k === 'url' ? comAfiliado(o[k]) : o[k]]));
 const anunciado = (o) => (o.de && o.de > o.preco ? 1 - o.preco / o.de : 0);
 
 const todas = [];

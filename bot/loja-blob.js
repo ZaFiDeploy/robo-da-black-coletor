@@ -5,6 +5,7 @@
 // Variáveis: BLOB_READ_WRITE_TOKEN (a Vercel põe sozinha ao ligar o store), OFERTAS_URL (opcional).
 import { put, get, list } from '@vercel/blob';
 import { idDoLink } from '../src/links.js';
+import { comAfiliado } from '../src/afiliado.js';
 
 // Duas fontes das ofertas: a coleta diária do GitHub e a cópia publicada no app Ofertas. Vale a mais nova.
 const FONTES = process.env.OFERTAS_URL ? [process.env.OFERTAS_URL] : ['https://raw.githubusercontent.com/ZaFiDeploy/robo-da-black-coletor/main/publico/telegram/', 'https://robo-da-black-telegram.vercel.app/dados/'];
@@ -84,7 +85,7 @@ export function criarLojaBlob({ blob = { put, get, list }, fetchFn = fetch, font
     },
     async relampagoHoje() {
       const { destaques } = await ofertas();
-      return (destaques.relampago || []).map((o) => ({ nome: o.nome, preco: o.preco, real: o.real, loja: o.loja, url: o.url }));
+      return (destaques.relampago || []).map((o) => ({ nome: o.nome, preco: o.preco, real: o.real, loja: o.loja, url: comAfiliado(o.url) }));
     },
     // ---------- envio de alertas ----------
     async assinantesAtivos() {
@@ -103,9 +104,23 @@ export function criarLojaBlob({ blob = { put, get, list }, fetchFn = fetch, font
     async ofertasAtuais() {
       const { todas } = await ofertas();
       return todas.filter((o) => ['imperdivel', 'otimo', 'bom'].includes(o.classe)).map((o) => ({
-        chave: chaveDe(o), nome: o.nome, cat: o.top, loja: o.loja, url: o.url, preco: o.preco,
+        chave: chaveDe(o), nome: o.nome, cat: o.top, loja: o.loja, url: comAfiliado(o.url), preco: o.preco,
         referencia: o.mercado ?? o.de, real: o.real, classe: o.classe, score: o.score, menorEm90: !!o.menorEm90
       }));
+    },
+    // ---------- canal de ofertas ----------
+    async ofertasCanal() {
+      const { todas } = await ofertas();
+      return todas.filter((o) => ['imperdivel', 'otimo', 'bom', 'falso'].includes(o.classe)).map((o) => ({
+        chave: chaveDe(o), nome: o.nome, loja: o.loja, url: o.url, img: o.img, preco: o.preco, de: o.de,
+        referencia: o.mercado, real: o.real, classe: o.classe, score: o.score, menorEm90: !!o.menorEm90, relampago: !!o.relampago
+      }));
+    },
+    async canalPostados() { return (await lerJSON('bot/canal.json', blob))?.postados || []; },
+    async registrarCanal(p) {
+      const corte = Date.parse(p.em) - 7 * 86400000;
+      const postados = (await this.canalPostados()).filter((x) => Date.parse(x.em) >= corte).concat(p);
+      await blob.put('bot/canal.json', JSON.stringify({ postados }), { access: 'private', allowOverwrite: true, addRandomSuffix: false, contentType: 'application/json' });
     },
     async alertasEnviados(desdeISO) {
       const desde = Date.parse(desdeISO);

@@ -50,3 +50,19 @@ test('loja Blob: alerta sai só para quem vigia o termo e não repete', async ()
   assert.equal(enviados.length, 1);
   assert.match(enviados[0].text, /Tixan/);
 });
+
+test('canal: posta as boas com desconto real e 1 fraude, sem repetir na rodada seguinte', async () => {
+  const { postarNoCanal, textoCanal } = await import('../bot/canal.js');
+  const blob = blobFalso();
+  const posts = [];
+  const telegram = { chamar: async (m, p) => posts.push({ m, p }) };
+  const agora = new Date('2026-11-20T15:00:00-03:00');
+  await postarNoCanal({ loja: nova(blob), telegram, canal: '@teste', agora, log: () => {} });
+  assert.equal(posts.length, 2);
+  assert.match(posts[0].p.text || posts[0].p.caption, /IMPERDÍVEL/);
+  assert.match(posts[1].p.text || posts[1].p.caption, /BLACK FRAUDE/);
+  await postarNoCanal({ loja: nova(blob), telegram, canal: '@teste', agora, log: () => {} });
+  assert.equal(posts.length, 2, 'não repete');
+  assert.equal((await postarNoCanal({ loja: nova(blob), telegram, canal: '@teste', agora: new Date('2026-11-20T02:00:00-03:00'), log: () => {} })).motivo, 'madrugada');
+  assert.doesNotMatch(textoCanal({ classe: 'otimo', nome: '<x>', preco: 10, real: 0.2, loja: 'L' }), /<x>/);
+});
