@@ -47,7 +47,7 @@ jobs:
     needs: lojas
     if: always()
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -62,6 +62,10 @@ jobs:
           find coletas -path '*historico*' -name '*.json' -exec cp {} amostras/historico/ \;
           find coletas -name '*-sitemap-*.json' -not -path '*historico*' -exec cp {} amostras/ \;
           ls amostras | tail -20
+      - name: Busca cruzada por EAN (catálogo público da Americanas; para no 1º bloqueio)
+        continue-on-error: true
+        timeout-minutes: 15
+        run: node scripts/cruzar-vtex.js --loja americanas --tudo --so-ean --limite 400
       - name: Gerar dados do app e do Telegram
         run: |
           mkdir -p ../robo-da-black
