@@ -18,8 +18,8 @@ const TODAS = [
   { id: 1, nome: 'Lava-roupas líquido Tixan Ypê 7 L', loja: 'Mercado Livre', preco: 47.49, de: 95, mercado: 83.78, url: 'https://www.mercadolivre.com.br/p/MLB19466433', classe: 'imperdivel', real: 0.433, score: 72, top: 'MLB1403', relampago: true },
   { id: 2, nome: 'Smart TV 50', loja: 'Mercado Livre', preco: 2215, de: 3424, url: 'https://www.mercadolivre.com.br/p/MLB74962073', classe: 'falso', real: 0.007, score: 72, top: 'MLB1000' }
 ];
-const fetchFalso = async (url) => ({ ok: true, json: async () => (url.endsWith('todas.json') ? TODAS : { relampago: [TODAS[0]] }) });
-const nova = (blob) => criarLojaBlob({ blob, fetchFn: fetchFalso, ofertasUrl: 'https://x/' });
+const fetchFalso = async (url) => ({ ok: true, json: async () => (url.endsWith('todas.json') ? TODAS : { resumo: { geradoEm: '2026-11-08T00:00:00Z' }, relampago: [TODAS[0]] }) });
+const nova = (blob) => criarLojaBlob({ blob, fetchFn: fetchFalso, fontes: ['https://x/'] });
 const msg = (t) => ({ message: { chat: { id: 9 }, from: { first_name: 'Bia' }, text: t } });
 
 test('loja Blob: /start liga, guarda o alvo e sobrevive a uma nova execução', async () => {

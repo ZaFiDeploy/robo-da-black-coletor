@@ -22,8 +22,8 @@ jobs:
       matrix:
         loja: [kabum, americanas, carrefour, cobasi, tokstok, polishop, rihappy, decathlon, lojasrenner]
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with: { node-version: '22' }
       - name: Pausa do KaBuM! (desafiou em 07/11; volta em 09/11)
         id: pausa
@@ -49,8 +49,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with: { node-version: '22' }
       - name: Trazer as coletas das lojas
         uses: actions/download-artifact@v4

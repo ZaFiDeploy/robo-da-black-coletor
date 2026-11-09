@@ -6,7 +6,8 @@
 import { put, get, list } from '@vercel/blob';
 import { idDoLink } from '../src/links.js';
 
-const OFERTAS_URL = process.env.OFERTAS_URL || 'https://robo-da-black-telegram.vercel.app/dados/';
+// Duas fontes das ofertas: a coleta diária do GitHub e a cópia publicada no app Ofertas. Vale a mais nova.
+const FONTES = process.env.OFERTAS_URL ? [process.env.OFERTAS_URL] : ['https://raw.githubusercontent.com/ZaFiDeploy/robo-da-black-coletor/main/publico/telegram/', 'https://robo-da-black-telegram.vercel.app/dados/'];
 const ALVO_PADRAO = { termos: [], classes: ['imperdivel', 'otimo'], orcamento: null, cats: [] };
 const DIAS_ALERTAS = 7;
 const caminho = (chat) => `bot/c/${chat}.json`;
@@ -17,7 +18,7 @@ async function lerJSON(pathname, b) {
   return JSON.parse(await new Response(r.stream).text());
 }
 
-export function criarLojaBlob({ blob = { put, get, list }, fetchFn = fetch, ofertasUrl = OFERTAS_URL } = {}) {
+export function criarLojaBlob({ blob = { put, get, list }, fetchFn = fetch, fontes = FONTES } = {}) {
   const cache = new Map(); // chat → ficha (vale para uma execução da função)
   let ofertasCache = null;
 
@@ -35,12 +36,11 @@ export function criarLojaBlob({ blob = { put, get, list }, fetchFn = fetch, ofer
   }
   async function ofertas() {
     if (ofertasCache) return ofertasCache;
-    const [todas, destaques] = await Promise.all(['todas.json', 'destaques.json'].map(async (n) => {
-      const r = await fetchFn(ofertasUrl + n, { cache: 'no-store' });
-      if (!r.ok) throw new Error(`ofertas ${n}: ${r.status}`);
-      return r.json();
-    }));
-    ofertasCache = { todas, destaques };
+    const pegar = async (u) => { const r = await fetchFn(u, { cache: 'no-store' }); if (!r.ok) throw new Error(`ofertas ${u}: ${r.status}`); return r.json(); };
+    const lidas = await Promise.all(fontes.map((base) => pegar(base + 'destaques.json').then((d) => ({ base, d }), () => null)));
+    const melhor = lidas.filter(Boolean).sort((a, b) => (Date.parse(b.d.resumo?.geradoEm) || 0) - (Date.parse(a.d.resumo?.geradoEm) || 0))[0];
+    if (!melhor) throw new Error('nenhuma fonte de ofertas respondeu');
+    ofertasCache = { todas: await pegar(melhor.base + 'todas.json'), destaques: melhor.d };
     return ofertasCache;
   }
   const chaveDe = (o) => idDoLink(o.url)?.chave || String(o.id);

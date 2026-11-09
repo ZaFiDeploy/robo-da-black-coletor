@@ -29,6 +29,8 @@ grava FOTO_URL "$BOT_URL/jackbot-ola.png"
 
 # Segredo dos alertas para o publicar.sh do app Ofertas (só este Mac lê)
 umask 077; printf '%s' "$TELEGRAM_SECRET" > "$SEGREDO_LOCAL"
+# e para a coleta diária do GitHub avisar o Jackbot depois de cada rodada
+printf '%s' "$TELEGRAM_SECRET" | gh secret set TELEGRAM_SECRET -R ZaFiDeploy/robo-da-black-coletor && echo '  segredo gravado no GitHub (coleta diária)'
 
 echo 'Publicando o servidor do Jackbot…'
 vercel deploy --prod --yes $ESCOPO >/dev/null
