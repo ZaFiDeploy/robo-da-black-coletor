@@ -2,162 +2,6 @@
  {
   "fonte": "sitemap-cobasi",
   "loja": "Cobasi",
-  "titulo": "Ossinho Original Dingo 1 unidade",
-  "ean": "615650300006",
-  "marca": "Dingo",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Ossinhos e Petiscos"
-  ],
-  "preco": 4.7,
-  "de": 11.9,
-  "url": "https://www.cobasi.com.br/ossinho-dingo-original-mini-unidade-3601012/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-10T13:44:26.253Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Areia para Gatos Like Cat Granulado Higiênico de Madeira",
-  "ean": "7898912289049",
-  "marca": "Megavet",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Higiene e Limpeza",
-   "Areia Higiênica"
-  ],
-  "preco": 17.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/areia-para-gatos-like-cat-granulado-higienico-de-madeira-3701416/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-10T13:44:28.960Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Biscoito Pedigree Biscrok para Cães Adultos Raças Grandes Leite",
-  "ean": "7896029043271",
-  "marca": "Pedigree",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Cookies e Biscoitos"
-  ],
-  "preco": 25.19,
-  "de": 27.99,
-  "url": "https://www.cobasi.com.br/biscrok-maxi-pedigree-3325775/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-10T13:44:33.144Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração GranPlus Menu Gatos Adultos Salmão e Arroz",
-  "ean": "7896048906793",
-  "marca": "Gran Plus",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 27.9,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-gran-plus-gatos-adultos-salmao-e-arroz-3659460/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-10T13:44:35.721Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Combo Antipulgas Fiprolex Cães até 10kg",
-  "ean": "7898043433700",
-  "marca": "Fiprolex",
-  "modelo": "7898043433700",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 52.9,
-  "de": 81.9,
-  "url": "https://www.cobasi.com.br/combo-antipulgas-fiprolex-067ml-caes-ate-10kg-ceva-3766070/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/184442-194-194/Combo-Antipulgas-Fiprolex-Caes-ate-10kg-Ceva.jpg?v=638429347418900000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-10T13:44:39.530Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Aditivo Antiodor Pipicat Campestre",
-  "ean": "7896273807797",
-  "marca": "Pipicat",
-  "modelo": "7896273807797",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Higiene e Limpeza",
-   "Areia Higiênica"
-  ],
-  "preco": 18.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/aditivo-antiodor-campestre-500g-pipicat-3713724/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/353997-194-194/CAMPESTRE.jpg?v=638721121382030000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-10T13:44:42.108Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
   "titulo": "Desinfetante Lysoform Pets Original",
   "ean": "7894650939666",
   "marca": "Lysoform",
@@ -7798,5 +7642,161 @@
   },
   "disponivel": true,
   "coletadoEm": "2026-11-10T13:58:37.858Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ossinho Original Dingo 1 unidade",
+  "ean": "615650300006",
+  "marca": "Dingo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Ossinhos e Petiscos"
+  ],
+  "preco": 4.7,
+  "de": 11.9,
+  "url": "https://www.cobasi.com.br/ossinho-dingo-original-mini-unidade-3601012/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-10T22:31:18.868Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Areia para Gatos Like Cat Granulado Higiênico de Madeira",
+  "ean": "7898912289049",
+  "marca": "Megavet",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Higiene e Limpeza",
+   "Areia Higiênica"
+  ],
+  "preco": 17.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/areia-para-gatos-like-cat-granulado-higienico-de-madeira-3701416/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-10T22:31:21.256Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Biscoito Pedigree Biscrok para Cães Adultos Raças Grandes Leite",
+  "ean": "7896029043271",
+  "marca": "Pedigree",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Cookies e Biscoitos"
+  ],
+  "preco": 25.19,
+  "de": 27.99,
+  "url": "https://www.cobasi.com.br/biscrok-maxi-pedigree-3325775/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-10T22:31:24.325Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração GranPlus Menu Gatos Adultos Salmão e Arroz",
+  "ean": "7896048906793",
+  "marca": "Gran Plus",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 27.9,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-gran-plus-gatos-adultos-salmao-e-arroz-3659460/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-10T22:31:26.735Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Combo Antipulgas Fiprolex Cães até 10kg",
+  "ean": "7898043433700",
+  "marca": "Fiprolex",
+  "modelo": "7898043433700",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 52.9,
+  "de": 81.9,
+  "url": "https://www.cobasi.com.br/combo-antipulgas-fiprolex-067ml-caes-ate-10kg-ceva-3766070/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/184442-194-194/Combo-Antipulgas-Fiprolex-Caes-ate-10kg-Ceva.jpg?v=638429347418900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-10T22:31:30.737Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Aditivo Antiodor Pipicat Campestre",
+  "ean": "7896273807797",
+  "marca": "Pipicat",
+  "modelo": "7896273807797",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Higiene e Limpeza",
+   "Areia Higiênica"
+  ],
+  "preco": 18.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/aditivo-antiodor-campestre-500g-pipicat-3713724/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/353997-194-194/CAMPESTRE.jpg?v=638721121382030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-10T22:31:33.609Z"
  }
 ]

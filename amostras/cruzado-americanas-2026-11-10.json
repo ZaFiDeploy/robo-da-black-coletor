@@ -502,5 +502,29 @@
    "disponivel": true,
    "coletadoEm": "2026-11-10T14:09:09.942Z"
   }
+ },
+ {
+  "url": "https://www.decathlon.com.br/creatina-150g-integralmedica-2145165701/p",
+  "loja": "Decathlon",
+  "titulo": "Creatina 150g Integralmedica",
+  "preco": 30.68,
+  "de": 43.9,
+  "ean": "7896311763498",
+  "por": "ean",
+  "candidatos": 1,
+  "outra": {
+   "loja": "Americanas",
+   "titulo": "Creatina Mono-hidratada Integralmédica Hardcore",
+   "ean": "7896311763498",
+   "marca": "Integralmédica",
+   "modelo": "230288700",
+   "preco": 25.85,
+   "de": 71.5,
+   "vendedor": "Magazine Luiza",
+   "url": "https://www.americanas.com.br/creatina-mono-hidratada-integralmedica-hardcore-8333423/p",
+   "img": "https://americanas.vteximg.com.br/arquivos/ids/37176008/image-66ee5fecaa5f4ffcbb89e7072d7e6356.jpg?v=639020098332430000",
+   "disponivel": true,
+   "coletadoEm": "2026-11-10T22:51:13.673Z"
+  }
  }
 ]
