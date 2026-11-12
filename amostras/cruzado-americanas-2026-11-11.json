@@ -454,5 +454,53 @@
    "disponivel": true,
    "coletadoEm": "2026-11-11T13:21:55.807Z"
   }
+ },
+ {
+  "url": "https://www.rihappy.com.br/pelucia-adota-pets-floquinha-multikids/p",
+  "loja": "Ri Happy",
+  "titulo": "Pelúcia - Adota Pets - Floquinha - Multikids",
+  "preco": 134.99,
+  "de": 189.99,
+  "ean": "7899548515038",
+  "por": "ean",
+  "candidatos": 1,
+  "outra": {
+   "loja": "Americanas",
+   "titulo": "Pelúcia de Unicórnio para Cuidar e Adotar Multikids Adota Pets Floquinho Branco com Acessórios",
+   "ean": "7899548515038",
+   "marca": "Multikids",
+   "modelo": "178r58D52Z750032",
+   "preco": 149.9,
+   "de": null,
+   "vendedor": "Multilaser Oficial",
+   "url": "https://www.americanas.com.br/pelucia-adota-pets-floquinho-multikids-br2604-1785853wgp227363/p",
+   "img": "https://americanas.vteximg.com.br/arquivos/ids/37666913/Pelucia-Adota-Pets-Floquinho-Multikids---BR2604.jpg?v=639221411679130000",
+   "disponivel": true,
+   "coletadoEm": "2026-11-12T00:04:49.188Z"
+  }
+ },
+ {
+  "url": "https://www.rihappy.com.br/esconderijo-do-bebe-porco-espinho-sylvanian-families-1001811534/p",
+  "loja": "Ri Happy",
+  "titulo": "Esconderijo do Bebê Porco-Espinho Sylvanian Families",
+  "preco": 95.99,
+  "de": 129.99,
+  "ean": "5054131054536",
+  "por": "ean",
+  "candidatos": 1,
+  "outra": {
+   "loja": "Americanas",
+   "titulo": "Esconderijo Do Bebe Porco Espinho Sylvanian Families",
+   "ean": "5054131054536",
+   "marca": null,
+   "modelo": "sap_4286548",
+   "preco": 89.99,
+   "de": null,
+   "vendedor": "AMERICANAS SA",
+   "url": "https://www.americanas.com.br/esconderijo-do-bebe-porco-espinho-sylvanian-families-2086828457/p",
+   "img": "https://americanas.vteximg.com.br/arquivos/ids/588750/2086828457_1_xlarge.jpg?v=638750844804500000",
+   "disponivel": true,
+   "coletadoEm": "2026-11-12T00:09:21.504Z"
+  }
  }
 ]
