@@ -454,5 +454,29 @@
    "disponivel": true,
    "coletadoEm": "2026-11-13T13:47:39.221Z"
   }
+ },
+ {
+  "url": "https://www.cobasi.com.br/antipulgas-simparic-10-1-a-20--kg-zoetis-3823562/p",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas Simparic 40mg para Cães 10 a 20kg",
+  "preco": 80.9,
+  "de": 134.99,
+  "ean": "7898049719488",
+  "por": "ean",
+  "candidatos": 1,
+  "outra": {
+   "loja": "Americanas",
+   "titulo": "Simparic Antipulgas e Carrapatos Cães 10,1 A 20Kg",
+   "ean": "7898049719488",
+   "marca": null,
+   "modelo": "5252696278",
+   "preco": 99.99,
+   "de": null,
+   "vendedor": "Tudo de Bicho II",
+   "url": "https://www.americanas.com.br/simparic-antipulgas-e-carrapatos-caes-10-1-a-20kg-5252696227/p",
+   "img": "https://americanas.vteximg.com.br/arquivos/ids/27456264/5252696227_1_xlarge.jpg?v=638755618084900000",
+   "disponivel": true,
+   "coletadoEm": "2026-11-13T23:10:55.981Z"
+  }
  }
 ]
