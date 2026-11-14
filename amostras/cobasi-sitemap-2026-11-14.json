@@ -2,578 +2,6 @@
  {
   "fonte": "sitemap-cobasi",
   "loja": "Cobasi",
-  "titulo": "Ossinho Original Dingo 1 unidade",
-  "ean": "615650300006",
-  "marca": "Dingo",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Ossinhos e Petiscos"
-  ],
-  "preco": 4.7,
-  "de": 11.9,
-  "url": "https://www.cobasi.com.br/ossinho-dingo-original-mini-unidade-3601012/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:04.131Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Areia para Gatos Like Cat Granulado Higiênico de Madeira",
-  "ean": "7898912289049",
-  "marca": "Megavet",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Higiene e Limpeza",
-   "Areia Higiênica"
-  ],
-  "preco": 17.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/areia-para-gatos-like-cat-granulado-higienico-de-madeira-3701416/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:06.558Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Biscoito Pedigree Biscrok para Cães Adultos Raças Grandes Leite",
-  "ean": "7896029043271",
-  "marca": "Pedigree",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Cookies e Biscoitos"
-  ],
-  "preco": 25.19,
-  "de": 27.99,
-  "url": "https://www.cobasi.com.br/biscrok-maxi-pedigree-3325775/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:10.324Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração GranPlus Menu Gatos Adultos Salmão e Arroz",
-  "ean": "7896048906793",
-  "marca": "Gran Plus",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 27.9,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-gran-plus-gatos-adultos-salmao-e-arroz-3659460/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:13.507Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Combo Antipulgas Fiprolex Cães até 10kg",
-  "ean": "7898043433700",
-  "marca": "Fiprolex",
-  "modelo": "7898043433700",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 52.9,
-  "de": 81.9,
-  "url": "https://www.cobasi.com.br/combo-antipulgas-fiprolex-067ml-caes-ate-10kg-ceva-3766070/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/184442-194-194/Combo-Antipulgas-Fiprolex-Caes-ate-10kg-Ceva.jpg?v=638429347418900000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:17.794Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Aditivo Antiodor Pipicat Campestre",
-  "ean": "7896273807797",
-  "marca": "Pipicat",
-  "modelo": "7896273807797",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Higiene e Limpeza",
-   "Areia Higiênica"
-  ],
-  "preco": 18.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/aditivo-antiodor-campestre-500g-pipicat-3713724/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/353997-194-194/CAMPESTRE.jpg?v=638721121382030000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:21.084Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Desinfetante Lysoform Pets Original",
-  "ean": "7894650939666",
-  "marca": "Lysoform",
-  "modelo": "7894650939666",
-  "cat": null,
-  "catLoja": "Casa",
-  "caminhoLoja": [
-   "Casa",
-   "Limpeza",
-   "Eliminador de Odores e Desinfetantes"
-  ],
-  "preco": 19.9,
-  "de": null,
-  "url": "https://www.cobasi.com.br/desinfetante-lysoform-pets-original-3670740/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1060915-194-194/Desinfetante-Lysoform-Pets-Original-1L.png?v=638611603883570000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-14T12:28:23.932Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Eliminador de Odores Vet+20 Lavanda",
-  "ean": "7898285573622",
-  "marca": "Vet20",
-  "modelo": "7898285573622",
-  "cat": null,
-  "catLoja": "Casa",
-  "caminhoLoja": [
-   "Casa",
-   "Limpeza",
-   "Eliminador de Odores e Desinfetantes"
-  ],
-  "preco": 70.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/eliminador-de-odores-vet-20-lavanda-3748668/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/198760-194-194/Eliminador-de-Odores-Vet-20-Lavanda-3748668.jpg?v=638132127972500000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:26.743Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Premier Formula Cães Adultos Raças Pequenas Frango e Mandioca",
-  "ean": "7897348200994",
-  "marca": "Premier",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 35.9,
-  "de": 39.99,
-  "url": "https://www.cobasi.com.br/racao-premier-formula-racas-pequenas-caes-adultos-3795267/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:29.931Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Bolsa Pet para Transporte Aéreo Fabrica Pet",
-  "ean": "7908260300928",
-  "marca": "Fabrica Pet",
-  "modelo": "7908260300928",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Acessórios para Transporte",
-   "Bolsa de Transporte"
-  ],
-  "preco": 359.9,
-  "de": null,
-  "url": "https://www.cobasi.com.br/bolsa-de-transporte-em-aviao-gol-oficial-3826677/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1090771-194-194/Bolsa-Pet-para-Transporte-Aereo-Fabrica-Pet-fechada.webp?v=639294252219800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:32.363Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Premier Nutrição Clínica Hipoalergênico Cães Médio e Grande Porte Cordeiro e Arroz",
-  "ean": "7897348207351",
-  "marca": "Premier",
-  "modelo": "7897348207351",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Ração",
-   "Ração Medicamentosa"
-  ],
-  "preco": 399.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-premier-nutricao-clinica-hipoalergenico-caes-porte-medio-e-grande-3954861/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1083706-194-194/Racao-Premier-Nut-Clinica-Hipoalergenico-Caes-Med-e-Gde-Cordeiro-10.1kg-frente.webp?v=638918286793230000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:35.128Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "NexGard Antipulgas e Carrapatos para Cães de 25,1 a 50 kg",
-  "ean": "7898053774527",
-  "marca": "NexGard",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 100.5,
-  "de": 154.99,
-  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-nexgard-para-caes-de-25-a-50kg-3772330/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:37.661Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas Simparic 40mg para Cães 10 a 20kg",
-  "ean": "7898049719488",
-  "marca": "Simparic",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 80.9,
-  "de": 134.99,
-  "url": "https://www.cobasi.com.br/antipulgas-simparic-10-1-a-20--kg-zoetis-3823562/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:40.094Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Úmida Friskies Gatos Adultos Peru ao Molho",
-  "ean": "7891000118061",
-  "marca": "Friskies",
-  "modelo": "7891000118061",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Úmida"
-  ],
-  "preco": 2.84,
-  "de": 3.79,
-  "url": "https://www.cobasi.com.br/racao-umida-nestle-purina-friskies-peru-ao-molho-gatos-adultos-3697826/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1113598-194-194/Racao Umida Friskies Gatos Adultos Peru ao Molho embalagem_FRENTE-01.webp?v=639214512610100000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:43.748Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Úmida Friskies Gatos Adultos Atum ao Molho",
-  "ean": "7891000118115",
-  "marca": "Friskies",
-  "modelo": "7891000118115",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Úmida"
-  ],
-  "preco": 2.99,
-  "de": 3.79,
-  "url": "https://www.cobasi.com.br/racao-umida-nestle-purina-friskies-atum-ao-molho-gatos-adultos-3697818/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1113588-194-194/Racao Umida Friskies Gatos Adultos Atum ao Molho embalagem_FRENTE-01.webp?v=639214509363770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:47.013Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Tapete Higiênico Slim Pads 80x60cm Petmais",
-  "ean": "7898917919224",
-  "marca": "Petmais",
-  "modelo": "7898917919224",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Higiene e Limpeza",
-   "Tapete Higiênico"
-  ],
-  "preco": 82.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/tapete-higienico-slim-pads-petmais-3892688/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1077407-194-194/tapete-higienico-slim-pads-petmais_1.webp?v=638864816158100000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-14T12:28:49.658Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas Invicto Cães de 11,4 a 57 kg Dechra",
-  "ean": "7898344752814",
-  "marca": "Invicto",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 27.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/antipulgas-invicto-caes-de-11-4-a-57-kg-dechra-3974153/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-14T12:28:52.192Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Rótula Bovina Bona Pet Osso para Cachorro",
-  "ean": "7899638312936",
-  "marca": "Bona Pet",
-  "modelo": "7899638312936",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Ossinhos e Petiscos"
-  ],
-  "preco": 7.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/rotula-bovina-bona-pet-osso-para-cachorro-3776335/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/981430-194-194/7899638312936.jpg?v=638772272400200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:54.908Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Petisco Orelha para Cães Petiscão",
-  "ean": "7898396116022",
-  "marca": "Petiscao",
-  "modelo": "7898396116022",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Ossinhos e Petiscos"
-  ],
-  "preco": 9.49,
-  "de": null,
-  "url": "https://www.cobasi.com.br/petisco-para-caes-orelha-petiscao-3966770/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/451472-194-194/Orelha_.jpg?v=637520393805730000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:28:58.803Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas Advantage Max3 Cães 4kg a 10kg",
-  "ean": "7891106911252",
-  "marca": "Advantage",
-  "modelo": "7891106911252",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 177.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/antipulgas-advantage-max3-caes-4kg-a-10kg-elanco-3211591/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1100465-194-194/Advantage Max3 - caes de 4 a 10kg - 3 pipetas.webp?v=639122844380770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:29:01.826Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Petisco Dreamies para Gatos Adultos Carne Tentadora",
-  "ean": "7896029028414",
-  "marca": "Dreamies",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Petiscos",
-   "Petiscos"
-  ],
-  "preco": 6.32,
-  "de": null,
-  "url": "https://www.cobasi.com.br/petisco-dreamies-carne-para-gatos-adultos-3708224/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:29:04.504Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Úmida Whiskas Sachê Frango ao Molho Gatos Adultos",
-  "ean": "7896029046173",
-  "marca": "Whiskas",
-  "modelo": "7896029046173",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Úmida"
-  ],
-  "preco": 2.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-umida-whiskas-frango-ao-molho-3793981/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1051150-194-194/Racao-Umida-Whiskas-Sache-Frango-ao-Molho-Gatos-Adultos.png?v=639286132862300000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-14T12:29:07.621Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
   "titulo": "Organnact Lysin SF Suplemento para Gatos",
   "ean": "7898195861017",
   "marca": "Organnact",
@@ -2312,5 +1740,577 @@
   },
   "disponivel": true,
   "coletadoEm": "2026-11-14T12:32:37.137Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ossinho Original Dingo 1 unidade",
+  "ean": "615650300006",
+  "marca": "Dingo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Ossinhos e Petiscos"
+  ],
+  "preco": 4.7,
+  "de": 11.9,
+  "url": "https://www.cobasi.com.br/ossinho-dingo-original-mini-unidade-3601012/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:40:36.958Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Areia para Gatos Like Cat Granulado Higiênico de Madeira",
+  "ean": "7898912289049",
+  "marca": "Megavet",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Higiene e Limpeza",
+   "Areia Higiênica"
+  ],
+  "preco": 17.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/areia-para-gatos-like-cat-granulado-higienico-de-madeira-3701416/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:40:42.341Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Biscoito Pedigree Biscrok para Cães Adultos Raças Grandes Leite",
+  "ean": "7896029043271",
+  "marca": "Pedigree",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Cookies e Biscoitos"
+  ],
+  "preco": 19.99,
+  "de": 27.99,
+  "url": "https://www.cobasi.com.br/biscrok-maxi-pedigree-3325775/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:40:44.226Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração GranPlus Menu Gatos Adultos Salmão e Arroz",
+  "ean": "7896048906793",
+  "marca": "Gran Plus",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 27.9,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-gran-plus-gatos-adultos-salmao-e-arroz-3659460/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:40:49.612Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Combo Antipulgas Fiprolex Cães até 10kg",
+  "ean": "7898043433700",
+  "marca": "Fiprolex",
+  "modelo": "7898043433700",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 52.9,
+  "de": 81.9,
+  "url": "https://www.cobasi.com.br/combo-antipulgas-fiprolex-067ml-caes-ate-10kg-ceva-3766070/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/184442-194-194/Combo-Antipulgas-Fiprolex-Caes-ate-10kg-Ceva.jpg?v=638429347418900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:40:52.527Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Aditivo Antiodor Pipicat Campestre",
+  "ean": "7896273807797",
+  "marca": "Pipicat",
+  "modelo": "7896273807797",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Higiene e Limpeza",
+   "Areia Higiênica"
+  ],
+  "preco": 18.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/aditivo-antiodor-campestre-500g-pipicat-3713724/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/353997-194-194/CAMPESTRE.jpg?v=638721121382030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:40:56.524Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Desinfetante Lysoform Pets Original",
+  "ean": "7894650939666",
+  "marca": "Lysoform",
+  "modelo": "7894650939666",
+  "cat": null,
+  "catLoja": "Casa",
+  "caminhoLoja": [
+   "Casa",
+   "Limpeza",
+   "Eliminador de Odores e Desinfetantes"
+  ],
+  "preco": 19.9,
+  "de": null,
+  "url": "https://www.cobasi.com.br/desinfetante-lysoform-pets-original-3670740/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1060915-194-194/Desinfetante-Lysoform-Pets-Original-1L.png?v=638611603883570000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-14T21:41:00.036Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Eliminador de Odores Vet+20 Lavanda",
+  "ean": "7898285573622",
+  "marca": "Vet20",
+  "modelo": "7898285573622",
+  "cat": null,
+  "catLoja": "Casa",
+  "caminhoLoja": [
+   "Casa",
+   "Limpeza",
+   "Eliminador de Odores e Desinfetantes"
+  ],
+  "preco": 70.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/eliminador-de-odores-vet-20-lavanda-3748668/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/198760-194-194/Eliminador-de-Odores-Vet-20-Lavanda-3748668.jpg?v=638132127972500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:02.488Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Premier Formula Cães Adultos Raças Pequenas Frango e Mandioca",
+  "ean": "7897348200994",
+  "marca": "Premier",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 35.9,
+  "de": 39.99,
+  "url": "https://www.cobasi.com.br/racao-premier-formula-racas-pequenas-caes-adultos-3795267/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:04.978Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Bolsa Pet para Transporte Aéreo Fabrica Pet",
+  "ean": "7908260300928",
+  "marca": "Fabrica Pet",
+  "modelo": "7908260300928",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Acessórios para Transporte",
+   "Bolsa de Transporte"
+  ],
+  "preco": 359.9,
+  "de": null,
+  "url": "https://www.cobasi.com.br/bolsa-de-transporte-em-aviao-gol-oficial-3826677/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1090771-194-194/Bolsa-Pet-para-Transporte-Aereo-Fabrica-Pet-fechada.webp?v=639294252219800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:08.501Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Premier Nutrição Clínica Hipoalergênico Cães Médio e Grande Porte Cordeiro e Arroz",
+  "ean": "7897348207351",
+  "marca": "Premier",
+  "modelo": "7897348207351",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Ração",
+   "Ração Medicamentosa"
+  ],
+  "preco": 399.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-premier-nutricao-clinica-hipoalergenico-caes-porte-medio-e-grande-3954861/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1083706-194-194/Racao-Premier-Nut-Clinica-Hipoalergenico-Caes-Med-e-Gde-Cordeiro-10.1kg-frente.webp?v=638918286793230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:11.012Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "NexGard Antipulgas e Carrapatos para Cães de 25,1 a 50 kg",
+  "ean": "7898053774527",
+  "marca": "NexGard",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 100.5,
+  "de": 154.99,
+  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-nexgard-para-caes-de-25-a-50kg-3772330/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:14.118Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas Simparic 40mg para Cães 10 a 20kg",
+  "ean": "7898049719488",
+  "marca": "Simparic",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 80.9,
+  "de": 134.99,
+  "url": "https://www.cobasi.com.br/antipulgas-simparic-10-1-a-20--kg-zoetis-3823562/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:16.488Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Úmida Friskies Gatos Adultos Peru ao Molho",
+  "ean": "7891000118061",
+  "marca": "Friskies",
+  "modelo": "7891000118061",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Úmida"
+  ],
+  "preco": 2.84,
+  "de": 3.79,
+  "url": "https://www.cobasi.com.br/racao-umida-nestle-purina-friskies-peru-ao-molho-gatos-adultos-3697826/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1113598-194-194/Racao Umida Friskies Gatos Adultos Peru ao Molho embalagem_FRENTE-01.webp?v=639214512610100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:19.427Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Úmida Friskies Gatos Adultos Atum ao Molho",
+  "ean": "7891000118115",
+  "marca": "Friskies",
+  "modelo": "7891000118115",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Úmida"
+  ],
+  "preco": 2.99,
+  "de": 3.79,
+  "url": "https://www.cobasi.com.br/racao-umida-nestle-purina-friskies-atum-ao-molho-gatos-adultos-3697818/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1113588-194-194/Racao Umida Friskies Gatos Adultos Atum ao Molho embalagem_FRENTE-01.webp?v=639214509363770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:23.126Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Tapete Higiênico Slim Pads 80x60cm Petmais",
+  "ean": "7898917919224",
+  "marca": "Petmais",
+  "modelo": "7898917919224",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Higiene e Limpeza",
+   "Tapete Higiênico"
+  ],
+  "preco": 82.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/tapete-higienico-slim-pads-petmais-3892688/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1077407-194-194/tapete-higienico-slim-pads-petmais_1.webp?v=638864816158100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-14T21:41:25.770Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas Invicto Cães de 11,4 a 57 kg Dechra",
+  "ean": "7898344752814",
+  "marca": "Invicto",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 27.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/antipulgas-invicto-caes-de-11-4-a-57-kg-dechra-3974153/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-14T21:41:30.624Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Rótula Bovina Bona Pet Osso para Cachorro",
+  "ean": "7899638312936",
+  "marca": "Bona Pet",
+  "modelo": "7899638312936",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Ossinhos e Petiscos"
+  ],
+  "preco": 7.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/rotula-bovina-bona-pet-osso-para-cachorro-3776335/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/981430-194-194/7899638312936.jpg?v=638772272400200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:32.503Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Petisco Orelha para Cães Petiscão",
+  "ean": "7898396116022",
+  "marca": "Petiscao",
+  "modelo": "7898396116022",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Ossinhos e Petiscos"
+  ],
+  "preco": 9.49,
+  "de": null,
+  "url": "https://www.cobasi.com.br/petisco-para-caes-orelha-petiscao-3966770/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/451472-194-194/Orelha_.jpg?v=637520393805730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:34.398Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas Advantage Max3 Cães 4kg a 10kg",
+  "ean": "7891106911252",
+  "marca": "Advantage",
+  "modelo": "7891106911252",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 177.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/antipulgas-advantage-max3-caes-4kg-a-10kg-elanco-3211591/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1100465-194-194/Advantage Max3 - caes de 4 a 10kg - 3 pipetas.webp?v=639122844380770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:39.354Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Petisco Dreamies para Gatos Adultos Carne Tentadora",
+  "ean": "7896029028414",
+  "marca": "Dreamies",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Petiscos",
+   "Petiscos"
+  ],
+  "preco": 6.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/petisco-dreamies-carne-para-gatos-adultos-3708224/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:41.243Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Úmida Whiskas Sachê Frango ao Molho Gatos Adultos",
+  "ean": "7896029046173",
+  "marca": "Whiskas",
+  "modelo": "7896029046173",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Úmida"
+  ],
+  "preco": 2.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-umida-whiskas-frango-ao-molho-3793981/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1051150-194-194/Racao-Umida-Whiskas-Sache-Frango-ao-Molho-Gatos-Adultos.png?v=638322007768230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-14T21:41:43.136Z"
  }
 ]
