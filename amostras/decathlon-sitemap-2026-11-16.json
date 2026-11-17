@@ -6932,5 +6932,7101 @@
   },
   "disponivel": true,
   "coletadoEm": "2026-11-16T14:12:42.254Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Corre 3 Maratona Poa Olympikus",
+  "ean": "7894756492539",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 399.99,
+  "de": 499.99,
+  "url": "https://www.decathlon.com.br/tenis-corre-3-maratona-poa-olympikus-2145593997/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128316318/17129564589605.jpg?v=638489759688270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:04.578Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Campo Umbro Orbit",
+  "ean": "7909943270385",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 94.99,
+  "de": 119.99,
+  "url": "https://www.decathlon.com.br/chuteira-campo-umbro-orbit-2145595111/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128700323/17126679624183.jpg?v=638491056347130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:10.773Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Rip Curl Front Wettie WT24 Masculina Branco",
+  "ean": "7908680972149",
+  "marca": "Rip Curl",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/camiseta-rip-curl-front-wettie-wt24-masculina-branco-2145595175/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128850140/17102630842442.jpg?v=638491422089170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:15.384Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta RVCA Big RVCA Colors WT24 Masculina Rosa Claro",
+  "ean": "7909846398209",
+  "marca": "RVCA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 112.5,
+  "de": 157,
+  "url": "https://www.decathlon.com.br/camiseta-rvca-big-rvca-colors-wt24-masculina-rosa-claro-2145595201/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129423611/17116524872722.jpg?v=638493284889900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:19.656Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Jaqueta Element Alder Trekka WT24 Masculina Caqui",
+  "ean": "7909846380754",
+  "marca": "Element",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Jaquetas"
+  ],
+  "preco": 377.1,
+  "de": 524,
+  "url": "https://www.decathlon.com.br/jaqueta-element-alder-trekka-wt24-masculina-caqui-2145595199/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128835300/17116527951997.jpg?v=638491413209130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:23.100Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Lost Lost Maniac WT24 Masculina Preto",
+  "ean": "7908607741933",
+  "marca": "Lost",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 141.3,
+  "de": 196,
+  "url": "https://www.decathlon.com.br/camiseta-lost-lost-maniac-wt24-masculina-preto-2145595193/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128925670/17121529912439.jpg?v=638491628496100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:26.130Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila Shark Tour Preta e Rosa",
+  "ean": "7898697522591",
+  "marca": "Shark",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 399.9,
+  "de": 419.9,
+  "url": "https://www.decathlon.com.br/mochila-shark-tour-preta-e-rosa-2145595216/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128851856/17129488614010.jpg?v=638491452298330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:29.201Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Raquete De Pickleball Shark Fury",
+  "ean": "7898697522546",
+  "marca": "Shark",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Raquetes"
+  ],
+  "preco": 359.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/raquete-de-pickleball-shark-fury-2145595744/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128857212/17129489507742.jpg?v=638491483305230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:33.330Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola Rainha Vôlei Oficial Pró 2.0",
+  "ean": "7897660050321",
+  "marca": "RAINHA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Futebol e Society"
+  ],
+  "preco": 79.83,
+  "de": 84.46,
+  "url": "https://www.decathlon.com.br/bola-rainha-volei-oficial-pro-2-0-2145595920/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/172344039/17580645004903.jpg?v=639004770685470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:36.310Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola Society Penalty Storm XXIII Costurada Branco e Vermelho",
+  "ean": "7909342615893",
+  "marca": "PENALTY",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Futebol e Society"
+  ],
+  "preco": 131.63,
+  "de": 140.53,
+  "url": "https://www.decathlon.com.br/bola-society-penalty-storm-xxiii-costurada-branco-e-vermelho-2145595968/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128893795/17126952305955.jpg?v=638491556253970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:39.770Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Raquete de Beach Tennis Mormaii Triax Concept Holeless 24K",
+  "ean": "7908434331994",
+  "marca": "MORMAII",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Raquetes"
+  ],
+  "preco": 1899.9,
+  "de": 2499.9,
+  "url": "https://www.decathlon.com.br/raquete-de-beach-tennis-mormaii-triax-concept-holeless-24k-2145596194/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129250746/17090670800478.jpg?v=638492649311900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:43.588Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Campo Umbro Class 2.2 Jr",
+  "ean": "7909943259564",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 151.99,
+  "de": 159.99,
+  "url": "https://www.decathlon.com.br/chuteira-campo-umbro-class-2-2-jr-2145596195/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129251883/17126821680365.jpg?v=638492797742200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:47.004Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Feminina Mizuno Focus Stamp",
+  "ean": "7894756442480",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 129.99,
+  "de": 189.99,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-feminina-mizuno-focus-stamp-2145596379/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170022743/17581410034478.jpg?v=638937378205130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:50.259Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Saia de Tennis Feminina Mizuno Charge Printed Flying",
+  "ean": "7894756283434",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Saias e Tules"
+  ],
+  "preco": 209.99,
+  "de": 279.99,
+  "url": "https://www.decathlon.com.br/saia-de-tennis-feminina-mizuno-charge-printed-flying-2145596372/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170021571/17581408546690.jpg?v=638937376678270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:53.369Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Boné Unissex Mizuno Osaka New",
+  "ean": "7894929973315",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Boné, chapeu e viseira"
+  ],
+  "preco": 149.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/bone-unissex-mizuno-osaka-new-2145596360/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170025692/17581413498846.jpg?v=638937381646530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:57.918Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila Shark Pro Preta e Prata",
+  "ean": "7898697522614",
+  "marca": "Shark",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 499.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/mochila-shark-pro-preta-e-prata-2145596356/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129410444/17129487692794.jpg?v=638493283058100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:00.945Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kit Pickleball Shark com 2 Raquetes e 4 Bolas",
+  "ean": "7898697522539",
+  "marca": "Shark",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Kits e Conjuntos"
+  ],
+  "preco": 769.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/kit-pickleball-shark-com-2-raquetes-e-4-bolas-2145596549/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129632684/17129487034094.jpg?v=638494046049530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:03.854Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Reebok Club BB 4000 II Masculino Preto/Verde",
+  "ean": "4066756424480",
+  "marca": "Reebok",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 424.8,
+  "de": 590,
+  "url": "https://www.decathlon.com.br/tenis-reebok-club-bb-4000-ii-masculino-preto-verde-2145596622/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129633368/17068069939933.jpg?v=638494047285900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:06.760Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Hurley Originals WT24 Masculina Branco",
+  "ean": "7909738834990",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 108,
+  "de": 150,
+  "url": "https://www.decathlon.com.br/camiseta-hurley-originals-wt24-masculina-branco-2145596605/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129632977/17110442594998.jpg?v=638494047072200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:10.346Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta MCD MCD Sobreposto WT24 Masculina Azul Deep",
+  "ean": "7908607788631",
+  "marca": "MCD",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/camiseta-mcd-mcd-sobreposto-wt24-masculina-azul-deep-2145596583/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129632920/17128551733430.jpg?v=638494047045330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:14.720Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Quiksilver Tijuana WT24 Masculina Branco",
+  "ean": "7909846419010",
+  "marca": "Quiksilver",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/camiseta-quiksilver-tijuana-wt24-masculina-branco-2145596746/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129633575/17098178621767.jpg?v=638494047441530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:17.938Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes DC Star Color WT24 Masculina Bordo",
+  "ean": "7909846390142",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 103.5,
+  "de": 144,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-dc-star-color-wt24-masculina-bordo-2145596743/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129972790/17099247862121.jpg?v=638495804296100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:20.903Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Jaqueta Rip Curl Anti Series Exit Jacket WT24 Washed Black",
+  "ean": "7908680945297",
+  "marca": "Rip Curl",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Jaquetas"
+  ],
+  "preco": 944.1,
+  "de": 1312,
+  "url": "https://www.decathlon.com.br/jaqueta-rip-curl-anti-series-exit-jacket-wt24-washed-black-2145596659/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129633144/17126861621950.jpg?v=638494047156770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:24.336Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Quiksilver Surf Safari WT24 Masculina Preto",
+  "ean": "7909846419683",
+  "marca": "Quiksilver",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 112.5,
+  "de": 157,
+  "url": "https://www.decathlon.com.br/camiseta-quiksilver-surf-safari-wt24-masculina-preto-2145596837/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129974610/17114560753330.jpg?v=638495804800070000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:27.523Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda Quiksilver Everyday Chino SM24 Masculina Mostarda",
+  "ean": "7909846326547",
+  "marca": "Quiksilver",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 235.8,
+  "de": 327,
+  "url": "https://www.decathlon.com.br/bermuda-quiksilver-everyday-chino-sm24-masculina-mostarda-2145596840/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129633705/17037367973341.jpg?v=638494047582570000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:30.208Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom Lost Canguru Saturn WT24 Masculino Tapioca",
+  "ean": "7908607775204",
+  "marca": "Lost",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 377.1,
+  "de": 524,
+  "url": "https://www.decathlon.com.br/moletom-lost-canguru-saturn-wt24-masculino-tapioca-2145596735/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129633381/17121532884678.jpg?v=638494047298400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:34.244Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Hurley Spiral WT24 Masculina Preto",
+  "ean": "7909738835959",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/camiseta-hurley-spiral-wt24-masculina-preto-2145596713/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129633306/17098386965103.jpg?v=638494047251970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:37.592Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Skechers Wavy Lites Blissfully Free Infantil",
+  "ean": null,
+  "marca": "SKECHERS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 177.78,
+  "de": 269.9,
+  "url": "https://www.decathlon.com.br/tenis-skechers-wavy-lites-blissfully-free-infantil-2145596947/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129635929/17137828153362.jpg?v=638494071019030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:40.874Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Faixa de Judo Mizuno",
+  "ean": "7894756666930",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Fitas e faixas"
+  ],
+  "preco": 599.99,
+  "de": 669.99,
+  "url": "https://www.decathlon.com.br/faixa-de-judo-mizuno-2145596973/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170021114/17581407849387.jpg?v=638937375974670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:44.404Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Masculina Mizuno DryAeroFlow",
+  "ean": "7894929899806",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 219.99,
+  "de": 239.99,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-masculina-mizuno-dryaeroflow-2145596971/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170021463/17581408364473.jpg?v=638937376559170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:48.020Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts de Compreensão Masculino Mizuno Impulse Core Mid",
+  "ean": "7894756282482",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 169.99,
+  "de": 319.99,
+  "url": "https://www.decathlon.com.br/shorts-de-compreensao-masculino-mizuno-impulse-core-mid-2145596972/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129655394/17132801322709.jpg?v=638494082547630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:51.532Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Loro de Hipismo Selaria Alves",
+  "ean": "2128337640008",
+  "marca": "SELARIA ALVES",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Capas e Mantas"
+  ],
+  "preco": 249.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/loro-de-hipismo-preta-8682186-selaria-alves/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/161244366/-loro-preto-selaria-alves-no-size1.jpg?v=638616587791330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:05:57.432Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Loro de Hipismo Selaria Alves",
+  "ean": "2128337630009",
+  "marca": "SELARIA ALVES",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Capas e Mantas"
+  ],
+  "preco": 249.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/loro-de-hipismo-marrom-8682185-selaria-alves/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/161244381/-loro-marrom-selaria-alves-no-size1.jpg?v=638616589429700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:00.493Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola de Society Storm Penalty XXIII Costurada Branco e Vermelho",
+  "ean": "7909342615893",
+  "marca": "Penalty",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Futebol e Society"
+  ],
+  "preco": 130.15,
+  "de": 139.03,
+  "url": "https://www.decathlon.com.br/bola-de-society-storm-penalty-xxiii-costurada-branco-e-vermelho-2145597202/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/175381913/17582119687350.jpg?v=639089396284730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:04.505Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola de Pickleball Shark 40 Furos - Pack com 03 Unidades",
+  "ean": "7898697522553",
+  "marca": "Shark",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Futebol e Society"
+  ],
+  "preco": 66.55,
+  "de": 74.9,
+  "url": "https://www.decathlon.com.br/bola-de-pickleball-shark-40-furos---pack-com-03-unidades-2145597219/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129874936/17129484476984.jpg?v=638495082994930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:07.971Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Feminina Mizuno Dryaeroflow",
+  "ean": "7894756282581",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 159.99,
+  "de": 249.99,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-feminina-mizuno-dryaeroflow-2145597222/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170022426/17581409494346.jpg?v=638937377624130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:11.300Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola Rainha Vôlei Oficial Pró 2.0",
+  "ean": "7897660050321",
+  "marca": "RAINHA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Futebol e Society"
+  ],
+  "preco": 79.66,
+  "de": 84.46,
+  "url": "https://www.decathlon.com.br/bola-rainha-volei-oficial-pro-2-0-2145597241/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/129892791/17126952299304.jpg?v=638495155973470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:14.325Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta MCD Especial Poseidon WT24 Masculina Preto",
+  "ean": "7908607719116",
+  "marca": "MCD",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 216.9,
+  "de": 301,
+  "url": "https://www.decathlon.com.br/camiseta-mcd-especial-poseidon-wt24-masculina-preto-2145597364/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/130355955/17105042152548.jpg?v=638497605000630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:17.671Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Under Armour Velociti 3",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 799.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-under-armour-velociti-3-2145519038/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79231110/16996340472904.jpg?v=638356451899400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:21.185Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Top de Treino Feminina Under Armour High",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Tops e Croppeds"
+  ],
+  "preco": 189.99,
+  "de": 269.99,
+  "url": "https://www.decathlon.com.br/top-de-treino-feminina-under-armour-high-2145518729/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/78982333/16996584898529.jpg?v=638355904210500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:25.344Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom de Treino Feminino Under Armour Rival Fleece Mesh Crew",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 399.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/moletom-de-treino-feminino-under-armour-rival-fleece-mesh-crew-2145518997/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/78983868/16996478437338.jpg?v=638355904470600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:28.301Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Munhequeira Yonex Curta Branca- com 01 Unidade",
+  "ean": "4550468357605",
+  "marca": "Yonex",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Munhequeiras"
+  ],
+  "preco": 49.9,
+  "de": 64.9,
+  "url": "https://www.decathlon.com.br/munhequeira-yonex-curta-branca--com-01-unidade-2145519433/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79035632/16987748549035.jpg?v=638355979985000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:31.408Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Masculina Under Armour Vent Graphic SS",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 199.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-masculina-under-armour-vent-graphic-ss-2145519566/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79242508/16996343047354.jpg?v=638356471226070000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:34.801Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Plus Size Feminina Under Armour Tech Vent SS",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 169.99,
+  "de": 179.99,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-plus-size-feminina-under-armour-tech-vent-ss-2145519564/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79219094/16996329250820.jpg?v=638356438787370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:37.782Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Corrida Feminina Under Armour Speed Stride SS Brz",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 89.99,
+  "de": 179.99,
+  "url": "https://www.decathlon.com.br/camiseta-de-corrida-feminina-under-armour-speed-stride-ss-brz-2145519601/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/171145196/16996409798160.jpg?v=638971104223500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:41.351Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Jaqueta de Treino Masculina Under Armour Legacy",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Jaquetas"
+  ],
+  "preco": 439.99,
+  "de": 599.99,
+  "url": "https://www.decathlon.com.br/jaqueta-de-treino-masculina-under-armour-legacy-2145519606/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79221045/16996368093655.jpg?v=638356440443870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:44.768Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Feminino Under Armour HOVR Phantom 3 SE",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 649.99,
+  "de": 899.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-feminino-under-armour-hovr-phantom-3-se-2145519616/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170032772/17581425912943.jpg?v=638937394033270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:48.220Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Infantil Under Armour Surge 3 Slip",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 329.99,
+  "de": 379.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-infantil-under-armour-surge-3-slip-2145519637/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79229546/16996512888600.jpg?v=638356449559800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:51.428Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Boné de Treino Masculino Under Armour Blitzing Adj",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Boné, chapeu e viseira"
+  ],
+  "preco": 119.99,
+  "de": 169.99,
+  "url": "https://www.decathlon.com.br/bone-de-treino-masculino-under-armour-blitzing-adj-2145519643/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170032255/17581425157749.jpg?v=638937393291800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:54.721Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Treino Under Armour Tribase Cross SE",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 449.99,
+  "de": 549.99,
+  "url": "https://www.decathlon.com.br/tenis-de-treino-unissex-under-armour-tribase-cross-se-2145519631/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79229233/16998817007545.jpg?v=638356449405270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:06:57.763Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Feminino Under Armour HOVR Phantom 3 SE",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 1199.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-feminino-under-armour-hovr-phantom-3-se-2145519639/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79241907/16996408264119.jpg?v=638356470729630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:00.732Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Feminino Under Armour HOVR Sonic 6",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 899.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-feminino-under-armour-hovr-sonic-6-2145519636/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170377443/17581116951809.jpg?v=638947728397300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:06.256Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts de Treino Feminino Under Armour Motion Bike",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 159.99,
+  "de": 279.99,
+  "url": "https://www.decathlon.com.br/shorts-de-treino-feminino-under-armour-motion-bike-2145519738/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79387564/16996299910634.jpg?v=638356726498100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:09.737Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts de Treino Masculino Under Armour Tech Graphic",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 199.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/shorts-de-treino-masculino-under-armour-tech-graphic-2145519724/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79387707/16997298187796.jpg?v=638356726595630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:14.076Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Rede de Tênis de Mesa Vollo com Poste",
+  "ean": "7898511356388",
+  "marca": "Vollo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Redes"
+  ],
+  "preco": 69.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/rede-de-tenis-de-mesa-vollo-com-poste-2145519817/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79464224/16987751810613.jpg?v=638356915554500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:17.372Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Dumbbell Halter Gallant Elite Pro 19Kg Regulável Com Base",
+  "ean": "7898648178181",
+  "marca": "Gallant",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Kettlebells"
+  ],
+  "preco": 659,
+  "de": 823.75,
+  "url": "https://www.decathlon.com.br/dumbbell-halter-gallant-elite-pro-19kg-regulavel-com-base-2145519838/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/180380313/17895315841408.jpg?v=639258272245830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:21.273Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Puma Teamrise Masculina",
+  "ean": "4063699208931",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 118.66,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-puma-teamrise-masculina-2145519960/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79736498/16995547113811.jpg?v=638357565858100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:25.640Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Puma Fit Logo Graphic Masculina",
+  "ean": "4099683869956",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 129.9,
+  "de": 249.9,
+  "url": "https://www.decathlon.com.br/camiseta-puma-fit-logo-graphic-masculina-2145520013/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79934420/16995986493823.jpg?v=638357991354530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:28.847Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Asics Gel-Quantum 360 Direction Feminino",
+  "ean": "7909701783379",
+  "marca": "ASICS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 789.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-asics-gel-quantum-360-direction-feminino-2145520170/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79747288/16995671761660.jpg?v=638357567173700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:33.244Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom de Treino Feminino Under Armour Rival com Capuz",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 199.99,
+  "de": 399.99,
+  "url": "https://www.decathlon.com.br/moletom-de-treino-feminino-under-armour-rival-com-capuz-2145520211/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79762188/16996409675862.jpg?v=638357590987870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:36.082Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom de Treino Masculino Under Armour Rival Terry",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 359.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/moletom-de-treino-masculino-under-armour-rival-terry-2145520213/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79762214/16996548651245.jpg?v=638357590990830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:39.106Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom de Treino Feminino Under Armour Rival com Capuz",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 399.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/moletom-de-treino-feminino-under-armour-rival-com-capuz-2145520216/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79762325/16996342816334.jpg?v=638357591055000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:43.623Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom de Treino Masculino Under Armour Rival Terry",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 359.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/moletom-de-treino-masculino-under-armour-rival-terry-2145520212/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79762423/16996372472721.jpg?v=638357591117900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:47.123Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom de Treino Feminino Under Armour Rival Fleece Big Logo",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 199.99,
+  "de": 329.99,
+  "url": "https://www.decathlon.com.br/moletom-de-treino-feminino-under-armour-rival-fleece-big-logo-2145520217/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170032370/17581425394442.jpg?v=638937393564500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:50.260Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom de Treino Feminino Under Armour Rival Fleece Mesh Crew",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 399.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/moletom-de-treino-feminino-under-armour-rival-fleece-mesh-crew-2145520218/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/80950639/16996376037020.jpg?v=638358462490370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:53.277Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Dumbbell Halter Gallant Elite Pro 24Kg Regulável Com Base",
+  "ean": "7898648178150",
+  "marca": "Gallant",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Kettlebells"
+  ],
+  "preco": 1259,
+  "de": 1573.75,
+  "url": "https://www.decathlon.com.br/dumbbell-halter-gallant-elite-pro-24kg-regulavel-com-base-2145520224/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79772694/16987572074332.jpg?v=638357610673000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:56.181Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Rip Curl Icon Logo SM24 Oversize Masculina Preto",
+  "ean": "7909580995610",
+  "marca": "Rip Curl",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 150.3,
+  "de": 209,
+  "url": "https://www.decathlon.com.br/camiseta-rip-curl-icon-logo-sm24-oversize-masculina-preto-2145520305/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79792698/16987795963149.jpg?v=638357637288970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:07:59.882Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kit Growler e Copo Térmico com Tampa 600ml Branco Coleman",
+  "ean": null,
+  "marca": "Coleman",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Kits e Conjuntos"
+  ],
+  "preco": 229.9,
+  "de": 549.8,
+  "url": "https://www.decathlon.com.br/kit-growler-e-copo-termico-com-tampa-600ml-branco-coleman-2145520330/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79818736/16976346850863.jpg?v=638357694422570000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:03.810Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kit Growler e Copo Térmico com Tampa 600ml Azul Slate Coleman",
+  "ean": null,
+  "marca": "Coleman",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Kits e Conjuntos"
+  ],
+  "preco": 229.9,
+  "de": 549.8,
+  "url": "https://www.decathlon.com.br/kit-growler-e-copo-termico-com-tampa-600ml-azul-slate-coleman-2145520332/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/79818749/16976346777823.jpg?v=638357694861970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:07.152Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Society Mizuno Morelia Club As Masculina",
+  "ean": "7894756578608",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 399.9,
+  "de": 429.9,
+  "url": "https://www.decathlon.com.br/chuteira-society-mizuno-morelia-club-as-masculina-2145520412/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/81005533/16996447456926.jpg?v=638358511005730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:11.421Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Society Mizuno Morelia Club As Masculina + 3 Pares de Meias",
+  "ean": "1234756578608",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 399.9,
+  "de": 429.9,
+  "url": "https://www.decathlon.com.br/chuteira-society-mizuno-morelia-club-as-masculina---3-pares-de-meias-2145520415/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/80981451/16999702004924.jpg?v=638358502499300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:14.374Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kit Clube Infantil Umbro Santos Of.3 2023",
+  "ean": "7909943113361",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Conjunto"
+  ],
+  "preco": 113.99,
+  "de": 159.99,
+  "url": "https://www.decathlon.com.br/kit-clube-infantil-umbro-santos-of-3-2023-2145521860/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/83336180/16993889040294.jpg?v=638361833131730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:17.275Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Billabong Exit Arch SM24 Masculina Vermelho",
+  "ean": "7909846330414",
+  "marca": "Billabong",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 112.5,
+  "de": 157,
+  "url": "https://www.decathlon.com.br/camiseta-billabong-exit-arch-sm24-masculina-vermelho-2145524119/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/83486900/16966166645363.jpg?v=638362017447430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:20.433Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta RVCA Anp Label SM24 Masculina Off White",
+  "ean": "7909846343827",
+  "marca": "RVCA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 112.5,
+  "de": 157,
+  "url": "https://www.decathlon.com.br/camiseta-rvca-anp-label-sm24-masculina-off-white-2145524138/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/83487061/16966170633852.jpg?v=638362018656700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:24.439Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Element Hirotton Skull SM24 Masculina Marinho",
+  "ean": "7909846315053",
+  "marca": "Element",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-element-hirotton-skull-sm24-masculina-marinho-2145524054/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/83487026/16966158400516.jpg?v=638362018058530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:27.013Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Hurley O&amp;O Solid SM24 Masculina Laranja",
+  "ean": "7909738767021",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 117.9,
+  "de": 163,
+  "url": "https://www.decathlon.com.br/camiseta-hurley-o-amp-o-solid-sm24-masculina-laranja-2145524120/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/83361069/16966191979646.jpg?v=638361846905830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:33.756Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Hurley Icon SM24 Masculina Branco",
+  "ean": "7909738767519",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 112.5,
+  "de": 157,
+  "url": "https://www.decathlon.com.br/camiseta-hurley-icon-sm24-masculina-branco-2145524046/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/83487000/16966184259913.jpg?v=638362018009130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:37.377Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila Wilson Ultra Tour Azul e Preta",
+  "ean": null,
+  "marca": "WILSON",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 999.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/mochila-wilson-ultra-tour-azul-e-preta-2145443632/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52404706/16922915034317.jpg?v=638296335326730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:40.881Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Raquete de Padel Babolat Reflex Preta e Azul",
+  "ean": "3324921939865",
+  "marca": "Babolat",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Raquetes"
+  ],
+  "preco": 722.11,
+  "de": 1249.9,
+  "url": "https://www.decathlon.com.br/raquete-de-padel-babolat-reflex-preta-e-azul-2145443637/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52406065/16926436747266.jpg?v=638296408755530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:44.234Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Térmica Puma UV50+ Manga Curta Feminina",
+  "ean": "7891290004730",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 114.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-termica-puma-uv50--manga-curta-feminina-2145443691/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52446395/16936377107243.jpg?v=638297174685470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:47.213Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Quiksilver Full Logo Masculina Azul Marinho Mescla",
+  "ean": "7909447947912",
+  "marca": "Quiksilver",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 84.6,
+  "de": 117,
+  "url": "https://www.decathlon.com.br/camiseta-quiksilver-full-logo-masculina-azul-marinho-mescla-2145443697/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52449577/16939597750311.jpg?v=638297641419500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:51.194Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Rede de Tênis de Mesa com Poste Vollo",
+  "ean": "7898511356388",
+  "marca": "Vollo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Redes"
+  ],
+  "preco": 66.79,
+  "de": 70.31,
+  "url": "https://www.decathlon.com.br/rede-de-tenis-de-mesa-com-poste-vollo-2145443890/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170018605/17581404814979.jpg?v=638937372998700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:54.801Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Rede Basquete Oficial Fio 4,0 Seda Spitter",
+  "ean": null,
+  "marca": "Spitter",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Redes"
+  ],
+  "preco": 70.31,
+  "de": null,
+  "url": "https://www.decathlon.com.br/rede-basquete-oficial-fio-40-seda-spitter-2145443889/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170018512/17581404648697.jpg?v=638937372825770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:08:57.717Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Jaqueta Oakley B1B Packable WT23 Masculina Stone Grey",
+  "ean": null,
+  "marca": "Oakley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Jaquetas"
+  ],
+  "preco": 282.6,
+  "de": 393,
+  "url": "https://www.decathlon.com.br/jaqueta-oakley-b1b-packable-wt23-masculina-stone-grey-2145444214/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52493167/16939612078423.jpg?v=638297998429470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:02.181Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Mini Square Stripe SM24 Masculina Preto",
+  "ean": "7909846308253",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-mini-square-stripe-sm24-masculina-preto-2145443982/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52459942/16938399712273.jpg?v=638297743372900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:05.244Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Love The Game SM24 Masculina Preto",
+  "ean": "7909846308833",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 145.8,
+  "de": 203,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-love-the-game-sm24-masculina-preto-2145444179/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52461057/16939629660744.jpg?v=638297744259870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:08.855Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Flag SM24 Masculina Vermelho Escuro",
+  "ean": "7909846302688",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-flag-sm24-masculina-vermelho-escuro-2145443983/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52459951/16938399579188.jpg?v=638297743375230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:12.389Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis DC Shoes Anvil TX LA SM24 Masculino Wine/Black/White",
+  "ean": "7909846218972",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 254.7,
+  "de": 354,
+  "url": "https://www.decathlon.com.br/tenis-dc-shoes-anvil-tx-la-sm24-masculino-wine-black-white-2145444199/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52460830/16939499914707.jpg?v=638297743658330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:15.391Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis DC Shoes Anvil TX LA SM24 Masculino Sand/Black/White",
+  "ean": "7909846264207",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 207,
+  "de": 288,
+  "url": "https://www.decathlon.com.br/tenis-dc-shoes-anvil-tx-la-sm24-masculino-sand-black-white-2145444196/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52460808/16938402526277.jpg?v=638297743648130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:18.644Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Element Seal BP WT23 Masculina Preto",
+  "ean": "7909846247736",
+  "marca": "Element",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-element-seal-bp-wt23-masculina-preto-2145444211/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52629848/16939614296263.jpg?v=638299532902170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:21.644Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Tape DC Shoeco SM24 Masculina Cinza Escuro",
+  "ean": "7909846302565",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-tape-dc-shoeco-sm24-masculina-cinza-escuro-2145444203/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52460851/16938400141982.jpg?v=638297743693300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:25.070Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis DC Shoes New Flash 2 TX Masculina Wine/White/Black",
+  "ean": "7909846180828",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 235.8,
+  "de": 327,
+  "url": "https://www.decathlon.com.br/tenis-dc-shoes-new-flash-2-tx-masculina-wine-white-black-2145444204/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52460854/16939492271398.jpg?v=638297743698970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:28.144Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Tape DC Shoeco SM24 Masculina Verde Escuro",
+  "ean": "7909846302626",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-tape-dc-shoeco-sm24-masculina-verde-escuro-2145444193/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52493316/16938400845552.jpg?v=638297999436700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:31.480Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Tape DC Shoeco SM24 Masculina Roxo",
+  "ean": "7909846302541",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-tape-dc-shoeco-sm24-masculina-roxo-2145444218/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52460986/16938400676093.jpg?v=638297743889270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:34.705Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis DC Shoes Lynx Zero Masculino Black/Grey/Yellow",
+  "ean": "7909846238307",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 396,
+  "de": 551,
+  "url": "https://www.decathlon.com.br/tenis-dc-shoes-lynx-zero-masculino-black-grey-yellow-2145444219/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52461000/16938402915585.jpg?v=638297743903100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:38.106Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis DC Shoes Anvil LA SM24 Masculino Blue/Black/White",
+  "ean": "7909846308413",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 235.8,
+  "de": 327,
+  "url": "https://www.decathlon.com.br/tenis-dc-shoes-anvil-la-sm24-masculino-blue-black-white-2145444216/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52461362/16939514534922.jpg?v=638297747087730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:41.798Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis DC Shoes New Flash 2 TX SM24 Masculino White/Grey",
+  "ean": "7909846305290",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 207,
+  "de": 288,
+  "url": "https://www.decathlon.com.br/tenis-dc-shoes-new-flash-2-tx-sm24-masculino-white-grey-2145444186/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52460722/16939491677620.jpg?v=638297743589870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:45.108Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Jaqueta Hurley Stronger WT23 Masculina Preto",
+  "ean": "7909738614059",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Jaquetas"
+  ],
+  "preco": 566.1,
+  "de": 787,
+  "url": "https://www.decathlon.com.br/jaqueta-hurley-stronger-wt23-masculina-preto-2145444281/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52463617/16939603858087.jpg?v=638297780064230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:48.473Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Hurley Silk Frame Masculina Preto Mescla",
+  "ean": "7909427201218",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 93.6,
+  "de": 131,
+  "url": "https://www.decathlon.com.br/camiseta-hurley-silk-frame-masculina-preto-mescla-2145444268/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52463549/16939485810027.jpg?v=638297779090800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:51.504Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Volcom Long Fit Flail SM24 Masculina Preto",
+  "ean": "7909738732265",
+  "marca": "Volcom",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 112.5,
+  "de": 157,
+  "url": "https://www.decathlon.com.br/camiseta-volcom-long-fit-flail-sm24-masculina-preto-2145444284/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52463431/16939628172490.jpg?v=638297778152370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:55.049Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Jaqueta Hurley Vortex WT23 Masculina Preto",
+  "ean": "7909738614097",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Jaquetas"
+  ],
+  "preco": 613.79,
+  "de": 852,
+  "url": "https://www.decathlon.com.br/jaqueta-hurley-vortex-wt23-masculina-preto-2145444288/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52463446/16939603959356.jpg?v=638297778210600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:57.655Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Munhequeira Mormaii Atoalhada Curta com 02 Unidades Preta",
+  "ean": "7908434302949",
+  "marca": "MORMAII",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Munhequeiras"
+  ],
+  "preco": 49.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/munhequeira-mormaii-atoalhada-curta-com-02-unidades-preta-2145444305/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52469558/16922915611161.jpg?v=638297877838200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:00.818Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola de Rugby Penalty C/C IX",
+  "ean": null,
+  "marca": "Penalty",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Futebol e Society"
+  ],
+  "preco": 335.44,
+  "de": null,
+  "url": "https://www.decathlon.com.br/bola-de-rugby-penalty-c-c-ix-2145444310/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52469635/16694097666000.jpg?v=638297877856600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:04.567Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Boné Quiksilver Aba Curva Emb Black 3D SM23 Mint",
+  "ean": "7909846097669",
+  "marca": "Quiksilver",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Boné, chapeu e viseira"
+  ],
+  "preco": 169.2,
+  "de": 236,
+  "url": "https://www.decathlon.com.br/bone-quiksilver-aba-curva-emb-black-3d-sm23-mint-2145444461/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52470797/16939527091005.jpg?v=638297878114600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:08.310Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Porta Bolas Kx - Kanxa",
+  "ean": null,
+  "marca": "Kanxa",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Porta Bola"
+  ],
+  "preco": 87.91,
+  "de": 96.71,
+  "url": "https://www.decathlon.com.br/porta-bolas-kx---kanxa-2145444623/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52472419/16932503962769.jpg?v=638297878509100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:11.563Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Flag SM24 Masculina Amarelo",
+  "ean": "7909846302657",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-flag-sm24-masculina-amarelo-2145444650/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52493027/16938399177096.jpg?v=638297998030430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:14.996Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila DC Shoes Breed 5 22L SM24 Bison",
+  "ean": "7909846277177",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 533.7,
+  "de": 741,
+  "url": "https://www.decathlon.com.br/mochila-dc-shoes-breed-5-22l-sm24-bison-2145444682/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52493143/16938401556268.jpg?v=638297998353500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:17.917Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila DC Shoes Chalkers 4 28L SM24 Preto",
+  "ean": "7909846277184",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 533.7,
+  "de": 741,
+  "url": "https://www.decathlon.com.br/mochila-dc-shoes-chalkers-4-28l-sm24-preto-2145444658/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52493065/16938401623446.jpg?v=638297998147000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:20.956Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila DC Shoes All City 27L SM24 Preto",
+  "ean": "7909846277207",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 641.7,
+  "de": 892,
+  "url": "https://www.decathlon.com.br/mochila-dc-shoes-all-city-27l-sm24-preto-2145444657/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52493058/16938401473630.jpg?v=638297998124800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:23.814Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Regata Billabong Small Arch SM23 Masculina Branco",
+  "ean": "7909846143939",
+  "marca": "Billabong",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Regatas"
+  ],
+  "preco": 93.6,
+  "de": 131,
+  "url": "https://www.decathlon.com.br/regata-billabong-small-arch-sm23-masculina-branco-2145444769/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52649383/16717114491107.jpg?v=638299676337730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:27.151Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Diamond OG Sign Tee Masculina Rosa",
+  "ean": "7909869025069",
+  "marca": "Diamond Supply CO.",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 103.5,
+  "de": 144,
+  "url": "https://www.decathlon.com.br/camiseta-diamond-og-sign-tee-masculina-rosa-2145444842/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52650841/16939590037455.jpg?v=638299676570500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:30.724Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Grizzly Tall Pines Masculina Branco",
+  "ean": "7909869036751",
+  "marca": "Grizzly",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 112.5,
+  "de": 157,
+  "url": "https://www.decathlon.com.br/camiseta-grizzly-tall-pines-masculina-branco-2145444846/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52651030/16939591711678.jpg?v=638299676596530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:34.005Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Rede Beach Tennis Oficial 2 Faixas PVC Fio 2.0 PE Laranja Spitter",
+  "ean": "7898628851905",
+  "marca": "Spitter",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Redes"
+  ],
+  "preco": 580.71,
+  "de": null,
+  "url": "https://www.decathlon.com.br/rede-beach-tennis-oficial-2-faixas-pvc-fio-2-0-pe-laranja-spitter-2145444966/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169940002/17580659903367.jpg?v=638936628050500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:37.338Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom de Treino com Capuz Infantil Feminino Under Armour Tech",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 74.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/moletom-de-treino-com-capuz-infantil-feminino-under-armour-tech-2145444990/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/52730248/16686591491047.jpg?v=638299828937330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:39.953Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda RVCA Eastern Color Block 19\" SM24 Masculina Preto",
+  "ean": "7909846346767",
+  "marca": "RVCA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 235.8,
+  "de": 327,
+  "url": "https://www.decathlon.com.br/bermuda-rvca-eastern-color-block-19--sm24-masculina-preto-2145445896/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/53358763/16939499365938.jpg?v=638301357464230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:43.316Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda RVCA Eastern Color Block 19\" SM24 Masculina Multi",
+  "ean": "7909846346781",
+  "marca": "RVCA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 235.8,
+  "de": 327,
+  "url": "https://www.decathlon.com.br/bermuda-rvca-eastern-color-block-19--sm24-masculina-multi-2145445857/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/53358321/16939495396803.jpg?v=638301357107300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:47.262Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta MCD Xilo Baile SM24 Masculina Bege Arena",
+  "ean": "7908607755671",
+  "marca": "MCD",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 145.8,
+  "de": 203,
+  "url": "https://www.decathlon.com.br/camiseta-mcd-xilo-baile-sm24-masculina-bege-arena-2145445846/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/54161066/16939624588236.jpg?v=638303277469930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:50.624Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Masculina Mizuno Sportwear",
+  "ean": "7893659718838",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 79.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-masculina-mizuno-sportwear-2145303940/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/36942432/16654621166265.jpg?v=638223614623100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:54.018Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Tennis Feminino Mizuno Wave Exceed Light All Court",
+  "ean": "7894756318921",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 599.99,
+  "de": 899.99,
+  "url": "https://www.decathlon.com.br/tenis-de-tennis-feminino-mizuno-wave-exceed-light-all-court-2145305402/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170062036/17581477827681.jpg?v=638937446020170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:10:57.385Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Mizuno Wave Legend 2",
+  "ean": "7894756749428",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 399.99,
+  "de": 599.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-mizuno-wave-legend-2-2145305279/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/36901518/16745775255836.jpg?v=638223527340400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:00.268Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chinelo Unissex Mizuno Basic",
+  "ean": "7894756466769",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chinelos"
+  ],
+  "preco": 129.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/chinelo-unissex-mizuno-basic-2145305766/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170061324/17581475842489.jpg?v=638937444003170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:03.437Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chinelo Unissex Mizuno Basic",
+  "ean": "7893659628380",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chinelos"
+  ],
+  "preco": 129.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/chinelo-unissex-mizuno-basic-2145305736/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170061815/17581477215017.jpg?v=638937445400900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:06.371Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Mizuno Wave Nitron 2",
+  "ean": "7894929172114",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 399.99,
+  "de": 599.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-mizuno-wave-nitron-2-2145305280/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/37435257/16775302790338.jpg?v=638225373458470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:09.743Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chinelo Unissex Mizuno Enerzy",
+  "ean": "7894756046886",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chinelos"
+  ],
+  "preco": 179.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/chinelo-unissex-mizuno-enerzy-2145305776/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170061124/17581475333758.jpg?v=638937443500270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:12.742Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Manga Longa de Treino Masculina Mizuno Energy",
+  "ean": "7894756249683",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 79.99,
+  "de": 109.99,
+  "url": "https://www.decathlon.com.br/camiseta-manga-longa-de-treino-masculina-mizuno-energy-2145305879/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/36914101/16775295919987.jpg?v=638223532141900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:16.768Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Manga Longa de Treino Masculina Mizuno Pro Uv +50",
+  "ean": "7894756970235",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 119.99,
+  "de": 169.99,
+  "url": "https://www.decathlon.com.br/camiseta-manga-longa-de-treino-masculina-mizuno-pro-uv--50-2145305897/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/172979179/17581484230526.jpg?v=639021759189500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:19.802Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Tennis Feminino Mizuno Wave Exceed Light All Court",
+  "ean": "7894929975814",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 599.99,
+  "de": 899.99,
+  "url": "https://www.decathlon.com.br/tenis-de-tennis-feminino-mizuno-wave-exceed-light-all-court-2145305910/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/36916656/16736412406936.jpg?v=638223535276330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:22.984Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Casual Masculina Mizuno Basic Logo",
+  "ean": "7894929019389",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 99.99,
+  "de": 109.99,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-masculina-mizuno-basic-logo-2145305803/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/173925016/17581474589289.jpg?v=639051349085730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:26.071Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Manga Longa de Treino Masculina Mizuno Energy",
+  "ean": "7894756249645",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 79.99,
+  "de": 109.99,
+  "url": "https://www.decathlon.com.br/camiseta-manga-longa-de-treino-masculina-mizuno-energy-2145305924/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170063291/17581481634655.jpg?v=638937449755170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:29.298Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Feminina Mizuno Fitwear Stamp",
+  "ean": "7894756339889",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 89.99,
+  "de": 119.99,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-feminina-mizuno-fitwear-sta-2145305931/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170062954/17581480508445.jpg?v=638937448646930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:32.438Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Feminino Mizuno Connect",
+  "ean": "7893659998841",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 299.99,
+  "de": 349.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-feminino-mizuno-connect-2145305934/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/36913411/16782214670187.jpg?v=638223531550830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:35.945Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Infantil Under Armour Project Rock CC SS HDY",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 229.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-infantil-under-armour-project-rock-cc-ss-hdy-2145305942/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/37775946/16654298349979.jpg?v=638228023869400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:39.537Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Jogging 101",
+  "ean": "7893659803022",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 139.99,
+  "de": 199.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-jogging-101-unissex-2145305952/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169992668/17581367440081.jpg?v=638937335584730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:42.881Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Marte",
+  "ean": "7894756699495",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 199.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-marte-unissex-2145305954/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169999579/17581376601677.jpg?v=638937344828230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:46.615Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Mizuno Wave Mirai 5",
+  "ean": "7893659737815",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 379.99,
+  "de": 499.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-mizuno-wave-mirai-5-2145305957/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170063530/17581482187888.jpg?v=638937450405870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:49.666Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Calça Fit Olympikus Masculina",
+  "ean": "7894756484039",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Calças e Leggings"
+  ],
+  "preco": 99.99,
+  "de": 189.99,
+  "url": "https://www.decathlon.com.br/calca-fit-olympikus-masculina-2145305993/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/171743211/16754289056092.jpg?v=638989903631330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:52.839Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Manga Longa Essential Olympikus Feminina",
+  "ean": "7893659705401",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 59.99,
+  "de": 99.99,
+  "url": "https://www.decathlon.com.br/camiseta-manga-longa-essential-olympikus-feminina-2145305996/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169996962/17581372949357.jpg?v=638937340973430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:56.308Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Reverso 2",
+  "ean": "7894929813574",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 259.99,
+  "de": 379.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-reverso-2-unissex-2145305992/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169991095/17581365242324.jpg?v=638937333405500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:11:59.824Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Mizuno Space 3",
+  "ean": "7894756025034",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 309.99,
+  "de": 329.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-mizuno-space-3-2145306026/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/36943399/16775307763712.jpg?v=638223618233870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:03.618Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Wellness 2 Masculino",
+  "ean": "7894756684415",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 209.99,
+  "de": 249.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-wellness-2-masculino-2145306041/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170006845/17581387401210.jpg?v=638937355449130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:09.475Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Only 2",
+  "ean": "7894929875039",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Calças e Leggings"
+  ],
+  "preco": 159.99,
+  "de": 199.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-only-2-unissex-2145306050/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170226195/17581382527668.jpg?v=638944213339630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:13.014Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Feminina Mizuno Energy",
+  "ean": "7893659723665",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 89.99,
+  "de": 99.99,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-mizuno-energy-feminina-2145306044/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170063095/17581480840668.jpg?v=638937448963170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:16.346Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Mizuno Wave Way 3",
+  "ean": "7894929866730",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 379.99,
+  "de": 399.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-mizuno-wave-way-3-2145306064/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/36958588/16791249534595.jpg?v=638223670659870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:19.617Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Mizuno Wave Falcon 4",
+  "ean": "7894756316248",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 349.99,
+  "de": 379.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-mizuno-wave-falcon-4-2145306070/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/37018506/16775302212715.jpg?v=638223901972700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:23.246Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Proof 3",
+  "ean": "7894756050951",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 259.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-proof-3-unissex-2145306153/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170002940/17581381583020.jpg?v=638937350125900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:26.317Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Wellness 2 Masculino",
+  "ean": "7894929021269",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 209.99,
+  "de": 249.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-wellness-2-masculino-2145306179/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170007780/17581388466085.jpg?v=638937356603730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:29.631Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Ultraleve 129G Feminino",
+  "ean": "7894929969240",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 159.99,
+  "de": 229.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-ultraleve-129g-feminino-2145306178/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/37427576/16654640595082.jpg?v=638225372730170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:33.187Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Wellness 2 Masculino",
+  "ean": "7893659764521",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 209.99,
+  "de": 249.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-wellness-2-masculino-2145306177/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170005109/17581384618198.jpg?v=638937352867670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:35.984Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mala de Treino Unissex Mizuno Master",
+  "ean": "7894929466213",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 249.99,
+  "de": 269.99,
+  "url": "https://www.decathlon.com.br/mala-de-treino-unissex-mizuno-master-2145306183/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170064861/17581483787593.jpg?v=638937451917370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:39.534Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Soma Feminino",
+  "ean": "7894756077224",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 159.99,
+  "de": 199.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-soma-feminino-2145306205/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169992446/17581367063337.jpg?v=638937335255530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:42.542Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda Essential 10 Olympikus Feminina",
+  "ean": "7894756005487",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 79.99,
+  "de": 129.99,
+  "url": "https://www.decathlon.com.br/bermuda-essential-10-olympikus-feminina-2145306208/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/37407103/16754288476428.jpg?v=638225301298500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:45.875Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Mizuno Wave Dynasty 5",
+  "ean": "7894929459604",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 399.99,
+  "de": 599.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-mizuno-wave-dynasty-5-2145306236/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/172644165/16775303598152.jpg?v=639012267176330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:49.387Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Reverso 2",
+  "ean": "7894756034579",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 239.99,
+  "de": 379.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-reverso-2-unissex-2145306245/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170524015/17581364235065.jpg?v=638953620846500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:52.277Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Apolis Feminino",
+  "ean": "7893659943209",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 229.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-apolis-feminino-2145306247/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169997501/17581373685679.jpg?v=638937341723130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:55.576Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Masculino Mizuno Wave Legend 2",
+  "ean": "7894756721196",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 399.99,
+  "de": 599.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-masculino-mizuno-wave-legend-2-2145306246/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/37004602/16745775068327.jpg?v=638223830442600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:12:58.326Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Corrida Masculina Mizuno Run Spark Big Logo",
+  "ean": "7894929732134",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 119.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-corrida-masculina-mizuno-run-spark-big-logo-2145306293/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170062794/17581479803587.jpg?v=638937447987100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:01.595Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Garrafa Térmica VG 750ml Vermelho Intenso Invicta",
+  "ean": "7891691005398",
+  "marca": "Invicta",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 29.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/garrafa-termica-vg-750ml-vermvelho-velvet-invicta-2145214479/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169961888/17581325873170.jpg?v=638937307644170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:12.393Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Garrafa Gizmo Flip Kids AUTOSPOUT® Bicho Preguiça Contigo | 414ml",
+  "ean": "7891691013584",
+  "marca": "Contigo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 49.9,
+  "de": 99.9,
+  "url": "https://www.decathlon.com.br/garrafa-kids-gizmo-flip-414ml-bicho-preguica-contigo-2145214481/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169962199/17581326601818.jpg?v=638937307917400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:15.577Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Caixa Térmica 45,4L Adventure Azul Coleman",
+  "ean": "7891691087486",
+  "marca": "Coleman",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 329.9,
+  "de": 399.9,
+  "url": "https://www.decathlon.com.br/caixa-termica-48qt-454l-azul-coleman-2145214483/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169962687/17581327802706.jpg?v=638937308220570000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:21.752Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Garrafa Térmica Air Pot Inox Inquebrável 3L Invicta",
+  "ean": "7891691009747",
+  "marca": "Invicta",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 249.9,
+  "de": 329.9,
+  "url": "https://www.decathlon.com.br/garrafa-termica-air-pot-inox-inquebravel-3l-invicta-2145214492/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169963969/17581330174558.jpg?v=638937308846100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:32.394Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Garrafa Térmica Firenze Mini 250ml Preta Invicta",
+  "ean": "7891691002069",
+  "marca": "Invicta",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 29.9,
+  "de": 34.9,
+  "url": "https://www.decathlon.com.br/garrafa-termica-firenze-mini-250ml-preto-invicta-2145214490/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169963948/17581330023717.jpg?v=638937308836430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:34.205Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Garrafa Térmica GLT Pressão Metalizada 1L Invicta",
+  "ean": "7891691076213",
+  "marca": "Invicta",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 64.9,
+  "de": 89.9,
+  "url": "https://www.decathlon.com.br/garrafa-termica-glt-pressao-metalizada-1l-invicta-2145214494/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170249091/17581250383058.jpg?v=638945107706300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:40.178Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Garrafa Térmica GLT Rolha 500ml Vermelho Intenso Invicta",
+  "ean": "7891691007811",
+  "marca": "Invicta",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 32.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/garrafa-termica-glt-rolha-500ml-vermelho-velvet-invicta-2145216341/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169963731/17581329821066.jpg?v=638937308734900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:50.963Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Calça Esportiva Elite Masculino Confortável Moderno 129002",
+  "ean": "7892888915728",
+  "marca": "ELITE",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Calças e Leggings"
+  ],
+  "preco": 209.9,
+  "de": 254.9,
+  "url": "https://www.decathlon.com.br/calca-esportiva-elite-masculino-confortavel-moderno-129002-2145216370/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/31434130/16747402108611.jpg?v=638178935434200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:56.965Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kit 3 Pares de Meia Olympikus Sem Cano Algodão Macia",
+  "ean": "7891872221760",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meias"
+  ],
+  "preco": 39.9,
+  "de": 44.9,
+  "url": "https://www.decathlon.com.br/kit-3-pares-de-meia-olympikus-sem-cano-algodao-macia-2145216372/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/168098010/17486199815349.jpg?v=638842167937700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:13:59.863Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Regata Feminina Alto Giro Dry Costas Nadador Esporte Treino",
+  "ean": "7890171355602",
+  "marca": "Alto Giro",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Regatas"
+  ],
+  "preco": 189.9,
+  "de": 237.9,
+  "url": "https://www.decathlon.com.br/regata-feminina-alto-giro-dry-costas-nadador-esporte-treino-2145216420/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/31424533/16788227580179.jpg?v=638178788490900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:03.027Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Running Olympikus Feminino Atmos Solado Evasense Leve",
+  "ean": "7893659964426",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 189.9,
+  "de": 214.9,
+  "url": "https://www.decathlon.com.br/tenis-running-olympikus-feminino-atmos-solado-evasense-leve-2145216463/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/31424702/16658411610101.jpg?v=638178788522530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:07.179Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tapete Yoga Mat Pilates Exercícios TPE 6mm Com Bolsa Yangfit",
+  "ean": "0602168929546",
+  "marca": "Yangfit",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Tapetes e Esteiras"
+  ],
+  "preco": 109.94,
+  "de": 229.9,
+  "url": "https://www.decathlon.com.br/tapete-yoga-mat-pilates-exercicios-tpe-6mm-com-bolsa-yangfit-2145216781/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170117315/17582042033899.jpg?v=638939064197500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:20.725Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Copo Térmico THERMALOCK® Kids Tubarão Contigo | 341ml",
+  "ean": "7891691013614",
+  "marca": "Contigo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 49.9,
+  "de": 154.9,
+  "url": "https://www.decathlon.com.br/copo-termico-kids-tubarao-contigo-2145216823/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170079636/17581352902122.jpg?v=638937921893600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:26.664Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kit 3 Pares de Meia Under Armour Cano Curto Logo Macia",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meias"
+  ],
+  "preco": 55.9,
+  "de": 87.9,
+  "url": "https://www.decathlon.com.br/kit-3-pares-de-meia-under-armour-cano-curto-logo-macia-2145216934/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/31454598/16692393743931.jpg?v=638179447162800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:35.200Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Jaqueta Columbia Fast Trek II Feminina",
+  "ean": null,
+  "marca": "Columbia",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Jaquetas"
+  ],
+  "preco": 399.9,
+  "de": 499.9,
+  "url": "https://www.decathlon.com.br/jaqueta-columbia-fast-trek-ii-feminina-2145217520/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/31460882/16799581783716.jpg?v=638179510071800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:37.910Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Garrafa Térmica Firenze 1L Preta Invicta",
+  "ean": "7891691002021",
+  "marca": "Invicta",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 32.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/garrafa-termica-firenze-1l-preto-invicta-2145217534/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169938094/17580551829261.jpg?v=638936519865130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:40.644Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Botijão Térmico 12L Vermelho Velvet Invicta",
+  "ean": "7891691187124",
+  "marca": "Invicta",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Móveis"
+  ],
+  "preco": 159.9,
+  "de": 197.9,
+  "url": "https://www.decathlon.com.br/botijao-termico-12l-vermelho-velvet-invicta-2145217527/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169963154/17581328826204.jpg?v=638937308471930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:45.164Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Garrafa Térmica Inox Singulare 1L Invicta",
+  "ean": "7891691397677",
+  "marca": "Invicta",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Coqueteleira e Squeeze"
+  ],
+  "preco": 79.9,
+  "de": 99.9,
+  "url": "https://www.decathlon.com.br/garrafa-termica-inox-singulare-1l-invicta-2145217668/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169960860/17581322719738.jpg?v=638937306528200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:50.957Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Sunga Fila Basic 18 Ii Masculina - Azul Marinho",
+  "ean": "7890106962035",
+  "marca": "Fila",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Íntimas",
+   "Sungas"
+  ],
+  "preco": 99.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/sunga-fila-basic-18-ii-masculina---azul-marinho-2146059830/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182696974/17945022172952.jpg?v=639301893079670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:56.291Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda New Balance Sport Essentials 7 Pol Masculina - Verde",
+  "ean": "7909946191502",
+  "marca": "New Balance",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 129.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/bermuda-new-balance-sport-essentials-7-pol-masculina---verde-2146059757/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182696311/17945010495793.jpg?v=639301892973470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:14:59.359Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Futsal Umbro Pro 5 Infantil - Cinza/Grafite",
+  "ean": "7909943587131",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 199.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/chuteira-futsal-umbro-pro-5-infantil---cinza-grafite-2146059850/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697086/17945033648925.jpg?v=639301893099000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:02.365Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts Puma Ad Essentials Graphic Woven 7 Pol Masculino - Verde",
+  "ean": "4069157533027",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 159.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/shorts-puma-ad-essentials-graphic-woven-7-pol-masculino---verde-2146059878/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697405/17945005746118.jpg?v=639301893147800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:05.318Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Saia Shorts Under Armour Flex Woven Skort 2 In 1 Feminina - Preta",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Saias e Tules"
+  ],
+  "preco": 199.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/saia-shorts-under-armour-flex-woven-skort-2-in-1-feminina---preta-2146059864/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697246/17945758129835.jpg?v=639301893119800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:08.424Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts Under Armour Fly By 2 In 1 Feminino - Rosa Escuro",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 159.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/shorts-under-armour-fly-by-2-in-1-feminino---rosa-escuro-2146059891/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697479/17945037275423.jpg?v=639301893173100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:11.924Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Joma Master 1000 Saibro Feminino - Preto/Rosa",
+  "ean": "8447368507222",
+  "marca": "JOMA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 359.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-joma-master-1000-saibro-feminino---preto-rosa-2146059966/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698006/17944877158153.jpg?v=639301893341030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:14.680Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Futsal Puma Ultra Match Masculina - Rosa/Preta",
+  "ean": "4067978243507",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 399.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/chuteira-futsal-puma-ultra-match-masculina---rosa-preta-2146059897/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697546/17944902556133.jpg?v=639301893200230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:17.892Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Campo Puma Future 9 Match FG/AG Masculina - Rosa",
+  "ean": "4069161169359",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 749.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/chuteira-campo-puma-future-9-match-fg-ag-masculina---rosa-2146059905/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697568/17945059403532.jpg?v=639301893211000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:22.117Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts Joma Master Atletas Masculino - Branco",
+  "ean": "9995665145092",
+  "marca": "JOMA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 129.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/shorts-joma-master-atletas-masculino---branco-2146059884/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697343/17944943164809.jpg?v=639301893139500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:25.556Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts Under Armour Tech Mesh Masculino - Vermelho",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 119.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/shorts-under-armour-tech-mesh-masculino---vermelho-2146059919/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697734/17945092798184.jpg?v=639301893264430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:28.827Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Calça Milan 2023/24 Puma Pré-Jogo Masculina - Preta/Vermelha",
+  "ean": "4099683596777",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Calças e Leggings"
+  ],
+  "preco": 329.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/calca-milan-2023-24-puma-pre-jogo-masculina---preta-vermelha-2146059915/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697657/17945052267389.jpg?v=639301893225630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:32.057Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Corda Para Raquete Tecnifibre Encor Razor 1.25 Unissex - Preta",
+  "ean": "3490150180115",
+  "marca": "Tecnifibre",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Cordas"
+  ],
+  "preco": 199.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/corda-para-raquete-tecnifibre-encor-razor-1-25-unissex---preta-2146059947/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182697973/17944900094993.jpg?v=639301893329370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:36.375Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Seleção Honduras I 24/25 Joma Infantil - Branca",
+  "ean": "8447150081282",
+  "marca": "JOMA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 239.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-selecao-honduras-i-24-25-joma-infantil---branca-2146060041/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698377/17944980282177.jpg?v=639301893496370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:39.953Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Milan I 23/24 Puma Infantil - Vermelha/Preta",
+  "ean": "4099683477496",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 259.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-milan-i-23-24-puma-infantil---vermelha-preta-2146059993/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698085/17944892646503.jpg?v=639301893397570000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:42.999Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bomba De Ar Uhlsport Dupla Ação Unissex - Cinza",
+  "ean": "7898967489173",
+  "marca": "Uhlsport",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Bolsas"
+  ],
+  "preco": 49.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/bomba-de-ar-uhlsport-dupla-acao-unissex---cinza-2146059981/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698083/17945018806925.jpg?v=639301893397430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:45.918Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Rb Leipzig I 24/25 Puma Infantil - Branca",
+  "ean": "4067981045570",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 319.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-rb-leipzig-i-24-25-puma-infantil---branca-2146060058/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698502/17945042633747.jpg?v=639301893524070000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:49.040Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Santos 2024 Umbro Goleiro Masculina - Amarela",
+  "ean": "7909943378142",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 239.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-santos-2024-umbro-goleiro-masculina---amarela-2146060072/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698552/17945092632074.jpg?v=639301893544700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:52.313Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Borussia Dortmund I 23/24 Puma Infantil - Amarela/Preta",
+  "ean": "4099683768495",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 259.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-borussia-dortmund-i-23-24-puma-infantil---amarela-preta-2146060143/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698900/17944880573278.jpg?v=639301893672400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:55.266Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Fila Axilus 3 Saibro Masculino - Branco/Preto",
+  "ean": "7909943927104",
+  "marca": "Fila",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 629.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-fila-axilus-3-saibro-masculino---branco-preto-2146060079/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698602/17944935349605.jpg?v=639301893572400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:15:58.572Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Ac Milan Puma Pré Jogo Jsy Infantil - Vermelha/Preta",
+  "ean": "4099684049944",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 209.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-ac-milan-puma-pre-jogo-jsy-infantil---vermelha-preta-2146060157/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698944/17944968315841.jpg?v=639301893735430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:01.898Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola de Tênis Babolat Gold All Court Tubo Com 3 Unidades Unissex - Amarela",
+  "ean": null,
+  "marca": "Babolat",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Tênis"
+  ],
+  "preco": 79.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/bola-de-tenis-babolat-gold-all-court-tubo-com-3-unidades-unissex---amarela-2146060179/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699068/17945088953436.jpg?v=639301893873300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:04.969Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Borussia Dortmund I 26/27 Puma Torcedor Masculina - Amarela",
+  "ean": "4070033524442",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 429.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-borussia-dortmund-i-26-27-puma-torcedor-masculina---amarela-2146060176/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699033/17945029876435.jpg?v=639301893792970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:07.952Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Grêmio 23 Umbro Outubro Rosa Masculina - Rosa",
+  "ean": "7909943062270",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 179.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-gremio-23-umbro-outubro-rosa-masculina---rosa-2146060159/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698953/17945035230927.jpg?v=639301893746500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:11.123Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Grip Tecnifibre Feel X12 Unissex - Branco",
+  "ean": "3490150121576",
+  "marca": "Tecnifibre",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Grips, Overgrips e Antivibradores"
+  ],
+  "preco": 89.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/grip-tecnifibre-feel-x12-unissex---branco-2146060098/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182698723/17945023291403.jpg?v=639301893621100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:13.964Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Olympique De Marseille I 23/24 Puma Infantil - Branca",
+  "ean": "4099683681862",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 259.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-olympique-de-marseille-i-23-24-puma-infantil---branca-2146060180/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699071/17944191555510.jpg?v=639301893886000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:17.586Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa São Paulo I 2024 New Balance Jogador Masculina - Branca/Vermelha",
+  "ean": "7909943881932",
+  "marca": "New Balance",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas de Time"
+  ],
+  "preco": 309.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-sao-paulo-i-2024-new-balance-jogador-masculina---branca-vermelha-2146060178/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699051/17945044649699.jpg?v=639301893822930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:20.599Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Mini Tape SM27 Masculina Bege",
+  "ean": "7909846018145",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 112.5,
+  "de": 157,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-mini-tape-sm27-masculina-bege-2146060181/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699110/17942474424533.jpg?v=639301895092970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:23.598Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Billabong Wave Pool SM27 Masculina Branco",
+  "ean": "7909846013119",
+  "marca": "Billabong",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 141.3,
+  "de": 196,
+  "url": "https://www.decathlon.com.br/camiseta-billabong-wave-pool-sm27-masculina-branco-2146060185/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699115/17945604755729.jpg?v=639301895107370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:26.495Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Sunga Hurley Boxer Block SM27 Azul Royal",
+  "ean": "7890000637695",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Íntimas",
+   "Sungas"
+  ],
+  "preco": 141.3,
+  "de": 196,
+  "url": "https://www.decathlon.com.br/sunga-hurley-boxer-block-sm27-azul-royal-2146060190/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699120/17944922223009.jpg?v=639301895123230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:29.515Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Element Skateboard CO SM27 Masculina Vinho",
+  "ean": "7909846020285",
+  "marca": "Element",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 150.3,
+  "de": 209,
+  "url": "https://www.decathlon.com.br/camiseta-element-skateboard-co-sm27-masculina-vinho-2146060187/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699117/17943988564872.jpg?v=639301895117400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:33.129Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda Quiksilver Surfsilk Lasik 20 SM27 Masculina Azul",
+  "ean": "7909846032080",
+  "marca": "Quiksilver",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 311.39,
+  "de": 432,
+  "url": "https://www.decathlon.com.br/bermuda-quiksilver-surfsilk-lasik-20-sm27-masculina-azul-2146060206/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699140/17942472199503.jpg?v=639301895169530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:36.786Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Sunga Hurley Mini Icon II SM27 Preto",
+  "ean": "7890000637251",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Íntimas",
+   "Sungas"
+  ],
+  "preco": 141.3,
+  "de": 196,
+  "url": "https://www.decathlon.com.br/sunga-hurley-mini-icon-ii-sm27-preto-2146060198/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699129/17944923389171.jpg?v=639301895146970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:40.064Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta DC Shoes Embroidery SM27 Masculina Bege",
+  "ean": "7909846017872",
+  "marca": "DC Shoes",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 103.5,
+  "de": 144,
+  "url": "https://www.decathlon.com.br/camiseta-dc-shoes-embroidery-sm27-masculina-bege-2146060212/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699165/17945172545050.jpg?v=639301895197400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:43.144Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Billabong Mini Icon SM27 Masculina Preto",
+  "ean": "7909846062254",
+  "marca": "Billabong",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 103.5,
+  "de": 144,
+  "url": "https://www.decathlon.com.br/camiseta-billabong-mini-icon-sm27-masculina-preto-2146060258/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699298/17945136413934.jpg?v=639301895311300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:46.278Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Reebok Nano X5 Edge Masculino Black/White",
+  "ean": "1200186107084",
+  "marca": "Reebok",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 849.6,
+  "de": 1181,
+  "url": "https://www.decathlon.com.br/tenis-reebok-nano-x5-edge-masculino-black-white-2146060225/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699202/17943986032062.jpg?v=639301895216200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:49.376Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Sunga Hurley Square SM27 Preto",
+  "ean": "7890000637350",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Íntimas",
+   "Sungas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/sunga-hurley-square-sm27-preto-2146060284/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699374/17944924193181.jpg?v=639301895406170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:52.976Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda Billabong Spec 73 Layback 17 SM27 Masculina Preto",
+  "ean": "7909846016271",
+  "marca": "Billabong",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 235.8,
+  "de": 327,
+  "url": "https://www.decathlon.com.br/bermuda-billabong-spec-73-layback-17-sm27-masculina-preto-2146060290/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699384/17942473597790.jpg?v=639301895420100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:56.354Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda RVCA Apex II SM27 Masculina Preto",
+  "ean": "7909846037603",
+  "marca": "RVCA",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 263.7,
+  "de": 367,
+  "url": "https://www.decathlon.com.br/bermuda-rvca-apex-ii-sm27-masculina-preto-2146060271/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699332/17944020480306.jpg?v=639301895371530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:16:59.887Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Reebok Nano X5 Edge Feminino Black/FTWR White",
+  "ean": "1200186103871",
+  "marca": "Reebok",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 849.6,
+  "de": 1181,
+  "url": "https://www.decathlon.com.br/tenis-reebok-nano-x5-edge-feminino-black-ftwr-white-2146060269/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182699321/17944022944301.jpg?v=639301895343370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:03.428Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila Zeiq Legend Pro LB Branca e Azul",
+  "ean": "7908800521776",
+  "marca": "ZEIQ",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 559.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/mochila-zeiq-legend-pro-lb-branca-e-azul-2146031283/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182181930/17933082527846.jpg?v=639289882845330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:06.330Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts Lacoste Tennis Heritage Ultra Dry Bordô",
+  "ean": "3617077933901",
+  "marca": "Lacoste",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 649.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/shorts-lacoste-tennis-heritage-ultra-dry-bordo-2146031264/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182429616/17933077461211.jpg?v=639294031502530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:10.190Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts Duplo Lacoste Azul",
+  "ean": "3617077928990",
+  "marca": "Lacoste",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 599.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/shorts-duplo-lacoste-azul-2146031267/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182081/17933085744264.jpg?v=639289883020200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:13.805Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola De Futsal Umbro Sala V Cup",
+  "ean": "7909943845460",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Futebol e Society"
+  ],
+  "preco": 132.99,
+  "de": 179.99,
+  "url": "https://www.decathlon.com.br/bola-de-futsal-umbro-sala-v-cup-2146031413/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182183159/17931933641904.jpg?v=639289883684770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:16.826Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Campo Umbro Adamant Top Speed Pro Sg",
+  "ean": "7909946182890",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 512.99,
+  "de": 999.99,
+  "url": "https://www.decathlon.com.br/chuteira-campo-umbro-adamant-top-speed-pro-sg-2146031595/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182185208/17931933810943.jpg?v=639289884648600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:19.751Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Skechers Arch Fit 2.0 Masculino",
+  "ean": "0199252103888",
+  "marca": "SKECHERS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 499.9,
+  "de": 549.9,
+  "url": "https://www.decathlon.com.br/tenis-skechers-arch-fit-2-0-masculino-2146031572/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182184844/17933842471511.jpg?v=639289884381700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:22.701Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Venus 3 Unissex",
+  "ean": "7894756446617",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 179.9,
+  "de": 197.9,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-venus-3-unissex-2146031498/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182184087/17932098218282.jpg?v=639289884022030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:25.245Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis ASICS Versablast 4 - Feminino - Roxo/Roxo",
+  "ean": "7908982101407",
+  "marca": "ASICS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 349.99,
+  "de": 499.99,
+  "url": "https://www.decathlon.com.br/tenis-asics-versablast-4---feminino---roxo-roxo-2146031596/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182286417/17931855415928.jpg?v=639291623734100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:28.002Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Luva De Goleiro Juvenil Umbro Squadra",
+  "ean": "7909946377548",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Luvas"
+  ],
+  "preco": 132.99,
+  "de": 139.99,
+  "url": "https://www.decathlon.com.br/luva-de-goleiro-juvenil-umbro-squadra-2146031479/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182183902/17931935299642.jpg?v=639289883942130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:31.306Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Mizuno Neo Vista 3 Unissex",
+  "ean": "7894929442811",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 1139.9,
+  "de": 1329.9,
+  "url": "https://www.decathlon.com.br/tenis-mizuno-neo-vista-3-unissex-2146031590/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182185123/17932212851319.jpg?v=639289884592030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:34.631Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Corre 5 Unissex 43206446-LUNBEG",
+  "ean": "7894929446727",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 642.19,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-corre-5-unissex-43206446-lunbeg-2146031528/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182184326/17931368376349.jpg?v=639289884129630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:37.644Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Corre Vento 3 Feminino 43447473-ATLVRD",
+  "ean": "7893659857827",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 428.14,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-corre-vento-3-feminino-43447473-atlvrd-2146031353/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182480/17931316325495.jpg?v=639289883422800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:41.390Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta masculina HB básica mescla vermelha",
+  "ean": "7890000178815",
+  "marca": "HB",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 62.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-masculina-hb-basica-mescla-vermelha-2146031575/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182184882/17930181488469.jpg?v=639289884438470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:44.745Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Asics Novablast 6 Lite Show Masculino 1011C318-400",
+  "ean": "4571633929601",
+  "marca": "ASICS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 985.05,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-asics-novablast-6-lite-show-masculino-1011c318-400-2146031343/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182810/17932852993265.jpg?v=639289883557370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:47.881Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Skechers Max Cushioning Endeavour Feminino",
+  "ean": "0198376580506",
+  "marca": "SKECHERS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 509.9,
+  "de": 560.9,
+  "url": "https://www.decathlon.com.br/tenis-skechers-max-cushioning-endeavour-feminino-2146031358/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182183395/17933642337459.jpg?v=639289883768930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:50.651Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Skechers Glide Step Flow Infantil - 404172L",
+  "ean": "0199252004901",
+  "marca": "SKECHERS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 279.9,
+  "de": 307.9,
+  "url": "https://www.decathlon.com.br/tenis-skechers-glide-step-flow-infantil---404172l-2146031482/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182184437/17933657068335.jpg?v=639289884161270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:53.464Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Juvenil Mormaii Base JR Calce Fácil Cadarço Elástico",
+  "ean": "7900298056112",
+  "marca": "MORMAII",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 199.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-juvenil-mormaii-base-jr-calce-facil-cadarco-elastico-2146031326/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182223/17932118976755.jpg?v=639289883207270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:17:56.569Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Asics Dynablast 6 Se Masculino 1011C372-001",
+  "ean": "7908982126127",
+  "marca": "ASICS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 687.01,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-asics-dynablast-6-se-masculino-1011c372-001-2146031347/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182443/17932193962090.jpg?v=639289883415300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:00.504Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "DUX Human Health Creatina Monohidratada - Pote 300g",
+  "ean": "7898641073971",
+  "marca": "Dux Nutrition",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Aminoácidos",
+   "Creatina"
+  ],
+  "preco": 59,
+  "de": 89.9,
+  "url": "https://www.decathlon.com.br/dux-human-health-creatina-monohidratada---pote-300g-2146031604/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182185688/17933851122098.jpg?v=639289885400600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:04.422Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Skechers Go Walk-Glide-Step 2.0 Feminino",
+  "ean": "0199252078803",
+  "marca": "SKECHERS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 599.9,
+  "de": 659.9,
+  "url": "https://www.decathlon.com.br/tenis-skechers-go-walk-glide-step-2-0-feminino-2146031554/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182184601/17933627892247.jpg?v=639289884231470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:06.990Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chinelo Kenner Masculino Aikon",
+  "ean": "7909403977076",
+  "marca": "Kenner",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chinelos"
+  ],
+  "preco": 199.88,
+  "de": 279.9,
+  "url": "https://www.decathlon.com.br/chinelo-kenner-masculino-aikon-2146031538/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182184470/17932992723581.jpg?v=639289884175200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:10.305Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bicicleta Aro 26 Athor Freeride B-Ramp 7 Velocidades",
+  "ean": "7898540975826",
+  "marca": "Athor",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bicicletas"
+  ],
+  "preco": 1499,
+  "de": null,
+  "url": "https://www.decathlon.com.br/bicicleta-aro-26-athor-freeride-b-ramp-7-velocidades-2146031600/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182185458/17920093057146.jpg?v=639289884912670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:13.450Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Casual Mizuno City Wall Infantil",
+  "ean": "7894756849265",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 299.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-casual-mizuno-city-wall-infantil-2146031602/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182185500/17933464867646.jpg?v=639289884980800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:16.272Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Mormaii Surpass Pro Ultra Flexxxa Foam",
+  "ean": "7900298052572",
+  "marca": "MORMAII",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 369.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-mormaii-surpass-pro-ultra-flexxxa-foam-2146031417/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182183230/17932055448979.jpg?v=639289883710630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:19.592Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Raqueteira Zeiq Slim Navy NG",
+  "ean": "7908800518752",
+  "marca": "ZEIQ",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Raqueteiras"
+  ],
+  "preco": 799.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/raqueteira-zeiq-slim-navy-ng-2146031281/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182181939/17933082874945.jpg?v=639289882850000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:23.423Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Juvenil Skechers Bounder Quantarun 403905L-SLT",
+  "ean": null,
+  "marca": "SKECHERS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 234.12,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-juvenil-skechers-bounder-quantarun-403905l-slt-2146031357/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182573/17931395299602.jpg?v=639289883483800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:26.767Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mala de Viagem Bagaggio Flamengo CRF Abs Expansivel 10 Kg",
+  "ean": "7901172000887",
+  "marca": "Bagaggio",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Malas"
+  ],
+  "preco": 499.88,
+  "de": 599.9,
+  "url": "https://www.decathlon.com.br/mala-de-viagem-bagaggio-flamengo-crf-abs-expansivel-10-kg-2146031504/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182184179/17932201797466.jpg?v=639289884051600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:29.909Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Corre 5 Feminino 43206446-BCOVDM",
+  "ean": "7894929442378",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 642.19,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-corre-5-feminino-43206446-bcovdm-2146031340/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182361/17931318392080.jpg?v=639289883336200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:33.048Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Corre 5 Unissex 43206446-CHBMLT",
+  "ean": "7891872749356",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 642.19,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-corre-5-unissex-43206446-chbmlt-2146031333/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182267/17931120547218.jpg?v=639289883308270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:36.140Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts Duplo Lacoste Bege Claro",
+  "ean": "3617077953183",
+  "marca": "Lacoste",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Peças",
+   "Pneus e Câmaras de ar"
+  ],
+  "preco": 599.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/shorts-duplo-lacoste-bege-claro-2146031319/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182260/17933085599096.jpg?v=639289883297670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:39.223Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Asics Gel Kayano 33 Lite Show Masculino 1011C315-400",
+  "ean": "4571633899812",
+  "marca": "ASICS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 1253.68,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-asics-gel-kayano-33-lite-show-masculino-1011c315-400-2146031332/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182436/17932980778091.jpg?v=639289883414830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:42.595Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Calça Legging Lacoste Bege",
+  "ean": null,
+  "marca": "Lacoste",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Calças e Leggings"
+  ],
+  "preco": 449.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/calca-legging-lacoste-bege-2146031327/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182182234/17933087857217.jpg?v=639289883229430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:45.922Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kettlebell Black Cimento Ahead Sports Crossfit Musculação Fitness 4 Kg Preto",
+  "ean": "7898653582034",
+  "marca": "Ahead Sports",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Kettlebells"
+  ],
+  "preco": 132,
+  "de": null,
+  "url": "https://www.decathlon.com.br/kettlebell-black-cimento-ahead-sports-crossfit-musculacao-fitness-4-kg-preto-2146031807/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182187473/17933741295031.jpg?v=639289897622700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:49.293Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meia de Futebol Prosocks Grip Draft Unissex MGDFPR44",
+  "ean": "7898755993677",
+  "marca": "Pro Socks",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meias"
+  ],
+  "preco": 61.2,
+  "de": null,
+  "url": "https://www.decathlon.com.br/meia-de-futebol-prosocks-grip-draft-unissex-mgdfpr44-2146031808/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182187476/17930460855769.jpg?v=639289897860170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:52.238Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mala de Viagem Bagaggio Fluminense Abs 10 Kg",
+  "ean": "7901172000863",
+  "marca": "Bagaggio",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Malas"
+  ],
+  "preco": 499.88,
+  "de": 599.9,
+  "url": "https://www.decathlon.com.br/mala-de-viagem-bagaggio-fluminense-abs-10-kg-2146031809/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182187867/17931864535472.jpg?v=639289913021400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:55.640Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Apolis Feminino",
+  "ean": "7894756841573",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 229.9,
+  "de": 252.9,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-apolis-feminino-2146032799/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182192179/17932062666956.jpg?v=639289940599770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:18:58.791Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Safira Feminino",
+  "ean": "7894756892636",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 199.9,
+  "de": 219.9,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-safira-feminino-2146032798/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182453653/17932122944316.jpg?v=639294972174230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:01.864Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Boné Quiksilver Aba Curva 3D Emb Full Front SM27 Preto",
+  "ean": "7909846033100",
+  "marca": "Quiksilver",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Boné, chapeu e viseira"
+  ],
+  "preco": 263.7,
+  "de": 367,
+  "url": "https://www.decathlon.com.br/bone-quiksilver-aba-curva-3d-emb-full-front-sm27-preto-2146033159/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182194161/17933004340954.jpg?v=639289959480200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:05.517Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Asics Sky Elite FF MT 4 Masculino",
+  "ean": "4571633924033",
+  "marca": "ASICS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 949.9,
+  "de": 1044.9,
+  "url": "https://www.decathlon.com.br/tenis-asics-sky-elite-ff-mt-4-masculino-2146033162/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182309614/17927935581221.jpg?v=639291765586570000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:08.396Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Asics Gel-Excite 11 Masculino",
+  "ean": "7908982105368",
+  "marca": "ASICS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 370.4,
+  "de": 474.9,
+  "url": "https://www.decathlon.com.br/tenis-asics-gel-excite-11-masculino-2146033161/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182195753/17927920699218.jpg?v=639289967082070000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:11.657Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Vestido de Tennis Mizuno Feminino",
+  "ean": "7893659737921",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Vestidos"
+  ],
+  "preco": 319.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/vestido-de-tennis-mizuno-feminino-2146022472/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820087/17922241740765.jpg?v=639282175880170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:15.341Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Corrida Mizuno Pro UV 2 Masculino",
+  "ean": "7893659372474",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 139.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-corrida-mizuno-pro-uv-2-masculino-2146022451/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181819956/17922254118283.jpg?v=639282175763530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:18.828Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Short de Tennis Mizuno Masculino",
+  "ean": "7894756583060",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 359.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/short-de-tennis-mizuno-masculino-2146022487/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820287/17922241124054.jpg?v=639282175985170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:22.008Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Saia de Tennis  Mizuno Feminina",
+  "ean": "7894756583466",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Saias e Tules"
+  ],
+  "preco": 279.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/saia-de-tennis--mizuno-feminina-2146022469/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820042/17922241359668.jpg?v=639282175805170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:25.142Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Mizuno Stamp 4 Masculina",
+  "ean": "7891872820789",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 139.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-mizuno-stamp-4-masculina-2146022486/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820187/17922248465121.jpg?v=639282175904100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:27.712Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Corrida Mizuno Poliamida Masculina",
+  "ean": "7893659388000",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 159.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-corrida-mizuno-poliamida-masculina-2146022488/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820267/17922255355166.jpg?v=639282175980170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:31.316Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Corrida Mizuno Core Graphic Feminina",
+  "ean": "7894756878197",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 279.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-corrida-mizuno-core-graphic-feminina-2146022448/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181819835/17922239000494.jpg?v=639282175720930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:34.831Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Short de Futebol Mizuno Basic Masculino",
+  "ean": "7894929916978",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 119.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/short-de-futebol-mizuno-basic-masculino-2146022473/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820115/17922249261424.jpg?v=639282175887300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:37.968Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Saia de Tennis  Mizuno Feminina",
+  "ean": "7894756583626",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Saias e Tules"
+  ],
+  "preco": 279.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/saia-de-tennis--mizuno-feminina-2146022468/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820032/17922241515752.jpg?v=639282175790430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:41.301Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Corrida Mizuno Poliamida Feminina",
+  "ean": "7893659291270",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 159.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-corrida-mizuno-poliamida-feminina-2146022450/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181819952/17922243998009.jpg?v=639282175762000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:44.456Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Tennis Mizuno Graphic Masculina",
+  "ean": "7893659758919",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 299.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-tennis-mizuno-graphic-masculina-2146022491/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820359/17922240621277.jpg?v=639282176030030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:47.479Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Corrida Mizuno Pro UV 2 Masculino",
+  "ean": "7893659371002",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 139.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-corrida-mizuno-pro-uv-2-masculino-2146022470/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820071/17922253323882.jpg?v=639282175874800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:50.877Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda de Treino Mizuno Root Mesh 2 Masculina",
+  "ean": "7894756699853",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 129.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/bermuda-de-treino-mizuno-root-mesh-2-masculina-2146022506/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820641/17922244918123.jpg?v=639282176211030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:54.091Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Corrida Mizuno Focus Stamp Masculina",
+  "ean": "7893659363854",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 179.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-corrida-mizuno-focus-stamp-masculina-2146022508/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820678/17922251713306.jpg?v=639282176248900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:19:57.293Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta de Treino Mizuno Stamp 4 Masculina",
+  "ean": "7893659645127",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 139.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camiseta-de-treino-mizuno-stamp-4-masculina-2146022509/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820711/17922247108350.jpg?v=639282176279330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:20:00.096Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Mizuno Wave Prophecy LS Sport",
+  "ean": "7894756230322",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 1999.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-mizuno-wave-prophecy-ls-sport-2146022511/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820718/17922240161767.jpg?v=639282176286200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:20:03.539Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meia ciclismo bike esportiva poliamida cano médio ERT CALOI",
+  "ean": "7899935074230",
+  "marca": "ERT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meias"
+  ],
+  "preco": 29.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/meia-ciclismo-bike-esportiva-poliamida-cano-medio-ert-caloi-2146022514/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820837/17921750081275.jpg?v=639282177977370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:20:06.673Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kit 10x remendo reparo câmara de ar bike moto Vipal 40 mm",
+  "ean": "7890367002648",
+  "marca": "Vipal",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Peças",
+   "Pneus e Câmaras de ar"
+  ],
+  "preco": 7.9,
+  "de": null,
+  "url": "https://www.decathlon.com.br/kit-10x-remendo-reparo-camara-de-ar-bike-moto-vipal-40-mm-2146022513/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820815/17924214018188.jpg?v=639282177942330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:20:09.926Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "BICICLETA SPINNING COM RODA DE INERCIA DE 4KG WCT FITNESS",
+  "ean": "7898796000006",
+  "marca": "WCT FITNESS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bicicleta Spinning"
+  ],
+  "preco": 636.99,
+  "de": 1120.9,
+  "url": "https://www.decathlon.com.br/bicicleta-spinning-com-roda-de-inercia-de-4kg-wct-fitness-2146022517/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820841/17924145524447.jpg?v=639282177992970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:20:13.037Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Only 3",
+  "ean": "7894756182614",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 259.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-only-3-2146022515/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/181820826/17922234330264.jpg?v=639282177969870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:20:16.239Z"
  }
 ]

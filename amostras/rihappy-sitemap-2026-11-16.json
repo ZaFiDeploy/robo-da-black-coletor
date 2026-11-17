@@ -2,622 +2,6 @@
  {
   "fonte": "sitemap-rihappy",
   "loja": "Ri Happy",
-  "titulo": "Máscara Mergulho Infantil - Azul",
-  "ean": "7896020619017",
-  "marca": "Mor",
-  "modelo": "100515461",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 19,
-  "de": 20,
-  "url": "https://www.rihappy.com.br/mascara-mergulho-infantil---azul-1002140205/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/6481095/17258994739904.jpg?v=638621100395330000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:05.355Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Touca de Natação Poliamida - Azul",
-  "ean": "7896020619048",
-  "marca": "Mor",
-  "modelo": "100515036",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 12,
-  "de": 13,
-  "url": "https://www.rihappy.com.br/touca-de-natacao-poliamida---azul-1002139768/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/6481097/17258994906824.jpg?v=638621100396400000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:07.774Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Figura de Ação - Smashers Ovo Dino Ice Surpresa Grande - Fun",
-  "ean": "7898039607740",
-  "marca": "Fun",
-  "modelo": "100398978",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 249.99,
-  "de": null,
-  "url": "https://www.rihappy.com.br/smashers-ovo-dino-ice-surpresa-grande/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/5884061/Figura-de-Acao---Smashers-Ovo-Dino-Ice-Surpresa-Grande---Fun-0.jpg?v=638302965298470000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:09.411Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "LEGO Classic - Base Verde - 10700",
-  "ean": "0673419232845",
-  "marca": "LEGO",
-  "modelo": "100108084",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 59.99,
-  "de": 79.99,
-  "url": "https://www.rihappy.com.br/lego-classic-base-verde-10700/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/3127220/100108084_1.jpg?v=637872292753000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-16T13:57:11.262Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Conjunto de Atividades - Panela Recheada - Modelos Sortidos - FanFun",
-  "ean": "7899267313656",
-  "marca": "FanFun",
-  "modelo": "100473121",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 17.99,
-  "de": 29.99,
-  "url": "https://www.rihappy.com.br/conjunto-de-atividades---panela-recheada---amarela---fanfun-/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/7088960/Conjunto-de-Atividades---Panela-Recheada---Modelos-Sortidos---FanFun--0.jpg?v=638689457740000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:14.020Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Copo de Treinamento - 260 Ml - Easy - Roxo - Philips Avent",
-  "ean": "8710103779827",
-  "marca": "Philips Avent",
-  "modelo": "100136063",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 39.91,
-  "de": 59.99,
-  "url": "https://www.rihappy.com.br/copo-de-treinamento-260-ml-easy-roxo-philips-avent/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/330174/copo-de-treinamento-260-ml-easy-roxo-philips-avent-840891_Frente.jpg?v=636300246009900000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:16.033Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Mamadeira Transparente - 260 Ml - Pétala - Philips Avent",
-  "ean": "8710103872238",
-  "marca": "Philips Avent",
-  "modelo": "100164416",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 39.91,
-  "de": null,
-  "url": "https://www.rihappy.com.br/mamadeira-transparente-260-ml-petala-philips-avent/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/3586140/100164416_1.jpg?v=637891393334830000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-16T13:57:18.010Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Bote Baby Meu Primeiro Bote Assento - Intex",
-  "ean": "6941057402208",
-  "marca": "Intex",
-  "modelo": "100384309",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 74.9,
-  "de": null,
-  "url": "https://www.rihappy.com.br/bote-baby-meu-primeiro-bote-assento---intex-1001997213/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/8528419/17526838950730.jpg?v=638887036199530000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:20.202Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Carrinho Conversível - Turma da Mônica - Cebolinha - Sortido - Monte Libano",
-  "ean": "7896744802559",
-  "marca": "Monte Líbano",
-  "modelo": "100516623",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 80.99,
-  "de": 89.99,
-  "url": "https://www.rihappy.com.br/carrinho-conversivel---turma-da-monica---cebolinha---verde---turma-da-monica---monte-libano/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/8199579/Carrinho-Conversivel---Turma-da-Monica---Cebolinha---Sortido---Monte-Libano-0.jpg?v=638815792077530000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:22.809Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Carrinho Conversível - Turma Da Mônica - Mônica - Vermelho - Monte Libano",
-  "ean": "7896744802504",
-  "marca": "Monte Líbano",
-  "modelo": "100516620",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 61.99,
-  "de": 89.99,
-  "url": "https://www.rihappy.com.br/carrinho-conversivel---turma-da-monica---monica---vermelho---turma-da-monica---monte-libano/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/7479914/Carrinho-Conversivel---Turma-Da-Monica---Monica---Vermelho---Monte-Libano-0.jpg?v=638755086130800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:25.235Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Chupeta - Silicone - Space - Rosa - Meninas - Tam 3 - NUK",
-  "ean": "7896098813713",
-  "marca": "Nuk",
-  "modelo": "100181895",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 29.91,
-  "de": null,
-  "url": "https://www.rihappy.com.br/chupeta-silicone-space-rosa-meninas-tam-3-nuk/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/5767226/Chupeta---Silicone---Space---Verde---Meninas---Tam-3---NUK-0.jpg?v=638213336612800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:27.357Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Mini Figuras - Patrulha Canina - Hero Pups Moto - Colecionável - Sunny",
-  "ean": "7899573622749",
-  "marca": "Sunny",
-  "modelo": "100406236",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 4.5,
-  "de": null,
-  "url": "https://www.rihappy.com.br/mini-figuras---colecionavel---patrulha-canina---hero-pups-moto---sunny-/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/6210062/Mini-Figuras---Patrulha-Canina---Hero-Pups-Moto---Colecionavel---Sunny-0.jpg?v=638460419841270000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-16T13:57:29.528Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Figura Articulada - DC Comics - Superman - Sunny",
-  "ean": "7899573622022",
-  "marca": "Sunny",
-  "modelo": "100335426",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 87.99,
-  "de": 129.99,
-  "url": "https://www.rihappy.com.br/figura-articulada--dc-comics---superman---sunny/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/8961378/Figura-Articulada---DC-Comics---Superman---Sunny-0.jpg?v=638931900736830000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:31.520Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Fazendinha do Bita - Mundo Bita - Monte Libano",
-  "ean": "7896744802405",
-  "marca": "Monte Líbano",
-  "modelo": "100305203",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 81.99,
-  "de": 129.99,
-  "url": "https://www.rihappy.com.br/fazendinha-do-bita---mundo-bita---monte-libano/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/4901823/Fazendinha-do-Bita---Mundo-Bita---Monte-Libano-0.jpg?v=638017257352530000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:33.383Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Blocos de Montar e Mini Figuras - Monte Libano - Mundo Bita - Dia de Sol",
-  "ean": "7896744802351",
-  "marca": "Monte Líbano",
-  "modelo": "100271389",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 81.99,
-  "de": 129.99,
-  "url": "https://www.rihappy.com.br/blocos-de-montar-e-mini-figuras-%E2%80%93-monte-libano---mundo-bita---dia-de-sol/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/5071853/Blocos-de-Montar-e-Mini-Figuras---Monte-Libano---Mundo-Bita---Dia-de-Sol-0.jpg?v=638043122231070000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:35.377Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Super Trunfo Dinossauros 2",
-  "ean": "7908010131130",
-  "marca": "Grow",
-  "modelo": "100531064",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 29.99,
-  "de": null,
-  "url": "https://www.rihappy.com.br/super-trunfo-dinossauros-2-1002156854/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/8421454/17255618982449.jpg?v=638866088507830000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:37.331Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Super Trunfo Dinossauros",
-  "ean": "7908010114027",
-  "marca": "Grow",
-  "modelo": "100530308",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 29.99,
-  "de": null,
-  "url": "https://www.rihappy.com.br/super-trunfo-dinossauros-1002156089/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/6470338/17255618868329.jpg?v=638620933880270000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:39.604Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Quebra-cabeça 100 peças Dinossauros",
-  "ean": "7908010126600",
-  "marca": "Loja Grow",
-  "modelo": "100530938",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 34.99,
-  "de": null,
-  "url": "https://www.rihappy.com.br/puzzle-100-pecas-dinossauros-1002156727/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/8421573/17255602479130.jpg?v=638866088542400000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:42.759Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Cadeira de Alimentação - Pocket Snack - Dark Grey - Chicco - De 6 meses a 15 Kg",
-  "ean": "8058664090365",
-  "marca": "Chicco",
-  "modelo": "100160449",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 99.91,
-  "de": 299.99,
-  "url": "https://www.rihappy.com.br/cadeira-de-alimentacao-pocket-snack-dark-grey-chicco/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/371735/pocket-snack-dark-grey-5079340400000_Frente.jpg?v=636838729268430000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-16T13:57:44.633Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Combo Super Trunfos Dinossauros",
-  "ean": "9900000002190",
-  "marca": "Grow",
-  "modelo": "100531154",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 59.98,
-  "de": null,
-  "url": "https://www.rihappy.com.br/combo-super-trunfos-dinossauros-1002156943/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/8421746/17255572271962.jpg?v=638866088637500000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:46.880Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Super Trunfo Cidades do Mundo",
-  "ean": "7908010137149",
-  "marca": "Grow",
-  "modelo": "100530298",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 29.99,
-  "de": null,
-  "url": "https://www.rihappy.com.br/super-trunfo-cidades-do-mundo-1002156073/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/6469181/17255446292233.jpg?v=638620933265630000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:48.958Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Combo Dino",
-  "ean": "9900000010461",
-  "marca": "Loja Grow",
-  "modelo": "100531162",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 94.97,
-  "de": null,
-  "url": "https://www.rihappy.com.br/combo-dino-1002156952/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/8421676/17255571365281.jpg?v=638866088589830000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:51.208Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Jogo Scotland Yard Máquina do Tempo",
-  "ean": "7908010133301",
-  "marca": "Grow",
-  "modelo": "100530410",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 159.99,
-  "de": null,
-  "url": "https://www.rihappy.com.br/jogo-scotland-yard-maquina-do-tempo-1002156195/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/6812158/17291056175113.jpg?v=638647499517970000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:53.382Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Puzzle 2000 peças A Livraria",
-  "ean": "7908010140965",
-  "marca": "Grow",
-  "modelo": "100530295",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 149.99,
-  "de": null,
-  "url": "https://www.rihappy.com.br/puzzle-2000-pecas-a-livraria-1002156069/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/6470990/17255598948316.jpg?v=638620962084500000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:55.680Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Cozinha Portátil e Acessórios - Fan Fun",
-  "ean": "7896964623095",
-  "marca": "FanFun",
-  "modelo": "100168636",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 116.99,
-  "de": 159.99,
-  "url": "https://www.rihappy.com.br/cozinha-portatil-e-acessorios-fan-fun-cotiplas/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/390854/Cozinha-Portatil-e-Acessorios---Fan-Fun.jpg?v=636995936086670000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:57.344Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Berço Cômoda com Colchão Incluso Colinho de Mãe Multimóveis Branco/Rosa",
-  "ean": "7899027026260",
-  "marca": "Multimoveis",
-  "modelo": "100355572",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 1329.9,
-  "de": 1669.9,
-  "url": "https://www.rihappy.com.br/berco-comoda-com-colchao-incluso-colinho-de-mae-multimoveis-branco-rosa-1001959347/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/6466123/17257222239981.jpg?v=638620932579870000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:57:59.769Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Conjunto De Acessórios - Kit Sushi - Fanfun",
-  "ean": "7899267312840",
-  "marca": "FanFun",
-  "modelo": "100217300",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 76.99,
-  "de": 119.99,
-  "url": "https://www.rihappy.com.br/conjunto-de-acessorios---kit-sushi---fanfun/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/5306630/Conjunto-De-Acessorios---Kit-Sushi---Fanfun-0.jpg?v=638077705679370000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:01.671Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
-  "titulo": "Escova de Dentes Elétrica - Boy - Chicco",
-  "ean": "8058664103720",
-  "marca": "Chicco",
-  "modelo": "100184087",
-  "cat": null,
-  "catLoja": null,
-  "caminhoLoja": [],
-  "preco": 59.91,
-  "de": 99.99,
-  "url": "https://www.rihappy.com.br/escova-de-dentes-eletrica-boy-chicco/p",
-  "img": "https://rihappy.vtexassets.com/arquivos/ids/633892/escova-de-dentes-eletrica-boy-chicco-00008545000000_Frente.jpg?v=637304321826470000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:03.196Z"
- },
- {
-  "fonte": "sitemap-rihappy",
-  "loja": "Ri Happy",
   "titulo": "Termômetro Infravermelho sem Contato Multi Saúde - HC260 HC260",
   "ean": "7899838899671",
   "marca": "Loja Multi",
@@ -640,6 +24,622 @@
  {
   "fonte": "sitemap-rihappy",
   "loja": "Ri Happy",
+  "titulo": "Máscara Mergulho Infantil - Azul",
+  "ean": "7896020619017",
+  "marca": "Mor",
+  "modelo": "100515461",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 19,
+  "de": 20,
+  "url": "https://www.rihappy.com.br/mascara-mergulho-infantil---azul-1002140205/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/6481095/17258994739904.jpg?v=638621100395330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:06.631Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Touca de Natação Poliamida - Azul",
+  "ean": "7896020619048",
+  "marca": "Mor",
+  "modelo": "100515036",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 12,
+  "de": 13,
+  "url": "https://www.rihappy.com.br/touca-de-natacao-poliamida---azul-1002139768/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/6481097/17258994906824.jpg?v=638621100396400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:09.018Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Figura de Ação - Smashers Ovo Dino Ice Surpresa Grande - Fun",
+  "ean": "7898039607740",
+  "marca": "Fun",
+  "modelo": "100398978",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 249.99,
+  "de": null,
+  "url": "https://www.rihappy.com.br/smashers-ovo-dino-ice-surpresa-grande/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/5884061/Figura-de-Acao---Smashers-Ovo-Dino-Ice-Surpresa-Grande---Fun-0.jpg?v=638302965298470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:10.557Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "LEGO Classic - Base Verde - 10700",
+  "ean": "0673419232845",
+  "marca": "LEGO",
+  "modelo": "100108084",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 59.99,
+  "de": 79.99,
+  "url": "https://www.rihappy.com.br/lego-classic-base-verde-10700/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/3127220/100108084_1.jpg?v=637872292753000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-17T01:04:12.541Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Conjunto de Atividades - Panela Recheada - Modelos Sortidos - FanFun",
+  "ean": "7899267313656",
+  "marca": "FanFun",
+  "modelo": "100473121",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 17.99,
+  "de": 29.99,
+  "url": "https://www.rihappy.com.br/conjunto-de-atividades---panela-recheada---amarela---fanfun-/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/7088960/Conjunto-de-Atividades---Panela-Recheada---Modelos-Sortidos---FanFun--0.jpg?v=638689457740000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:14.315Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Copo de Treinamento - 260 Ml - Easy - Roxo - Philips Avent",
+  "ean": "8710103779827",
+  "marca": "Philips Avent",
+  "modelo": "100136063",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 39.91,
+  "de": 59.99,
+  "url": "https://www.rihappy.com.br/copo-de-treinamento-260-ml-easy-roxo-philips-avent/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/330174/copo-de-treinamento-260-ml-easy-roxo-philips-avent-840891_Frente.jpg?v=636300246009900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:16.243Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Mamadeira Transparente - 260 Ml - Pétala - Philips Avent",
+  "ean": "8710103872238",
+  "marca": "Philips Avent",
+  "modelo": "100164416",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 39.91,
+  "de": null,
+  "url": "https://www.rihappy.com.br/mamadeira-transparente-260-ml-petala-philips-avent/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/3586140/100164416_1.jpg?v=637891393334830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-17T01:04:18.908Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Bote Baby Meu Primeiro Bote Assento - Intex",
+  "ean": "6941057402208",
+  "marca": "Intex",
+  "modelo": "100384309",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 74.9,
+  "de": null,
+  "url": "https://www.rihappy.com.br/bote-baby-meu-primeiro-bote-assento---intex-1001997213/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/8528419/17526838950730.jpg?v=638887036199530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:21.252Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Carrinho Conversível - Turma da Mônica - Cebolinha - Sortido - Monte Libano",
+  "ean": "7896744802559",
+  "marca": "Monte Líbano",
+  "modelo": "100516623",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 80.99,
+  "de": 89.99,
+  "url": "https://www.rihappy.com.br/carrinho-conversivel---turma-da-monica---cebolinha---verde---turma-da-monica---monte-libano/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/8199579/Carrinho-Conversivel---Turma-da-Monica---Cebolinha---Sortido---Monte-Libano-0.jpg?v=638815792077530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:23.181Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Carrinho Conversível - Turma Da Mônica - Mônica - Vermelho - Monte Libano",
+  "ean": "7896744802504",
+  "marca": "Monte Líbano",
+  "modelo": "100516620",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 61.99,
+  "de": 89.99,
+  "url": "https://www.rihappy.com.br/carrinho-conversivel---turma-da-monica---monica---vermelho---turma-da-monica---monte-libano/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/7479914/Carrinho-Conversivel---Turma-Da-Monica---Monica---Vermelho---Monte-Libano-0.jpg?v=638755086130800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:24.718Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Chupeta - Silicone - Space - Rosa - Meninas - Tam 3 - NUK",
+  "ean": "7896098813713",
+  "marca": "Nuk",
+  "modelo": "100181895",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 29.91,
+  "de": null,
+  "url": "https://www.rihappy.com.br/chupeta-silicone-space-rosa-meninas-tam-3-nuk/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/5767226/Chupeta---Silicone---Space---Verde---Meninas---Tam-3---NUK-0.jpg?v=638213336612800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:26.257Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Mini Figuras - Patrulha Canina - Hero Pups Moto - Colecionável - Sunny",
+  "ean": "7899573622749",
+  "marca": "Sunny",
+  "modelo": "100406236",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 4.5,
+  "de": null,
+  "url": "https://www.rihappy.com.br/mini-figuras---colecionavel---patrulha-canina---hero-pups-moto---sunny-/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/6210062/Mini-Figuras---Patrulha-Canina---Hero-Pups-Moto---Colecionavel---Sunny-0.jpg?v=638460419841270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-17T01:04:27.794Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Figura Articulada - DC Comics - Superman - Sunny",
+  "ean": "7899573622022",
+  "marca": "Sunny",
+  "modelo": "100335426",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 87.99,
+  "de": 129.99,
+  "url": "https://www.rihappy.com.br/figura-articulada--dc-comics---superman---sunny/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/8961378/Figura-Articulada---DC-Comics---Superman---Sunny-0.jpg?v=638931900736830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:29.331Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Fazendinha do Bita - Mundo Bita - Monte Libano",
+  "ean": "7896744802405",
+  "marca": "Monte Líbano",
+  "modelo": "100305203",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 81.99,
+  "de": 129.99,
+  "url": "https://www.rihappy.com.br/fazendinha-do-bita---mundo-bita---monte-libano/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/4901823/Fazendinha-do-Bita---Mundo-Bita---Monte-Libano-0.jpg?v=638017257352530000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:30.871Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Blocos de Montar e Mini Figuras - Monte Libano - Mundo Bita - Dia de Sol",
+  "ean": "7896744802351",
+  "marca": "Monte Líbano",
+  "modelo": "100271389",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 81.99,
+  "de": 129.99,
+  "url": "https://www.rihappy.com.br/blocos-de-montar-e-mini-figuras-%E2%80%93-monte-libano---mundo-bita---dia-de-sol/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/5071853/Blocos-de-Montar-e-Mini-Figuras---Monte-Libano---Mundo-Bita---Dia-de-Sol-0.jpg?v=638043122231070000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:32.412Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Super Trunfo Dinossauros 2",
+  "ean": "7908010131130",
+  "marca": "Grow",
+  "modelo": "100531064",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 29.99,
+  "de": null,
+  "url": "https://www.rihappy.com.br/super-trunfo-dinossauros-2-1002156854/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/8421454/17255618982449.jpg?v=638866088507830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:34.814Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Super Trunfo Dinossauros",
+  "ean": "7908010114027",
+  "marca": "Grow",
+  "modelo": "100530308",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 29.99,
+  "de": null,
+  "url": "https://www.rihappy.com.br/super-trunfo-dinossauros-1002156089/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/6470338/17255618868329.jpg?v=638620933880270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:37.870Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Quebra-cabeça 100 peças Dinossauros",
+  "ean": "7908010126600",
+  "marca": "Loja Grow",
+  "modelo": "100530938",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 34.99,
+  "de": null,
+  "url": "https://www.rihappy.com.br/puzzle-100-pecas-dinossauros-1002156727/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/8421573/17255602479130.jpg?v=638866088542400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:39.907Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Cadeira de Alimentação - Pocket Snack - Dark Grey - Chicco - De 6 meses a 15 Kg",
+  "ean": "8058664090365",
+  "marca": "Chicco",
+  "modelo": "100160449",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 99.91,
+  "de": 299.99,
+  "url": "https://www.rihappy.com.br/cadeira-de-alimentacao-pocket-snack-dark-grey-chicco/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/371735/pocket-snack-dark-grey-5079340400000_Frente.jpg?v=636838729268430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-17T01:04:42.496Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Combo Super Trunfos Dinossauros",
+  "ean": "9900000002190",
+  "marca": "Grow",
+  "modelo": "100531154",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 59.98,
+  "de": null,
+  "url": "https://www.rihappy.com.br/combo-super-trunfos-dinossauros-1002156943/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/8421746/17255572271962.jpg?v=638866088637500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:44.745Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Super Trunfo Cidades do Mundo",
+  "ean": "7908010137149",
+  "marca": "Grow",
+  "modelo": "100530298",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 29.99,
+  "de": null,
+  "url": "https://www.rihappy.com.br/super-trunfo-cidades-do-mundo-1002156073/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/6469181/17255446292233.jpg?v=638620933265630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:46.478Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Combo Dino",
+  "ean": "9900000010461",
+  "marca": "Loja Grow",
+  "modelo": "100531162",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 94.97,
+  "de": null,
+  "url": "https://www.rihappy.com.br/combo-dino-1002156952/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/8421676/17255571365281.jpg?v=638866088589830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:48.791Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Jogo Scotland Yard Máquina do Tempo",
+  "ean": "7908010133301",
+  "marca": "Grow",
+  "modelo": "100530410",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 159.99,
+  "de": null,
+  "url": "https://www.rihappy.com.br/jogo-scotland-yard-maquina-do-tempo-1002156195/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/6812158/17291056175113.jpg?v=638647499517970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:50.717Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Puzzle 2000 peças A Livraria",
+  "ean": "7908010140965",
+  "marca": "Grow",
+  "modelo": "100530295",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 149.99,
+  "de": null,
+  "url": "https://www.rihappy.com.br/puzzle-2000-pecas-a-livraria-1002156069/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/6470990/17255598948316.jpg?v=638620962084500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:53.113Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Cozinha Portátil e Acessórios - Fan Fun",
+  "ean": "7896964623095",
+  "marca": "FanFun",
+  "modelo": "100168636",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 116.99,
+  "de": 159.99,
+  "url": "https://www.rihappy.com.br/cozinha-portatil-e-acessorios-fan-fun-cotiplas/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/390854/Cozinha-Portatil-e-Acessorios---Fan-Fun.jpg?v=636995936086670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:54.653Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Berço Cômoda com Colchão Incluso Colinho de Mãe Multimóveis Branco/Rosa",
+  "ean": "7899027026260",
+  "marca": "Multimoveis",
+  "modelo": "100355572",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 1329.9,
+  "de": 1669.9,
+  "url": "https://www.rihappy.com.br/berco-comoda-com-colchao-incluso-colinho-de-mae-multimoveis-branco-rosa-1001959347/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/6466123/17257222239981.jpg?v=638620932579870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:57.459Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Conjunto De Acessórios - Kit Sushi - Fanfun",
+  "ean": "7899267312840",
+  "marca": "FanFun",
+  "modelo": "100217300",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 76.99,
+  "de": 119.99,
+  "url": "https://www.rihappy.com.br/conjunto-de-acessorios---kit-sushi---fanfun/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/5306630/Conjunto-De-Acessorios---Kit-Sushi---Fanfun-0.jpg?v=638077705679370000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:04:58.995Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Escova de Dentes Elétrica - Boy - Chicco",
+  "ean": "8058664103720",
+  "marca": "Chicco",
+  "modelo": "100184087",
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 59.91,
+  "de": 99.99,
+  "url": "https://www.rihappy.com.br/escova-de-dentes-eletrica-boy-chicco/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/633892/escova-de-dentes-eletrica-boy-chicco-00008545000000_Frente.jpg?v=637304321826470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-17T01:05:00.933Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
   "titulo": "Berço Americano 3 em 1 com Rodízios para Colchão 70 x 130 cm Pimpolho Multimóveis Branco",
   "ean": "7899027032841",
   "marca": "Multimoveis",
@@ -657,7 +657,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:07.081Z"
+  "coletadoEm": "2026-11-17T01:05:04.972Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -679,7 +679,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:09.097Z"
+  "coletadoEm": "2026-11-17T01:05:06.657Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -701,7 +701,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:10.620Z"
+  "coletadoEm": "2026-11-17T01:05:08.196Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -723,7 +723,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:12.144Z"
+  "coletadoEm": "2026-11-17T01:05:10.303Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -745,7 +745,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:13.760Z"
+  "coletadoEm": "2026-11-17T01:05:11.840Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -767,7 +767,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:15.490Z"
+  "coletadoEm": "2026-11-17T01:05:13.381Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -789,7 +789,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:17.317Z"
+  "coletadoEm": "2026-11-17T01:05:15.694Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -811,7 +811,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:19.698Z"
+  "coletadoEm": "2026-11-17T01:05:17.233Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -833,7 +833,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:21.636Z"
+  "coletadoEm": "2026-11-17T01:05:19.572Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -855,7 +855,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:23.801Z"
+  "coletadoEm": "2026-11-17T01:05:22.150Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -877,7 +877,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:25.896Z"
+  "coletadoEm": "2026-11-17T01:05:24.163Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -899,7 +899,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:27.665Z"
+  "coletadoEm": "2026-11-17T01:05:25.927Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -921,7 +921,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:29.611Z"
+  "coletadoEm": "2026-11-17T01:05:27.834Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -943,7 +943,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:31.671Z"
+  "coletadoEm": "2026-11-17T01:05:29.508Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -965,7 +965,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:33.236Z"
+  "coletadoEm": "2026-11-17T01:05:31.044Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -987,7 +987,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:35.187Z"
+  "coletadoEm": "2026-11-17T01:05:33.013Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1009,7 +1009,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:36.940Z"
+  "coletadoEm": "2026-11-17T01:05:34.882Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1031,7 +1031,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:38.716Z"
+  "coletadoEm": "2026-11-17T01:05:36.646Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1053,7 +1053,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:40.290Z"
+  "coletadoEm": "2026-11-17T01:05:38.183Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1075,7 +1075,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:42.072Z"
+  "coletadoEm": "2026-11-17T01:05:40.032Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1097,7 +1097,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:43.641Z"
+  "coletadoEm": "2026-11-17T01:05:41.569Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1119,7 +1119,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:45.515Z"
+  "coletadoEm": "2026-11-17T01:05:43.382Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1141,7 +1141,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:47.222Z"
+  "coletadoEm": "2026-11-17T01:05:45.414Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1163,7 +1163,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:49.034Z"
+  "coletadoEm": "2026-11-17T01:05:47.609Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1185,7 +1185,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:50.559Z"
+  "coletadoEm": "2026-11-17T01:05:49.149Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1207,7 +1207,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:58:52.157Z"
+  "coletadoEm": "2026-11-17T01:05:50.817Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1229,7 +1229,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:54.132Z"
+  "coletadoEm": "2026-11-17T01:05:52.960Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1251,7 +1251,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:56.100Z"
+  "coletadoEm": "2026-11-17T01:05:54.910Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1273,7 +1273,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:57.972Z"
+  "coletadoEm": "2026-11-17T01:05:57.029Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1295,7 +1295,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:58:59.922Z"
+  "coletadoEm": "2026-11-17T01:05:58.672Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1317,7 +1317,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:01.478Z"
+  "coletadoEm": "2026-11-17T01:06:00.210Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1339,7 +1339,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:03.165Z"
+  "coletadoEm": "2026-11-17T01:06:01.748Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1361,7 +1361,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:04.951Z"
+  "coletadoEm": "2026-11-17T01:06:03.534Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1383,7 +1383,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:06.936Z"
+  "coletadoEm": "2026-11-17T01:06:05.069Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1405,7 +1405,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:08.522Z"
+  "coletadoEm": "2026-11-17T01:06:06.607Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1427,7 +1427,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:10.127Z"
+  "coletadoEm": "2026-11-17T01:06:08.145Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1449,7 +1449,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:12.007Z"
+  "coletadoEm": "2026-11-17T01:06:13.303Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1471,7 +1471,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:14.020Z"
+  "coletadoEm": "2026-11-17T01:06:14.844Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1493,7 +1493,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:15.925Z"
+  "coletadoEm": "2026-11-17T01:06:16.572Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1515,7 +1515,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:17.655Z"
+  "coletadoEm": "2026-11-17T01:06:18.572Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1537,7 +1537,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:19.235Z"
+  "coletadoEm": "2026-11-17T01:06:20.110Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1559,7 +1559,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:21.169Z"
+  "coletadoEm": "2026-11-17T01:06:21.654Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1581,7 +1581,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:23.292Z"
+  "coletadoEm": "2026-11-17T01:06:23.509Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1603,7 +1603,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:25.153Z"
+  "coletadoEm": "2026-11-17T01:06:25.399Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1625,7 +1625,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:26.902Z"
+  "coletadoEm": "2026-11-17T01:06:27.472Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1647,7 +1647,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:28.743Z"
+  "coletadoEm": "2026-11-17T01:06:29.395Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1669,7 +1669,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:30.631Z"
+  "coletadoEm": "2026-11-17T01:06:31.437Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1691,7 +1691,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:32.787Z"
+  "coletadoEm": "2026-11-17T01:06:32.973Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1713,7 +1713,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:34.976Z"
+  "coletadoEm": "2026-11-17T01:06:34.615Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1735,7 +1735,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:36.687Z"
+  "coletadoEm": "2026-11-17T01:06:36.696Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1757,7 +1757,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-16T13:59:38.894Z"
+  "coletadoEm": "2026-11-17T01:06:38.869Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1779,7 +1779,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T13:59:41.194Z"
+  "coletadoEm": "2026-11-17T01:06:41.139Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1801,7 +1801,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:00:57.017Z"
+  "coletadoEm": "2026-11-17T01:08:00.619Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1823,7 +1823,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:00:59.316Z"
+  "coletadoEm": "2026-11-17T01:08:02.155Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1845,7 +1845,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:01.652Z"
+  "coletadoEm": "2026-11-17T01:08:04.169Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1867,7 +1867,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:04.014Z"
+  "coletadoEm": "2026-11-17T01:08:05.704Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1889,7 +1889,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:06.312Z"
+  "coletadoEm": "2026-11-17T01:08:09.951Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1911,7 +1911,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:08.457Z"
+  "coletadoEm": "2026-11-17T01:08:13.762Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1933,7 +1933,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:10.569Z"
+  "coletadoEm": "2026-11-17T01:08:15.298Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1955,7 +1955,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:12.699Z"
+  "coletadoEm": "2026-11-17T01:08:18.445Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1977,7 +1977,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:15.293Z"
+  "coletadoEm": "2026-11-17T01:08:20.518Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -1999,7 +1999,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:17.500Z"
+  "coletadoEm": "2026-11-17T01:08:24.086Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2021,7 +2021,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:19.845Z"
+  "coletadoEm": "2026-11-17T01:08:26.031Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2043,7 +2043,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:21.368Z"
+  "coletadoEm": "2026-11-17T01:08:27.947Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2065,7 +2065,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:23.461Z"
+  "coletadoEm": "2026-11-17T01:08:29.859Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2087,7 +2087,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:26.445Z"
+  "coletadoEm": "2026-11-17T01:08:33.700Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2109,7 +2109,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:28.686Z"
+  "coletadoEm": "2026-11-17T01:08:35.822Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2131,7 +2131,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:30.632Z"
+  "coletadoEm": "2026-11-17T01:08:38.144Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2153,7 +2153,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:32.942Z"
+  "coletadoEm": "2026-11-17T01:08:39.681Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2175,7 +2175,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:34.992Z"
+  "coletadoEm": "2026-11-17T01:08:41.396Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2197,7 +2197,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:36.894Z"
+  "coletadoEm": "2026-11-17T01:08:44.430Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2219,7 +2219,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:39.241Z"
+  "coletadoEm": "2026-11-17T01:08:46.896Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2241,7 +2241,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:41.423Z"
+  "coletadoEm": "2026-11-17T01:08:49.344Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2263,7 +2263,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:43.790Z"
+  "coletadoEm": "2026-11-17T01:08:51.337Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2285,7 +2285,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:45.928Z"
+  "coletadoEm": "2026-11-17T01:08:53.831Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2307,7 +2307,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:48.216Z"
+  "coletadoEm": "2026-11-17T01:08:55.367Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2329,7 +2329,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:50.332Z"
+  "coletadoEm": "2026-11-17T01:08:57.380Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2351,7 +2351,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:52.627Z"
+  "coletadoEm": "2026-11-17T01:08:59.359Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2373,7 +2373,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:55.026Z"
+  "coletadoEm": "2026-11-17T01:09:01.654Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2395,7 +2395,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:57.206Z"
+  "coletadoEm": "2026-11-17T01:09:03.386Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2417,7 +2417,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:01:59.350Z"
+  "coletadoEm": "2026-11-17T01:09:05.578Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2439,7 +2439,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:00.986Z"
+  "coletadoEm": "2026-11-17T01:09:07.580Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2461,7 +2461,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:03.015Z"
+  "coletadoEm": "2026-11-17T01:09:09.645Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2483,7 +2483,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:05.172Z"
+  "coletadoEm": "2026-11-17T01:09:12.485Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2505,7 +2505,29 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:07.481Z"
+  "coletadoEm": "2026-11-17T01:09:14.421Z"
+ },
+ {
+  "fonte": "sitemap-rihappy",
+  "loja": "Ri Happy",
+  "titulo": "Kit Massa para Modelar Art Kids Dinossauro Família 4 Potes 150g Acrilex",
+  "ean": "7891153096377",
+  "marca": "ACRILEX",
+  "modelo": null,
+  "cat": null,
+  "catLoja": null,
+  "caminhoLoja": [],
+  "preco": 222.08,
+  "de": null,
+  "url": "https://www.rihappy.com.br/kit-massa-para-modelar-art-kids-dinossauro-familia-4-potes-150g-acrilex-1003290713/p",
+  "img": "https://rihappy.vtexassets.com/arquivos/ids/10027562/17812776135544.jpg?v=639171497766400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-17T01:09:16.614Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2527,7 +2549,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:14.159Z"
+  "coletadoEm": "2026-11-17T01:09:18.726Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2549,7 +2571,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:16.085Z"
+  "coletadoEm": "2026-11-17T01:09:20.945Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2571,7 +2593,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:18.473Z"
+  "coletadoEm": "2026-11-17T01:09:23.088Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2593,7 +2615,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:20.465Z"
+  "coletadoEm": "2026-11-17T01:09:25.134Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2615,7 +2637,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:22.852Z"
+  "coletadoEm": "2026-11-17T01:09:26.782Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2637,7 +2659,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:24.594Z"
+  "coletadoEm": "2026-11-17T01:09:28.412Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2659,7 +2681,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:27.227Z"
+  "coletadoEm": "2026-11-17T01:09:30.389Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2681,7 +2703,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:29.257Z"
+  "coletadoEm": "2026-11-17T01:09:32.744Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2703,7 +2725,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:31.432Z"
+  "coletadoEm": "2026-11-17T01:09:34.282Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2725,7 +2747,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:33.391Z"
+  "coletadoEm": "2026-11-17T01:09:36.240Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2747,7 +2769,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:35.934Z"
+  "coletadoEm": "2026-11-17T01:09:37.988Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2769,7 +2791,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:38.266Z"
+  "coletadoEm": "2026-11-17T01:09:40.283Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2791,7 +2813,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:42.662Z"
+  "coletadoEm": "2026-11-17T01:09:42.498Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2813,7 +2835,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:44.937Z"
+  "coletadoEm": "2026-11-17T01:09:44.759Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2835,7 +2857,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:47.574Z"
+  "coletadoEm": "2026-11-17T01:09:47.015Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2857,7 +2879,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:49.620Z"
+  "coletadoEm": "2026-11-17T01:09:48.550Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2879,7 +2901,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:52.702Z"
+  "coletadoEm": "2026-11-17T01:09:50.085Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2901,7 +2923,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:54.933Z"
+  "coletadoEm": "2026-11-17T01:09:52.125Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2923,7 +2945,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:02:57.904Z"
+  "coletadoEm": "2026-11-17T01:09:53.823Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2945,7 +2967,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:00.144Z"
+  "coletadoEm": "2026-11-17T01:09:55.358Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2967,7 +2989,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:03.638Z"
+  "coletadoEm": "2026-11-17T01:09:56.893Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -2989,7 +3011,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:05.833Z"
+  "coletadoEm": "2026-11-17T01:09:58.697Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3011,7 +3033,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:08.051Z"
+  "coletadoEm": "2026-11-17T01:10:00.233Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3033,7 +3055,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:10.233Z"
+  "coletadoEm": "2026-11-17T01:10:02.691Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3055,7 +3077,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:12.856Z"
+  "coletadoEm": "2026-11-17T01:10:04.227Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3077,7 +3099,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:14.903Z"
+  "coletadoEm": "2026-11-17T01:10:06.514Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3099,7 +3121,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:17.164Z"
+  "coletadoEm": "2026-11-17T01:10:08.810Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3121,7 +3143,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:19.157Z"
+  "coletadoEm": "2026-11-17T01:10:10.344Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3143,7 +3165,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:21.739Z"
+  "coletadoEm": "2026-11-17T01:10:12.468Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3165,7 +3187,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:24.110Z"
+  "coletadoEm": "2026-11-17T01:10:14.792Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3187,7 +3209,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:27.980Z"
+  "coletadoEm": "2026-11-17T01:10:17.088Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3209,7 +3231,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:30.816Z"
+  "coletadoEm": "2026-11-17T01:10:19.181Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3231,7 +3253,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:33.236Z"
+  "coletadoEm": "2026-11-17T01:10:21.427Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3253,7 +3275,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:35.498Z"
+  "coletadoEm": "2026-11-17T01:10:23.320Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3275,7 +3297,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:38.289Z"
+  "coletadoEm": "2026-11-17T01:10:25.603Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3297,7 +3319,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:40.498Z"
+  "coletadoEm": "2026-11-17T01:10:27.620Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3319,7 +3341,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:42.954Z"
+  "coletadoEm": "2026-11-17T01:10:29.306Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3341,7 +3363,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:45.070Z"
+  "coletadoEm": "2026-11-17T01:10:31.636Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3363,7 +3385,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:47.323Z"
+  "coletadoEm": "2026-11-17T01:10:33.954Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3385,7 +3407,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:49.725Z"
+  "coletadoEm": "2026-11-17T01:10:36.389Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3407,7 +3429,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:53.481Z"
+  "coletadoEm": "2026-11-17T01:10:38.391Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3429,7 +3451,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:55.654Z"
+  "coletadoEm": "2026-11-17T01:10:40.782Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3451,7 +3473,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:57.977Z"
+  "coletadoEm": "2026-11-17T01:10:43.177Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3473,7 +3495,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:03:59.982Z"
+  "coletadoEm": "2026-11-17T01:10:45.180Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3495,7 +3517,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:02.959Z"
+  "coletadoEm": "2026-11-17T01:10:47.518Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3517,7 +3539,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:04.871Z"
+  "coletadoEm": "2026-11-17T01:10:49.741Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3539,7 +3561,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:08.016Z"
+  "coletadoEm": "2026-11-17T01:10:53.256Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3561,7 +3583,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:10.259Z"
+  "coletadoEm": "2026-11-17T01:10:54.792Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3583,7 +3605,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:11.781Z"
+  "coletadoEm": "2026-11-17T01:10:57.101Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3605,7 +3627,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:14.347Z"
+  "coletadoEm": "2026-11-17T01:10:59.824Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3627,7 +3649,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:16.236Z"
+  "coletadoEm": "2026-11-17T01:11:01.737Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3649,7 +3671,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:18.533Z"
+  "coletadoEm": "2026-11-17T01:11:04.017Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3671,7 +3693,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:20.618Z"
+  "coletadoEm": "2026-11-17T01:11:06.018Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3693,7 +3715,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:22.920Z"
+  "coletadoEm": "2026-11-17T01:11:08.382Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3715,7 +3737,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:25.280Z"
+  "coletadoEm": "2026-11-17T01:11:10.416Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3737,7 +3759,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:27.601Z"
+  "coletadoEm": "2026-11-17T01:11:12.718Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3759,7 +3781,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:29.529Z"
+  "coletadoEm": "2026-11-17T01:11:14.271Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3781,7 +3803,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:31.823Z"
+  "coletadoEm": "2026-11-17T01:11:16.639Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3803,7 +3825,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:34.635Z"
+  "coletadoEm": "2026-11-17T01:11:18.182Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3825,7 +3847,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:36.879Z"
+  "coletadoEm": "2026-11-17T01:11:20.551Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3847,7 +3869,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:39.259Z"
+  "coletadoEm": "2026-11-17T01:11:22.819Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3869,7 +3891,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:41.237Z"
+  "coletadoEm": "2026-11-17T01:11:25.110Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3891,7 +3913,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:43.393Z"
+  "coletadoEm": "2026-11-17T01:11:26.650Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3913,7 +3935,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:45.661Z"
+  "coletadoEm": "2026-11-17T01:11:28.766Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3935,7 +3957,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:48.104Z"
+  "coletadoEm": "2026-11-17T01:11:30.302Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3957,7 +3979,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:50.298Z"
+  "coletadoEm": "2026-11-17T01:11:34.125Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -3979,7 +4001,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:52.221Z"
+  "coletadoEm": "2026-11-17T01:11:36.761Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4001,7 +4023,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:54.551Z"
+  "coletadoEm": "2026-11-17T01:11:39.365Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4023,7 +4045,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:56.570Z"
+  "coletadoEm": "2026-11-17T01:11:42.032Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4045,7 +4067,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:04:58.987Z"
+  "coletadoEm": "2026-11-17T01:11:44.604Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4067,7 +4089,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:01.565Z"
+  "coletadoEm": "2026-11-17T01:11:46.557Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4089,7 +4111,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:03.753Z"
+  "coletadoEm": "2026-11-17T01:11:48.954Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4111,7 +4133,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:05.887Z"
+  "coletadoEm": "2026-11-17T01:11:51.178Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4133,7 +4155,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:09.823Z"
+  "coletadoEm": "2026-11-17T01:11:53.328Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4155,7 +4177,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:12.122Z"
+  "coletadoEm": "2026-11-17T01:11:55.712Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4177,7 +4199,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:14.247Z"
+  "coletadoEm": "2026-11-17T01:11:57.981Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4199,7 +4221,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:17.747Z"
+  "coletadoEm": "2026-11-17T01:11:59.519Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4221,7 +4243,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:19.900Z"
+  "coletadoEm": "2026-11-17T01:12:01.054Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4243,7 +4265,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:21.991Z"
+  "coletadoEm": "2026-11-17T01:12:02.856Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4265,7 +4287,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:24.149Z"
+  "coletadoEm": "2026-11-17T01:12:04.400Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4287,7 +4309,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:26.220Z"
+  "coletadoEm": "2026-11-17T01:12:05.939Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4309,7 +4331,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:28.189Z"
+  "coletadoEm": "2026-11-17T01:12:07.477Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4331,7 +4353,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:30.386Z"
+  "coletadoEm": "2026-11-17T01:12:09.020Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4353,7 +4375,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:33.051Z"
+  "coletadoEm": "2026-11-17T01:12:10.556Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4375,7 +4397,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:35.560Z"
+  "coletadoEm": "2026-11-17T01:12:12.357Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4397,7 +4419,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:37.849Z"
+  "coletadoEm": "2026-11-17T01:12:13.898Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4419,7 +4441,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:40.427Z"
+  "coletadoEm": "2026-11-17T01:12:15.845Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4441,7 +4463,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:43.212Z"
+  "coletadoEm": "2026-11-17T01:12:17.838Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4463,7 +4485,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:45.498Z"
+  "coletadoEm": "2026-11-17T01:12:19.378Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4485,7 +4507,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:48.247Z"
+  "coletadoEm": "2026-11-17T01:12:21.075Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4507,7 +4529,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:50.445Z"
+  "coletadoEm": "2026-11-17T01:12:23.173Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4529,7 +4551,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:52.585Z"
+  "coletadoEm": "2026-11-17T01:12:25.478Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4551,7 +4573,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:54.517Z"
+  "coletadoEm": "2026-11-17T01:12:27.302Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4573,7 +4595,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:57.440Z"
+  "coletadoEm": "2026-11-17T01:12:30.085Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4595,7 +4617,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:05:59.665Z"
+  "coletadoEm": "2026-11-17T01:12:32.410Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4617,7 +4639,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:02.244Z"
+  "coletadoEm": "2026-11-17T01:12:34.517Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4639,7 +4661,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:04.376Z"
+  "coletadoEm": "2026-11-17T01:12:36.971Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4661,7 +4683,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:07.840Z"
+  "coletadoEm": "2026-11-17T01:12:39.186Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4683,7 +4705,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:09.990Z"
+  "coletadoEm": "2026-11-17T01:12:41.586Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4705,7 +4727,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:12.470Z"
+  "coletadoEm": "2026-11-17T01:12:43.122Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4727,7 +4749,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:14.756Z"
+  "coletadoEm": "2026-11-17T01:12:45.560Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4749,7 +4771,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:18.673Z"
+  "coletadoEm": "2026-11-17T01:12:48.088Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4771,7 +4793,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:20.981Z"
+  "coletadoEm": "2026-11-17T01:12:50.477Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4793,7 +4815,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:23.274Z"
+  "coletadoEm": "2026-11-17T01:12:52.680Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4815,7 +4837,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:25.377Z"
+  "coletadoEm": "2026-11-17T01:12:54.512Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4837,7 +4859,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:28.513Z"
+  "coletadoEm": "2026-11-17T01:12:56.321Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4859,7 +4881,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:30.524Z"
+  "coletadoEm": "2026-11-17T01:12:58.623Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4881,7 +4903,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:32.657Z"
+  "coletadoEm": "2026-11-17T01:13:01.106Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4903,7 +4925,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:34.893Z"
+  "coletadoEm": "2026-11-17T01:13:03.255Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4925,7 +4947,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:37.845Z"
+  "coletadoEm": "2026-11-17T01:13:05.171Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4947,7 +4969,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:39.843Z"
+  "coletadoEm": "2026-11-17T01:13:07.290Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4969,7 +4991,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:42.681Z"
+  "coletadoEm": "2026-11-17T01:13:09.800Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -4991,7 +5013,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:44.942Z"
+  "coletadoEm": "2026-11-17T01:13:11.833Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5013,7 +5035,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:47.953Z"
+  "coletadoEm": "2026-11-17T01:13:15.492Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5035,7 +5057,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:49.597Z"
+  "coletadoEm": "2026-11-17T01:13:17.864Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5057,7 +5079,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:51.595Z"
+  "coletadoEm": "2026-11-17T01:13:20.077Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5079,7 +5101,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:53.536Z"
+  "coletadoEm": "2026-11-17T01:13:22.071Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5101,7 +5123,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:55.477Z"
+  "coletadoEm": "2026-11-17T01:13:24.085Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5123,7 +5145,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:57.720Z"
+  "coletadoEm": "2026-11-17T01:13:26.483Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5145,7 +5167,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:06:59.794Z"
+  "coletadoEm": "2026-11-17T01:13:28.800Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5167,7 +5189,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:02.011Z"
+  "coletadoEm": "2026-11-17T01:13:31.668Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5189,7 +5211,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:04.376Z"
+  "coletadoEm": "2026-11-17T01:13:33.813Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5211,7 +5233,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:07.076Z"
+  "coletadoEm": "2026-11-17T01:13:36.118Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5233,7 +5255,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:09.396Z"
+  "coletadoEm": "2026-11-17T01:13:38.529Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5255,7 +5277,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:12.356Z"
+  "coletadoEm": "2026-11-17T01:13:40.349Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5277,7 +5299,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:14.645Z"
+  "coletadoEm": "2026-11-17T01:13:41.986Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5299,7 +5321,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:16.892Z"
+  "coletadoEm": "2026-11-17T01:13:43.530Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5321,7 +5343,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:19.416Z"
+  "coletadoEm": "2026-11-17T01:13:45.172Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5343,7 +5365,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:21.389Z"
+  "coletadoEm": "2026-11-17T01:13:47.475Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5365,7 +5387,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:23.736Z"
+  "coletadoEm": "2026-11-17T01:13:49.454Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5387,7 +5409,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:25.832Z"
+  "coletadoEm": "2026-11-17T01:13:51.556Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5409,7 +5431,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:28.185Z"
+  "coletadoEm": "2026-11-17T01:13:53.248Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5431,7 +5453,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:29.960Z"
+  "coletadoEm": "2026-11-17T01:13:55.808Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5453,7 +5475,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:32.570Z"
+  "coletadoEm": "2026-11-17T01:13:57.607Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5475,7 +5497,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:35.086Z"
+  "coletadoEm": "2026-11-17T01:13:59.144Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5497,7 +5519,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:37.799Z"
+  "coletadoEm": "2026-11-17T01:14:01.324Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5519,7 +5541,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:40.075Z"
+  "coletadoEm": "2026-11-17T01:14:03.803Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5541,7 +5563,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:42.737Z"
+  "coletadoEm": "2026-11-17T01:14:06.177Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5563,7 +5585,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:44.835Z"
+  "coletadoEm": "2026-11-17T01:14:07.815Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5585,7 +5607,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:46.847Z"
+  "coletadoEm": "2026-11-17T01:14:09.353Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5607,7 +5629,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:48.415Z"
+  "coletadoEm": "2026-11-17T01:14:10.987Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5629,7 +5651,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:50.348Z"
+  "coletadoEm": "2026-11-17T01:14:12.618Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5651,7 +5673,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:52.774Z"
+  "coletadoEm": "2026-11-17T01:14:14.741Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5673,7 +5695,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:54.735Z"
+  "coletadoEm": "2026-11-17T01:14:16.881Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5695,7 +5717,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:57.045Z"
+  "coletadoEm": "2026-11-17T01:14:18.730Z"
  },
  {
   "fonte": "sitemap-rihappy",
@@ -5717,6 +5739,6 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-16T14:07:59.177Z"
+  "coletadoEm": "2026-11-17T01:14:20.985Z"
  }
 ]
