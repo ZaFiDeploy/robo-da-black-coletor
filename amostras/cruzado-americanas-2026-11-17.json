@@ -502,5 +502,29 @@
    "disponivel": true,
    "coletadoEm": "2026-11-17T15:19:49.598Z"
   }
+ },
+ {
+  "url": "https://www.rihappy.com.br/playset-e-mini-figura---peppa-pig---supermercado-da-peppa---hasbro/p",
+  "loja": "Ri Happy",
+  "titulo": "Playset e Mini Figura - Peppa Pig - Supermercado da Peppa - Hasbro",
+  "preco": 170.99,
+  "de": 239.99,
+  "ean": "5010993929726",
+  "por": "ean",
+  "candidatos": 1,
+  "outra": {
+   "loja": "Americanas",
+   "titulo": "Playset Infantil Peppa Pig Supermercado da Peppa Hasbro Peppa's Adventures 3 Anos",
+   "ean": "5010993929726",
+   "marca": "Hasbro",
+   "modelo": "234514300",
+   "preco": 214.99,
+   "de": 279.99,
+   "vendedor": "Magazine Luiza",
+   "url": "https://www.americanas.com.br/playset-peppa-pig-supermercado-da-peppa-8328155/p",
+   "img": "https://americanas.vteximg.com.br/arquivos/ids/37136571/image-b1ed367b7a6344768ef74012e7fb5a85.jpg?v=639011375512800000",
+   "disponivel": true,
+   "coletadoEm": "2026-11-18T00:24:54.468Z"
+  }
  }
 ]
