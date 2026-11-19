@@ -1,8 +1,8 @@
 {
- "geradoEm": "2026-11-18T14:56:48.730Z",
- "checadoEm": "18/11, 11:56",
- "total": 6755,
- "monitorados": 12949,
+ "geradoEm": "2026-11-19T00:02:08.319Z",
+ "checadoEm": "18/11, 21:02",
+ "total": 6889,
+ "monitorados": 13298,
  "lojasMonitoradas": [
   "Ri Happy",
   "Renner",
@@ -15,13 +15,13 @@
   "Polishop",
   "Tok&Stok"
  ],
- "checadas": 135,
+ "checadas": 137,
  "porClasse": {
   "imperdivel": 16,
   "otimo": 40,
-  "bom": 23,
-  "nao_checado": 6620,
-  "falso": 56
+  "bom": 24,
+  "nao_checado": 6752,
+  "falso": 57
  },
  "lojas": [
   "Ri Happy",
@@ -45,7 +45,7 @@
   "outros": {
    "nome": "Outros",
    "arquivo": "ofertas-outros.json",
-   "n": 1123,
+   "n": 1166,
    "checadas": 25,
    "lojas": [
     "Ri Happy",
@@ -58,8 +58,8 @@
   "MLB1430": {
    "nome": "Calçados, Roupas e Bolsas",
    "arquivo": "ofertas-MLB1430.json",
-   "n": 2859,
-   "checadas": 60,
+   "n": 2944,
+   "checadas": 61,
    "lojas": [
     "Renner",
     "Decathlon",
@@ -86,7 +86,7 @@
   "MLB1403": {
    "nome": "Alimentos e Bebidas",
    "arquivo": "ofertas-MLB1403.json",
-   "n": 45,
+   "n": 46,
    "checadas": 3,
    "lojas": [
     "Mercado Livre",
@@ -101,7 +101,7 @@
    "nome": "Pet Shop",
    "arquivo": "ofertas-MLB1071.json",
    "n": 113,
-   "checadas": 4,
+   "checadas": 5,
    "lojas": [
     "Ri Happy",
     "Cobasi",
@@ -113,7 +113,7 @@
   "MLB1246": {
    "nome": "Beleza e Cuidado Pessoal",
    "arquivo": "ofertas-MLB1246.json",
-   "n": 212,
+   "n": 217,
    "checadas": 4,
    "lojas": [
     "Mercado Livre",
@@ -173,7 +173,7 @@
   "MLB1574": {
    "nome": "Casa, Móveis e Decoração",
    "arquivo": "ofertas-MLB1574.json",
-   "n": 209,
+   "n": 210,
    "checadas": 4,
    "lojas": [
     "Mercado Livre",
@@ -199,7 +199,7 @@
   "MLB1648": {
    "nome": "Informática",
    "arquivo": "ofertas-MLB1648.json",
-   "n": 1271,
+   "n": 1265,
    "checadas": 2,
    "lojas": [
     "Mercado Livre",
@@ -223,7 +223,7 @@
   "MLB3937": {
    "nome": "Joias e Relógios",
    "arquivo": "ofertas-MLB3937.json",
-   "n": 252,
+   "n": 256,
    "checadas": 0,
    "lojas": [
     "Decathlon",
@@ -246,7 +246,7 @@
   "MLB1500": {
    "nome": "Construção",
    "arquivo": "ofertas-MLB1500.json",
-   "n": 61,
+   "n": 62,
    "checadas": 0,
    "lojas": [
     "Decathlon",

@@ -2,2157 +2,6 @@
  {
   "fonte": "sitemap-decathlon",
   "loja": "Decathlon",
-  "titulo": "Camiseta Manga Longa Flex Compression Olympikus Masculina",
-  "ean": "7894929962043",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 179.99,
-  "de": 199.99,
-  "url": "https://www.decathlon.com.br/camiseta-manga-longa-flex-compression-olympikus-masculina-2145583118/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169956744/17581314086524.jpg?v=638937304862630000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:16.592Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Marte",
-  "ean": "7894756619035",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 199.99,
-  "de": null,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-marte-2145583058/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124159778/17114949135026.jpg?v=638476889820670000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:19.975Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Dynamic",
-  "ean": "7894756619622",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 329.99,
-  "de": null,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-dynamic-2145583284/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124162447/17114875814034.jpg?v=638476890233000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:24.277Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Triunfo 3 Masculino",
-  "ean": "7894756293198",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 179.99,
-  "de": 229.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-triunfo-3-masculino-2145583131/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124169355/17114946781136.jpg?v=638476895526830000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:27.602Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Acqua Feminino",
-  "ean": "7894756597425",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 249.99,
-  "de": null,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-acqua-feminino-2145583011/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169954912/17581310773200.jpg?v=638937304299130000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:31.098Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Cyber 4 Infantil",
-  "ean": "7894756291477",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 179.99,
-  "de": 229.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-cyber-4-infantil-2145583361/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124461920/17114981082145.jpg?v=638477811666670000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:33.901Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Rua Masculino",
-  "ean": "7894756618793",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 259.99,
-  "de": null,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-rua-masculino-2145583490/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124165633/17114877974615.jpg?v=638476891097000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:38.520Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Vest Feminino",
-  "ean": "7894756931601",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 209.99,
-  "de": 259.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-vest-feminino-2145583406/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169956498/17581312360314.jpg?v=638937304773330000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:42.324Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Triunfo 3 Masculino",
-  "ean": "7894929818371",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 179.99,
-  "de": 229.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-triunfo-3-masculino-2145583366/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169954011/17581313651326.jpg?v=638937303927200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:45.216Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Triunfo 3 Masculino",
-  "ean": "7894756596855",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 129.99,
-  "de": 229.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-triunfo-3-masculino-2145583411/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124354490/17114911560091.jpg?v=638477529642270000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:48.156Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Challenger 5",
-  "ean": "7894756714938",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 239.99,
-  "de": 299.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-challenger-5-2145583474/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170340784/17114948223553.jpg?v=638946804512130000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:51.077Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Corre Grafeno 2",
-  "ean": "7893659811645",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 589.99,
-  "de": 799.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-corre-grafeno-2-2145583426/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124303634/17114913530125.jpg?v=638477389372270000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:53.904Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Venum Infantil",
-  "ean": "7894929960476",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 149.99,
-  "de": 229.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-venum-infantil-2145583440/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124166879/17114981197284.jpg?v=638476891787200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:30:57.119Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Vest Feminino",
-  "ean": "7894756931595",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 229.99,
-  "de": 259.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-vest-feminino-2145583511/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169955508/17581310450315.jpg?v=638937304477830000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:00.413Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Triunfo 3 Masculino",
-  "ean": "7894929496579",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 179.99,
-  "de": 229.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-triunfo-3-masculino-2145583517/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169954577/17581309949201.jpg?v=638937304183600000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:03.403Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Essential 3 Feminino",
-  "ean": "7894929460044",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 269.99,
-  "de": 299.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-essential-3-feminino-2145583687/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124482503/17114876142961.jpg?v=638477877557170000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:06.821Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Cama Elástica Jump Trampolim Profissional Gallant 32 Molas 150kg Gtr32ssa_Pt",
-  "ean": "7898648178846",
-  "marca": "Gallant",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Equipamentos",
-  "caminhoLoja": [
-   "Equipamentos",
-   "Aparelhos de tonificação"
-  ],
-  "preco": 349,
-  "de": 436.25,
-  "url": "https://www.decathlon.com.br/cama-elastica-jump-trampolim-profissional-gallant-32-molas-150kg-gtr32ssa-pt-2145583714/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/180767661/17914011922456.jpg?v=639269990802200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:09.984Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Mochila Olympikus Prime",
-  "ean": "7894929766658",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Apoio",
-   "Mochilas"
-  ],
-  "preco": 199.99,
-  "de": null,
-  "url": "https://www.decathlon.com.br/mochila-olympikus-prime-2145583715/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124592901/17114948946724.jpg?v=638478357508400000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:12.556Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Olympikus Vest Feminino",
-  "ean": "7894756931588",
-  "marca": "OLYMPIKUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 209.99,
-  "de": 259.99,
-  "url": "https://www.decathlon.com.br/tenis-olympikus-vest-feminino-2145583724/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169956802/17581313196770.jpg?v=638937304874830000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:15.757Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Boné Mizuno Run Sky",
-  "ean": "7894929623562",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Trajes",
-   "Boné, chapeu e viseira"
-  ],
-  "preco": 123.4,
-  "de": 142.4,
-  "url": "https://www.decathlon.com.br/bone-mizuno-run-sky-2145583732/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124645035/17120025317929.jpg?v=638478480217630000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:19.614Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Bermuda Mizuno Energy 7 Masculina",
-  "ean": "7893659841055",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Inferiores",
-   "Bermudas e Shorts"
-  ],
-  "preco": 104.4,
-  "de": 113.9,
-  "url": "https://www.decathlon.com.br/bermuda-mizuno-energy-7-masculina-2145583917/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124646591/17120064336832.jpg?v=638478480761000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:22.588Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta MCD More Core Division WT24 Masculina Branco",
-  "ean": "7908607789195",
-  "marca": "MCD",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 131.4,
-  "de": 183,
-  "url": "https://www.decathlon.com.br/camiseta-mcd-more-core-division-wt24-masculina-branco-2145583922/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/126795465/17105221524518.jpg?v=638485009761000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:25.586Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta MCD More Core Division WT24 Masculina Azul Deep",
-  "ean": "7908607789294",
-  "marca": "MCD",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 131.4,
-  "de": 183,
-  "url": "https://www.decathlon.com.br/camiseta-mcd-more-core-division-wt24-masculina-azul-deep-2145583969/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124648539/17105221268330.jpg?v=638478483623930000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:28.490Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Hurley Bedrock SM24 Masculina Mescla Cinza",
-  "ean": "7909738768592",
-  "marca": "Hurley",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 131.4,
-  "de": 183,
-  "url": "https://www.decathlon.com.br/camiseta-hurley-bedrock-sm24-masculina-mescla-cinza-2145583963/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124647377/17068012404774.jpg?v=638478481641500000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:31.593Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta MCD Lírios WT24 Masculina Azul Deep",
-  "ean": "7900121007366",
-  "marca": "MCD",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 150.3,
-  "de": 209,
-  "url": "https://www.decathlon.com.br/camiseta-mcd-lirios-wt24-masculina-azul-deep-2145583970/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/125292784/17105043091767.jpg?v=638480253535000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:35.675Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Moletom MCD Canguru Santo Espirito WT24 Masculina Preto",
-  "ean": "7908607735932",
-  "marca": "MCD",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Agasalhos e Fleeces"
-  ],
-  "preco": 330.3,
-  "de": 459,
-  "url": "https://www.decathlon.com.br/moletom-mcd-canguru-santo-espirito-wt24-masculina-preto-2145583925/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128690562/17105045609722.jpg?v=638491050402800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:39.280Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Quiksilver Omni Square WT24 Masculina Preto",
-  "ean": "7909846418884",
-  "marca": "Quiksilver",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 122.4,
-  "de": 170,
-  "url": "https://www.decathlon.com.br/camiseta-quiksilver-omni-square-wt24-masculina-preto-2145583962/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/125300127/17098177936316.jpg?v=638480254698800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:42.314Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Hurley O&O Solid SM24 Masculina Vermelho",
-  "ean": "7909738766963",
-  "marca": "Hurley",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 117.9,
-  "de": 163,
-  "url": "https://www.decathlon.com.br/camiseta-hurley-o-o-solid-sm24-masculina-vermelho-2145583983/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124647557/16966193693953.jpg?v=638478481926830000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:45.585Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "REDE PARA FUTEBOL SOCIETY 4M FIO Nº 2 - MATRIX",
-  "ean": "7898007930382",
-  "marca": "Matrix",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Suplementos",
-  "caminhoLoja": [
-   "Suplementos",
-   "Complementos Alimentares"
-  ],
-  "preco": 173.54,
-  "de": null,
-  "url": "https://www.decathlon.com.br/rede-para-futebol-society-4m-fio-n%C2%BA-2---matrix-2145584326/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170771442/17582225338300.jpg?v=638959835583800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:55.260Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Pochete Unissex Mizuno Run Flat",
-  "ean": "7894929819309",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Trajes",
-   "Pochetes"
-  ],
-  "preco": 119.99,
-  "de": 159.99,
-  "url": "https://www.decathlon.com.br/pochete-unissex-mizuno-run-flat-2145584438/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170030211/17581421195554.jpg?v=638937389327670000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:31:58.051Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira de Campo Masculina Mizuno Morelia Neo IV Beta Japan",
-  "ean": "7894756320375",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 1799.99,
-  "de": 2299.99,
-  "url": "https://www.decathlon.com.br/chuteira-de-campo-masculina-mizuno-morelia-neo-iv-beta-japan-2145584439/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170028749/17581418811967.jpg?v=638937386934270000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:00.827Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Feminino Mizuno Wave Creation 25 SE",
-  "ean": "7894756524681",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 569.99,
-  "de": 999.99,
-  "url": "https://www.decathlon.com.br/tenis-feminino-mizuno-wave-creation-25-se-2145584506/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124660710/17116566057428.jpg?v=638478515407000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:03.501Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Jaqueta de Treino Feminina Mizuno Puff",
-  "ean": "7894929911027",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Jaquetas"
-  ],
-  "preco": 529.99,
-  "de": 569.99,
-  "url": "https://www.decathlon.com.br/jaqueta-de-treino-feminina-mizuno-puff-2145584579/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170394706/17581417912269.jpg?v=638948453342170000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:06.480Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Manga Longa Feminina Mizuno Termica",
-  "ean": "7894756266833",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 179.99,
-  "de": 239.99,
-  "url": "https://www.decathlon.com.br/camiseta-manga-longa-feminina-mizuno-termica-2145584503/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170029084/17581419026036.jpg?v=638937387223630000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:09.471Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Regata de Corrida Feminina Mizuno Nirvana",
-  "ean": "7894756183185",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Regatas"
-  ],
-  "preco": 69.99,
-  "de": 109.99,
-  "url": "https://www.decathlon.com.br/regata-de-treino-feminina-mizuno-nirvana-2145584719/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170028465/17581418266637.jpg?v=638937386400800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:12.064Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Society Masculina Mizuno Alpha Select",
-  "ean": "7893659945920",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 499.99,
-  "de": 799.99,
-  "url": "https://www.decathlon.com.br/chuteira-society-masculina-mizuno-alpha-select-2145584795/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170552531/17582254303929.jpg?v=638954648125300000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:15.109Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Conjunto de Agasalho Feminino Mizuno Hoodie 2",
-  "ean": "7894756173971",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Apoio",
-   "Kits e Conjuntos"
-  ],
-  "preco": 259.99,
-  "de": 359.99,
-  "url": "https://www.decathlon.com.br/conjunto-de-agasalho-de-treino-feminino-mizuno-hoodie-2-2145584739/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170033634/17581417348775.jpg?v=638937395102000000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:17.844Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Society Masculina Mizuno Alpha Select",
-  "ean": "7893659946330",
-  "marca": "MIZUNO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 449.99,
-  "de": 799.99,
-  "url": "https://www.decathlon.com.br/chuteira-society-masculina-mizuno-alpha-select-2145584762/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170026294/17581414356875.jpg?v=638937382508100000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:20.908Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Umbro Diamond Unissex U23TW004-777",
-  "ean": "7909526794994",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 29.9,
-  "de": 39.9,
-  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-unissex-u23tw004-777-2145508701/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74969176/16989582846446.jpg?v=638351560832630000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:24.000Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Umbro Diamond Unissex U23TW004-111",
-  "ean": "7909526794987",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 29.9,
-  "de": 39.9,
-  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-unissex-u23tw004-111-2145508700/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74969159/16989582768113.jpg?v=638351560786270000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:27.319Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camisa Térmica Umbro Diamond Pro Masculina U11TR514105-222",
-  "ean": "7909526572660",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisas"
-  ],
-  "preco": 119.93,
-  "de": null,
-  "url": "https://www.decathlon.com.br/camisa-termica-umbro-diamond-pro-masculina-u11tr514105-222-2145508709/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74970838/16989655902770.jpg?v=638351567444770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:30.631Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Court Vision Low Next Nature Masculino DH2987-100",
-  "ean": null,
-  "marca": "NIKE",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 449.9,
-  "de": 699.9,
-  "url": "https://www.decathlon.com.br/tenis-court-vision-low-next-nature-masculino-dh2987-100-2145508711/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74970913/16989660781502.jpg?v=638351567848430000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:33.514Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Nike Football Dri-FIT Unissex SX4120-001",
-  "ean": null,
-  "marca": "NIKE",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 129.9,
-  "de": 149.9,
-  "url": "https://www.decathlon.com.br/meiao-nike-football-dri-fit-unissex-sx4120-001-2145508744/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74980637/16989752377225.jpg?v=638351578897670000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:37.331Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Mochila Nike Heritage Unissex DC4244-010",
-  "ean": null,
-  "marca": "NIKE",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Apoio",
-   "Mochilas"
-  ],
-  "preco": 279.9,
-  "de": 349.9,
-  "url": "https://www.decathlon.com.br/mochila-nike-heritage-unissex-dc4244-010-2145508749/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74980743/16989763379146.jpg?v=638351579750230000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:40.386Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Corda Solinco Tour Bite Diamond Rough 17L 1.20MM Prata - Set Individual",
-  "ean": null,
-  "marca": "Solinco",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Equipamentos",
-  "caminhoLoja": [
-   "Equipamentos",
-   "Cordas"
-  ],
-  "preco": 169.9,
-  "de": 179.9,
-  "url": "https://www.decathlon.com.br/corda-solinco-tour-bite-diamond-rough-17l-1-20mm-prata---set-individual-2145509088/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74986161/16987746530760.jpg?v=638351588456100000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:43.455Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Antivibrador Prokennex Funky Dampener Alce",
-  "ean": "3424120396558",
-  "marca": "Prokennex",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Apoio",
-   "Grips, Overgrips e Antivibradores"
-  ],
-  "preco": 16.55,
-  "de": null,
-  "url": "https://www.decathlon.com.br/antivibrador-prokennex-funky-dampener-alce-2145509099/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74986241/16987743321954.jpg?v=638351588474930000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:46.750Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Corda Solinco Tour Bite Diamond Rough 16 1.30mm Prata - Set Individual",
-  "ean": null,
-  "marca": "Solinco",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Equipamentos",
-  "caminhoLoja": [
-   "Equipamentos",
-   "Cordas"
-  ],
-  "preco": 169.9,
-  "de": 179.9,
-  "url": "https://www.decathlon.com.br/corda-solinco-tour-bite-diamond-rough-16-1-30mm-prata---set-individual-2145509092/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74986216/16987746085184.jpg?v=638351588466970000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:49.995Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Penalty Masculina Dry Confortável",
-  "ean": "7909342526441",
-  "marca": "Penalty",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 63.9,
-  "de": 79.9,
-  "url": "https://www.decathlon.com.br/camiseta-penalty-masculina-dry-confortavel-2145509207/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74997512/16963658988922.jpg?v=638351591059500000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:53.104Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chinelo Masculino Under Armour Pala Daily",
-  "ean": null,
-  "marca": "UNDER ARMOUR",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chinelos"
-  ],
-  "preco": 136.9,
-  "de": 169.9,
-  "url": "https://www.decathlon.com.br/chinelo-masculino-under-armour-pala-daily-2145509245/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74998033/16987595034157.jpg?v=638351591149770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:55.919Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Corda Babolat Xalt 16L 1.30mm Branca - Set Individual",
-  "ean": "3324922085721",
-  "marca": "Babolat",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Equipamentos",
-  "caminhoLoja": [
-   "Equipamentos",
-   "Cordas"
-  ],
-  "preco": 111,
-  "de": 169.9,
-  "url": "https://www.decathlon.com.br/corda-babolat-xalt-16l-1-30mm-branca---set-individual-2145509096/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74986227/16987745477658.jpg?v=638351588471800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:32:59.651Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Element Blazin Chest Color S24 Masculina Verde Neon",
-  "ean": "7909846312953",
-  "marca": "Element",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 103.5,
-  "de": 144,
-  "url": "https://www.decathlon.com.br/camiseta-element-blazin-chest-color-s24-masculina-verde-neon-2145509315/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/77651837/16966156909442.jpg?v=638353215123070000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:03.432Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Esteira Elétrica Profissional Evolution Fitness EVO 4000 PRO 220V",
-  "ean": "1095194801228",
-  "marca": "Evolution Fitness",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Equipamentos",
-  "caminhoLoja": [
-   "Equipamentos",
-   "Esteira"
-  ],
-  "preco": 10890,
-  "de": 13414,
-  "url": "https://www.decathlon.com.br/esteira-eletrica-profissional-evolution-fitness-evo-4000-pro-220v-2145509329/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75008940/06988595974850.jpg?v=638351592616900000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:06.062Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Esteira Elétrica com Inclinação Eletrônica Evolution Fitness EVO 3850 220V",
-  "ean": "1095194800023",
-  "marca": "Evolution Fitness",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Equipamentos",
-  "caminhoLoja": [
-   "Equipamentos",
-   "Esteira"
-  ],
-  "preco": 12990,
-  "de": 13990,
-  "url": "https://www.decathlon.com.br/esteira-eletrica-com-inclinacao-eletronica-evolution-fitness-evo-3850-220v-2145509332/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75009186/16987785811427.jpg?v=638351592646130000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:08.962Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Nike Court Royale 2 Next Nature Masculino DH3160-100",
-  "ean": null,
-  "marca": "NIKE",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 379.9,
-  "de": 549.9,
-  "url": "https://www.decathlon.com.br/tenis-nike-court-royale-2-next-nature-masculino-dh3160-100-2145510080/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75035561/16989879040723.jpg?v=638351598282770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:12.698Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Puma X-Cell Action Masculino 378301-03",
-  "ean": "4065452966225",
-  "marca": "Puma",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 349.9,
-  "de": 799.9,
-  "url": "https://www.decathlon.com.br/tenis-puma-x-cell-action-masculino-378301-03-2145510093/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75094058/16989927551217.jpg?v=638351666903200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:15.873Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Tênis Nike Court Royale 2 Next Nature Masculino DH3160-101",
-  "ean": null,
-  "marca": "NIKE",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 379.9,
-  "de": 599.9,
-  "url": "https://www.decathlon.com.br/tenis-nike-court-royale-2-next-nature-masculino-dh3160-101-2145510090/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75035667/16989926330289.jpg?v=638351598292300000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:19.656Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Umbro Futsal Adamant Club Masculino U01FB078-218",
-  "ean": "7890078699342",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 149.9,
-  "de": 349.9,
-  "url": "https://www.decathlon.com.br/chuteira-umbro-futsal-adamant-club-masculino-u01fb078-218-2145510272/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75038580/16990810460813.jpg?v=638351598704270000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:23.294Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Umbro Society Astro Club Masculino U01FB00119-152",
-  "ean": "7890078691889",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 169.9,
-  "de": 299.9,
-  "url": "https://www.decathlon.com.br/chuteira-umbro-society-astro-club-masculino-u01fb00119-152-2145510283/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75039327/16990813731951.jpg?v=638351598912030000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:26.612Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Nike Sb Logo Masculina DC7817-010",
-  "ean": null,
-  "marca": "NIKE",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 149.9,
-  "de": 189.9,
-  "url": "https://www.decathlon.com.br/camiseta-nike-sb-logo-masculina-dc7817-010-2145509807/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75024805/16989685622398.jpg?v=638351596513600000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:29.866Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Umbro Classic Junior Menino U27TW015-333",
-  "ean": "7909526987037",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 24.9,
-  "de": 29.9,
-  "url": "https://www.decathlon.com.br/meiao-umbro-classic-junior-menino-u27tw015-333-2145510418/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046774/16990150911033.jpg?v=638351619202430000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:33.469Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Umbro Diamond JuniorMenino U27TW006-111",
-  "ean": "7909526795083",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 29.9,
-  "de": 39.9,
-  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-juniormenino-u27tw006-111-2145510416/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046772/16990150827880.jpg?v=638351619135870000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:37.248Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "MEIAO DIAMOND U23TW004-333",
-  "ean": "7909526795007",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 29.9,
-  "de": 39.9,
-  "url": "https://www.decathlon.com.br/meiao-diamond-u23tw004-333-2145510415/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046762/16990150255638.jpg?v=638351618848200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:40.400Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Umbro Diamond Junior Menino U27TW006-222",
-  "ean": "7909526795076",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 29.9,
-  "de": 39.9,
-  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-junior-menino-u27tw006-222-2145510417/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046773/16990150864439.jpg?v=638351619181230000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:43.344Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Umbro Diamond Junior Menino U27TW006-333",
-  "ean": "7909526795106",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 29.9,
-  "de": 39.9,
-  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-junior-menino-u27tw006-333-2145510422/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046779/16990151199219.jpg?v=638351619293030000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:46.387Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Caneleira Umbro Protection St Juvenil Unissex U27EQ031-383",
-  "ean": "7909526991133",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Trajes",
-   "Caneleiras"
-  ],
-  "preco": 29.9,
-  "de": 39.9,
-  "url": "https://www.decathlon.com.br/caneleira-umbro-protection-st-juvenil-unissex-u27eq031-383-2145510426/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046867/16990152859021.jpg?v=638351619598200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:49.282Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Umbro Classic Junior Menino U27TW015-222",
-  "ean": "7909526987006",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 21,
-  "de": null,
-  "url": "https://www.decathlon.com.br/meiao-umbro-classic-junior-menino-u27tw015-222-2145510424/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046855/16990152792340.jpg?v=638351619581970000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:52.213Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Meião Umbro Classic Junior Menino U27TW015-777",
-  "ean": "7909526987020",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meiões"
-  ],
-  "preco": 21.62,
-  "de": null,
-  "url": "https://www.decathlon.com.br/meiao-umbro-classic-junior-menino-u27tw015-777-2145510425/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046866/16990152826143.jpg?v=638351619596970000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:55.396Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Umbro Futsal Adamant Club Masculina U01FB078-106",
-  "ean": "7890078699380",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 179.9,
-  "de": 349.9,
-  "url": "https://www.decathlon.com.br/chuteira-umbro-futsal-adamant-club-masculina-u01fb078-106-2145510430/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75047268/16990170580189.jpg?v=638351621904330000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:33:58.824Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Umbro Campo Chrome Masculino U01FB001005-131",
-  "ean": "7890078675551",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 169.9,
-  "de": 299.9,
-  "url": "https://www.decathlon.com.br/chuteira-umbro-campo-chrome-masculino-u01fb001005-131-2145510432/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75047444/16990173088341.jpg?v=638351622385030000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:01.735Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Umbro Campo Adamant Premier Masculino U01FB082-106",
-  "ean": "7890078731349",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 279.9,
-  "de": 549.9,
-  "url": "https://www.decathlon.com.br/chuteira-umbro-campo-adamant-premier-masculino-u01fb082-106-2145510434/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75047570/16990174937819.jpg?v=638351622642130000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:05.122Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "TENIS PUMA PUMAIRED RUN PS BDP 384324-52",
-  "ean": "4064533216679",
-  "marca": "Puma",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Tênis"
-  ],
-  "preco": 249.9,
-  "de": 299.9,
-  "url": "https://www.decathlon.com.br/tenis-puma-pumaired-run-ps-bdp-384324-52-2145510548/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75055827/16990485460483.jpg?v=638351653049900000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:08.419Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "BERMUDA SPEEDO BASIC COLORS 139605-091",
-  "ean": "7899826724695",
-  "marca": "Speedo",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Inferiores",
-   "Bermudas e Shorts"
-  ],
-  "preco": 89.9,
-  "de": 119.9,
-  "url": "https://www.decathlon.com.br/bermuda-speedo-basic-colors-139605-091-2145510561/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75056830/16990513213322.jpg?v=638351656139170000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:11.889Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "BERMUDA UMBRO TWR DIAMOND NEW 8T090001 703788-212",
-  "ean": "7895470791625",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Inferiores",
-   "Bermudas e Shorts"
-  ],
-  "preco": 59.9,
-  "de": 89.9,
-  "url": "https://www.decathlon.com.br/bermuda-umbro-twr-diamond-new-8t090001-703788-212-2145510569/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75057101/16990517621365.jpg?v=638351656857100000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:15.711Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Poker Térmica Skin Power Plus Unissex 04143-PT",
-  "ean": "7894187562726",
-  "marca": "POKER",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 179.9,
-  "de": 219.9,
-  "url": "https://www.decathlon.com.br/camiseta-poker-termica-skin-power-plus-unissex-04143-pt-2145510633/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75078730/16990589776258.jpg?v=638351663924230000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:18.875Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "SUNGA SPEEDO HELANCA 14CPTO 011426-180",
-  "ean": "7891437515297",
-  "marca": "Speedo",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Íntimas",
-   "Sungas"
-  ],
-  "preco": 89.9,
-  "de": 119.9,
-  "url": "https://www.decathlon.com.br/sunga-speedo-helanca-14cpto-011426-180-2145511299/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/77470910/16990643539653.jpg?v=638352954617300000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:21.958Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "LUVA SPEEDO BIKE GLOVE GEL POWER 308074-180",
-  "ean": "7899826765131",
-  "marca": "Speedo",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Trajes",
-   "Luvas"
-  ],
-  "preco": 72.79,
-  "de": null,
-  "url": "https://www.decathlon.com.br/luva-speedo-bike-glove-gel-power-308074-180-2145511319/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75111990/16990673953489.jpg?v=638351672113900000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:25.043Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "MEIA SPEEDO ANTIDERRAPANTE 719929P-806",
-  "ean": "7899826732881",
-  "marca": "Speedo",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Meias",
-   "Meias"
-  ],
-  "preco": 59.9,
-  "de": 69.9,
-  "url": "https://www.decathlon.com.br/meia-speedo-antiderrapante-719929p-806-2145511347/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75113032/16990704288428.jpg?v=638351674446470000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:28.880Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "CHUTEIRA PUMA KING SOCIETY BDP 106456-01",
-  "ean": "4063696162250",
-  "marca": "Puma",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 349.9,
-  "de": 599.9,
-  "url": "https://www.decathlon.com.br/chuteira-puma-king-society-bdp-106456-01-2145511355/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75114075/16990761326366.jpg?v=638351678171630000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:31.605Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Campo Umbro Plasma",
-  "ean": "7909527589391",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 94.9,
-  "de": 199.99,
-  "url": "https://www.decathlon.com.br/chuteira-campo-umbro-plasma-2145426206/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/143123833/16915896118169.jpg?v=638539924387670000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:34.768Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Chuteira Campo Umbro Prisma+",
-  "ean": "7909527692220",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Calçados",
-  "caminhoLoja": [
-   "Calçados",
-   "Calçados",
-   "Chuteiras"
-  ],
-  "preco": 123.49,
-  "de": 159.99,
-  "url": "https://www.decathlon.com.br/chuteira-campo-umbro-prisma--2145426205/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/142984186/16915896851982.jpg?v=638539531076130000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:38.155Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Rede Vôlei Pangué 2 Lonas Algodão com Fio Branco Seda",
-  "ean": null,
-  "marca": "PANGUÉ",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Apoio",
-   "Redes"
-  ],
-  "preco": 115.61,
-  "de": 146.76,
-  "url": "https://www.decathlon.com.br/rede-volei-pangue-2-lonas-algodao-com-fio-branco-seda-2145426211/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/48959988/16916149063527.jpg?v=638276278380300000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:41.495Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Kit Clube Infantil Umbro Santos Of.3 2022",
-  "ean": "7909527942660",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Acessórios",
-  "caminhoLoja": [
-   "Acessórios",
-   "Apoio",
-   "Kits e Conjuntos"
-  ],
-  "preco": 104.4,
-  "de": 119.9,
-  "url": "https://www.decathlon.com.br/kit-clube-infantil-umbro-santos-of-3-2022-2145426975/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/49236915/16921295464000.jpg?v=638277901903330000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:44.359Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
-  "titulo": "Camiseta Masculina Umbro Santos Graphic Fan 2022",
-  "ean": "7909526936691",
-  "marca": "UMBRO",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Roupas",
-  "caminhoLoja": [
-   "Roupas",
-   "Superiores",
-   "Camisetas"
-  ],
-  "preco": 75.99,
-  "de": 79.99,
-  "url": "https://www.decathlon.com.br/camiseta-masculina-umbro-santos-graphic-fan-2022-2145426800/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/49395417/16921293849227.jpg?v=638278795422630000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:47.268Z"
- },
- {
-  "fonte": "sitemap-decathlon",
-  "loja": "Decathlon",
   "titulo": "Camisa Masculina Umbro Fluminense Of. 1 2023 (Classic S/N)",
   "ean": "7893419337590",
   "marca": "UMBRO",
@@ -2179,6 +28,2157 @@
  {
   "fonte": "sitemap-decathlon",
   "loja": "Decathlon",
+  "titulo": "Camiseta Manga Longa Flex Compression Olympikus Masculina",
+  "ean": "7894929962043",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 179.99,
+  "de": 199.99,
+  "url": "https://www.decathlon.com.br/camiseta-manga-longa-flex-compression-olympikus-masculina-2145583118/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169956744/17581314086524.jpg?v=638937304862630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:34:43.005Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Marte",
+  "ean": "7894756619035",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 199.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-marte-2145583058/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124159778/17114949135026.jpg?v=638476889820670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:34:46.311Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Dynamic",
+  "ean": "7894756619622",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 329.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-dynamic-2145583284/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124162447/17114875814034.jpg?v=638476890233000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:34:50.083Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Triunfo 3 Masculino",
+  "ean": "7894756293198",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 179.99,
+  "de": 229.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-triunfo-3-masculino-2145583131/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124169355/17114946781136.jpg?v=638476895526830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:34:53.453Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Acqua Feminino",
+  "ean": "7894756597425",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 249.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-acqua-feminino-2145583011/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169954912/17581310773200.jpg?v=638937304299130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:34:56.675Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Cyber 4 Infantil",
+  "ean": "7894756291477",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 179.99,
+  "de": 229.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-cyber-4-infantil-2145583361/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124461920/17114981082145.jpg?v=638477811666670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:34:59.606Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Rua Masculino",
+  "ean": "7894756618793",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 259.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-rua-masculino-2145583490/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124165633/17114877974615.jpg?v=638476891097000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:02.982Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Vest Feminino",
+  "ean": "7894756931601",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 209.99,
+  "de": 259.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-vest-feminino-2145583406/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169956498/17581312360314.jpg?v=638937304773330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:05.678Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Triunfo 3 Masculino",
+  "ean": "7894929818371",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 179.99,
+  "de": 229.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-triunfo-3-masculino-2145583366/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169954011/17581313651326.jpg?v=638937303927200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:09.042Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Triunfo 3 Masculino",
+  "ean": "7894756596855",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 129.99,
+  "de": 229.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-triunfo-3-masculino-2145583411/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124354490/17114911560091.jpg?v=638477529642270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:12.718Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Challenger 5",
+  "ean": "7894756714938",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 239.99,
+  "de": 299.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-challenger-5-2145583474/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170340784/17114948223553.jpg?v=638946804512130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:15.909Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Corre Grafeno 2",
+  "ean": "7893659811645",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 589.99,
+  "de": 799.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-corre-grafeno-2-2145583426/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124303634/17114913530125.jpg?v=638477389372270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:19.069Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Venum Infantil",
+  "ean": "7894929960476",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 149.99,
+  "de": 229.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-venum-infantil-2145583440/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124166879/17114981197284.jpg?v=638476891787200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:22.128Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Vest Feminino",
+  "ean": "7894756931595",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 229.99,
+  "de": 259.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-vest-feminino-2145583511/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169955508/17581310450315.jpg?v=638937304477830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:25.212Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Triunfo 3 Masculino",
+  "ean": "7894929496579",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 179.99,
+  "de": 229.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-triunfo-3-masculino-2145583517/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169954577/17581309949201.jpg?v=638937304183600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:28.864Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Essential 3 Feminino",
+  "ean": "7894929460044",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 269.99,
+  "de": 299.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-essential-3-feminino-2145583687/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124482503/17114876142961.jpg?v=638477877557170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:31.998Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Cama Elástica Jump Trampolim Profissional Gallant 32 Molas 150kg Gtr32ssa_Pt",
+  "ean": "7898648178846",
+  "marca": "Gallant",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Aparelhos de tonificação"
+  ],
+  "preco": 349,
+  "de": 436.25,
+  "url": "https://www.decathlon.com.br/cama-elastica-jump-trampolim-profissional-gallant-32-molas-150kg-gtr32ssa-pt-2145583714/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/180767661/17914011922456.jpg?v=639269990802200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:35.654Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila Olympikus Prime",
+  "ean": "7894929766658",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 199.99,
+  "de": null,
+  "url": "https://www.decathlon.com.br/mochila-olympikus-prime-2145583715/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124592901/17114948946724.jpg?v=638478357508400000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:38.938Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Olympikus Vest Feminino",
+  "ean": "7894756931588",
+  "marca": "OLYMPIKUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 209.99,
+  "de": 259.99,
+  "url": "https://www.decathlon.com.br/tenis-olympikus-vest-feminino-2145583724/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/169956802/17581313196770.jpg?v=638937304874830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:41.779Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Boné Mizuno Run Sky",
+  "ean": "7894929623562",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Boné, chapeu e viseira"
+  ],
+  "preco": 123.4,
+  "de": 142.4,
+  "url": "https://www.decathlon.com.br/bone-mizuno-run-sky-2145583732/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124645035/17120025317929.jpg?v=638478480217630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:45.736Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda Mizuno Energy 7 Masculina",
+  "ean": "7893659841055",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 104.4,
+  "de": 113.9,
+  "url": "https://www.decathlon.com.br/bermuda-mizuno-energy-7-masculina-2145583917/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124646591/17120064336832.jpg?v=638478480761000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:49.783Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta MCD More Core Division WT24 Masculina Branco",
+  "ean": "7908607789195",
+  "marca": "MCD",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/camiseta-mcd-more-core-division-wt24-masculina-branco-2145583922/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/126795465/17105221524518.jpg?v=638485009761000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:52.871Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta MCD More Core Division WT24 Masculina Azul Deep",
+  "ean": "7908607789294",
+  "marca": "MCD",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/camiseta-mcd-more-core-division-wt24-masculina-azul-deep-2145583969/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124648539/17105221268330.jpg?v=638478483623930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:35:56.462Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Hurley Bedrock SM24 Masculina Mescla Cinza",
+  "ean": "7909738768592",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/camiseta-hurley-bedrock-sm24-masculina-mescla-cinza-2145583963/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124647377/17068012404774.jpg?v=638478481641500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:01.736Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta MCD Lírios WT24 Masculina Azul Deep",
+  "ean": "7900121007366",
+  "marca": "MCD",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 150.3,
+  "de": 209,
+  "url": "https://www.decathlon.com.br/camiseta-mcd-lirios-wt24-masculina-azul-deep-2145583970/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/125292784/17105043091767.jpg?v=638480253535000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:05.130Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Moletom MCD Canguru Santo Espirito WT24 Masculina Preto",
+  "ean": "7908607735932",
+  "marca": "MCD",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Agasalhos e Fleeces"
+  ],
+  "preco": 330.3,
+  "de": 459,
+  "url": "https://www.decathlon.com.br/moletom-mcd-canguru-santo-espirito-wt24-masculina-preto-2145583925/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/128690562/17105045609722.jpg?v=638491050402800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:08.850Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Quiksilver Omni Square WT24 Masculina Preto",
+  "ean": "7909846418884",
+  "marca": "Quiksilver",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 122.4,
+  "de": 170,
+  "url": "https://www.decathlon.com.br/camiseta-quiksilver-omni-square-wt24-masculina-preto-2145583962/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/125300127/17098177936316.jpg?v=638480254698800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:12.128Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Hurley O&O Solid SM24 Masculina Vermelho",
+  "ean": "7909738766963",
+  "marca": "Hurley",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 117.9,
+  "de": 163,
+  "url": "https://www.decathlon.com.br/camiseta-hurley-o-o-solid-sm24-masculina-vermelho-2145583983/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124647557/16966193693953.jpg?v=638478481926830000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:15.543Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "REDE PARA FUTEBOL SOCIETY 4M FIO Nº 2 - MATRIX",
+  "ean": "7898007930382",
+  "marca": "Matrix",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Suplementos",
+  "caminhoLoja": [
+   "Suplementos",
+   "Complementos Alimentares"
+  ],
+  "preco": 173.54,
+  "de": null,
+  "url": "https://www.decathlon.com.br/rede-para-futebol-society-4m-fio-n%C2%BA-2---matrix-2145584326/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170771442/17582225338300.jpg?v=638959835583800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:23.548Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Pochete Unissex Mizuno Run Flat",
+  "ean": "7894929819309",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Pochetes"
+  ],
+  "preco": 119.99,
+  "de": 159.99,
+  "url": "https://www.decathlon.com.br/pochete-unissex-mizuno-run-flat-2145584438/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170030211/17581421195554.jpg?v=638937389327670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:26.785Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira de Campo Masculina Mizuno Morelia Neo IV Beta Japan",
+  "ean": "7894756320375",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 1799.99,
+  "de": 2299.99,
+  "url": "https://www.decathlon.com.br/chuteira-de-campo-masculina-mizuno-morelia-neo-iv-beta-japan-2145584439/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170028749/17581418811967.jpg?v=638937386934270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:29.941Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Feminino Mizuno Wave Creation 25 SE",
+  "ean": "7894756524681",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 569.99,
+  "de": 999.99,
+  "url": "https://www.decathlon.com.br/tenis-feminino-mizuno-wave-creation-25-se-2145584506/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/124660710/17116566057428.jpg?v=638478515407000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:32.830Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Jaqueta de Treino Feminina Mizuno Puff",
+  "ean": "7894929911027",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Jaquetas"
+  ],
+  "preco": 529.99,
+  "de": 569.99,
+  "url": "https://www.decathlon.com.br/jaqueta-de-treino-feminina-mizuno-puff-2145584579/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170394706/17581417912269.jpg?v=638948453342170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:35.860Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Manga Longa Feminina Mizuno Termica",
+  "ean": "7894756266833",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 179.99,
+  "de": 239.99,
+  "url": "https://www.decathlon.com.br/camiseta-manga-longa-feminina-mizuno-termica-2145584503/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170029084/17581419026036.jpg?v=638937387223630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:38.823Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Regata de Corrida Feminina Mizuno Nirvana",
+  "ean": "7894756183185",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Regatas"
+  ],
+  "preco": 69.99,
+  "de": 109.99,
+  "url": "https://www.decathlon.com.br/regata-de-treino-feminina-mizuno-nirvana-2145584719/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170028465/17581418266637.jpg?v=638937386400800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:41.701Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Society Masculina Mizuno Alpha Select",
+  "ean": "7893659945920",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 499.99,
+  "de": 799.99,
+  "url": "https://www.decathlon.com.br/chuteira-society-masculina-mizuno-alpha-select-2145584795/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170552531/17582254303929.jpg?v=638954648125300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:44.948Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Conjunto de Agasalho Feminino Mizuno Hoodie 2",
+  "ean": "7894756173971",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Kits e Conjuntos"
+  ],
+  "preco": 259.99,
+  "de": 359.99,
+  "url": "https://www.decathlon.com.br/conjunto-de-agasalho-de-treino-feminino-mizuno-hoodie-2-2145584739/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170033634/17581417348775.jpg?v=638937395102000000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:49.280Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Society Masculina Mizuno Alpha Select",
+  "ean": "7893659946330",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 449.99,
+  "de": 799.99,
+  "url": "https://www.decathlon.com.br/chuteira-society-masculina-mizuno-alpha-select-2145584762/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170026294/17581414356875.jpg?v=638937382508100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:54.974Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Umbro Diamond Unissex U23TW004-777",
+  "ean": "7909526794994",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 29.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-unissex-u23tw004-777-2145508701/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74969176/16989582846446.jpg?v=638351560832630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:36:58.634Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Umbro Diamond Unissex U23TW004-111",
+  "ean": "7909526794987",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 29.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-unissex-u23tw004-111-2145508700/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74969159/16989582768113.jpg?v=638351560786270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:01.963Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camisa Térmica Umbro Diamond Pro Masculina U11TR514105-222",
+  "ean": "7909526572660",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisas"
+  ],
+  "preco": 119.93,
+  "de": null,
+  "url": "https://www.decathlon.com.br/camisa-termica-umbro-diamond-pro-masculina-u11tr514105-222-2145508709/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74970838/16989655902770.jpg?v=638351567444770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:05.057Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Court Vision Low Next Nature Masculino DH2987-100",
+  "ean": null,
+  "marca": "NIKE",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 449.9,
+  "de": 699.9,
+  "url": "https://www.decathlon.com.br/tenis-court-vision-low-next-nature-masculino-dh2987-100-2145508711/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74970913/16989660781502.jpg?v=638351567848430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:08.378Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Nike Football Dri-FIT Unissex SX4120-001",
+  "ean": null,
+  "marca": "NIKE",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 129.9,
+  "de": 149.9,
+  "url": "https://www.decathlon.com.br/meiao-nike-football-dri-fit-unissex-sx4120-001-2145508744/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74980637/16989752377225.jpg?v=638351578897670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:11.617Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Mochila Nike Heritage Unissex DC4244-010",
+  "ean": null,
+  "marca": "NIKE",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Mochilas"
+  ],
+  "preco": 279.9,
+  "de": 349.9,
+  "url": "https://www.decathlon.com.br/mochila-nike-heritage-unissex-dc4244-010-2145508749/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74980743/16989763379146.jpg?v=638351579750230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:14.889Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Corda Solinco Tour Bite Diamond Rough 17L 1.20MM Prata - Set Individual",
+  "ean": null,
+  "marca": "Solinco",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Cordas"
+  ],
+  "preco": 169.9,
+  "de": 179.9,
+  "url": "https://www.decathlon.com.br/corda-solinco-tour-bite-diamond-rough-17l-1-20mm-prata---set-individual-2145509088/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74986161/16987746530760.jpg?v=638351588456100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:18.025Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Antivibrador Prokennex Funky Dampener Alce",
+  "ean": "3424120396558",
+  "marca": "Prokennex",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Grips, Overgrips e Antivibradores"
+  ],
+  "preco": 16.55,
+  "de": null,
+  "url": "https://www.decathlon.com.br/antivibrador-prokennex-funky-dampener-alce-2145509099/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74986241/16987743321954.jpg?v=638351588474930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:21.198Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Corda Solinco Tour Bite Diamond Rough 16 1.30mm Prata - Set Individual",
+  "ean": null,
+  "marca": "Solinco",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Cordas"
+  ],
+  "preco": 169.9,
+  "de": 179.9,
+  "url": "https://www.decathlon.com.br/corda-solinco-tour-bite-diamond-rough-16-1-30mm-prata---set-individual-2145509092/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74986216/16987746085184.jpg?v=638351588466970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:24.609Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Penalty Masculina Dry Confortável",
+  "ean": "7909342526441",
+  "marca": "Penalty",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 63.9,
+  "de": 79.9,
+  "url": "https://www.decathlon.com.br/camiseta-penalty-masculina-dry-confortavel-2145509207/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74997512/16963658988922.jpg?v=638351591059500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:26.197Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chinelo Masculino Under Armour Pala Daily",
+  "ean": null,
+  "marca": "UNDER ARMOUR",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chinelos"
+  ],
+  "preco": 136.9,
+  "de": 169.9,
+  "url": "https://www.decathlon.com.br/chinelo-masculino-under-armour-pala-daily-2145509245/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74998033/16987595034157.jpg?v=638351591149770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:29.404Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Corda Babolat Xalt 16L 1.30mm Branca - Set Individual",
+  "ean": "3324922085721",
+  "marca": "Babolat",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Cordas"
+  ],
+  "preco": 111,
+  "de": 169.9,
+  "url": "https://www.decathlon.com.br/corda-babolat-xalt-16l-1-30mm-branca---set-individual-2145509096/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/74986227/16987745477658.jpg?v=638351588471800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:32.612Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Element Blazin Chest Color S24 Masculina Verde Neon",
+  "ean": "7909846312953",
+  "marca": "Element",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 103.5,
+  "de": 144,
+  "url": "https://www.decathlon.com.br/camiseta-element-blazin-chest-color-s24-masculina-verde-neon-2145509315/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/77651837/16966156909442.jpg?v=638353215123070000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:35.836Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Esteira Elétrica Profissional Evolution Fitness EVO 4000 PRO 220V",
+  "ean": "1095194801228",
+  "marca": "Evolution Fitness",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Esteira"
+  ],
+  "preco": 10890,
+  "de": 13414,
+  "url": "https://www.decathlon.com.br/esteira-eletrica-profissional-evolution-fitness-evo-4000-pro-220v-2145509329/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75008940/06988595974850.jpg?v=638351592616900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:39.616Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Esteira Elétrica com Inclinação Eletrônica Evolution Fitness EVO 3850 220V",
+  "ean": "1095194800023",
+  "marca": "Evolution Fitness",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Esteira"
+  ],
+  "preco": 12990,
+  "de": 13990,
+  "url": "https://www.decathlon.com.br/esteira-eletrica-com-inclinacao-eletronica-evolution-fitness-evo-3850-220v-2145509332/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75009186/16987785811427.jpg?v=638351592646130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:43.325Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Nike Court Royale 2 Next Nature Masculino DH3160-100",
+  "ean": null,
+  "marca": "NIKE",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 379.9,
+  "de": 549.9,
+  "url": "https://www.decathlon.com.br/tenis-nike-court-royale-2-next-nature-masculino-dh3160-100-2145510080/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75035561/16989879040723.jpg?v=638351598282770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:46.766Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Puma X-Cell Action Masculino 378301-03",
+  "ean": "4065452966225",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 349.9,
+  "de": 799.9,
+  "url": "https://www.decathlon.com.br/tenis-puma-x-cell-action-masculino-378301-03-2145510093/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75094058/16989927551217.jpg?v=638351666903200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:50.391Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis Nike Court Royale 2 Next Nature Masculino DH3160-101",
+  "ean": null,
+  "marca": "NIKE",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 379.9,
+  "de": 599.9,
+  "url": "https://www.decathlon.com.br/tenis-nike-court-royale-2-next-nature-masculino-dh3160-101-2145510090/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75035667/16989926330289.jpg?v=638351598292300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:53.590Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Umbro Futsal Adamant Club Masculino U01FB078-218",
+  "ean": "7890078699342",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 149.9,
+  "de": 349.9,
+  "url": "https://www.decathlon.com.br/chuteira-umbro-futsal-adamant-club-masculino-u01fb078-218-2145510272/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75038580/16990810460813.jpg?v=638351598704270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:56.886Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Umbro Society Astro Club Masculino U01FB00119-152",
+  "ean": "7890078691889",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 169.9,
+  "de": 299.9,
+  "url": "https://www.decathlon.com.br/chuteira-umbro-society-astro-club-masculino-u01fb00119-152-2145510283/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75039327/16990813731951.jpg?v=638351598912030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:37:59.699Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Nike Sb Logo Masculina DC7817-010",
+  "ean": null,
+  "marca": "NIKE",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 149.9,
+  "de": 189.9,
+  "url": "https://www.decathlon.com.br/camiseta-nike-sb-logo-masculina-dc7817-010-2145509807/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75024805/16989685622398.jpg?v=638351596513600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:03.260Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Umbro Classic Junior Menino U27TW015-333",
+  "ean": "7909526987037",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 24.9,
+  "de": 29.9,
+  "url": "https://www.decathlon.com.br/meiao-umbro-classic-junior-menino-u27tw015-333-2145510418/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046774/16990150911033.jpg?v=638351619202430000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:06.575Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Umbro Diamond JuniorMenino U27TW006-111",
+  "ean": "7909526795083",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 29.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-juniormenino-u27tw006-111-2145510416/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046772/16990150827880.jpg?v=638351619135870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:09.949Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "MEIAO DIAMOND U23TW004-333",
+  "ean": "7909526795007",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 29.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/meiao-diamond-u23tw004-333-2145510415/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046762/16990150255638.jpg?v=638351618848200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:13.236Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Umbro Diamond Junior Menino U27TW006-222",
+  "ean": "7909526795076",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 29.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-junior-menino-u27tw006-222-2145510417/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046773/16990150864439.jpg?v=638351619181230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:16.378Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Umbro Diamond Junior Menino U27TW006-333",
+  "ean": "7909526795106",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 29.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/meiao-umbro-diamond-junior-menino-u27tw006-333-2145510422/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046779/16990151199219.jpg?v=638351619293030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:19.638Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Caneleira Umbro Protection St Juvenil Unissex U27EQ031-383",
+  "ean": "7909526991133",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Caneleiras"
+  ],
+  "preco": 29.9,
+  "de": 39.9,
+  "url": "https://www.decathlon.com.br/caneleira-umbro-protection-st-juvenil-unissex-u27eq031-383-2145510426/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046867/16990152859021.jpg?v=638351619598200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:22.848Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Umbro Classic Junior Menino U27TW015-222",
+  "ean": "7909526987006",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 21,
+  "de": null,
+  "url": "https://www.decathlon.com.br/meiao-umbro-classic-junior-menino-u27tw015-222-2145510424/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046855/16990152792340.jpg?v=638351619581970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:26.540Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Meião Umbro Classic Junior Menino U27TW015-777",
+  "ean": "7909526987020",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meiões"
+  ],
+  "preco": 21.62,
+  "de": null,
+  "url": "https://www.decathlon.com.br/meiao-umbro-classic-junior-menino-u27tw015-777-2145510425/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75046866/16990152826143.jpg?v=638351619596970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:29.282Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Umbro Futsal Adamant Club Masculina U01FB078-106",
+  "ean": "7890078699380",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 179.9,
+  "de": 349.9,
+  "url": "https://www.decathlon.com.br/chuteira-umbro-futsal-adamant-club-masculina-u01fb078-106-2145510430/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75047268/16990170580189.jpg?v=638351621904330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:33.359Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Umbro Campo Chrome Masculino U01FB001005-131",
+  "ean": "7890078675551",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 169.9,
+  "de": 299.9,
+  "url": "https://www.decathlon.com.br/chuteira-umbro-campo-chrome-masculino-u01fb001005-131-2145510432/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75047444/16990173088341.jpg?v=638351622385030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:36.323Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Umbro Campo Adamant Premier Masculino U01FB082-106",
+  "ean": "7890078731349",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 279.9,
+  "de": 549.9,
+  "url": "https://www.decathlon.com.br/chuteira-umbro-campo-adamant-premier-masculino-u01fb082-106-2145510434/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75047570/16990174937819.jpg?v=638351622642130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:39.396Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "TENIS PUMA PUMAIRED RUN PS BDP 384324-52",
+  "ean": "4064533216679",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 249.9,
+  "de": 299.9,
+  "url": "https://www.decathlon.com.br/tenis-puma-pumaired-run-ps-bdp-384324-52-2145510548/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75055827/16990485460483.jpg?v=638351653049900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:42.367Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "BERMUDA SPEEDO BASIC COLORS 139605-091",
+  "ean": "7899826724695",
+  "marca": "Speedo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 89.9,
+  "de": 119.9,
+  "url": "https://www.decathlon.com.br/bermuda-speedo-basic-colors-139605-091-2145510561/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75056830/16990513213322.jpg?v=638351656139170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:45.604Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "BERMUDA UMBRO TWR DIAMOND NEW 8T090001 703788-212",
+  "ean": "7895470791625",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 59.9,
+  "de": 89.9,
+  "url": "https://www.decathlon.com.br/bermuda-umbro-twr-diamond-new-8t090001-703788-212-2145510569/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75057101/16990517621365.jpg?v=638351656857100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:48.721Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Poker Térmica Skin Power Plus Unissex 04143-PT",
+  "ean": "7894187562726",
+  "marca": "POKER",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 179.9,
+  "de": 219.9,
+  "url": "https://www.decathlon.com.br/camiseta-poker-termica-skin-power-plus-unissex-04143-pt-2145510633/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75078730/16990589776258.jpg?v=638351663924230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:51.926Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "SUNGA SPEEDO HELANCA 14CPTO 011426-180",
+  "ean": "7891437515297",
+  "marca": "Speedo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Íntimas",
+   "Sungas"
+  ],
+  "preco": 89.9,
+  "de": 119.9,
+  "url": "https://www.decathlon.com.br/sunga-speedo-helanca-14cpto-011426-180-2145511299/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/77470910/16990643539653.jpg?v=638352954617300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:55.467Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "LUVA SPEEDO BIKE GLOVE GEL POWER 308074-180",
+  "ean": "7899826765131",
+  "marca": "Speedo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Luvas"
+  ],
+  "preco": 72.79,
+  "de": null,
+  "url": "https://www.decathlon.com.br/luva-speedo-bike-glove-gel-power-308074-180-2145511319/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75111990/16990673953489.jpg?v=638351672113900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:38:58.510Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "MEIA SPEEDO ANTIDERRAPANTE 719929P-806",
+  "ean": "7899826732881",
+  "marca": "Speedo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Meias",
+   "Meias"
+  ],
+  "preco": 59.9,
+  "de": 69.9,
+  "url": "https://www.decathlon.com.br/meia-speedo-antiderrapante-719929p-806-2145511347/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75113032/16990704288428.jpg?v=638351674446470000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:39:01.949Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "CHUTEIRA PUMA KING SOCIETY BDP 106456-01",
+  "ean": "4063696162250",
+  "marca": "Puma",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 349.9,
+  "de": 599.9,
+  "url": "https://www.decathlon.com.br/chuteira-puma-king-society-bdp-106456-01-2145511355/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/75114075/16990761326366.jpg?v=638351678171630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:39:04.744Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Campo Umbro Plasma",
+  "ean": "7909527589391",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 104.49,
+  "de": 129.99,
+  "url": "https://www.decathlon.com.br/chuteira-campo-umbro-plasma-2145426206/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/143123833/16915896118169.jpg?v=638539924387670000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:39:07.660Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira Campo Umbro Prisma+",
+  "ean": "7909527692220",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 123.49,
+  "de": 159.99,
+  "url": "https://www.decathlon.com.br/chuteira-campo-umbro-prisma--2145426205/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/142984186/16915896851982.jpg?v=638539531076130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:39:11.093Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Rede Vôlei Pangué 2 Lonas Algodão com Fio Branco Seda",
+  "ean": null,
+  "marca": "PANGUÉ",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Redes"
+  ],
+  "preco": 115.61,
+  "de": 146.76,
+  "url": "https://www.decathlon.com.br/rede-volei-pangue-2-lonas-algodao-com-fio-branco-seda-2145426211/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/48959988/16916149063527.jpg?v=638276278380300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:39:14.192Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Kit Clube Infantil Umbro Santos Of.3 2022",
+  "ean": "7909527942660",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Apoio",
+   "Kits e Conjuntos"
+  ],
+  "preco": 85.49,
+  "de": 269.9,
+  "url": "https://www.decathlon.com.br/kit-clube-infantil-umbro-santos-of-3-2022-2145426975/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/49236915/16921295464000.jpg?v=638277901903330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:39:17.235Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Masculina Umbro Santos Graphic Fan 2022",
+  "ean": "7909526936691",
+  "marca": "UMBRO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 66.49,
+  "de": 79.99,
+  "url": "https://www.decathlon.com.br/camiseta-masculina-umbro-santos-graphic-fan-2022-2145426800/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/49395417/16921293849227.jpg?v=638278795422630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-18T23:39:20.414Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
   "titulo": "Tênis Fila Disruptor Infantil",
   "ean": "7909527997776",
   "marca": "Fila",
@@ -2200,7 +2200,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:53.671Z"
+  "coletadoEm": "2026-11-18T23:39:27.123Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2226,7 +2226,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:34:56.869Z"
+  "coletadoEm": "2026-11-18T23:39:30.580Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2252,7 +2252,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:00.696Z"
+  "coletadoEm": "2026-11-18T23:39:34.345Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2278,7 +2278,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:04.702Z"
+  "coletadoEm": "2026-11-18T23:39:37.964Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2304,7 +2304,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:07.953Z"
+  "coletadoEm": "2026-11-18T23:39:41.559Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2330,7 +2330,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:10.876Z"
+  "coletadoEm": "2026-11-18T23:39:44.999Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2356,7 +2356,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:15.028Z"
+  "coletadoEm": "2026-11-18T23:39:48.278Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2382,7 +2382,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:19.016Z"
+  "coletadoEm": "2026-11-18T23:39:51.272Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2408,7 +2408,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:22.360Z"
+  "coletadoEm": "2026-11-18T23:39:54.779Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2434,7 +2434,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:25.234Z"
+  "coletadoEm": "2026-11-18T23:39:57.752Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2460,7 +2460,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:26.784Z"
+  "coletadoEm": "2026-11-18T23:40:00.686Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2486,7 +2486,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:29.561Z"
+  "coletadoEm": "2026-11-18T23:40:04.220Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2512,7 +2512,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:33.113Z"
+  "coletadoEm": "2026-11-18T23:40:06.932Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2538,7 +2538,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:36.290Z"
+  "coletadoEm": "2026-11-18T23:40:08.754Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2564,7 +2564,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:40.191Z"
+  "coletadoEm": "2026-11-18T23:40:11.873Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2590,7 +2590,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:44.187Z"
+  "coletadoEm": "2026-11-18T23:40:14.740Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2616,7 +2616,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:47.855Z"
+  "coletadoEm": "2026-11-18T23:40:18.793Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2642,7 +2642,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:50.683Z"
+  "coletadoEm": "2026-11-18T23:40:21.798Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2666,7 +2666,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:54.478Z"
+  "coletadoEm": "2026-11-18T23:40:24.753Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2692,7 +2692,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:35:58.130Z"
+  "coletadoEm": "2026-11-18T23:40:27.989Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2718,7 +2718,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:00.693Z"
+  "coletadoEm": "2026-11-18T23:40:31.392Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2744,7 +2744,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:03.766Z"
+  "coletadoEm": "2026-11-18T23:40:34.982Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2770,7 +2770,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:06.718Z"
+  "coletadoEm": "2026-11-18T23:40:38.070Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2796,7 +2796,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:09.539Z"
+  "coletadoEm": "2026-11-18T23:40:41.121Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2822,7 +2822,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:13.715Z"
+  "coletadoEm": "2026-11-18T23:40:44.096Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2848,7 +2848,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:16.916Z"
+  "coletadoEm": "2026-11-18T23:40:47.016Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2874,7 +2874,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:19.827Z"
+  "coletadoEm": "2026-11-18T23:40:49.887Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2900,7 +2900,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:23.055Z"
+  "coletadoEm": "2026-11-18T23:40:54.404Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2926,7 +2926,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:26.040Z"
+  "coletadoEm": "2026-11-18T23:40:58.304Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2952,7 +2952,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:29.029Z"
+  "coletadoEm": "2026-11-18T23:41:01.111Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -2978,7 +2978,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:32.183Z"
+  "coletadoEm": "2026-11-18T23:41:04.593Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3004,7 +3004,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:35.208Z"
+  "coletadoEm": "2026-11-18T23:41:07.889Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3030,7 +3030,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:38.234Z"
+  "coletadoEm": "2026-11-18T23:41:11.113Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3056,7 +3056,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:40.857Z"
+  "coletadoEm": "2026-11-18T23:41:14.619Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3082,7 +3082,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:43.946Z"
+  "coletadoEm": "2026-11-18T23:41:18.717Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3108,7 +3108,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:47.413Z"
+  "coletadoEm": "2026-11-18T23:41:21.724Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3134,7 +3134,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:50.771Z"
+  "coletadoEm": "2026-11-18T23:41:24.925Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3160,7 +3160,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:54.355Z"
+  "coletadoEm": "2026-11-18T23:41:27.927Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3186,7 +3186,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:36:57.459Z"
+  "coletadoEm": "2026-11-18T23:41:30.829Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3212,7 +3212,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:00.554Z"
+  "coletadoEm": "2026-11-18T23:41:34.021Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3238,7 +3238,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:03.282Z"
+  "coletadoEm": "2026-11-18T23:41:38.152Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3264,7 +3264,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:06.388Z"
+  "coletadoEm": "2026-11-18T23:41:41.472Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3290,7 +3290,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:09.146Z"
+  "coletadoEm": "2026-11-18T23:41:44.728Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3316,7 +3316,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:12.069Z"
+  "coletadoEm": "2026-11-18T23:41:47.675Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3342,7 +3342,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:15.180Z"
+  "coletadoEm": "2026-11-18T23:41:50.955Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3368,7 +3368,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:18.081Z"
+  "coletadoEm": "2026-11-18T23:41:54.288Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3394,7 +3394,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:21.463Z"
+  "coletadoEm": "2026-11-18T23:41:57.724Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3420,7 +3420,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:25.010Z"
+  "coletadoEm": "2026-11-18T23:42:00.710Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3446,7 +3446,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:28.032Z"
+  "coletadoEm": "2026-11-18T23:42:05.029Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3472,7 +3472,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:31.131Z"
+  "coletadoEm": "2026-11-18T23:42:09.159Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3498,7 +3498,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:34.149Z"
+  "coletadoEm": "2026-11-18T23:42:12.155Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3524,7 +3524,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:38.176Z"
+  "coletadoEm": "2026-11-18T23:42:15.642Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3550,7 +3550,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:42.601Z"
+  "coletadoEm": "2026-11-18T23:42:18.730Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3576,7 +3576,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:45.431Z"
+  "coletadoEm": "2026-11-18T23:42:22.589Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3602,7 +3602,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:48.553Z"
+  "coletadoEm": "2026-11-18T23:42:25.493Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3628,7 +3628,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:51.236Z"
+  "coletadoEm": "2026-11-18T23:42:28.506Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3654,7 +3654,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:55.339Z"
+  "coletadoEm": "2026-11-18T23:42:31.820Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3680,7 +3680,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:37:59.764Z"
+  "coletadoEm": "2026-11-18T23:42:34.716Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3706,7 +3706,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:03.732Z"
+  "coletadoEm": "2026-11-18T23:42:38.143Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3732,7 +3732,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:07.105Z"
+  "coletadoEm": "2026-11-18T23:42:41.186Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3758,7 +3758,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:10.228Z"
+  "coletadoEm": "2026-11-18T23:42:44.815Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3784,7 +3784,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:14.737Z"
+  "coletadoEm": "2026-11-18T23:42:47.904Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3810,7 +3810,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:17.916Z"
+  "coletadoEm": "2026-11-18T23:42:50.808Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3836,7 +3836,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:20.992Z"
+  "coletadoEm": "2026-11-18T23:42:54.320Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3862,7 +3862,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:23.854Z"
+  "coletadoEm": "2026-11-18T23:42:57.070Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3888,7 +3888,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:27.071Z"
+  "coletadoEm": "2026-11-18T23:43:01.032Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3914,7 +3914,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:30.700Z"
+  "coletadoEm": "2026-11-18T23:43:04.064Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3940,7 +3940,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:34.928Z"
+  "coletadoEm": "2026-11-18T23:43:07.840Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3966,7 +3966,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:37.591Z"
+  "coletadoEm": "2026-11-18T23:43:10.945Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -3992,7 +3992,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:40.561Z"
+  "coletadoEm": "2026-11-18T23:43:14.043Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4018,7 +4018,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:43.834Z"
+  "coletadoEm": "2026-11-18T23:43:17.141Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4044,7 +4044,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:47.447Z"
+  "coletadoEm": "2026-11-18T23:43:20.596Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4070,7 +4070,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:50.909Z"
+  "coletadoEm": "2026-11-18T23:43:24.063Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4096,7 +4096,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:53.947Z"
+  "coletadoEm": "2026-11-18T23:43:27.547Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4121,7 +4121,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:38:58.827Z"
+  "coletadoEm": "2026-11-18T23:43:33.639Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4147,7 +4147,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:01.788Z"
+  "coletadoEm": "2026-11-18T23:43:36.584Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4172,7 +4172,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:04.427Z"
+  "coletadoEm": "2026-11-18T23:43:39.736Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4197,7 +4197,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:11.660Z"
+  "coletadoEm": "2026-11-18T23:43:48.428Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4223,7 +4223,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:23.936Z"
+  "coletadoEm": "2026-11-18T23:44:00.389Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4248,7 +4248,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:26.528Z"
+  "coletadoEm": "2026-11-18T23:44:03.405Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4273,7 +4273,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:29.818Z"
+  "coletadoEm": "2026-11-18T23:44:06.448Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4299,7 +4299,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:32.798Z"
+  "coletadoEm": "2026-11-18T23:44:09.278Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4324,7 +4324,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:35.784Z"
+  "coletadoEm": "2026-11-18T23:44:12.611Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4349,7 +4349,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:38.691Z"
+  "coletadoEm": "2026-11-18T23:44:15.659Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4374,7 +4374,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:41.625Z"
+  "coletadoEm": "2026-11-18T23:44:18.769Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4400,7 +4400,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:45.041Z"
+  "coletadoEm": "2026-11-18T23:44:22.230Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4426,7 +4426,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:47.946Z"
+  "coletadoEm": "2026-11-18T23:44:25.961Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4452,7 +4452,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:51.467Z"
+  "coletadoEm": "2026-11-18T23:44:29.212Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4478,7 +4478,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:54.258Z"
+  "coletadoEm": "2026-11-18T23:44:32.617Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4504,7 +4504,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:39:58.003Z"
+  "coletadoEm": "2026-11-18T23:44:36.257Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4530,7 +4530,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:00.838Z"
+  "coletadoEm": "2026-11-18T23:44:39.452Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4556,7 +4556,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:03.980Z"
+  "coletadoEm": "2026-11-18T23:44:42.739Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4582,7 +4582,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:07.890Z"
+  "coletadoEm": "2026-11-18T23:44:45.908Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4608,7 +4608,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:11.321Z"
+  "coletadoEm": "2026-11-18T23:44:49.168Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4634,7 +4634,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:14.105Z"
+  "coletadoEm": "2026-11-18T23:44:55.374Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4660,7 +4660,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:16.837Z"
+  "coletadoEm": "2026-11-18T23:44:58.507Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4685,7 +4685,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:22.397Z"
+  "coletadoEm": "2026-11-18T23:45:05.426Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4710,7 +4710,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:25.666Z"
+  "coletadoEm": "2026-11-18T23:45:08.687Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4736,7 +4736,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:28.575Z"
+  "coletadoEm": "2026-11-18T23:45:11.608Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4762,7 +4762,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:31.551Z"
+  "coletadoEm": "2026-11-18T23:45:14.622Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4788,7 +4788,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:49.824Z"
+  "coletadoEm": "2026-11-18T23:45:33.993Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4814,7 +4814,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:53.256Z"
+  "coletadoEm": "2026-11-18T23:45:37.196Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4840,7 +4840,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:56.497Z"
+  "coletadoEm": "2026-11-18T23:45:40.083Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4866,7 +4866,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:40:59.409Z"
+  "coletadoEm": "2026-11-18T23:45:43.485Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4892,7 +4892,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:02.297Z"
+  "coletadoEm": "2026-11-18T23:45:46.347Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4916,7 +4916,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:05.457Z"
+  "coletadoEm": "2026-11-18T23:45:50.402Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4942,7 +4942,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:08.464Z"
+  "coletadoEm": "2026-11-18T23:45:53.438Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4968,7 +4968,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:11.386Z"
+  "coletadoEm": "2026-11-18T23:45:56.791Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -4994,7 +4994,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:14.535Z"
+  "coletadoEm": "2026-11-18T23:46:00.366Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5020,7 +5020,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:17.450Z"
+  "coletadoEm": "2026-11-18T23:46:03.078Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5046,7 +5046,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:20.472Z"
+  "coletadoEm": "2026-11-18T23:46:06.323Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5072,7 +5072,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:24.092Z"
+  "coletadoEm": "2026-11-18T23:46:09.479Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5098,7 +5098,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:26.630Z"
+  "coletadoEm": "2026-11-18T23:46:12.697Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5124,7 +5124,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:29.823Z"
+  "coletadoEm": "2026-11-18T23:46:15.672Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5150,7 +5150,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:32.344Z"
+  "coletadoEm": "2026-11-18T23:46:19.074Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5176,7 +5176,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:35.614Z"
+  "coletadoEm": "2026-11-18T23:46:22.641Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5202,7 +5202,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:37.933Z"
+  "coletadoEm": "2026-11-18T23:46:24.960Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5228,7 +5228,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:40.401Z"
+  "coletadoEm": "2026-11-18T23:46:29.063Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5254,7 +5254,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:43.312Z"
+  "coletadoEm": "2026-11-18T23:46:31.960Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5280,7 +5280,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:46.226Z"
+  "coletadoEm": "2026-11-18T23:46:34.958Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5305,7 +5305,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:48.989Z"
+  "coletadoEm": "2026-11-18T23:46:38.153Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5331,7 +5331,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:52.409Z"
+  "coletadoEm": "2026-11-18T23:46:41.148Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5357,7 +5357,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:55.313Z"
+  "coletadoEm": "2026-11-18T23:46:44.510Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5383,7 +5383,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:41:57.602Z"
+  "coletadoEm": "2026-11-18T23:46:48.123Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5409,7 +5409,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:00.226Z"
+  "coletadoEm": "2026-11-18T23:46:51.980Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5435,7 +5435,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:03.514Z"
+  "coletadoEm": "2026-11-18T23:46:55.352Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5461,7 +5461,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:07.074Z"
+  "coletadoEm": "2026-11-18T23:46:58.596Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5487,7 +5487,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:09.411Z"
+  "coletadoEm": "2026-11-18T23:47:01.091Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5513,7 +5513,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:12.598Z"
+  "coletadoEm": "2026-11-18T23:47:04.001Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5539,7 +5539,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:15.560Z"
+  "coletadoEm": "2026-11-18T23:47:07.063Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5565,7 +5565,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:18.834Z"
+  "coletadoEm": "2026-11-18T23:47:10.348Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5591,7 +5591,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:21.708Z"
+  "coletadoEm": "2026-11-18T23:47:12.994Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5617,7 +5617,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:24.527Z"
+  "coletadoEm": "2026-11-18T23:47:16.665Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5643,7 +5643,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:28.727Z"
+  "coletadoEm": "2026-11-18T23:47:19.657Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5669,7 +5669,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:31.528Z"
+  "coletadoEm": "2026-11-18T23:47:22.648Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5695,7 +5695,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:34.868Z"
+  "coletadoEm": "2026-11-18T23:47:25.461Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5720,7 +5720,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:37.121Z"
+  "coletadoEm": "2026-11-18T23:47:28.693Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5746,7 +5746,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:39.605Z"
+  "coletadoEm": "2026-11-18T23:47:31.616Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5772,7 +5772,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:44.800Z"
+  "coletadoEm": "2026-11-18T23:47:38.778Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5798,7 +5798,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:48.733Z"
+  "coletadoEm": "2026-11-18T23:47:42.240Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5824,7 +5824,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:52.697Z"
+  "coletadoEm": "2026-11-18T23:47:45.494Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5849,7 +5849,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:55.721Z"
+  "coletadoEm": "2026-11-18T23:47:49.311Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5875,7 +5875,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:42:59.641Z"
+  "coletadoEm": "2026-11-18T23:47:51.778Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5900,7 +5900,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:02.155Z"
+  "coletadoEm": "2026-11-18T23:47:54.730Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5926,7 +5926,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:05.395Z"
+  "coletadoEm": "2026-11-18T23:47:57.704Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5942,7 +5942,7 @@
    "Trajes",
    "Luvas"
   ],
-  "preco": 142.49,
+  "preco": 75.99,
   "de": 149.99,
   "url": "https://www.decathlon.com.br/luva-de-goleiro-juvenil-umbro-neo-club-2146040528/p",
   "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182244031/17931935201951.jpg?v=639290445647600000",
@@ -5952,7 +5952,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:08.664Z"
+  "coletadoEm": "2026-11-18T23:48:00.552Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -5977,7 +5977,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:11.572Z"
+  "coletadoEm": "2026-11-18T23:48:03.439Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6003,7 +6003,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:15.026Z"
+  "coletadoEm": "2026-11-18T23:48:06.361Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6029,7 +6029,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:18.732Z"
+  "coletadoEm": "2026-11-18T23:48:09.610Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6055,7 +6055,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:22.569Z"
+  "coletadoEm": "2026-11-18T23:48:12.248Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6081,7 +6081,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:25.296Z"
+  "coletadoEm": "2026-11-18T23:48:15.755Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6107,7 +6107,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:27.996Z"
+  "coletadoEm": "2026-11-18T23:48:20.270Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6133,7 +6133,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:30.850Z"
+  "coletadoEm": "2026-11-18T23:48:23.769Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6159,13 +6159,13 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:34.894Z"
+  "coletadoEm": "2026-11-18T23:48:27.081Z"
  },
  {
   "fonte": "sitemap-decathlon",
   "loja": "Decathlon",
   "titulo": "Tênis Asics Gel-Takumi Masculino",
-  "ean": "7908982108246",
+  "ean": "7908982108185",
   "marca": "ASICS",
   "modelo": null,
   "cat": null,
@@ -6178,14 +6178,14 @@
   "preco": 398.9,
   "de": 522.4,
   "url": "https://www.decathlon.com.br/tenis-asics-gel-takumi-masculino-2146040581/p",
-  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182252420/17927916320583.jpg?v=639290716636270000",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/182252458/17927916667170.jpg?v=639290716795730000",
   "vendedor": {
    "oficial": true,
    "nome": null,
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:39.358Z"
+  "coletadoEm": "2026-11-18T23:48:30.759Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6210,7 +6210,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:42.035Z"
+  "coletadoEm": "2026-11-18T23:48:33.847Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6236,7 +6236,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:45.506Z"
+  "coletadoEm": "2026-11-18T23:48:37.257Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6262,7 +6262,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:48.870Z"
+  "coletadoEm": "2026-11-18T23:48:40.697Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6288,7 +6288,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:51.755Z"
+  "coletadoEm": "2026-11-18T23:48:45.590Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6314,7 +6314,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:55.289Z"
+  "coletadoEm": "2026-11-18T23:48:48.647Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6340,7 +6340,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:43:58.281Z"
+  "coletadoEm": "2026-11-18T23:48:51.706Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6366,7 +6366,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:01.808Z"
+  "coletadoEm": "2026-11-18T23:48:54.767Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6392,7 +6392,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:05.493Z"
+  "coletadoEm": "2026-11-18T23:48:57.566Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6418,7 +6418,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:08.699Z"
+  "coletadoEm": "2026-11-18T23:49:00.666Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6444,7 +6444,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:11.641Z"
+  "coletadoEm": "2026-11-18T23:49:03.905Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6470,7 +6470,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:14.652Z"
+  "coletadoEm": "2026-11-18T23:49:06.902Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6496,7 +6496,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:18.295Z"
+  "coletadoEm": "2026-11-18T23:49:10.192Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6522,7 +6522,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:21.350Z"
+  "coletadoEm": "2026-11-18T23:49:13.432Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6548,7 +6548,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:24.603Z"
+  "coletadoEm": "2026-11-18T23:49:18.046Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6574,7 +6574,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:27.125Z"
+  "coletadoEm": "2026-11-18T23:49:21.803Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6600,7 +6600,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:30.043Z"
+  "coletadoEm": "2026-11-18T23:49:24.868Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6626,7 +6626,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:32.980Z"
+  "coletadoEm": "2026-11-18T23:49:28.101Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6652,7 +6652,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:35.613Z"
+  "coletadoEm": "2026-11-18T23:49:31.341Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6678,7 +6678,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:38.055Z"
+  "coletadoEm": "2026-11-18T23:49:34.701Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6704,7 +6704,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:41.237Z"
+  "coletadoEm": "2026-11-18T23:49:37.894Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6730,7 +6730,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:44.131Z"
+  "coletadoEm": "2026-11-18T23:49:41.217Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6756,7 +6756,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:46.872Z"
+  "coletadoEm": "2026-11-18T23:49:45.241Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6782,7 +6782,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:50.193Z"
+  "coletadoEm": "2026-11-18T23:49:48.390Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6808,7 +6808,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:53.051Z"
+  "coletadoEm": "2026-11-18T23:49:51.524Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6834,7 +6834,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:56.035Z"
+  "coletadoEm": "2026-11-18T23:49:55.100Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6860,7 +6860,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:44:59.302Z"
+  "coletadoEm": "2026-11-18T23:49:58.549Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6885,7 +6885,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:02.099Z"
+  "coletadoEm": "2026-11-18T23:50:01.254Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6911,7 +6911,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:05.369Z"
+  "coletadoEm": "2026-11-18T23:50:04.352Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6936,7 +6936,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:08.064Z"
+  "coletadoEm": "2026-11-18T23:50:07.663Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6962,7 +6962,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:13.728Z"
+  "coletadoEm": "2026-11-18T23:50:10.899Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -6988,7 +6988,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:17.852Z"
+  "coletadoEm": "2026-11-18T23:50:14.277Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7014,7 +7014,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:20.952Z"
+  "coletadoEm": "2026-11-18T23:50:18.141Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7040,7 +7040,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:24.206Z"
+  "coletadoEm": "2026-11-18T23:50:21.401Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7066,7 +7066,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:27.848Z"
+  "coletadoEm": "2026-11-18T23:50:24.270Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7092,7 +7092,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:31.151Z"
+  "coletadoEm": "2026-11-18T23:50:27.674Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7118,7 +7118,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:34.375Z"
+  "coletadoEm": "2026-11-18T23:50:31.511Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7144,7 +7144,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:37.382Z"
+  "coletadoEm": "2026-11-18T23:50:34.246Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7170,7 +7170,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:41.337Z"
+  "coletadoEm": "2026-11-18T23:50:37.152Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7196,7 +7196,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:44.332Z"
+  "coletadoEm": "2026-11-18T23:50:40.463Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7222,7 +7222,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:47.015Z"
+  "coletadoEm": "2026-11-18T23:50:43.948Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7248,7 +7248,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:50.544Z"
+  "coletadoEm": "2026-11-18T23:50:46.997Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7273,7 +7273,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:54.488Z"
+  "coletadoEm": "2026-11-18T23:50:49.857Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7299,7 +7299,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:45:57.064Z"
+  "coletadoEm": "2026-11-18T23:50:53.443Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7325,7 +7325,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:46:00.550Z"
+  "coletadoEm": "2026-11-18T23:50:58.357Z"
  },
  {
   "fonte": "sitemap-decathlon",
@@ -7351,6 +7351,6 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-18T14:46:03.606Z"
+  "coletadoEm": "2026-11-18T23:51:01.840Z"
  }
 ]
