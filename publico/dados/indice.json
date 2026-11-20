@@ -1,8 +1,8 @@
 {
- "geradoEm": "2026-11-19T15:06:23.678Z",
- "checadoEm": "19/11, 12:06",
- "total": 7124,
- "monitorados": 13810,
+ "geradoEm": "2026-11-20T00:13:39.804Z",
+ "checadoEm": "19/11, 21:13",
+ "total": 7294,
+ "monitorados": 14159,
  "lojasMonitoradas": [
   "Ri Happy",
   "Renner",
@@ -15,12 +15,12 @@
   "Polishop",
   "Tok&Stok"
  ],
- "checadas": 140,
+ "checadas": 141,
  "porClasse": {
-  "imperdivel": 16,
+  "imperdivel": 17,
   "otimo": 39,
   "bom": 27,
-  "nao_checado": 6984,
+  "nao_checado": 7153,
   "falso": 58
  },
  "lojas": [
@@ -45,7 +45,7 @@
   "outros": {
    "nome": "Outros",
    "arquivo": "ofertas-outros.json",
-   "n": 1222,
+   "n": 1272,
    "checadas": 25,
    "lojas": [
     "Ri Happy",
@@ -58,8 +58,8 @@
   "MLB1430": {
    "nome": "Calçados, Roupas e Bolsas",
    "arquivo": "ofertas-MLB1430.json",
-   "n": 3083,
-   "checadas": 64,
+   "n": 3164,
+   "checadas": 65,
    "lojas": [
     "Renner",
     "Decathlon",
@@ -72,7 +72,7 @@
   "MLB5726": {
    "nome": "Eletrodomésticos",
    "arquivo": "ofertas-MLB5726.json",
-   "n": 61,
+   "n": 62,
    "checadas": 4,
    "lojas": [
     "Mercado Livre",
@@ -86,7 +86,7 @@
   "MLB1403": {
    "nome": "Alimentos e Bebidas",
    "arquivo": "ofertas-MLB1403.json",
-   "n": 46,
+   "n": 48,
    "checadas": 3,
    "lojas": [
     "Mercado Livre",
@@ -100,20 +100,21 @@
   "MLB1071": {
    "nome": "Pet Shop",
    "arquivo": "ofertas-MLB1071.json",
-   "n": 119,
+   "n": 125,
    "checadas": 5,
    "lojas": [
     "Ri Happy",
     "Cobasi",
     "Renner",
     "Mercado Livre",
-    "Americanas"
+    "Americanas",
+    "Polishop"
    ]
   },
   "MLB1246": {
    "nome": "Beleza e Cuidado Pessoal",
    "arquivo": "ofertas-MLB1246.json",
-   "n": 222,
+   "n": 230,
    "checadas": 4,
    "lojas": [
     "Mercado Livre",
@@ -126,13 +127,14 @@
   "MLB5672": {
    "nome": "Acessórios para Veículos",
    "arquivo": "ofertas-MLB5672.json",
-   "n": 46,
+   "n": 48,
    "checadas": 2,
    "lojas": [
     "Mercado Livre",
     "Ri Happy",
     "Americanas",
-    "Decathlon"
+    "Decathlon",
+    "Renner"
    ]
   },
   "MLB263532": {
@@ -148,7 +150,7 @@
   "MLB1132": {
    "nome": "Brinquedos e Hobbies",
    "arquivo": "ofertas-MLB1132.json",
-   "n": 80,
+   "n": 84,
    "checadas": 16,
    "lojas": [
     "Americanas",
@@ -174,7 +176,7 @@
   "MLB1574": {
    "nome": "Casa, Móveis e Decoração",
    "arquivo": "ofertas-MLB1574.json",
-   "n": 214,
+   "n": 215,
    "checadas": 4,
    "lojas": [
     "Mercado Livre",
@@ -200,7 +202,7 @@
   "MLB1648": {
    "nome": "Informática",
    "arquivo": "ofertas-MLB1648.json",
-   "n": 1265,
+   "n": 1264,
    "checadas": 2,
    "lojas": [
     "Mercado Livre",
@@ -212,7 +214,7 @@
   "MLB1384": {
    "nome": "Bebês",
    "arquivo": "ofertas-MLB1384.json",
-   "n": 39,
+   "n": 41,
    "checadas": 2,
    "lojas": [
     "Americanas",
@@ -224,7 +226,7 @@
   "MLB3937": {
    "nome": "Joias e Relógios",
    "arquivo": "ofertas-MLB3937.json",
-   "n": 265,
+   "n": 276,
    "checadas": 0,
    "lojas": [
     "Decathlon",
@@ -247,7 +249,7 @@
   "MLB1500": {
    "nome": "Construção",
    "arquivo": "ofertas-MLB1500.json",
-   "n": 63,
+   "n": 65,
    "checadas": 0,
    "lojas": [
     "Decathlon",
@@ -259,7 +261,7 @@
   "MLB1144": {
    "nome": "Games",
    "arquivo": "ofertas-MLB1144.json",
-   "n": 53,
+   "n": 54,
    "checadas": 1,
    "lojas": [
     "KaBuM!",
