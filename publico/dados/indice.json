@@ -1,27 +1,27 @@
 {
- "geradoEm": "2026-11-20T23:47:17.141Z",
- "checadoEm": "20/11, 20:47",
- "total": 7607,
- "monitorados": 14761,
+ "geradoEm": "2026-11-21T14:08:51.528Z",
+ "checadoEm": "21/11, 11:08",
+ "total": 7773,
+ "monitorados": 15116,
  "lojasMonitoradas": [
   "Ri Happy",
   "Renner",
   "Mercado Livre",
   "Decathlon",
   "Americanas",
+  "KaBuM!",
   "Cobasi",
   "Carrefour",
-  "KaBuM!",
   "Polishop",
   "Tok&Stok"
  ],
- "checadas": 141,
+ "checadas": 202,
  "porClasse": {
   "imperdivel": 17,
-  "otimo": 40,
-  "bom": 25,
-  "nao_checado": 7466,
-  "falso": 59
+  "otimo": 43,
+  "bom": 29,
+  "nao_checado": 7571,
+  "falso": 113
  },
  "lojas": [
   "Ri Happy",
@@ -29,8 +29,8 @@
   "Mercado Livre",
   "Decathlon",
   "Americanas",
-  "Cobasi",
   "KaBuM!",
+  "Cobasi",
   "Polishop",
   "Tok&Stok"
  ],
@@ -38,14 +38,14 @@
   1895260324,
   165116998,
   1273553087,
-  1207011772,
-  1732070092
+  52274527,
+  1397255460
  ],
  "porDepartamento": {
   "outros": {
    "nome": "Outros",
    "arquivo": "ofertas-outros.json",
-   "n": 1373,
+   "n": 1426,
    "checadas": 25,
    "lojas": [
     "Ri Happy",
@@ -58,8 +58,8 @@
   "MLB1430": {
    "nome": "Calçados, Roupas e Bolsas",
    "arquivo": "ofertas-MLB1430.json",
-   "n": 3303,
-   "checadas": 65,
+   "n": 3383,
+   "checadas": 66,
    "lojas": [
     "Renner",
     "Decathlon",
@@ -72,7 +72,7 @@
   "MLB5726": {
    "nome": "Eletrodomésticos",
    "arquivo": "ofertas-MLB5726.json",
-   "n": 63,
+   "n": 64,
    "checadas": 4,
    "lojas": [
     "Mercado Livre",
@@ -80,7 +80,8 @@
     "KaBuM!",
     "Polishop",
     "Ri Happy",
-    "Decathlon"
+    "Decathlon",
+    "Renner"
    ]
   },
   "MLB1403": {
@@ -100,7 +101,7 @@
   "MLB1071": {
    "nome": "Pet Shop",
    "arquivo": "ofertas-MLB1071.json",
-   "n": 128,
+   "n": 130,
    "checadas": 5,
    "lojas": [
     "Ri Happy",
@@ -114,7 +115,7 @@
   "MLB1246": {
    "nome": "Beleza e Cuidado Pessoal",
    "arquivo": "ofertas-MLB1246.json",
-   "n": 240,
+   "n": 249,
    "checadas": 4,
    "lojas": [
     "Mercado Livre",
@@ -128,7 +129,7 @@
    "nome": "Acessórios para Veículos",
    "arquivo": "ofertas-MLB5672.json",
    "n": 49,
-   "checadas": 2,
+   "checadas": 3,
    "lojas": [
     "Mercado Livre",
     "Ri Happy",
@@ -147,10 +148,22 @@
     "Decathlon"
    ]
   },
+  "MLB1648": {
+   "nome": "Informática",
+   "arquivo": "ofertas-MLB1648.json",
+   "n": 1266,
+   "checadas": 61,
+   "lojas": [
+    "KaBuM!",
+    "Mercado Livre",
+    "Americanas",
+    "Renner"
+   ]
+  },
   "MLB1132": {
    "nome": "Brinquedos e Hobbies",
    "arquivo": "ofertas-MLB1132.json",
-   "n": 85,
+   "n": 86,
    "checadas": 16,
    "lojas": [
     "Americanas",
@@ -162,7 +175,7 @@
   "MLB264586": {
    "nome": "Saúde",
    "arquivo": "ofertas-MLB264586.json",
-   "n": 96,
+   "n": 97,
    "checadas": 3,
    "lojas": [
     "Americanas",
@@ -170,14 +183,14 @@
     "Decathlon",
     "Mercado Livre",
     "Polishop",
-    "Renner",
-    "Ri Happy"
+    "Ri Happy",
+    "Renner"
    ]
   },
   "MLB1574": {
    "nome": "Casa, Móveis e Decoração",
    "arquivo": "ofertas-MLB1574.json",
-   "n": 218,
+   "n": 219,
    "checadas": 4,
    "lojas": [
     "Mercado Livre",
@@ -200,18 +213,6 @@
     "Ri Happy"
    ]
   },
-  "MLB1648": {
-   "nome": "Informática",
-   "arquivo": "ofertas-MLB1648.json",
-   "n": 1267,
-   "checadas": 2,
-   "lojas": [
-    "Mercado Livre",
-    "Americanas",
-    "KaBuM!",
-    "Renner"
-   ]
-  },
   "MLB1384": {
    "nome": "Bebês",
    "arquivo": "ofertas-MLB1384.json",
@@ -227,7 +228,7 @@
   "MLB3937": {
    "nome": "Joias e Relógios",
    "arquivo": "ofertas-MLB3937.json",
-   "n": 313,
+   "n": 328,
    "checadas": 0,
    "lojas": [
     "Decathlon",
@@ -250,7 +251,7 @@
   "MLB1500": {
    "nome": "Construção",
    "arquivo": "ofertas-MLB1500.json",
-   "n": 70,
+   "n": 73,
    "checadas": 0,
    "lojas": [
     "Decathlon",
@@ -262,7 +263,7 @@
   "MLB1144": {
    "nome": "Games",
    "arquivo": "ofertas-MLB1144.json",
-   "n": 55,
+   "n": 56,
    "checadas": 1,
    "lojas": [
     "KaBuM!",
