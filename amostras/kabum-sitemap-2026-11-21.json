@@ -2,6 +2,32 @@
  {
   "fonte": "sitemap-kabum",
   "loja": "KaBuM!",
+  "titulo": "Bicicleta Eletrica Wx-15 Wehawk 800w Bat Litio 48v 20ah - Prata",
+  "ean": null,
+  "marca": "Outros",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Mobilidade Elétrica/Bicicleta Elétrica/Até 1000W",
+  "caminhoLoja": [
+   "Mobilidade Elétrica",
+   "Bicicleta Elétrica",
+   "Até 1000W"
+  ],
+  "preco": 5990.9,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/1084192/bicicleta-eletrica-wx-15-wehawk-800w-bat-litio-48v-20ah-prata",
+  "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/1084192/large/Bicicleta-Eletrica-Wx-15-Wehawk-800w-Bat-Litio-48v-20ah-Prata_1792765114.jpg",
+  "vendedor": {
+   "oficial": false,
+   "nome": "WeHawk",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-21T13:49:33.742Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
   "titulo": "Ventoinha C3Tech F7-100, 120mm, Preto - STORM F7-100BK",
   "ean": null,
   "marca": "C3Tech",
@@ -23,7 +49,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:01.585Z"
+  "coletadoEm": "2026-11-21T22:22:11.186Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -49,7 +75,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:03.290Z"
+  "coletadoEm": "2026-11-21T22:22:12.848Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -75,7 +101,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:05.226Z"
+  "coletadoEm": "2026-11-21T22:22:14.521Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -101,7 +127,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:06.886Z"
+  "coletadoEm": "2026-11-21T22:22:16.192Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -127,7 +153,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:08.614Z"
+  "coletadoEm": "2026-11-21T22:22:17.852Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -153,7 +179,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:10.338Z"
+  "coletadoEm": "2026-11-21T22:22:19.520Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -178,8 +204,8 @@
    "nome": "KaBuM!",
    "reputacao": null
   },
-  "disponivel": false,
-  "coletadoEm": "2026-11-21T13:41:12.047Z"
+  "disponivel": true,
+  "coletadoEm": "2026-11-21T22:22:21.385Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -205,7 +231,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:14.060Z"
+  "coletadoEm": "2026-11-21T22:22:23.055Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -231,7 +257,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:15.769Z"
+  "coletadoEm": "2026-11-21T22:22:24.719Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -257,7 +283,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:17.484Z"
+  "coletadoEm": "2026-11-21T22:22:26.365Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -283,7 +309,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:19.178Z"
+  "coletadoEm": "2026-11-21T22:22:28.039Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -309,7 +335,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:20.899Z"
+  "coletadoEm": "2026-11-21T22:22:29.686Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -335,7 +361,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:22.691Z"
+  "coletadoEm": "2026-11-21T22:22:31.375Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -361,7 +387,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:24.500Z"
+  "coletadoEm": "2026-11-21T22:22:33.056Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -387,7 +413,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:26.294Z"
+  "coletadoEm": "2026-11-21T22:22:34.701Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -413,7 +439,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:28.013Z"
+  "coletadoEm": "2026-11-21T22:22:36.407Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -439,7 +465,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:29.719Z"
+  "coletadoEm": "2026-11-21T22:22:38.059Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -465,7 +491,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:31.395Z"
+  "coletadoEm": "2026-11-21T22:22:39.708Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -491,7 +517,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:33.087Z"
+  "coletadoEm": "2026-11-21T22:22:41.358Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -517,7 +543,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:34.804Z"
+  "coletadoEm": "2026-11-21T22:22:43.124Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -543,7 +569,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:36.580Z"
+  "coletadoEm": "2026-11-21T22:22:44.768Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -569,7 +595,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:38.292Z"
+  "coletadoEm": "2026-11-21T22:22:46.543Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -595,7 +621,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:39.988Z"
+  "coletadoEm": "2026-11-21T22:22:48.214Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -621,7 +647,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:41.655Z"
+  "coletadoEm": "2026-11-21T22:22:49.861Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -647,7 +673,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:43.332Z"
+  "coletadoEm": "2026-11-21T22:22:51.515Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -673,7 +699,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:44.997Z"
+  "coletadoEm": "2026-11-21T22:22:53.237Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -699,7 +725,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:46.651Z"
+  "coletadoEm": "2026-11-21T22:22:54.920Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -725,7 +751,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:48.300Z"
+  "coletadoEm": "2026-11-21T22:22:56.690Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -751,7 +777,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:49.986Z"
+  "coletadoEm": "2026-11-21T22:22:58.397Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -777,7 +803,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:51.739Z"
+  "coletadoEm": "2026-11-21T22:23:00.110Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -803,7 +829,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:53.461Z"
+  "coletadoEm": "2026-11-21T22:23:01.782Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -829,7 +855,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:55.263Z"
+  "coletadoEm": "2026-11-21T22:23:03.444Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -855,7 +881,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:56.950Z"
+  "coletadoEm": "2026-11-21T22:23:05.118Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -881,7 +907,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:41:58.649Z"
+  "coletadoEm": "2026-11-21T22:23:06.806Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -907,7 +933,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:00.310Z"
+  "coletadoEm": "2026-11-21T22:23:08.495Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -933,7 +959,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:02.047Z"
+  "coletadoEm": "2026-11-21T22:23:10.141Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -959,7 +985,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:03.746Z"
+  "coletadoEm": "2026-11-21T22:23:11.796Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -985,7 +1011,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:05.795Z"
+  "coletadoEm": "2026-11-21T22:23:13.442Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1012,7 +1038,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:07.482Z"
+  "coletadoEm": "2026-11-21T22:23:15.084Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1039,7 +1065,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:09.171Z"
+  "coletadoEm": "2026-11-21T22:23:16.723Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1065,7 +1091,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:10.831Z"
+  "coletadoEm": "2026-11-21T22:23:18.412Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1091,7 +1117,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:12.597Z"
+  "coletadoEm": "2026-11-21T22:23:20.102Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1117,7 +1143,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:14.302Z"
+  "coletadoEm": "2026-11-21T22:23:21.888Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1143,7 +1169,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:15.998Z"
+  "coletadoEm": "2026-11-21T22:23:23.544Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1169,7 +1195,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:17.727Z"
+  "coletadoEm": "2026-11-21T22:23:25.198Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1195,7 +1221,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:19.465Z"
+  "coletadoEm": "2026-11-21T22:23:26.862Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1221,7 +1247,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:21.143Z"
+  "coletadoEm": "2026-11-21T22:23:28.552Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1247,7 +1273,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:22.814Z"
+  "coletadoEm": "2026-11-21T22:23:30.237Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1273,7 +1299,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:24.475Z"
+  "coletadoEm": "2026-11-21T22:23:31.928Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1299,7 +1325,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:26.174Z"
+  "coletadoEm": "2026-11-21T22:23:33.591Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1325,7 +1351,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:27.852Z"
+  "coletadoEm": "2026-11-21T22:23:35.259Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1351,7 +1377,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:29.657Z"
+  "coletadoEm": "2026-11-21T22:23:36.927Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1377,7 +1403,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:31.327Z"
+  "coletadoEm": "2026-11-21T22:23:38.640Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1403,7 +1429,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:32.983Z"
+  "coletadoEm": "2026-11-21T22:23:40.301Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1429,7 +1455,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:34.735Z"
+  "coletadoEm": "2026-11-21T22:23:41.958Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1455,7 +1481,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:36.391Z"
+  "coletadoEm": "2026-11-21T22:23:43.627Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1481,7 +1507,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:38.143Z"
+  "coletadoEm": "2026-11-21T22:23:45.305Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1506,8 +1532,8 @@
    "nome": "KaBuM!",
    "reputacao": null
   },
-  "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:40.174Z"
+  "disponivel": false,
+  "coletadoEm": "2026-11-21T22:23:46.989Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1533,7 +1559,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:41.988Z"
+  "coletadoEm": "2026-11-21T22:23:48.663Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1559,7 +1585,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:43.687Z"
+  "coletadoEm": "2026-11-21T22:23:50.394Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1585,7 +1611,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:45.408Z"
+  "coletadoEm": "2026-11-21T22:23:52.138Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1611,7 +1637,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:47.081Z"
+  "coletadoEm": "2026-11-21T22:23:53.807Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1637,7 +1663,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:48.778Z"
+  "coletadoEm": "2026-11-21T22:23:55.464Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1663,7 +1689,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:50.482Z"
+  "coletadoEm": "2026-11-21T22:23:57.127Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1689,7 +1715,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:52.168Z"
+  "coletadoEm": "2026-11-21T22:23:58.854Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1715,7 +1741,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:53.966Z"
+  "coletadoEm": "2026-11-21T22:24:00.522Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1741,7 +1767,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:55.731Z"
+  "coletadoEm": "2026-11-21T22:24:02.229Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1767,7 +1793,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:57.417Z"
+  "coletadoEm": "2026-11-21T22:24:03.997Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1793,7 +1819,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:42:59.082Z"
+  "coletadoEm": "2026-11-21T22:24:05.673Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1819,7 +1845,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:00.769Z"
+  "coletadoEm": "2026-11-21T22:24:07.321Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1845,7 +1871,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:02.760Z"
+  "coletadoEm": "2026-11-21T22:24:09.024Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1871,7 +1897,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:04.447Z"
+  "coletadoEm": "2026-11-21T22:24:10.670Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1897,7 +1923,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:06.190Z"
+  "coletadoEm": "2026-11-21T22:24:12.364Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1923,7 +1949,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:07.874Z"
+  "coletadoEm": "2026-11-21T22:24:14.071Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1949,7 +1975,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:09.526Z"
+  "coletadoEm": "2026-11-21T22:24:15.807Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -1975,7 +2001,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:11.247Z"
+  "coletadoEm": "2026-11-21T22:24:17.500Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2001,7 +2027,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:12.917Z"
+  "coletadoEm": "2026-11-21T22:24:19.189Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2027,7 +2053,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:14.589Z"
+  "coletadoEm": "2026-11-21T22:24:20.846Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2053,7 +2079,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:16.319Z"
+  "coletadoEm": "2026-11-21T22:24:22.606Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2079,7 +2105,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:18.048Z"
+  "coletadoEm": "2026-11-21T22:24:24.322Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2105,7 +2131,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:19.719Z"
+  "coletadoEm": "2026-11-21T22:24:26.072Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2132,7 +2158,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:21.436Z"
+  "coletadoEm": "2026-11-21T22:24:27.758Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2159,7 +2185,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:23.109Z"
+  "coletadoEm": "2026-11-21T22:24:29.422Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2186,7 +2212,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:24.831Z"
+  "coletadoEm": "2026-11-21T22:24:31.470Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2213,7 +2239,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:26.599Z"
+  "coletadoEm": "2026-11-21T22:24:33.150Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2240,7 +2266,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:28.321Z"
+  "coletadoEm": "2026-11-21T22:24:34.844Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2267,7 +2293,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:30.013Z"
+  "coletadoEm": "2026-11-21T22:24:36.565Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2294,7 +2320,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:31.688Z"
+  "coletadoEm": "2026-11-21T22:24:38.264Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2321,7 +2347,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:33.345Z"
+  "coletadoEm": "2026-11-21T22:24:40.036Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2348,7 +2374,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:35.034Z"
+  "coletadoEm": "2026-11-21T22:24:41.735Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2375,7 +2401,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:36.694Z"
+  "coletadoEm": "2026-11-21T22:24:43.433Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2402,7 +2428,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:38.353Z"
+  "coletadoEm": "2026-11-21T22:24:45.092Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2429,7 +2455,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:40.052Z"
+  "coletadoEm": "2026-11-21T22:24:46.771Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2456,7 +2482,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:41.717Z"
+  "coletadoEm": "2026-11-21T22:24:48.490Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2483,7 +2509,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:43.382Z"
+  "coletadoEm": "2026-11-21T22:24:50.146Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2510,7 +2536,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:45.056Z"
+  "coletadoEm": "2026-11-21T22:24:51.864Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2537,7 +2563,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:46.756Z"
+  "coletadoEm": "2026-11-21T22:24:53.542Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2564,7 +2590,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:48.448Z"
+  "coletadoEm": "2026-11-21T22:24:55.202Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2591,7 +2617,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:50.121Z"
+  "coletadoEm": "2026-11-21T22:24:56.928Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2618,7 +2644,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:51.829Z"
+  "coletadoEm": "2026-11-21T22:24:58.593Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2645,7 +2671,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:53.474Z"
+  "coletadoEm": "2026-11-21T22:25:00.278Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2672,7 +2698,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:55.172Z"
+  "coletadoEm": "2026-11-21T22:25:01.944Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2699,7 +2725,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:56.862Z"
+  "coletadoEm": "2026-11-21T22:25:03.606Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2726,7 +2752,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:43:58.587Z"
+  "coletadoEm": "2026-11-21T22:25:05.282Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2753,7 +2779,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:00.314Z"
+  "coletadoEm": "2026-11-21T22:25:06.968Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2780,7 +2806,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:02.245Z"
+  "coletadoEm": "2026-11-21T22:25:08.607Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2807,7 +2833,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:04.286Z"
+  "coletadoEm": "2026-11-21T22:25:10.322Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2834,7 +2860,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:05.978Z"
+  "coletadoEm": "2026-11-21T22:25:11.981Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2861,7 +2887,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:07.654Z"
+  "coletadoEm": "2026-11-21T22:25:13.676Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2887,7 +2913,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:09.306Z"
+  "coletadoEm": "2026-11-21T22:25:15.489Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2913,7 +2939,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:10.954Z"
+  "coletadoEm": "2026-11-21T22:25:17.141Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2939,7 +2965,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:12.616Z"
+  "coletadoEm": "2026-11-21T22:25:18.908Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2965,7 +2991,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:14.291Z"
+  "coletadoEm": "2026-11-21T22:25:20.561Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2991,7 +3017,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:15.959Z"
+  "coletadoEm": "2026-11-21T22:25:22.224Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3017,7 +3043,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:17.638Z"
+  "coletadoEm": "2026-11-21T22:25:23.932Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3043,7 +3069,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:19.295Z"
+  "coletadoEm": "2026-11-21T22:25:25.787Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3069,7 +3095,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:20.944Z"
+  "coletadoEm": "2026-11-21T22:25:27.442Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3095,7 +3121,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:22.606Z"
+  "coletadoEm": "2026-11-21T22:25:29.115Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3121,7 +3147,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:24.529Z"
+  "coletadoEm": "2026-11-21T22:25:30.781Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3147,7 +3173,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:26.171Z"
+  "coletadoEm": "2026-11-21T22:25:32.481Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3171,7 +3197,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:27.883Z"
+  "coletadoEm": "2026-11-21T22:25:34.155Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3195,7 +3221,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:29.660Z"
+  "coletadoEm": "2026-11-21T22:25:35.841Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3219,7 +3245,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:31.327Z"
+  "coletadoEm": "2026-11-21T22:25:37.510Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3245,7 +3271,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:33.028Z"
+  "coletadoEm": "2026-11-21T22:25:39.174Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3271,7 +3297,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:34.894Z"
+  "coletadoEm": "2026-11-21T22:25:40.872Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3297,7 +3323,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:36.548Z"
+  "coletadoEm": "2026-11-21T22:25:42.565Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3323,7 +3349,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:38.188Z"
+  "coletadoEm": "2026-11-21T22:25:44.266Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3349,7 +3375,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:39.908Z"
+  "coletadoEm": "2026-11-21T22:25:45.957Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3375,7 +3401,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:41.575Z"
+  "coletadoEm": "2026-11-21T22:25:47.642Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3401,7 +3427,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:43.239Z"
+  "coletadoEm": "2026-11-21T22:25:49.293Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3427,7 +3453,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:44.892Z"
+  "coletadoEm": "2026-11-21T22:25:50.957Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3453,7 +3479,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:46.612Z"
+  "coletadoEm": "2026-11-21T22:25:52.628Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3479,7 +3505,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:48.453Z"
+  "coletadoEm": "2026-11-21T22:25:54.279Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3505,7 +3531,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:50.138Z"
+  "coletadoEm": "2026-11-21T22:25:55.938Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3531,7 +3557,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:51.849Z"
+  "coletadoEm": "2026-11-21T22:25:57.597Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3557,7 +3583,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:53.506Z"
+  "coletadoEm": "2026-11-21T22:25:59.312Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3583,7 +3609,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:55.240Z"
+  "coletadoEm": "2026-11-21T22:26:00.961Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3609,7 +3635,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:56.888Z"
+  "coletadoEm": "2026-11-21T22:26:02.685Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3635,7 +3661,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:44:58.614Z"
+  "coletadoEm": "2026-11-21T22:26:04.367Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3661,7 +3687,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:00.281Z"
+  "coletadoEm": "2026-11-21T22:26:06.041Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3687,7 +3713,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:01.961Z"
+  "coletadoEm": "2026-11-21T22:26:07.728Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3713,7 +3739,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:03.649Z"
+  "coletadoEm": "2026-11-21T22:26:09.378Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3738,7 +3764,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:05.318Z"
+  "coletadoEm": "2026-11-21T22:26:11.041Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3763,7 +3789,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:06.984Z"
+  "coletadoEm": "2026-11-21T22:26:12.716Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3788,7 +3814,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:08.649Z"
+  "coletadoEm": "2026-11-21T22:26:14.391Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3813,7 +3839,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:10.384Z"
+  "coletadoEm": "2026-11-21T22:26:16.056Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3838,7 +3864,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:12.166Z"
+  "coletadoEm": "2026-11-21T22:26:17.718Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3863,7 +3889,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:14.288Z"
+  "coletadoEm": "2026-11-21T22:26:19.385Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3889,7 +3915,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:15.983Z"
+  "coletadoEm": "2026-11-21T22:26:21.057Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3915,7 +3941,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:17.682Z"
+  "coletadoEm": "2026-11-21T22:26:22.719Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3941,7 +3967,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:19.427Z"
+  "coletadoEm": "2026-11-21T22:26:24.373Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3967,7 +3993,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:21.077Z"
+  "coletadoEm": "2026-11-21T22:26:26.125Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3993,7 +4019,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:22.797Z"
+  "coletadoEm": "2026-11-21T22:26:27.858Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4019,7 +4045,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:24.498Z"
+  "coletadoEm": "2026-11-21T22:26:29.636Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4045,7 +4071,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:26.239Z"
+  "coletadoEm": "2026-11-21T22:26:31.299Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4061,17 +4087,17 @@
    "Alarmes e Sensores",
    "Alarmes"
   ],
-  "preco": 83.8,
+  "preco": 73.9,
   "de": null,
   "url": "https://www.kabum.com.br/produto/209601/sensor-intelbras-magnetico-com-fio-xas-porta-de-aco",
   "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/209601/large/Sensor-Intelbras-Magn-tico-Com-Fio-Xas-Porta-De-A-o_1789160332.jpg",
   "vendedor": {
    "oficial": false,
-   "nome": "Tudo Forte",
+   "nome": "Digi Mania",
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:27.918Z"
+  "coletadoEm": "2026-11-21T22:26:32.969Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4097,7 +4123,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:29.604Z"
+  "coletadoEm": "2026-11-21T22:26:34.688Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4123,7 +4149,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:31.272Z"
+  "coletadoEm": "2026-11-21T22:26:36.380Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4139,17 +4165,17 @@
    "Alarmes e Sensores",
    "Alarmes"
   ],
-  "preco": 95.92,
+  "preco": 82.9,
   "de": null,
   "url": "https://www.kabum.com.br/produto/217856/sirene-magnetica-alarme-e-cerca-9-a-15-vdc-120db-sir-3000-preto-intelbras",
   "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/217856/large/Sirene-Magn-tica-Alarme-E-Cerca-9-A-15-Vdc-120db-Sir-3000-Preto-Intelbras_1793897314.jpg",
   "vendedor": {
    "oficial": false,
-   "nome": "Tudo Forte",
+   "nome": "Digi Mania",
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:32.962Z"
+  "coletadoEm": "2026-11-21T22:26:38.095Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4175,7 +4201,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:34.659Z"
+  "coletadoEm": "2026-11-21T22:26:39.774Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4200,7 +4226,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:36.343Z"
+  "coletadoEm": "2026-11-21T22:26:41.450Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4225,7 +4251,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:38.057Z"
+  "coletadoEm": "2026-11-21T22:26:43.128Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4251,7 +4277,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:39.759Z"
+  "coletadoEm": "2026-11-21T22:26:44.847Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4277,7 +4303,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:41.445Z"
+  "coletadoEm": "2026-11-21T22:26:46.526Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4294,8 +4320,8 @@
    "Racing",
    "Volantes e Pedais"
   ],
-  "preco": 1599,
-  "de": 1999,
+  "preco": 1799.1,
+  "de": null,
   "url": "https://www.kabum.com.br/produto/69305/volante-logitech-g29-driving-force-para-ps5-ps4-ps3-e-pc-941-000111",
   "img": "https://images.kabum.com.br/produtos/fotos/69305/volante-logitech-g29-driving-force-para-ps5-ps4-ps3-e-pc-941-000111_1644503634_g.jpg",
   "vendedor": {
@@ -4304,7 +4330,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:43.116Z"
+  "coletadoEm": "2026-11-21T22:26:48.209Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4331,7 +4357,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:44.767Z"
+  "coletadoEm": "2026-11-21T22:26:49.896Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4358,7 +4384,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:46.504Z"
+  "coletadoEm": "2026-11-21T22:26:51.536Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4385,7 +4411,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:48.264Z"
+  "coletadoEm": "2026-11-21T22:26:53.215Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4412,7 +4438,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:49.946Z"
+  "coletadoEm": "2026-11-21T22:26:54.897Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4439,7 +4465,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:51.618Z"
+  "coletadoEm": "2026-11-21T22:26:56.586Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4466,7 +4492,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:53.269Z"
+  "coletadoEm": "2026-11-21T22:26:58.297Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4493,7 +4519,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:54.922Z"
+  "coletadoEm": "2026-11-21T22:27:00.003Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4520,7 +4546,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:56.617Z"
+  "coletadoEm": "2026-11-21T22:27:01.714Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4547,7 +4573,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:45:58.298Z"
+  "coletadoEm": "2026-11-21T22:27:03.386Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4574,7 +4600,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:00.187Z"
+  "coletadoEm": "2026-11-21T22:27:05.087Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4601,7 +4627,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:01.907Z"
+  "coletadoEm": "2026-11-21T22:27:06.831Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4628,7 +4654,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:03.672Z"
+  "coletadoEm": "2026-11-21T22:27:08.518Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4655,7 +4681,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:05.348Z"
+  "coletadoEm": "2026-11-21T22:27:10.190Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4682,7 +4708,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:07.040Z"
+  "coletadoEm": "2026-11-21T22:27:11.851Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4709,7 +4735,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:08.755Z"
+  "coletadoEm": "2026-11-21T22:27:13.562Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4736,7 +4762,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:10.434Z"
+  "coletadoEm": "2026-11-21T22:27:15.232Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4763,7 +4789,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:12.126Z"
+  "coletadoEm": "2026-11-21T22:27:16.947Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4790,7 +4816,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:13.825Z"
+  "coletadoEm": "2026-11-21T22:27:18.615Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4817,7 +4843,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:15.548Z"
+  "coletadoEm": "2026-11-21T22:27:20.359Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4844,7 +4870,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:17.248Z"
+  "coletadoEm": "2026-11-21T22:27:22.051Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4871,7 +4897,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:18.981Z"
+  "coletadoEm": "2026-11-21T22:27:23.771Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4898,7 +4924,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:20.743Z"
+  "coletadoEm": "2026-11-21T22:27:25.416Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4925,7 +4951,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:22.514Z"
+  "coletadoEm": "2026-11-21T22:27:27.059Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4952,7 +4978,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:24.222Z"
+  "coletadoEm": "2026-11-21T22:27:28.735Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4979,7 +5005,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:25.914Z"
+  "coletadoEm": "2026-11-21T22:27:30.393Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5006,7 +5032,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:27.636Z"
+  "coletadoEm": "2026-11-21T22:27:32.064Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5033,7 +5059,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:29.356Z"
+  "coletadoEm": "2026-11-21T22:27:33.792Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5060,7 +5086,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:31.046Z"
+  "coletadoEm": "2026-11-21T22:27:35.446Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5087,7 +5113,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:32.719Z"
+  "coletadoEm": "2026-11-21T22:27:37.094Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5114,7 +5140,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:34.399Z"
+  "coletadoEm": "2026-11-21T22:27:38.764Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5141,7 +5167,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:36.087Z"
+  "coletadoEm": "2026-11-21T22:27:40.415Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5168,7 +5194,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:37.846Z"
+  "coletadoEm": "2026-11-21T22:27:42.067Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5195,7 +5221,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:39.559Z"
+  "coletadoEm": "2026-11-21T22:27:43.699Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5222,7 +5248,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:41.245Z"
+  "coletadoEm": "2026-11-21T22:27:45.347Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5249,7 +5275,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:42.912Z"
+  "coletadoEm": "2026-11-21T22:27:47.094Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5273,7 +5299,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:44.599Z"
+  "coletadoEm": "2026-11-21T22:27:48.850Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5297,7 +5323,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:46.274Z"
+  "coletadoEm": "2026-11-21T22:27:50.573Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5321,7 +5347,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:47.954Z"
+  "coletadoEm": "2026-11-21T22:27:52.238Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5347,7 +5373,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:49.687Z"
+  "coletadoEm": "2026-11-21T22:27:53.941Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5373,7 +5399,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:51.340Z"
+  "coletadoEm": "2026-11-21T22:27:55.623Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5399,7 +5425,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:53.254Z"
+  "coletadoEm": "2026-11-21T22:27:57.306Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5425,7 +5451,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:54.999Z"
+  "coletadoEm": "2026-11-21T22:27:59.002Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5451,7 +5477,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:56.727Z"
+  "coletadoEm": "2026-11-21T22:28:00.684Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5477,7 +5503,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:46:58.458Z"
+  "coletadoEm": "2026-11-21T22:28:02.356Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5503,7 +5529,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:00.199Z"
+  "coletadoEm": "2026-11-21T22:28:04.011Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5529,7 +5555,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:01.873Z"
+  "coletadoEm": "2026-11-21T22:28:05.657Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5555,7 +5581,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:03.608Z"
+  "coletadoEm": "2026-11-21T22:28:07.320Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5581,7 +5607,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:05.285Z"
+  "coletadoEm": "2026-11-21T22:28:09.010Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5607,7 +5633,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:06.985Z"
+  "coletadoEm": "2026-11-21T22:28:10.676Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5633,7 +5659,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:08.683Z"
+  "coletadoEm": "2026-11-21T22:28:12.352Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5659,7 +5685,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:10.341Z"
+  "coletadoEm": "2026-11-21T22:28:14.016Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5685,7 +5711,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:12.013Z"
+  "coletadoEm": "2026-11-21T22:28:15.729Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5711,7 +5737,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:13.788Z"
+  "coletadoEm": "2026-11-21T22:28:17.440Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5737,7 +5763,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:15.518Z"
+  "coletadoEm": "2026-11-21T22:28:19.103Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5763,7 +5789,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:17.239Z"
+  "coletadoEm": "2026-11-21T22:28:20.756Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5789,7 +5815,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:18.929Z"
+  "coletadoEm": "2026-11-21T22:28:22.442Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5815,7 +5841,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:20.680Z"
+  "coletadoEm": "2026-11-21T22:28:24.078Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5841,7 +5867,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:22.358Z"
+  "coletadoEm": "2026-11-21T22:28:25.777Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5867,7 +5893,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:24.099Z"
+  "coletadoEm": "2026-11-21T22:28:27.445Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5893,7 +5919,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:25.768Z"
+  "coletadoEm": "2026-11-21T22:28:29.127Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5919,7 +5945,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:27.444Z"
+  "coletadoEm": "2026-11-21T22:28:30.802Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5945,7 +5971,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:29.102Z"
+  "coletadoEm": "2026-11-21T22:28:32.469Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5970,7 +5996,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:34.221Z"
+  "coletadoEm": "2026-11-21T22:28:37.417Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5995,7 +6021,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:35.904Z"
+  "coletadoEm": "2026-11-21T22:28:39.077Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6020,7 +6046,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:37.586Z"
+  "coletadoEm": "2026-11-21T22:28:40.797Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6045,7 +6071,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:39.480Z"
+  "coletadoEm": "2026-11-21T22:28:42.458Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6070,7 +6096,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:41.191Z"
+  "coletadoEm": "2026-11-21T22:28:44.145Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6095,7 +6121,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:42.852Z"
+  "coletadoEm": "2026-11-21T22:28:45.811Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6120,7 +6146,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:44.530Z"
+  "coletadoEm": "2026-11-21T22:28:47.467Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6145,7 +6171,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:46.279Z"
+  "coletadoEm": "2026-11-21T22:28:49.159Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6171,7 +6197,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:48.024Z"
+  "coletadoEm": "2026-11-21T22:28:50.911Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6197,7 +6223,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:49.752Z"
+  "coletadoEm": "2026-11-21T22:28:52.711Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6223,7 +6249,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:51.446Z"
+  "coletadoEm": "2026-11-21T22:28:54.379Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6247,7 +6273,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:53.168Z"
+  "coletadoEm": "2026-11-21T22:28:56.083Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6271,7 +6297,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:54.839Z"
+  "coletadoEm": "2026-11-21T22:28:57.744Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6296,7 +6322,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:56.534Z"
+  "coletadoEm": "2026-11-21T22:28:59.404Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6321,7 +6347,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:47:58.213Z"
+  "coletadoEm": "2026-11-21T22:29:01.093Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6346,7 +6372,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:00.003Z"
+  "coletadoEm": "2026-11-21T22:29:02.741Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6371,7 +6397,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:01.725Z"
+  "coletadoEm": "2026-11-21T22:29:04.411Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6397,7 +6423,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:03.507Z"
+  "coletadoEm": "2026-11-21T22:29:06.157Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6423,7 +6449,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:05.163Z"
+  "coletadoEm": "2026-11-21T22:29:07.876Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6449,7 +6475,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:06.873Z"
+  "coletadoEm": "2026-11-21T22:29:09.560Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6475,7 +6501,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:08.574Z"
+  "coletadoEm": "2026-11-21T22:29:11.253Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6501,7 +6527,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:10.125Z"
+  "coletadoEm": "2026-11-21T22:29:12.911Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6527,7 +6553,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:11.791Z"
+  "coletadoEm": "2026-11-21T22:29:14.565Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6553,7 +6579,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:13.730Z"
+  "coletadoEm": "2026-11-21T22:29:16.216Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6579,7 +6605,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:15.392Z"
+  "coletadoEm": "2026-11-21T22:29:17.859Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6605,7 +6631,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:17.062Z"
+  "coletadoEm": "2026-11-21T22:29:19.510Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6631,7 +6657,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:18.751Z"
+  "coletadoEm": "2026-11-21T22:29:21.171Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6657,7 +6683,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:20.449Z"
+  "coletadoEm": "2026-11-21T22:29:22.826Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6683,7 +6709,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:22.136Z"
+  "coletadoEm": "2026-11-21T22:29:24.551Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6709,7 +6735,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:23.798Z"
+  "coletadoEm": "2026-11-21T22:29:26.233Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6735,7 +6761,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:25.493Z"
+  "coletadoEm": "2026-11-21T22:29:27.944Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6761,7 +6787,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:27.141Z"
+  "coletadoEm": "2026-11-21T22:29:29.598Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6787,7 +6813,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:28.859Z"
+  "coletadoEm": "2026-11-21T22:29:31.265Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6813,7 +6839,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:30.520Z"
+  "coletadoEm": "2026-11-21T22:29:32.924Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6839,7 +6865,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:32.308Z"
+  "coletadoEm": "2026-11-21T22:29:34.770Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6865,7 +6891,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:34.039Z"
+  "coletadoEm": "2026-11-21T22:29:36.427Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6891,7 +6917,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:35.716Z"
+  "coletadoEm": "2026-11-21T22:29:38.078Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6917,7 +6943,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:37.485Z"
+  "coletadoEm": "2026-11-21T22:29:39.753Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6943,7 +6969,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:39.204Z"
+  "coletadoEm": "2026-11-21T22:29:41.558Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6969,7 +6995,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:40.911Z"
+  "coletadoEm": "2026-11-21T22:29:43.237Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6995,7 +7021,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:42.633Z"
+  "coletadoEm": "2026-11-21T22:29:44.935Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7021,7 +7047,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:44.331Z"
+  "coletadoEm": "2026-11-21T22:29:46.585Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7047,7 +7073,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:46.044Z"
+  "coletadoEm": "2026-11-21T22:29:48.674Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7073,7 +7099,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:47.753Z"
+  "coletadoEm": "2026-11-21T22:29:50.405Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7099,7 +7125,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:49.481Z"
+  "coletadoEm": "2026-11-21T22:29:52.063Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7125,7 +7151,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:51.140Z"
+  "coletadoEm": "2026-11-21T22:29:53.743Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7151,7 +7177,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:52.815Z"
+  "coletadoEm": "2026-11-21T22:29:55.406Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7177,7 +7203,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:54.599Z"
+  "coletadoEm": "2026-11-21T22:29:57.084Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7203,7 +7229,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:56.267Z"
+  "coletadoEm": "2026-11-21T22:29:58.743Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7229,7 +7255,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:57.964Z"
+  "coletadoEm": "2026-11-21T22:30:00.459Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7255,7 +7281,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:48:59.677Z"
+  "coletadoEm": "2026-11-21T22:30:02.171Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7281,7 +7307,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:01.371Z"
+  "coletadoEm": "2026-11-21T22:30:03.855Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7307,7 +7333,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:03.312Z"
+  "coletadoEm": "2026-11-21T22:30:05.565Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7333,7 +7359,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:05.001Z"
+  "coletadoEm": "2026-11-21T22:30:07.228Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7359,7 +7385,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:06.717Z"
+  "coletadoEm": "2026-11-21T22:30:08.885Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7385,7 +7411,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:08.359Z"
+  "coletadoEm": "2026-11-21T22:30:10.545Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7411,7 +7437,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:10.104Z"
+  "coletadoEm": "2026-11-21T22:30:12.231Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7437,7 +7463,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:11.782Z"
+  "coletadoEm": "2026-11-21T22:30:13.893Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7463,7 +7489,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:13.438Z"
+  "coletadoEm": "2026-11-21T22:30:15.529Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7489,7 +7515,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:15.104Z"
+  "coletadoEm": "2026-11-21T22:30:17.190Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7515,7 +7541,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:16.817Z"
+  "coletadoEm": "2026-11-21T22:30:18.835Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7541,7 +7567,33 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:18.507Z"
+  "coletadoEm": "2026-11-21T22:30:20.537Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Bicicleta Elétrica TCN Basket Preta 500W, Autonomia de até 40km, Preta",
+  "ean": null,
+  "marca": "Goldentec",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Mobilidade Elétrica/Bicicleta Elétrica/Até 500W",
+  "caminhoLoja": [
+   "Mobilidade Elétrica",
+   "Bicicleta Elétrica",
+   "Até 500W"
+  ],
+  "preco": 5356.68,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/1066368/bicicleta-eletrica-tcn-basket-preta-500w-autonomia-de-ate-40km-preta",
+  "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/1066368/large/Bicicleta-El-trica-TCN-Basket-Preta-500W-Autonomia-de-at-40km-Preta_1792689536.jpg",
+  "vendedor": {
+   "oficial": false,
+   "nome": "IBYTE COMPUTADORES",
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-21T22:30:22.229Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7567,7 +7619,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:20.188Z"
+  "coletadoEm": "2026-11-21T22:30:23.881Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7593,7 +7645,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:21.895Z"
+  "coletadoEm": "2026-11-21T22:30:25.554Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7619,7 +7671,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:23.565Z"
+  "coletadoEm": "2026-11-21T22:30:27.221Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7645,7 +7697,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:25.222Z"
+  "coletadoEm": "2026-11-21T22:30:28.897Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7671,7 +7723,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:26.940Z"
+  "coletadoEm": "2026-11-21T22:30:30.562Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7697,7 +7749,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:28.583Z"
+  "coletadoEm": "2026-11-21T22:30:32.238Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7723,7 +7775,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:30.311Z"
+  "coletadoEm": "2026-11-21T22:30:33.905Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7749,32 +7801,6 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:32.003Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Bicicleta Eletrica Wx-15 Wehawk 800w Bat Litio 48v 20ah - Prata",
-  "ean": null,
-  "marca": "Outros",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Mobilidade Elétrica/Bicicleta Elétrica/Até 1000W",
-  "caminhoLoja": [
-   "Mobilidade Elétrica",
-   "Bicicleta Elétrica",
-   "Até 1000W"
-  ],
-  "preco": 5990.9,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/1084192/bicicleta-eletrica-wx-15-wehawk-800w-bat-litio-48v-20ah-prata",
-  "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/1084192/large/Bicicleta-Eletrica-Wx-15-Wehawk-800w-Bat-Litio-48v-20ah-Prata_1792765114.jpg",
-  "vendedor": {
-   "oficial": false,
-   "nome": "WeHawk",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-21T13:49:33.742Z"
+  "coletadoEm": "2026-11-21T22:30:35.545Z"
  }
 ]
