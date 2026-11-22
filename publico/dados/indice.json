@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-22T13:59:32.633Z",
- "checadoEm": "22/11, 10:59",
- "total": 8084,
- "monitorados": 15941,
+ "geradoEm": "2026-11-22T23:13:03.239Z",
+ "checadoEm": "22/11, 20:13",
+ "total": 8225,
+ "monitorados": 16216,
  "lojasMonitoradas": [
   "Ri Happy",
   "Renner",
+  "Decathlon",
   "Mercado Livre",
   "Polishop",
-  "Decathlon",
   "KaBuM!",
   "Americanas",
   "Tok&Stok",
   "Cobasi",
   "Carrefour"
  ],
- "checadas": 369,
+ "checadas": 370,
  "porClasse": {
-  "imperdivel": 23,
-  "otimo": 55,
+  "imperdivel": 24,
+  "otimo": 56,
   "bom": 57,
-  "nao_checado": 7715,
-  "falso": 234
+  "nao_checado": 7855,
+  "falso": 233
  },
  "lojas": [
   "Ri Happy",
   "Renner",
+  "Decathlon",
   "Mercado Livre",
   "Polishop",
-  "Decathlon",
   "KaBuM!",
   "Americanas",
   "Tok&Stok",
@@ -45,7 +45,7 @@
   "outros": {
    "nome": "Outros",
    "arquivo": "ofertas-outros.json",
-   "n": 1517,
+   "n": 1564,
    "checadas": 47,
    "lojas": [
     "Ri Happy",
@@ -59,8 +59,8 @@
   "MLB1430": {
    "nome": "Calçados, Roupas e Bolsas",
    "arquivo": "ofertas-MLB1430.json",
-   "n": 3533,
-   "checadas": 79,
+   "n": 3606,
+   "checadas": 81,
    "lojas": [
     "Renner",
     "Decathlon",
@@ -101,7 +101,7 @@
   "MLB1574": {
    "nome": "Casa, Móveis e Decoração",
    "arquivo": "ofertas-MLB1574.json",
-   "n": 220,
+   "n": 222,
    "checadas": 57,
    "lojas": [
     "Polishop",
@@ -132,7 +132,7 @@
   "MLB1246": {
    "nome": "Beleza e Cuidado Pessoal",
    "arquivo": "ofertas-MLB1246.json",
-   "n": 265,
+   "n": 270,
    "checadas": 17,
    "lojas": [
     "Mercado Livre",
@@ -146,7 +146,7 @@
    "nome": "Informática",
    "arquivo": "ofertas-MLB1648.json",
    "n": 1266,
-   "checadas": 85,
+   "checadas": 84,
    "lojas": [
     "KaBuM!",
     "Mercado Livre",
@@ -241,7 +241,7 @@
   "MLB3937": {
    "nome": "Joias e Relógios",
    "arquivo": "ofertas-MLB3937.json",
-   "n": 351,
+   "n": 364,
    "checadas": 0,
    "lojas": [
     "Decathlon",
@@ -264,7 +264,7 @@
   "MLB1500": {
    "nome": "Construção",
    "arquivo": "ofertas-MLB1500.json",
-   "n": 75,
+   "n": 76,
    "checadas": 2,
    "lojas": [
     "Decathlon",

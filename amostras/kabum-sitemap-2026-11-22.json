@@ -2,1777 +2,6 @@
  {
   "fonte": "sitemap-kabum",
   "loja": "KaBuM!",
-  "titulo": "Ventoinha C3Tech F7-100, 120mm, Preto - STORM F7-100BK",
-  "ean": null,
-  "marca": "C3Tech",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 24.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/69273/ventoinha-c3tech-f7-100-120mm-preto-storm-f7-100bk",
-  "img": "https://images.kabum.com.br/produtos/fotos/69273/69273_index_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:15.870Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Corsair QL Series, 120mm, RGB, Preto - CO-9050097",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 105.99,
-  "de": 164.44,
-  "url": "https://www.kabum.com.br/produto/108137/ventoinha-corsair-ql-series-120mm-rgb-preto-co-9050097",
-  "img": "https://images.kabum.com.br/produtos/fotos/108137/cooler-fan-corsair-qlseries-rgb-120mm-co-9050097-ww_1575571903_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:17.568Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Cooler FAN XPG, 120mm - VENTO120-BKCWW",
-  "ean": null,
-  "marca": "XPG",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 18.99,
-  "de": 35.28,
-  "url": "https://www.kabum.com.br/produto/121365/cooler-fan-xpg-120mm-vento120-bkcww",
-  "img": "https://images.kabum.com.br/produtos/fotos/121365/cooler-fan-xpg-120mm-vento120-bkcww_1598974159_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:19.362Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Noctua NF-A12x15 PWM, 120mm, Preto - CH.BK.S",
-  "ean": null,
-  "marca": "Noctua",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 213.99,
-  "de": 270.47,
-  "url": "https://www.kabum.com.br/produto/135787/ventoinha-noctua-nf-a12x15-pwm-120mm-preto-ch-bk-s",
-  "img": "https://images.kabum.com.br/produtos/fotos/135787/cooler-fan-noctua-nf-a12x15-pwm-120mm-para-pc-preto-ch-bk-s_1610460917_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:21.039Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Noctua 120mm, Cinza - NF-P12 Redux-1300 PWM",
-  "ean": null,
-  "marca": "Noctua",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 139.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/135802/ventoinha-noctua-120mm-cinza-nf-p12-redux-1300-pwm",
-  "img": "https://images.kabum.com.br/produtos/fotos/135802/cooler-fan-noctua-120mm-para-pc-cinza-nf-p12-redux-1300-pwm_1610544971_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:22.723Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Noctua Redux Edition, 120mm, Cinza - NF-S12B redux-1200 PWM",
-  "ean": null,
-  "marca": "Noctua",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 119.99,
-  "de": 176.35,
-  "url": "https://www.kabum.com.br/produto/135814/ventoinha-noctua-redux-edition-120mm-cinza-nf-s12b-redux-1200-pwm",
-  "img": "https://images.kabum.com.br/produtos/fotos/135814/cooler-fan-noctua-redux-edition-120mm-para-pc-cinza-nf-s12b-redux-1200-pwm_1610541850_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:24.375Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Noctua, 120mm, Marrom - NF-S12A PWM",
-  "ean": null,
-  "marca": "Noctua",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 165.9,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/135819/ventoinha-noctua-120mm-marrom-nf-s12a-pwm",
-  "img": "https://images.kabum.com.br/produtos/fotos/135819/cooler-fan-noctua-120mm-para-pc-marrom-nf-s12a-pwm_1610480814_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:26.139Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Noctua Redux-1300, 120mm, Cinza - NF-P12 redux-1300",
-  "ean": null,
-  "marca": "Noctua",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 123.99,
-  "de": 152.21,
-  "url": "https://www.kabum.com.br/produto/313442/ventoinha-noctua-redux-1300-120mm-cinza-nf-p12-redux-1300",
-  "img": "https://images.kabum.com.br/produtos/fotos/313442/cooler-fan-noctua-redux-1300-120mm-cinza-nf-p12-redux-1300_1646944724_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:27.834Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Noctua, 120mm, Preto - NF-A12x25PWM CH.BK.S",
-  "ean": null,
-  "marca": "Noctua",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 349.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/313504/ventoinha-noctua-120mm-preto-nf-a12x25pwm-ch-bk-s",
-  "img": "https://images.kabum.com.br/produtos/fotos/313504/cooler-fan-noctua-120mm-preto-nf-a12x25pwm-ch-bk-s_1647008590_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:29.669Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha C3Tech Storm, 80mm, LED, Preto - F7-50BK",
-  "ean": null,
-  "marca": "C3TECH",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 9.99,
-  "de": 19.99,
-  "url": "https://www.kabum.com.br/produto/358558/ventoinha-c3tech-storm-80mm-led-preto-f7-50bk",
-  "img": "https://images.kabum.com.br/produtos/fotos/358558/cooler-fan-c3tech-storm-led-7-cores-80mm-preto-f7-50bk_1657909261_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:31.360Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha NZXT, 120mm, RGB, Preto - RF-R12SF-B1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 89.99,
-  "de": 176.46,
-  "url": "https://www.kabum.com.br/produto/369233/ventoinha-nzxt-120mm-rgb-preto-rf-r12sf-b1",
-  "img": "https://images.kabum.com.br/produtos/fotos/369233/cooler-fan-nzxt-120mm-rgb-preto-rf-r12sf-b1_1667919256_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:33.017Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha NZXT, 120mm, RGB, Branco - RF-R12SF-W1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 79.99,
-  "de": 133.22,
-  "url": "https://www.kabum.com.br/produto/369234/ventoinha-nzxt-120mm-rgb-branco-rf-r12sf-w1",
-  "img": "https://images.kabum.com.br/produtos/fotos/369234/cooler-fan-nzxt-120mm-rgb-branco-rf-r12sf-w1_1667922548_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:34.791Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha NZXT, 140mm, RGB, Preto - RF-R14SF-B1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 149.99,
-  "de": 195.28,
-  "url": "https://www.kabum.com.br/produto/369235/ventoinha-nzxt-140mm-rgb-preto-rf-r14sf-b1",
-  "img": "https://images.kabum.com.br/produtos/fotos/369235/cooler-fan-nzxt-140mm-rgb-preto-rf-r14sf-b1_1667923040_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:36.468Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit Com 3 Ventoinhas NZXT, 120mm, RGB, Branco - RF-R12TF-W1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 405.99,
-  "de": 583.41,
-  "url": "https://www.kabum.com.br/produto/369239/kit-com-3-ventoinhas-nzxt-120mm-rgb-branco-rf-r12tf-w1",
-  "img": "https://images.kabum.com.br/produtos/fotos/369239/kit-3-cooler-fan-nzxt-120mm-rgb-branco-rf-r12tf-w1_1667925640_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:38.164Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit Com 2 Ventoinhas NZXT, 140mm, RGB, Com Controlador, Preto - RF-R14DF-B1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 278.99,
-  "de": 435.18,
-  "url": "https://www.kabum.com.br/produto/369240/kit-com-2-ventoinhas-nzxt-140mm-rgb-com-controlador-preto-rf-r14df-b1",
-  "img": "https://images.kabum.com.br/produtos/fotos/369240/kit-2-cooler-fan-nzxt-140mm-rgb-com-controlador-preto-rf-r14df-b1_1667931846_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:39.798Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Noctua Redux Edition, 140mm, Cinza - NF-P14s redux-1200",
-  "ean": null,
-  "marca": "Noctua",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 129.99,
-  "de": 188.22,
-  "url": "https://www.kabum.com.br/produto/391216/ventoinha-noctua-redux-edition-140mm-cinza-nf-p14s-redux-1200",
-  "img": "https://images.kabum.com.br/produtos/fotos/391216/cooler-fan-noctua-redux-edition-140mm-cinza-nf-p14s-redux-1200_1665692366_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:41.542Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha ASUS Tuf Gaming TF120, 120mm, Led ARGB, Branco - 90DA0033-B00000",
-  "ean": null,
-  "marca": "ASUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 98.99,
-  "de": 117.64,
-  "url": "https://www.kabum.com.br/produto/442828/ventoinha-asus-tuf-gaming-tf120-120mm-led-argb-branco-90da0033-b00000",
-  "img": "https://images.kabum.com.br/produtos/fotos/442828/cooler-fan-asus-tuf-gaming-tf120-120mm-argb-branco-90da0033-b00000_1691407560_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:43.206Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit com 3 Ventoinhas ASUS Tuf Gaming TF120, 120mm, ARGB, Branco - 90DA0033-B00030",
-  "ean": null,
-  "marca": "ASUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 349.99,
-  "de": 449.4,
-  "url": "https://www.kabum.com.br/produto/442829/kit-com-3-ventoinhas-asus-tuf-gaming-tf120-120mm-argb-branco-90da0033-b00030",
-  "img": "https://images.kabum.com.br/produtos/fotos/442829/kit-cooler-fan-3x-asus-tuf-gaming-tf120-120mm-argb-branco-90da0033-b00030_1691407971_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:44.870Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Corsair iCUE Link QX120, 120mm, RGB, Preto - CO-9051001-WW",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 169.99,
-  "de": 277.64,
-  "url": "https://www.kabum.com.br/produto/496594/ventoinha-corsair-icue-link-qx120-120mm-rgb-preto-co-9051001-ww",
-  "img": "https://images.kabum.com.br/produtos/fotos/496594/cooler-fan-corsair-qx-rgb-series-icue-link-qx120-rgb-kit-de-expansao-ventoinha-rgb-de-domo-magnetico-de-120mm-co-9051001-ww_1706296439_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:46.607Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit com  3 Ventoinhas Corsair iCUE LINK QX120, 120mm, RGB, Preto - CO-9051002-WW",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 729.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/496597/kit-com-3-ventoinhas-corsair-icue-link-qx120-120mm-rgb-preto-co-9051002-ww",
-  "img": "https://images.kabum.com.br/produtos/fotos/496597/cooler-fan-corsair-qx-rgb-series-series-icue-link-qx120-rgb-kit-basico-ventoinha-rgb-de-domo-magnetico-de-120mm-co-9051002-ww_1706294976_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:48.331Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Corsair iCUE LINK QX140, 140mm, RGB, Preto - CO-9051003-WW",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 199.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/496599/ventoinha-corsair-icue-link-qx140-140mm-rgb-preto-co-9051003-ww",
-  "img": "https://images.kabum.com.br/produtos/fotos/496599/cooler-fan-corsair-qx-rgb-series-icue-link-qx140-rgb-kit-de-expansao-ventoinha-rgb-de-domo-magnetico-de-140mm-co-9051003-ww_1706558326_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:50.026Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit Com 2 Ventoinhas Corsair iCUE LINK QX140, 140mm, RGB, Preto - CO-9051004-WW",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 488.99,
-  "de": 728.78,
-  "url": "https://www.kabum.com.br/produto/496600/kit-com-2-ventoinhas-corsair-icue-link-qx140-140mm-rgb-preto-co-9051004-ww",
-  "img": "https://images.kabum.com.br/produtos/fotos/496600/cooler-fan-corsair-qx-rgb-series-icue-link-qx140-rgb-kit-basico-ventoinha-rgb-de-domo-magnetico-de-140mm-co-9051004-ww_1706300250_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:53.184Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Corsair iCUE LINK QX120, 120mm, RGB, Branco -  CO-9051005-WW",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 159.99,
-  "de": 333.32,
-  "url": "https://www.kabum.com.br/produto/496602/ventoinha-corsair-icue-link-qx120-120mm-rgb-branco-co-9051005-ww",
-  "img": "https://images.kabum.com.br/produtos/fotos/496602/cooler-fan-corsair-qx-rgb-series-icue-link-qx120-rgb-white-fans-de-120-mm-kit-de-expansao-co-9051005-ww_1706298847_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:54.844Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit Com 3 Ventoinhas Redragon By Lian Li, 120mm, RGB, Com Controladora, Branco - UFSL1203WSI",
-  "ean": null,
-  "marca": "Lian Li",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 397.99,
-  "de": 541.06,
-  "url": "https://www.kabum.com.br/produto/519208/kit-com-3-ventoinhas-redragon-by-lian-li-120mm-rgb-com-controladora-branco-ufsl1203wsi",
-  "img": "https://images.kabum.com.br/produtos/fotos/519208/kit-cooler-fan-3-unidades-redragon-by-lian-li-120mm-rgb-com-controladora-branco-ufsl1203wsi_1708000287_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:56.541Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha NZXT F120RGB Duo, 120mm, Led RGB, Branco - RF-D12SF-W1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 134.99,
-  "de": 206.94,
-  "url": "https://www.kabum.com.br/produto/521708/ventoinha-nzxt-f120rgb-duo-120mm-led-rgb-branco-rf-d12sf-w1",
-  "img": "https://images.kabum.com.br/produtos/fotos/521708/cooler-fan-nzxt-f120rgb-duo-120mm-rgb-c-controlador-rgb-branco-rf-d12sf-w1_1726257943_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:58.210Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit com 3 Ventoinhas NZXT F120RGB Duo, 120mm, RGB, Branco - RF-D12TF-W1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 488.99,
-  "de": 748.12,
-  "url": "https://www.kabum.com.br/produto/521712/kit-com-3-ventoinhas-nzxt-f120rgb-duo-120mm-rgb-branco-rf-d12tf-w1",
-  "img": "https://images.kabum.com.br/produtos/fotos/521712/kit-3-cooler-fan-nzxt-f120rgb-duo-120mm-rgb-branco-c-controlador-rgb-rf-d12tf-w1_1726243278_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:34:59.933Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha NZXT F140RGB Duo 140mm, Led RGB, Branco - RF-D14SF-W1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 109.99,
-  "de": 171.65,
-  "url": "https://www.kabum.com.br/produto/521714/ventoinha-nzxt-f140rgb-duo-140mm-led-rgb-branco-rf-d14sf-w1",
-  "img": "https://images.kabum.com.br/produtos/fotos/521714/cooler-fan-nzxt-f140rgb-duo-140mm-rgb-branco-rf-d14sf-w1_1718214322_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:01.645Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit com 2 Ventoinhas NZXT F140RGB Core, 140mm, RGB, Branco - RF-C14DF-W1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 302.99,
-  "de": 362.11,
-  "url": "https://www.kabum.com.br/produto/521826/kit-com-2-ventoinhas-nzxt-f140rgb-core-140mm-rgb-branco-rf-c14df-w1",
-  "img": "https://images.kabum.com.br/produtos/fotos/521826/kit-2-cooler-fan-nzxt-f140rgb-core-140mm-hub-mounted-rgb-fan-branco-c-controlador-rgb-rf-c14df-w1_1718639003_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:03.296Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit com 3 Ventoinhas Husky Arctic Breeze, 120mm, Iluminação ARGB, Preto - HKCF300PT",
-  "ean": null,
-  "marca": "Husky",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 109.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/609931/kit-com-3-ventoinhas-husky-arctic-breeze-120mm-iluminacao-argb-preto-hkcf300pt",
-  "img": "https://images.kabum.com.br/produtos/fotos/609931/kit-com-3-ventoinhas-husky-arctic-breeze-120mm-iluminacao-argb-preto-hkcf300pt_1783023276_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:04.940Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Single-Frame NZXT, 420mm, F420RGB Core Fan, Preto, RF-U42HF-B1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 459.99,
-  "de": 617.67,
-  "url": "https://www.kabum.com.br/produto/728425/ventoinha-single-frame-nzxt-420mm-f420rgb-core-fan-preto-rf-u42hf-b1",
-  "img": "https://images.kabum.com.br/produtos/fotos/728425/single-frame-fan-nzxt-420mm-f420rgb-core-fan-preto-rf-u42hf-b1_1767192424_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:06.596Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Single-frame NZXT, 420mm, F420RGB Core Fan, Branco, RF-U42HF-W1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 459.99,
-  "de": 677.53,
-  "url": "https://www.kabum.com.br/produto/728426/ventoinha-single-frame-nzxt-420mm-f420rgb-core-fan-branco-rf-u42hf-w1",
-  "img": "https://images.kabum.com.br/produtos/fotos/728426/single-frame-fan-nzxt-420mm-f420rgb-core-fan-branco-rf-u42hf-w1_1767192803_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:08.240Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha ASUS TUF Gaming TR120, 120mm, ARGB, Preto - 90DA0090-B00000",
-  "ean": null,
-  "marca": "ASUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 145.9,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/847751/ventoinha-asus-tuf-gaming-tr120-120mm-argb-preto-90da0090-b00000",
-  "img": "https://images.kabum.com.br/produtos/fotos/847751/ventoinha-asus-tuf-gaming-tr120-120mm-led-argb-preto-90da0090-b00000_1752843303_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:09.936Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit com 3 Ventoinhas ASUS TUF Gaming TR120, 120mm, ARGB, Preto - 90DA0090-B00020",
-  "ean": null,
-  "marca": "ASUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 269.99,
-  "de": 388.78,
-  "url": "https://www.kabum.com.br/produto/847752/kit-com-3-ventoinhas-asus-tuf-gaming-tr120-120mm-argb-preto-90da0090-b00020",
-  "img": "https://images.kabum.com.br/produtos/fotos/847752/kit-com-3-ventoinhas-asus-tuf-gaming-tr120-com-controladora-120mm-led-argb-preto-90da0090-b00020_1761677414_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:11.649Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Asus TUF Gaming TR120 Reverse, 120mm, ARGB, Preto - 90DA00D0-B00000",
-  "ean": null,
-  "marca": "ASUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 89.99,
-  "de": 209.99,
-  "url": "https://www.kabum.com.br/produto/847753/ventoinha-asus-tuf-gaming-tr120-reverse-120mm-argb-preto-90da00d0-b00000",
-  "img": "https://images.kabum.com.br/produtos/fotos/847753/ventoinha-asus-tuf-gaming-tr120-reverse-blade-120mm-led-argb-preto-90da0090-b00010_1752859668_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:13.377Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Kit com 3 Ventoinha Asus TUF Gaming TR120 Reverse , 120mm, ARGB, Preto - 90DA00D0-B00020",
-  "ean": null,
-  "marca": "ASUS",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 266.99,
-  "de": 399.99,
-  "url": "https://www.kabum.com.br/produto/847754/kit-com-3-ventoinha-asus-tuf-gaming-tr120-reverse-120mm-argb-preto-90da00d0-b00020",
-  "img": "https://images.kabum.com.br/produtos/fotos/847754/kit-com-3-ventoinha-asus-tuf-gaming-tr120-reverse-blade-com-controladora-120mm-led-argb-preto-90da0090-b00030_1752861647_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:15.147Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Montech RX140, 140mm, PWM, ARGB, Lâmina Reversa, Branco - RX140 PWM White",
-  "ean": null,
-  "marca": "MONTECH",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 63.99,
-  "de": 84.43,
-  "url": "https://www.kabum.com.br/produto/909414/ventoinha-montech-rx140-140mm-pwm-argb-lamina-reversa-branco-rx140-pwm-white",
-  "img": "https://images.kabum.com.br/produtos/fotos/909414/ventoinha-montech-rx140-140mm-pwm-argb-lamina-reversa-branco-rx140-pwm-white_1758563792_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:16.808Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha NZXT F280 RGB Core, 280mm, RGB, Preto - RF-U28HF-B1",
-  "ean": null,
-  "marca": "NZXT",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN"
-  ],
-  "preco": 161.99,
-  "de": 288.88,
-  "url": "https://www.kabum.com.br/produto/918340/ventoinha-nzxt-f280-rgb-core-280mm-rgb-preto-rf-u28hf-b1",
-  "img": "https://images.kabum.com.br/produtos/fotos/918340/ventoinha-nzxt-f280-rgb-core-280mm-rgb-preto-rf-u28hf-b1_1769535163_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:18.537Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Rise Mode Galaxy Led, 120mm, Verde - RM-FN-01-BG",
-  "ean": null,
-  "marca": "Rise Mode",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN/120 mm",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN",
-   "120 mm"
-  ],
-  "preco": 15.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/96821/ventoinha-rise-mode-galaxy-led-120mm-verde-rm-fn-01-bg",
-  "img": "https://images.kabum.com.br/produtos/fotos/96821/cooler-fan-rise-120mm-verde-rm-fn-01-bg_1658237771_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:20.186Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Rise Mode Galaxy Motherboard, 120mm, RGB, Preto - RM-MB-01-12V",
-  "ean": null,
-  "marca": "Rise Mode",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN/120 mm",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN",
-   "120 mm"
-  ],
-  "preco": 23.99,
-  "de": 35.28,
-  "url": "https://www.kabum.com.br/produto/103911/ventoinha-rise-mode-galaxy-motherboard-120mm-rgb-preto-rm-mb-01-12v",
-  "img": "https://images.kabum.com.br/produtos/fotos/103911/cooler-fan-rise-mode-galaxy-motherboard-120mm-rgb-preto-rm-mb-01-12v_1663767634_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:21.841Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Ventoinha Rise Mode Wind W1, 120mm, LED Verde, Preto - RM-WN-01-BG",
-  "ean": null,
-  "marca": "Rise Mode",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Hardware/Coolers/FAN/120 mm",
-  "caminhoLoja": [
-   "Hardware",
-   "Coolers",
-   "FAN",
-   "120 mm"
-  ],
-  "preco": 16.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/111133/ventoinha-rise-mode-wind-w1-120mm-led-verde-preto-rm-wn-01-bg",
-  "img": "https://images.kabum.com.br/produtos/fotos/111133/cooler-fan-rise-mode-wind-w1-120mm-led-verde-rm-wn-01-bg_1663777674_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:23.564Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Fortrek PRO H2 com LED Azul, P2, Preto - H2",
-  "ean": null,
-  "marca": "Fortrek",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 79.99,
-  "de": 129.4,
-  "url": "https://www.kabum.com.br/produto/97355/headset-gamer-fortrek-pro-h2-com-led-azul-p2-preto-h2",
-  "img": "https://images.kabum.com.br/produtos/fotos/97355/97355_1531249533_index_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:25.246Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Havit, Drivers 53mm,  Microfone Plugável, 3.5mm, PC, PS4, XBOX ONE, Preto - HV-H2002D",
-  "ean": null,
-  "marca": "Havit",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 169.99,
-  "de": 263.52,
-  "url": "https://www.kabum.com.br/produto/102770/headset-gamer-havit-drivers-53mm-microfone-plugavel-3-5mm-pc-ps4-xbox-one-preto-hv-h2002d",
-  "img": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-microfone-plugavel-3-5mm-pc-ps4-xbox-one-preto-hv-h2002d_1772477463_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:26.942Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Logitech G PRO X 7.1 Dolby Surround - 981-000817",
-  "ean": null,
-  "marca": "Logitech G",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 758.99,
-  "de": 1363.62,
-  "url": "https://www.kabum.com.br/produto/102827/headset-gamer-logitech-g-pro-x-7-1-dolby-surround-981-000817",
-  "img": "https://images.kabum.com.br/produtos/fotos/102827/headset-gamer-logitech-g-pro-x-7-1-dolby-surround-981-000817_1744814719_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:28.594Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Havit H2232D RGB, Drivers 50mm, Som Surround, Design Confortável, Preto - H2232D",
-  "ean": null,
-  "marca": "Havit",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 73.99,
-  "de": 158.81,
-  "url": "https://www.kabum.com.br/produto/104952/headset-gamer-havit-h2232d-rgb-drivers-50mm-som-surround-design-confortavel-preto-h2232d",
-  "img": "https://images.kabum.com.br/produtos/fotos/104952/headset-gamer-havit-h2232d-rgb-drivers-50mm-h2232d-_headset-gamer-havit-h2232d-rgb-drivers-50mm-h2232d-_1570468766_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:30.268Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer XPG Precog 7.1 com Driver Duplo para PC, MAC, Notebook, Playstation, XBOX e Nintendo Switch",
-  "ean": null,
-  "marca": "XPG",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 348.99,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/105000/headset-gamer-xpg-precog-7-1-com-driver-duplo-para-pc-mac-notebook-playstation-xbox-e-nintendo-switch",
-  "img": "https://images.kabum.com.br/produtos/fotos/105000/headset-gamer-xpg-precog-7-1-com-driver-duplo-para-pc-mac-notebook-playstation-xbox-e-nintendo-switch_1603309443_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:31.954Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer HP H320, LED, Drivers 50mm - 8AA13AAUUF",
-  "ean": null,
-  "marca": "Hp",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 59.99,
-  "de": 164.69,
-  "url": "https://www.kabum.com.br/produto/109901/headset-gamer-hp-h320-led-drivers-50mm-8aa13aauuf",
-  "img": "https://images.kabum.com.br/produtos/fotos/109901/headset-gamer-hp-h320-led-drivers-50mm-8aa13aauuf_1773077937_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:33.640Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Fortrek Vickers RGB, Drivers 50mm - 70556",
-  "ean": null,
-  "marca": "Fortrek",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 93.99,
-  "de": 170.44,
-  "url": "https://www.kabum.com.br/produto/112766/headset-gamer-fortrek-vickers-rgb-drivers-50mm-70556",
-  "img": "https://images.kabum.com.br/produtos/fotos/112766/headset-gamer-fortrek-vickers-rgb-drivers-50mm-70556_1586969229_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:35.351Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer JBL Quantum 400, RGB, Drivers 50mm, Preto - 28913166",
-  "ean": null,
-  "marca": "JBL",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 379.99,
-  "de": 694,
-  "url": "https://www.kabum.com.br/produto/113389/headset-gamer-jbl-quantum-400-rgb-drivers-50mm-preto-28913166",
-  "img": "https://images.kabum.com.br/produtos/fotos/113389/headset-gamer-jbl-quantum-400-rgb-drivers-50mm-preto-28913166_1590502248_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:37.044Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Logitech G432 7.1 Dolby Surround para PC, PlayStation, Xbox e Nintendo Switch, Preto/Azul - 981-000769",
-  "ean": null,
-  "marca": "Logitech G",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 419.99,
-  "de": 823.52,
-  "url": "https://www.kabum.com.br/produto/114290/headset-gamer-logitech-g432-7-1-dolby-surround-para-pc-playstation-xbox-e-nintendo-switch-preto-azul-981-000769",
-  "img": "https://images.kabum.com.br/produtos/fotos/114290/headset-gamer-logitech-g432-7-1-som-surround-drivers-50mm-981-000769_1613591421_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:38.694Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Razer BlackShark V2 X, Drivers 50mm, Microfone Cardioide, Surround 7.1, 3.5 mm, Preto - RZ04-03240100",
-  "ean": null,
-  "marca": "Razer",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 299.99,
-  "de": 526.31,
-  "url": "https://www.kabum.com.br/produto/128544/headset-gamer-razer-blackshark-v2-x-drivers-50mm-microfone-cardioide-surround-7-1-3-5-mm-preto-rz04-03240100",
-  "img": "https://images.kabum.com.br/produtos/fotos/128544/headset-gamer-razer-blackshark-v2-x-multi-platform-drivers-50mm-rz04-03240100-r3u1_1600956255_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:40.357Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Fortrek Crusader, RGB, Drives 50mm - 70555",
-  "ean": null,
-  "marca": "Fortrek",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 79.9,
-  "de": 176.46,
-  "url": "https://www.kabum.com.br/produto/128628/headset-gamer-fortrek-crusader-rgb-drives-50mm-70555",
-  "img": "https://images.kabum.com.br/produtos/fotos/128628/headset-gamer-fortrek-crusader-rgb-drives-50mm-70555_1601066981_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:42.075Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Fortrek G Black Hawk, RGB, Drivers 50mm - 70530",
-  "ean": null,
-  "marca": "Fortrek",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 135.9,
-  "de": 247.05,
-  "url": "https://www.kabum.com.br/produto/129153/headset-gamer-fortrek-g-black-hawk-rgb-drivers-50mm-70530",
-  "img": "https://images.kabum.com.br/produtos/fotos/129153/headset-gamer-fortrek-g-black-hawk-rgb-drivers-50mm-70530_1601986071_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:43.819Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Fortrek G Cruiser, RGB, 7.1, Drivers 50mm - 70531",
-  "ean": null,
-  "marca": "Fortrek",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 154.99,
-  "de": 223.52,
-  "url": "https://www.kabum.com.br/produto/129154/headset-gamer-fortrek-g-cruiser-rgb-7-1-drivers-50mm-70531",
-  "img": "https://images.kabum.com.br/produtos/fotos/129154/headset-gamer-fortrek-g-cruiser-rgb-7-1-drivers-50mm-70531_1601986507_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:45.468Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer HP H400, Conexão P2 e USB, Driver de 50mm, Preto - 7JH34AA",
-  "ean": null,
-  "marca": "Hp",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 109.99,
-  "de": 195.28,
-  "url": "https://www.kabum.com.br/produto/155593/headset-gamer-hp-h400-conexao-p2-e-usb-driver-de-50mm-preto-7jh34aa",
-  "img": "https://images.kabum.com.br/produtos/fotos/155593/headset-gamer-hp-h400-conexao-p2-e-usb-driver-de-50mm-preto-7jh34aa_1618585936_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:47.138Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Logitech G335, 3.5mm para PC/PlayStation/Xbox/Switch/Mobile, Driver 40mm, Arco Ajustável, Preto - 981-000977",
-  "ean": null,
-  "marca": "Logitech G",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 400,
-  "de": 523.97,
-  "url": "https://www.kabum.com.br/produto/181876/headset-gamer-logitech-g335-3-5mm-para-pc-playstation-xbox-switch-mobile-driver-40mm-arco-ajustavel-preto-981-000977",
-  "img": "https://images.kabum.com.br/produtos/fotos/181876/headset-gamer-logitech-g335-3-5mm-para-pc-playstation-xbox-switch-mobile-driver-40mm-arco-ajustavel-preto-981-000977_1781110720_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:48.835Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Logitech G335, 3.5mm para PC/PlayStation/Xbox/Switch/Mobile, Driver 40mm, Arco Ajustável, Branco - 981-001017",
-  "ean": null,
-  "marca": "Logitech G",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 379.99,
-  "de": 823.52,
-  "url": "https://www.kabum.com.br/produto/181877/headset-gamer-logitech-g335-3-5mm-para-pc-playstation-xbox-switch-mobile-driver-40mm-arco-ajustavel-branco-981-001017",
-  "img": "https://images.kabum.com.br/produtos/fotos/181877/headset-gamer-logitech-g335-3-5mm-para-pc-playstation-xbox-switch-mobile-driver-40mm-arco-ajustavel-branco-981-001017_1781183794_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:50.518Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Razer BlackShark V2 X, Drivers 50mm, Isolamento de Ruído, Surround 7.1, 3.5 mm, Verde - RZ04-03240600",
-  "ean": null,
-  "marca": "Razer",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 319.99,
-  "de": 588.22,
-  "url": "https://www.kabum.com.br/produto/183080/headset-gamer-razer-blackshark-v2-x-drivers-50mm-isolamento-de-ruido-surround-7-1-3-5-mm-verde-rz04-03240600",
-  "img": "https://images.kabum.com.br/produtos/fotos/183080/headset-gamer-razer-blackshark-v2-x-drivers-50mm-isolamento-de-ruido-surround-7-1-3-5-mm-verde-rz04-03240600-r3u1_1785264100_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:52.182Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Trust GXT 488 Forze Licenciado PlayStation, PS4 e PS5, Drivers 50mm, Preto - 23530",
-  "ean": null,
-  "marca": "Trust",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 99.99,
-  "de": 235.28,
-  "url": "https://www.kabum.com.br/produto/252398/headset-gamer-trust-gxt-488-forze-licenciado-playstation-ps4-e-ps5-drivers-50mm-preto-23530",
-  "img": "https://images.kabum.com.br/produtos/fotos/252398/headset-gamer-trust-gxt-488-forze-para-ps4-licenca-oficial-playstation-drivers-50mm-p3-preto-23530_1635335553_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:53.925Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Fortrek G Spinder, P3, Drivers 40mm, Preto e Vermelho - 75252",
-  "ean": null,
-  "marca": "Fortrek",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 59.99,
-  "de": 117.64,
-  "url": "https://www.kabum.com.br/produto/313342/headset-gamer-fortrek-g-spinder-p3-drivers-40mm-preto-e-vermelho-75252",
-  "img": "https://images.kabum.com.br/produtos/fotos/313342/headset-gamer-fortrek-g-spinder-p3-drivers-40mm-preto-e-vermelho-75252_1646921174_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:55.627Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Havit, RGB, 3D Surround Stereo, Drivers 50mm, USB, Preto - HV-H2028U",
-  "ean": null,
-  "marca": "Havit",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 173.99,
-  "de": 352.93,
-  "url": "https://www.kabum.com.br/produto/328977/headset-gamer-havit-rgb-3d-surround-stereo-drivers-50mm-usb-preto-hv-h2028u",
-  "img": "https://images.kabum.com.br/produtos/fotos/328977/headset-gamer-havit-rgb-3d-surround-stereo-drivers-50mm-usb-preto-hv-h2028u_1651868370_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:57.278Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Corsair HS55 USB/P2, Surround 7.1, Drivers 50mm, Branco - CA-9011266-NA",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 279.99,
-  "de": 529.4,
-  "url": "https://www.kabum.com.br/produto/355909/headset-gamer-corsair-hs55-usb-p2-surround-7-1-drivers-50mm-branco-ca-9011266-na",
-  "img": "https://images.kabum.com.br/produtos/fotos/355909/headset-gamer-corsair-hs55-usb-p2-surround-7-1-drivers-50mm-branco-ca-9011266-na_1661450772_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:35:59.090Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Corsair HS55 Stereo P2 3.5mm, Drivers 50mm, Carbono - CA-9011260-NA",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 199.99,
-  "de": 564.69,
-  "url": "https://www.kabum.com.br/produto/355910/headset-gamer-corsair-hs55-stereo-p2-3-5mm-drivers-50mm-carbono-ca-9011260-na",
-  "img": "https://images.kabum.com.br/produtos/fotos/355910/headset-gamer-corsair-hs55-stereo-p2-3-5mm-drivers-50mm-carbono-ca-9011260-na_1661450850_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:00.754Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Corsair HS55 Stereo P2 3.5mm, Drivers 50mm, Branco - CA-9011261-NA",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 209.99,
-  "de": 411.65,
-  "url": "https://www.kabum.com.br/produto/355911/headset-gamer-corsair-hs55-stereo-p2-3-5mm-drivers-50mm-branco-ca-9011261-na",
-  "img": "https://images.kabum.com.br/produtos/fotos/355911/headset-gamer-corsair-hs55-stereo-p2-3-5mm-drivers-50mm-branco-ca-9011261-na_1661450938_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:02.409Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Corsair HS80 Premium, RGB, Surround, Dolby 7.1, Drivers 50mm, Preto - CA-9011237-NA",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 545.99,
-  "de": 941.16,
-  "url": "https://www.kabum.com.br/produto/355914/headset-gamer-corsair-hs80-premium-rgb-surround-dolby-7-1-drivers-50mm-preto-ca-9011237-na",
-  "img": "https://images.kabum.com.br/produtos/fotos/355914/headset-gamer-corsair-hs80-premium-rgb-surround-dolby-7-1-wireless-drivers-50mm-preto-ca-9011237-na_1663964209_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:04.079Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Corsair HS80 Premium, RGB, Surround, Dolby 7.1, Drivers 50mm, Branco - CA-9011238-NA",
-  "ean": null,
-  "marca": "Corsair",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 645.9,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/355915/headset-gamer-corsair-hs80-premium-rgb-surround-dolby-7-1-drivers-50mm-branco-ca-9011238-na",
-  "img": "https://images.kabum.com.br/produtos/fotos/355915/headset-gamer-corsair-hs80-premium-rgb-surround-dolby-7-1-wireless-drivers-50mm-branco-ca-9011238-na_1661451409_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:05.774Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Warrior, Rama, PH299, para PC",
-  "ean": null,
-  "marca": "Warrior",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 47.9,
-  "de": null,
-  "url": "https://www.kabum.com.br/produto/357445/headset-gamer-warrior-rama-ph299-para-pc",
-  "img": "https://images.kabum.com.br/produtos/fotos/magalu/357445/Headset-Gamer-Warrior-Rama-PH299-para-PC_1654869515_g.jpg",
-  "vendedor": {
-   "oficial": false,
-   "nome": "Magalu",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:07.471Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Havit H2030S Gamenote, Drivers 50mm, Ergonômico, PC PS4 e Xbox, Preto e Vermelho - H2030S",
-  "ean": null,
-  "marca": "Havit",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 169.9,
-  "de": 238.4,
-  "url": "https://www.kabum.com.br/produto/388215/headset-gamer-havit-h2030s-gamenote-drivers-50mm-ergonomico-pc-ps4-e-xbox-preto-e-vermelho-h2030s",
-  "img": "https://images.kabum.com.br/produtos/fotos/388215/headset-gamer-havit-gamenote-50mm-ps4-xbox-preto-e-vermelho-h2030s_1664821385_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:09.122Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Redragon Nireus, RGB, Som Surround 7.1, Drivers 50mm, USB,  Preto - H399-RGB",
-  "ean": null,
-  "marca": "Redragon",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 158.99,
-  "de": 352.93,
-  "url": "https://www.kabum.com.br/produto/402591/headset-gamer-redragon-nireus-rgb-som-surround-7-1-drivers-50mm-usb-preto-h399-rgb",
-  "img": "https://images.kabum.com.br/produtos/fotos/402591/headset-gamer-redragon-nireus-rgb-som-surround-7-1-drivers-50mm-usb-preto-h399-rgb_1670429064_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:10.842Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
   "titulo": "Headset Gamer Logitech G Astro A10, Drivers 40mm, P3, PS e PC, Preto - 939-002056",
   "ean": null,
   "marca": "Astro Gaming",
@@ -1795,188 +24,6 @@
   },
   "disponivel": true,
   "coletadoEm": "2026-11-22T13:36:12.506Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Astro Gaming A10, Drivers 40mm, P3, PS e PC, Branco - 939-002063",
-  "ean": null,
-  "marca": "Astro Gaming",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 369.98,
-  "de": 705.87,
-  "url": "https://www.kabum.com.br/produto/404401/headset-gamer-astro-gaming-a10-drivers-40mm-p3-ps-e-pc-branco-939-002063",
-  "img": "https://images.kabum.com.br/produtos/fotos/404401/headset-gamer-astro-a10-drivers-40mm-p3-ps-e-pc-branco-939-002063_1670871092_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:14.150Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Astro Gaming A10, Drivers 40mm, P3, Xbox e PC, Branco - 939-002051",
-  "ean": null,
-  "marca": "Astro Gaming",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 379.99,
-  "de": 705.87,
-  "url": "https://www.kabum.com.br/produto/404403/headset-gamer-astro-gaming-a10-drivers-40mm-p3-xbox-e-pc-branco-939-002051",
-  "img": "https://images.kabum.com.br/produtos/fotos/404403/headset-gamer-astro-a10-drivers-40mm-p3-xbox-e-pc-branco-939-002051_1670874684_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:15.880Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Astro Gaming A10, Drivers 40mm, P3, PC, Cinza - 939-002070",
-  "ean": null,
-  "marca": "Astro Gaming",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 349.99,
-  "de": 523.97,
-  "url": "https://www.kabum.com.br/produto/404404/headset-gamer-astro-gaming-a10-drivers-40mm-p3-pc-cinza-939-002070",
-  "img": "https://images.kabum.com.br/produtos/fotos/404404/headset-gamer-astro-a10-drivers-40mm-p3-pc-cinza-939-002070_1670875678_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:17.555Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Astro Gaming A10, Drivers 40mm, P3, PC, Lilás - 939-002077",
-  "ean": null,
-  "marca": "Astro Gaming",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 299.99,
-  "de": 705.87,
-  "url": "https://www.kabum.com.br/produto/404405/headset-gamer-astro-gaming-a10-drivers-40mm-p3-pc-lilas-939-002077",
-  "img": "https://images.kabum.com.br/produtos/fotos/404405/headset-gamer-astro-a10-drivers-40mm-p3-pc-lilas-939-002077_1671039695_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:19.231Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Creative Braze, Drivers 40mm, P2, Preto - 70GH032000000",
-  "ean": null,
-  "marca": "Creative",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 189.99,
-  "de": 235.18,
-  "url": "https://www.kabum.com.br/produto/404808/headset-gamer-creative-braze-drivers-40mm-p2-preto-70gh032000000",
-  "img": "https://images.kabum.com.br/produtos/fotos/404808/headset-gamer-creative-braze-drivers-40mm-p2-preto-70gh032000000_1700827240_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:20.866Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Razer Kaira X For XBOX, Drivers 50mm, P3, PC, Consoles,Mobile, Vermelho - RZ04-03970500-R3U1",
-  "ean": null,
-  "marca": "Razer",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 435.9,
-  "de": 658.71,
-  "url": "https://www.kabum.com.br/produto/405286/headset-razer-kaira-x-for-xbox-drivers-50mm-p3-pc-consoles-mobile-vermelho-rz04-03970500-r3u1",
-  "img": "https://images.kabum.com.br/produtos/fotos/405286/headset-razer-kaira-x-for-xbox-drivers-50mm-p3-pc-consoles-mobile-vermelho-rz04-03970500-r3u1_1672143585_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:22.537Z"
- },
- {
-  "fonte": "sitemap-kabum",
-  "loja": "KaBuM!",
-  "titulo": "Headset Gamer Havit H2002D, Drivers 53mm, P3, XBOX ONE e PS4, Rosa - HV-H2002P",
-  "ean": null,
-  "marca": "Havit",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Periféricos/Headset Gamer/Com Fio",
-  "caminhoLoja": [
-   "Periféricos",
-   "Headset Gamer",
-   "Com Fio"
-  ],
-  "preco": 169.99,
-  "de": 470.58,
-  "url": "https://www.kabum.com.br/produto/405787/headset-gamer-havit-h2002d-drivers-53mm-p3-xbox-one-e-ps4-rosa-hv-h2002p",
-  "img": "https://images.kabum.com.br/produtos/fotos/405787/headset-gamer-havit-h2002d-drivers-53mm-p3-xbox-one-e-ps4-rosa-hv-h2002p_1775654577_g.jpg",
-  "vendedor": {
-   "oficial": true,
-   "nome": "KaBuM!",
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:24.203Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2007,6 +54,2011 @@
  {
   "fonte": "sitemap-kabum",
   "loja": "KaBuM!",
+  "titulo": "Ventoinha C3Tech F7-100, 120mm, Preto - STORM F7-100BK",
+  "ean": null,
+  "marca": "C3Tech",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 24.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/69273/ventoinha-c3tech-f7-100-120mm-preto-storm-f7-100bk",
+  "img": "https://images.kabum.com.br/produtos/fotos/69273/69273_index_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:36.061Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Corsair QL Series, 120mm, RGB, Preto - CO-9050097",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 105.99,
+  "de": 164.44,
+  "url": "https://www.kabum.com.br/produto/108137/ventoinha-corsair-ql-series-120mm-rgb-preto-co-9050097",
+  "img": "https://images.kabum.com.br/produtos/fotos/108137/cooler-fan-corsair-qlseries-rgb-120mm-co-9050097-ww_1575571903_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:37.745Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Cooler FAN XPG, 120mm - VENTO120-BKCWW",
+  "ean": null,
+  "marca": "XPG",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 18.99,
+  "de": 35.28,
+  "url": "https://www.kabum.com.br/produto/121365/cooler-fan-xpg-120mm-vento120-bkcww",
+  "img": "https://images.kabum.com.br/produtos/fotos/121365/cooler-fan-xpg-120mm-vento120-bkcww_1598974159_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:39.491Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Noctua NF-A12x15 PWM, 120mm, Preto - CH.BK.S",
+  "ean": null,
+  "marca": "Noctua",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 213.99,
+  "de": 270.47,
+  "url": "https://www.kabum.com.br/produto/135787/ventoinha-noctua-nf-a12x15-pwm-120mm-preto-ch-bk-s",
+  "img": "https://images.kabum.com.br/produtos/fotos/135787/cooler-fan-noctua-nf-a12x15-pwm-120mm-para-pc-preto-ch-bk-s_1610460917_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:41.205Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Noctua 120mm, Cinza - NF-P12 Redux-1300 PWM",
+  "ean": null,
+  "marca": "Noctua",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 139.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/135802/ventoinha-noctua-120mm-cinza-nf-p12-redux-1300-pwm",
+  "img": "https://images.kabum.com.br/produtos/fotos/135802/cooler-fan-noctua-120mm-para-pc-cinza-nf-p12-redux-1300-pwm_1610544971_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:42.908Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Noctua Redux Edition, 120mm, Cinza - NF-S12B redux-1200 PWM",
+  "ean": null,
+  "marca": "Noctua",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 119.99,
+  "de": 176.35,
+  "url": "https://www.kabum.com.br/produto/135814/ventoinha-noctua-redux-edition-120mm-cinza-nf-s12b-redux-1200-pwm",
+  "img": "https://images.kabum.com.br/produtos/fotos/135814/cooler-fan-noctua-redux-edition-120mm-para-pc-cinza-nf-s12b-redux-1200-pwm_1610541850_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:44.607Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Noctua, 120mm, Marrom - NF-S12A PWM",
+  "ean": null,
+  "marca": "Noctua",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 165.9,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/135819/ventoinha-noctua-120mm-marrom-nf-s12a-pwm",
+  "img": "https://images.kabum.com.br/produtos/fotos/135819/cooler-fan-noctua-120mm-para-pc-marrom-nf-s12a-pwm_1610480814_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:46.382Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Noctua Redux-1300, 120mm, Cinza - NF-P12 redux-1300",
+  "ean": null,
+  "marca": "Noctua",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 136.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/313442/ventoinha-noctua-redux-1300-120mm-cinza-nf-p12-redux-1300",
+  "img": "https://images.kabum.com.br/produtos/fotos/313442/cooler-fan-noctua-redux-1300-120mm-cinza-nf-p12-redux-1300_1646944724_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:48.054Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Noctua, 120mm, Preto - NF-A12x25PWM CH.BK.S",
+  "ean": null,
+  "marca": "Noctua",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 349.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/313504/ventoinha-noctua-120mm-preto-nf-a12x25pwm-ch-bk-s",
+  "img": "https://images.kabum.com.br/produtos/fotos/313504/cooler-fan-noctua-120mm-preto-nf-a12x25pwm-ch-bk-s_1647008590_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:49.751Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha C3Tech Storm, 80mm, LED, Preto - F7-50BK",
+  "ean": null,
+  "marca": "C3TECH",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 9.99,
+  "de": 19.99,
+  "url": "https://www.kabum.com.br/produto/358558/ventoinha-c3tech-storm-80mm-led-preto-f7-50bk",
+  "img": "https://images.kabum.com.br/produtos/fotos/358558/cooler-fan-c3tech-storm-led-7-cores-80mm-preto-f7-50bk_1657909261_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:51.390Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha NZXT, 120mm, RGB, Preto - RF-R12SF-B1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 89.99,
+  "de": 176.46,
+  "url": "https://www.kabum.com.br/produto/369233/ventoinha-nzxt-120mm-rgb-preto-rf-r12sf-b1",
+  "img": "https://images.kabum.com.br/produtos/fotos/369233/cooler-fan-nzxt-120mm-rgb-preto-rf-r12sf-b1_1667919256_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:53.017Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha NZXT, 120mm, RGB, Branco - RF-R12SF-W1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 79.99,
+  "de": 133.22,
+  "url": "https://www.kabum.com.br/produto/369234/ventoinha-nzxt-120mm-rgb-branco-rf-r12sf-w1",
+  "img": "https://images.kabum.com.br/produtos/fotos/369234/cooler-fan-nzxt-120mm-rgb-branco-rf-r12sf-w1_1667922548_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:54.684Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha NZXT, 140mm, RGB, Preto - RF-R14SF-B1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 149.99,
+  "de": 195.28,
+  "url": "https://www.kabum.com.br/produto/369235/ventoinha-nzxt-140mm-rgb-preto-rf-r14sf-b1",
+  "img": "https://images.kabum.com.br/produtos/fotos/369235/cooler-fan-nzxt-140mm-rgb-preto-rf-r14sf-b1_1667923040_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:56.341Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit Com 3 Ventoinhas NZXT, 120mm, RGB, Branco - RF-R12TF-W1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 405.99,
+  "de": 583.41,
+  "url": "https://www.kabum.com.br/produto/369239/kit-com-3-ventoinhas-nzxt-120mm-rgb-branco-rf-r12tf-w1",
+  "img": "https://images.kabum.com.br/produtos/fotos/369239/kit-3-cooler-fan-nzxt-120mm-rgb-branco-rf-r12tf-w1_1667925640_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:57.973Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit Com 2 Ventoinhas NZXT, 140mm, RGB, Com Controlador, Preto - RF-R14DF-B1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 278.99,
+  "de": 435.18,
+  "url": "https://www.kabum.com.br/produto/369240/kit-com-2-ventoinhas-nzxt-140mm-rgb-com-controlador-preto-rf-r14df-b1",
+  "img": "https://images.kabum.com.br/produtos/fotos/369240/kit-2-cooler-fan-nzxt-140mm-rgb-com-controlador-preto-rf-r14df-b1_1667931846_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:46:59.659Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Noctua Redux Edition, 140mm, Cinza - NF-P14s redux-1200",
+  "ean": null,
+  "marca": "Noctua",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 129.99,
+  "de": 188.22,
+  "url": "https://www.kabum.com.br/produto/391216/ventoinha-noctua-redux-edition-140mm-cinza-nf-p14s-redux-1200",
+  "img": "https://images.kabum.com.br/produtos/fotos/391216/cooler-fan-noctua-redux-edition-140mm-cinza-nf-p14s-redux-1200_1665692366_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:01.434Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha ASUS Tuf Gaming TF120, 120mm, Led ARGB, Branco - 90DA0033-B00000",
+  "ean": null,
+  "marca": "ASUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 98.99,
+  "de": 117.64,
+  "url": "https://www.kabum.com.br/produto/442828/ventoinha-asus-tuf-gaming-tf120-120mm-led-argb-branco-90da0033-b00000",
+  "img": "https://images.kabum.com.br/produtos/fotos/442828/cooler-fan-asus-tuf-gaming-tf120-120mm-argb-branco-90da0033-b00000_1691407560_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:03.088Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit com 3 Ventoinhas ASUS Tuf Gaming TF120, 120mm, ARGB, Branco - 90DA0033-B00030",
+  "ean": null,
+  "marca": "ASUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 349.99,
+  "de": 449.4,
+  "url": "https://www.kabum.com.br/produto/442829/kit-com-3-ventoinhas-asus-tuf-gaming-tf120-120mm-argb-branco-90da0033-b00030",
+  "img": "https://images.kabum.com.br/produtos/fotos/442829/kit-cooler-fan-3x-asus-tuf-gaming-tf120-120mm-argb-branco-90da0033-b00030_1691407971_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:04.718Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Corsair iCUE Link QX120, 120mm, RGB, Preto - CO-9051001-WW",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 169.99,
+  "de": 277.64,
+  "url": "https://www.kabum.com.br/produto/496594/ventoinha-corsair-icue-link-qx120-120mm-rgb-preto-co-9051001-ww",
+  "img": "https://images.kabum.com.br/produtos/fotos/496594/cooler-fan-corsair-qx-rgb-series-icue-link-qx120-rgb-kit-de-expansao-ventoinha-rgb-de-domo-magnetico-de-120mm-co-9051001-ww_1706296439_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:06.483Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit com  3 Ventoinhas Corsair iCUE LINK QX120, 120mm, RGB, Preto - CO-9051002-WW",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 729.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/496597/kit-com-3-ventoinhas-corsair-icue-link-qx120-120mm-rgb-preto-co-9051002-ww",
+  "img": "https://images.kabum.com.br/produtos/fotos/496597/cooler-fan-corsair-qx-rgb-series-series-icue-link-qx120-rgb-kit-basico-ventoinha-rgb-de-domo-magnetico-de-120mm-co-9051002-ww_1706294976_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:08.117Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Corsair iCUE LINK QX140, 140mm, RGB, Preto - CO-9051003-WW",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 199.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/496599/ventoinha-corsair-icue-link-qx140-140mm-rgb-preto-co-9051003-ww",
+  "img": "https://images.kabum.com.br/produtos/fotos/496599/cooler-fan-corsair-qx-rgb-series-icue-link-qx140-rgb-kit-de-expansao-ventoinha-rgb-de-domo-magnetico-de-140mm-co-9051003-ww_1706558326_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:09.780Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit Com 2 Ventoinhas Corsair iCUE LINK QX140, 140mm, RGB, Preto - CO-9051004-WW",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 488.99,
+  "de": 728.78,
+  "url": "https://www.kabum.com.br/produto/496600/kit-com-2-ventoinhas-corsair-icue-link-qx140-140mm-rgb-preto-co-9051004-ww",
+  "img": "https://images.kabum.com.br/produtos/fotos/496600/cooler-fan-corsair-qx-rgb-series-icue-link-qx140-rgb-kit-basico-ventoinha-rgb-de-domo-magnetico-de-140mm-co-9051004-ww_1706300250_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:11.488Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Corsair iCUE LINK QX120, 120mm, RGB, Branco -  CO-9051005-WW",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 159.99,
+  "de": 333.32,
+  "url": "https://www.kabum.com.br/produto/496602/ventoinha-corsair-icue-link-qx120-120mm-rgb-branco-co-9051005-ww",
+  "img": "https://images.kabum.com.br/produtos/fotos/496602/cooler-fan-corsair-qx-rgb-series-icue-link-qx120-rgb-white-fans-de-120-mm-kit-de-expansao-co-9051005-ww_1706298847_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:13.140Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit Com 3 Ventoinhas Redragon By Lian Li, 120mm, RGB, Com Controladora, Branco - UFSL1203WSI",
+  "ean": null,
+  "marca": "Lian Li",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 397.99,
+  "de": 541.06,
+  "url": "https://www.kabum.com.br/produto/519208/kit-com-3-ventoinhas-redragon-by-lian-li-120mm-rgb-com-controladora-branco-ufsl1203wsi",
+  "img": "https://images.kabum.com.br/produtos/fotos/519208/kit-cooler-fan-3-unidades-redragon-by-lian-li-120mm-rgb-com-controladora-branco-ufsl1203wsi_1708000287_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:14.784Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha NZXT F120RGB Duo, 120mm, Led RGB, Branco - RF-D12SF-W1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 134.99,
+  "de": 206.94,
+  "url": "https://www.kabum.com.br/produto/521708/ventoinha-nzxt-f120rgb-duo-120mm-led-rgb-branco-rf-d12sf-w1",
+  "img": "https://images.kabum.com.br/produtos/fotos/521708/cooler-fan-nzxt-f120rgb-duo-120mm-rgb-c-controlador-rgb-branco-rf-d12sf-w1_1726257943_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:16.445Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit com 3 Ventoinhas NZXT F120RGB Duo, 120mm, RGB, Branco - RF-D12TF-W1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 488.99,
+  "de": 748.12,
+  "url": "https://www.kabum.com.br/produto/521712/kit-com-3-ventoinhas-nzxt-f120rgb-duo-120mm-rgb-branco-rf-d12tf-w1",
+  "img": "https://images.kabum.com.br/produtos/fotos/521712/kit-3-cooler-fan-nzxt-f120rgb-duo-120mm-rgb-branco-c-controlador-rgb-rf-d12tf-w1_1726243278_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:18.242Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha NZXT F140RGB Duo 140mm, Led RGB, Branco - RF-D14SF-W1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 109.99,
+  "de": 171.65,
+  "url": "https://www.kabum.com.br/produto/521714/ventoinha-nzxt-f140rgb-duo-140mm-led-rgb-branco-rf-d14sf-w1",
+  "img": "https://images.kabum.com.br/produtos/fotos/521714/cooler-fan-nzxt-f140rgb-duo-140mm-rgb-branco-rf-d14sf-w1_1718214322_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:20.184Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit com 2 Ventoinhas NZXT F140RGB Core, 140mm, RGB, Branco - RF-C14DF-W1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 302.99,
+  "de": 362.11,
+  "url": "https://www.kabum.com.br/produto/521826/kit-com-2-ventoinhas-nzxt-f140rgb-core-140mm-rgb-branco-rf-c14df-w1",
+  "img": "https://images.kabum.com.br/produtos/fotos/521826/kit-2-cooler-fan-nzxt-f140rgb-core-140mm-hub-mounted-rgb-fan-branco-c-controlador-rgb-rf-c14df-w1_1718639003_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:21.940Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit com 3 Ventoinhas Husky Arctic Breeze, 120mm, Iluminação ARGB, Preto - HKCF300PT",
+  "ean": null,
+  "marca": "Husky",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 109.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/609931/kit-com-3-ventoinhas-husky-arctic-breeze-120mm-iluminacao-argb-preto-hkcf300pt",
+  "img": "https://images.kabum.com.br/produtos/fotos/609931/kit-com-3-ventoinhas-husky-arctic-breeze-120mm-iluminacao-argb-preto-hkcf300pt_1783023276_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:23.689Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Single-Frame NZXT, 420mm, F420RGB Core Fan, Preto, RF-U42HF-B1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 459.99,
+  "de": 617.67,
+  "url": "https://www.kabum.com.br/produto/728425/ventoinha-single-frame-nzxt-420mm-f420rgb-core-fan-preto-rf-u42hf-b1",
+  "img": "https://images.kabum.com.br/produtos/fotos/728425/single-frame-fan-nzxt-420mm-f420rgb-core-fan-preto-rf-u42hf-b1_1767192424_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:25.312Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Single-frame NZXT, 420mm, F420RGB Core Fan, Branco, RF-U42HF-W1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 459.99,
+  "de": 677.53,
+  "url": "https://www.kabum.com.br/produto/728426/ventoinha-single-frame-nzxt-420mm-f420rgb-core-fan-branco-rf-u42hf-w1",
+  "img": "https://images.kabum.com.br/produtos/fotos/728426/single-frame-fan-nzxt-420mm-f420rgb-core-fan-branco-rf-u42hf-w1_1767192803_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:26.968Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha ASUS TUF Gaming TR120, 120mm, ARGB, Preto - 90DA0090-B00000",
+  "ean": null,
+  "marca": "ASUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 145.9,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/847751/ventoinha-asus-tuf-gaming-tr120-120mm-argb-preto-90da0090-b00000",
+  "img": "https://images.kabum.com.br/produtos/fotos/847751/ventoinha-asus-tuf-gaming-tr120-120mm-led-argb-preto-90da0090-b00000_1752843303_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:28.684Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit com 3 Ventoinhas ASUS TUF Gaming TR120, 120mm, ARGB, Preto - 90DA0090-B00020",
+  "ean": null,
+  "marca": "ASUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 269.99,
+  "de": 388.78,
+  "url": "https://www.kabum.com.br/produto/847752/kit-com-3-ventoinhas-asus-tuf-gaming-tr120-120mm-argb-preto-90da0090-b00020",
+  "img": "https://images.kabum.com.br/produtos/fotos/847752/kit-com-3-ventoinhas-asus-tuf-gaming-tr120-com-controladora-120mm-led-argb-preto-90da0090-b00020_1761677414_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:30.308Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Asus TUF Gaming TR120 Reverse, 120mm, ARGB, Preto - 90DA00D0-B00000",
+  "ean": null,
+  "marca": "ASUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 89.99,
+  "de": 209.99,
+  "url": "https://www.kabum.com.br/produto/847753/ventoinha-asus-tuf-gaming-tr120-reverse-120mm-argb-preto-90da00d0-b00000",
+  "img": "https://images.kabum.com.br/produtos/fotos/847753/ventoinha-asus-tuf-gaming-tr120-reverse-blade-120mm-led-argb-preto-90da0090-b00010_1752859668_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:31.965Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Kit com 3 Ventoinha Asus TUF Gaming TR120 Reverse , 120mm, ARGB, Preto - 90DA00D0-B00020",
+  "ean": null,
+  "marca": "ASUS",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 266.99,
+  "de": 399.99,
+  "url": "https://www.kabum.com.br/produto/847754/kit-com-3-ventoinha-asus-tuf-gaming-tr120-reverse-120mm-argb-preto-90da00d0-b00020",
+  "img": "https://images.kabum.com.br/produtos/fotos/847754/kit-com-3-ventoinha-asus-tuf-gaming-tr120-reverse-blade-com-controladora-120mm-led-argb-preto-90da0090-b00030_1752861647_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:33.881Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Montech RX140, 140mm, PWM, ARGB, Lâmina Reversa, Branco - RX140 PWM White",
+  "ean": null,
+  "marca": "MONTECH",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 63.99,
+  "de": 84.43,
+  "url": "https://www.kabum.com.br/produto/909414/ventoinha-montech-rx140-140mm-pwm-argb-lamina-reversa-branco-rx140-pwm-white",
+  "img": "https://images.kabum.com.br/produtos/fotos/909414/ventoinha-montech-rx140-140mm-pwm-argb-lamina-reversa-branco-rx140-pwm-white_1758563792_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:35.527Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha NZXT F280 RGB Core, 280mm, RGB, Preto - RF-U28HF-B1",
+  "ean": null,
+  "marca": "NZXT",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN"
+  ],
+  "preco": 161.99,
+  "de": 288.88,
+  "url": "https://www.kabum.com.br/produto/918340/ventoinha-nzxt-f280-rgb-core-280mm-rgb-preto-rf-u28hf-b1",
+  "img": "https://images.kabum.com.br/produtos/fotos/918340/ventoinha-nzxt-f280-rgb-core-280mm-rgb-preto-rf-u28hf-b1_1769535163_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:37.217Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Rise Mode Galaxy Led, 120mm, Verde - RM-FN-01-BG",
+  "ean": null,
+  "marca": "Rise Mode",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN/120 mm",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN",
+   "120 mm"
+  ],
+  "preco": 15.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/96821/ventoinha-rise-mode-galaxy-led-120mm-verde-rm-fn-01-bg",
+  "img": "https://images.kabum.com.br/produtos/fotos/96821/cooler-fan-rise-120mm-verde-rm-fn-01-bg_1658237771_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-22T22:47:38.965Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Rise Mode Galaxy Motherboard, 120mm, RGB, Preto - RM-MB-01-12V",
+  "ean": null,
+  "marca": "Rise Mode",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN/120 mm",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN",
+   "120 mm"
+  ],
+  "preco": 23.99,
+  "de": 35.28,
+  "url": "https://www.kabum.com.br/produto/103911/ventoinha-rise-mode-galaxy-motherboard-120mm-rgb-preto-rm-mb-01-12v",
+  "img": "https://images.kabum.com.br/produtos/fotos/103911/cooler-fan-rise-mode-galaxy-motherboard-120mm-rgb-preto-rm-mb-01-12v_1663767634_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:40.735Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Ventoinha Rise Mode Wind W1, 120mm, LED Verde, Preto - RM-WN-01-BG",
+  "ean": null,
+  "marca": "Rise Mode",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Hardware/Coolers/FAN/120 mm",
+  "caminhoLoja": [
+   "Hardware",
+   "Coolers",
+   "FAN",
+   "120 mm"
+  ],
+  "preco": 16.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/111133/ventoinha-rise-mode-wind-w1-120mm-led-verde-preto-rm-wn-01-bg",
+  "img": "https://images.kabum.com.br/produtos/fotos/111133/cooler-fan-rise-mode-wind-w1-120mm-led-verde-rm-wn-01-bg_1663777674_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-22T22:47:42.437Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Fortrek PRO H2 com LED Azul, P2, Preto - H2",
+  "ean": null,
+  "marca": "Fortrek",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 79.99,
+  "de": 129.4,
+  "url": "https://www.kabum.com.br/produto/97355/headset-gamer-fortrek-pro-h2-com-led-azul-p2-preto-h2",
+  "img": "https://images.kabum.com.br/produtos/fotos/97355/97355_1531249533_index_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:44.126Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Havit, Drivers 53mm,  Microfone Plugável, 3.5mm, PC, PS4, XBOX ONE, Preto - HV-H2002D",
+  "ean": null,
+  "marca": "Havit",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 169.99,
+  "de": 263.52,
+  "url": "https://www.kabum.com.br/produto/102770/headset-gamer-havit-drivers-53mm-microfone-plugavel-3-5mm-pc-ps4-xbox-one-preto-hv-h2002d",
+  "img": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-microfone-plugavel-3-5mm-pc-ps4-xbox-one-preto-hv-h2002d_1772477463_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:45.811Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Logitech G PRO X 7.1 Dolby Surround - 981-000817",
+  "ean": null,
+  "marca": "Logitech G",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 758.99,
+  "de": 1363.62,
+  "url": "https://www.kabum.com.br/produto/102827/headset-gamer-logitech-g-pro-x-7-1-dolby-surround-981-000817",
+  "img": "https://images.kabum.com.br/produtos/fotos/102827/headset-gamer-logitech-g-pro-x-7-1-dolby-surround-981-000817_1744814719_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:47.563Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Havit H2232D RGB, Drivers 50mm, Som Surround, Design Confortável, Preto - H2232D",
+  "ean": null,
+  "marca": "Havit",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 73.99,
+  "de": 158.81,
+  "url": "https://www.kabum.com.br/produto/104952/headset-gamer-havit-h2232d-rgb-drivers-50mm-som-surround-design-confortavel-preto-h2232d",
+  "img": "https://images.kabum.com.br/produtos/fotos/104952/headset-gamer-havit-h2232d-rgb-drivers-50mm-h2232d-_headset-gamer-havit-h2232d-rgb-drivers-50mm-h2232d-_1570468766_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:49.307Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer XPG Precog 7.1 com Driver Duplo para PC, MAC, Notebook, Playstation, XBOX e Nintendo Switch",
+  "ean": null,
+  "marca": "XPG",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 348.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/105000/headset-gamer-xpg-precog-7-1-com-driver-duplo-para-pc-mac-notebook-playstation-xbox-e-nintendo-switch",
+  "img": "https://images.kabum.com.br/produtos/fotos/105000/headset-gamer-xpg-precog-7-1-com-driver-duplo-para-pc-mac-notebook-playstation-xbox-e-nintendo-switch_1603309443_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:50.971Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer HP H320, LED, Drivers 50mm - 8AA13AAUUF",
+  "ean": null,
+  "marca": "Hp",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 59.99,
+  "de": 164.69,
+  "url": "https://www.kabum.com.br/produto/109901/headset-gamer-hp-h320-led-drivers-50mm-8aa13aauuf",
+  "img": "https://images.kabum.com.br/produtos/fotos/109901/headset-gamer-hp-h320-led-drivers-50mm-8aa13aauuf_1773077937_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:52.614Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Fortrek Vickers RGB, Drivers 50mm - 70556",
+  "ean": null,
+  "marca": "Fortrek",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 93.99,
+  "de": 170.44,
+  "url": "https://www.kabum.com.br/produto/112766/headset-gamer-fortrek-vickers-rgb-drivers-50mm-70556",
+  "img": "https://images.kabum.com.br/produtos/fotos/112766/headset-gamer-fortrek-vickers-rgb-drivers-50mm-70556_1586969229_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:54.266Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer JBL Quantum 400, RGB, Drivers 50mm, Preto - 28913166",
+  "ean": null,
+  "marca": "JBL",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 379.99,
+  "de": 694,
+  "url": "https://www.kabum.com.br/produto/113389/headset-gamer-jbl-quantum-400-rgb-drivers-50mm-preto-28913166",
+  "img": "https://images.kabum.com.br/produtos/fotos/113389/headset-gamer-jbl-quantum-400-rgb-drivers-50mm-preto-28913166_1590502248_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:56.065Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Logitech G432 7.1 Dolby Surround para PC, PlayStation, Xbox e Nintendo Switch, Preto/Azul - 981-000769",
+  "ean": null,
+  "marca": "Logitech G",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 419.99,
+  "de": 823.52,
+  "url": "https://www.kabum.com.br/produto/114290/headset-gamer-logitech-g432-7-1-dolby-surround-para-pc-playstation-xbox-e-nintendo-switch-preto-azul-981-000769",
+  "img": "https://images.kabum.com.br/produtos/fotos/114290/headset-gamer-logitech-g432-7-1-som-surround-drivers-50mm-981-000769_1613591421_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:57.712Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Razer BlackShark V2 X, Drivers 50mm, Microfone Cardioide, Surround 7.1, 3.5 mm, Preto - RZ04-03240100",
+  "ean": null,
+  "marca": "Razer",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 299.99,
+  "de": 526.31,
+  "url": "https://www.kabum.com.br/produto/128544/headset-gamer-razer-blackshark-v2-x-drivers-50mm-microfone-cardioide-surround-7-1-3-5-mm-preto-rz04-03240100",
+  "img": "https://images.kabum.com.br/produtos/fotos/128544/headset-gamer-razer-blackshark-v2-x-multi-platform-drivers-50mm-rz04-03240100-r3u1_1600956255_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:47:59.358Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Fortrek Crusader, RGB, Drives 50mm - 70555",
+  "ean": null,
+  "marca": "Fortrek",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 79.9,
+  "de": 176.46,
+  "url": "https://www.kabum.com.br/produto/128628/headset-gamer-fortrek-crusader-rgb-drives-50mm-70555",
+  "img": "https://images.kabum.com.br/produtos/fotos/128628/headset-gamer-fortrek-crusader-rgb-drives-50mm-70555_1601066981_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:01.046Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Fortrek G Black Hawk, RGB, Drivers 50mm - 70530",
+  "ean": null,
+  "marca": "Fortrek",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 135.9,
+  "de": 247.05,
+  "url": "https://www.kabum.com.br/produto/129153/headset-gamer-fortrek-g-black-hawk-rgb-drivers-50mm-70530",
+  "img": "https://images.kabum.com.br/produtos/fotos/129153/headset-gamer-fortrek-g-black-hawk-rgb-drivers-50mm-70530_1601986071_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:02.709Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Fortrek G Cruiser, RGB, 7.1, Drivers 50mm - 70531",
+  "ean": null,
+  "marca": "Fortrek",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 154.99,
+  "de": 223.52,
+  "url": "https://www.kabum.com.br/produto/129154/headset-gamer-fortrek-g-cruiser-rgb-7-1-drivers-50mm-70531",
+  "img": "https://images.kabum.com.br/produtos/fotos/129154/headset-gamer-fortrek-g-cruiser-rgb-7-1-drivers-50mm-70531_1601986507_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:04.391Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer HP H400, Conexão P2 e USB, Driver de 50mm, Preto - 7JH34AA",
+  "ean": null,
+  "marca": "Hp",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 109.99,
+  "de": 195.28,
+  "url": "https://www.kabum.com.br/produto/155593/headset-gamer-hp-h400-conexao-p2-e-usb-driver-de-50mm-preto-7jh34aa",
+  "img": "https://images.kabum.com.br/produtos/fotos/155593/headset-gamer-hp-h400-conexao-p2-e-usb-driver-de-50mm-preto-7jh34aa_1618585936_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:06.133Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Logitech G335, 3.5mm para PC/PlayStation/Xbox/Switch/Mobile, Driver 40mm, Arco Ajustável, Preto - 981-000977",
+  "ean": null,
+  "marca": "Logitech G",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 400,
+  "de": 523.97,
+  "url": "https://www.kabum.com.br/produto/181876/headset-gamer-logitech-g335-3-5mm-para-pc-playstation-xbox-switch-mobile-driver-40mm-arco-ajustavel-preto-981-000977",
+  "img": "https://images.kabum.com.br/produtos/fotos/181876/headset-gamer-logitech-g335-3-5mm-para-pc-playstation-xbox-switch-mobile-driver-40mm-arco-ajustavel-preto-981-000977_1781110720_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:07.802Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Logitech G335, 3.5mm para PC/PlayStation/Xbox/Switch/Mobile, Driver 40mm, Arco Ajustável, Branco - 981-001017",
+  "ean": null,
+  "marca": "Logitech G",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 379.99,
+  "de": 823.52,
+  "url": "https://www.kabum.com.br/produto/181877/headset-gamer-logitech-g335-3-5mm-para-pc-playstation-xbox-switch-mobile-driver-40mm-arco-ajustavel-branco-981-001017",
+  "img": "https://images.kabum.com.br/produtos/fotos/181877/headset-gamer-logitech-g335-3-5mm-para-pc-playstation-xbox-switch-mobile-driver-40mm-arco-ajustavel-branco-981-001017_1781183794_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:09.470Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Razer BlackShark V2 X, Drivers 50mm, Isolamento de Ruído, Surround 7.1, 3.5 mm, Verde - RZ04-03240600",
+  "ean": null,
+  "marca": "Razer",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 319.99,
+  "de": 588.22,
+  "url": "https://www.kabum.com.br/produto/183080/headset-gamer-razer-blackshark-v2-x-drivers-50mm-isolamento-de-ruido-surround-7-1-3-5-mm-verde-rz04-03240600",
+  "img": "https://images.kabum.com.br/produtos/fotos/183080/headset-gamer-razer-blackshark-v2-x-drivers-50mm-isolamento-de-ruido-surround-7-1-3-5-mm-verde-rz04-03240600-r3u1_1785264100_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:11.249Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Redragon Zeus X, Chroma Mk.II, RGB, Som Surround 7.1, Drivers 53mm, USB, Preto e Vermelho - H510-RGB",
+  "ean": null,
+  "marca": "Redragon",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 349.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/227818/headset-gamer-redragon-zeus-x-chroma-mk-ii-rgb-som-surround-7-1-drivers-53mm-usb-preto-e-vermelho-h510-rgb",
+  "img": "https://images.kabum.com.br/produtos/fotos/227818/headset-gamer-redragon-zeus-chroma-mk-ii-rgb-surround-7-1-usb-drivers-53mm-preto-vermelho-h510-rgb_1631555309_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-22T22:48:12.971Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Trust GXT 488 Forze Licenciado PlayStation, PS4 e PS5, Drivers 50mm, Preto - 23530",
+  "ean": null,
+  "marca": "Trust",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 99.99,
+  "de": 235.28,
+  "url": "https://www.kabum.com.br/produto/252398/headset-gamer-trust-gxt-488-forze-licenciado-playstation-ps4-e-ps5-drivers-50mm-preto-23530",
+  "img": "https://images.kabum.com.br/produtos/fotos/252398/headset-gamer-trust-gxt-488-forze-para-ps4-licenca-oficial-playstation-drivers-50mm-p3-preto-23530_1635335553_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:14.688Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Fortrek G Spinder, P3, Drivers 40mm, Preto e Vermelho - 75252",
+  "ean": null,
+  "marca": "Fortrek",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 59.99,
+  "de": 117.64,
+  "url": "https://www.kabum.com.br/produto/313342/headset-gamer-fortrek-g-spinder-p3-drivers-40mm-preto-e-vermelho-75252",
+  "img": "https://images.kabum.com.br/produtos/fotos/313342/headset-gamer-fortrek-g-spinder-p3-drivers-40mm-preto-e-vermelho-75252_1646921174_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:16.373Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Havit, RGB, 3D Surround Stereo, Drivers 50mm, USB, Preto - HV-H2028U",
+  "ean": null,
+  "marca": "Havit",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 173.99,
+  "de": 352.93,
+  "url": "https://www.kabum.com.br/produto/328977/headset-gamer-havit-rgb-3d-surround-stereo-drivers-50mm-usb-preto-hv-h2028u",
+  "img": "https://images.kabum.com.br/produtos/fotos/328977/headset-gamer-havit-rgb-3d-surround-stereo-drivers-50mm-usb-preto-hv-h2028u_1651868370_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:18.072Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Corsair HS55 USB/P2, Surround 7.1, Drivers 50mm, Branco - CA-9011266-NA",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 279.99,
+  "de": 529.4,
+  "url": "https://www.kabum.com.br/produto/355909/headset-gamer-corsair-hs55-usb-p2-surround-7-1-drivers-50mm-branco-ca-9011266-na",
+  "img": "https://images.kabum.com.br/produtos/fotos/355909/headset-gamer-corsair-hs55-usb-p2-surround-7-1-drivers-50mm-branco-ca-9011266-na_1661450772_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:19.852Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Corsair HS55 Stereo P2 3.5mm, Drivers 50mm, Carbono - CA-9011260-NA",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 199.99,
+  "de": 564.69,
+  "url": "https://www.kabum.com.br/produto/355910/headset-gamer-corsair-hs55-stereo-p2-3-5mm-drivers-50mm-carbono-ca-9011260-na",
+  "img": "https://images.kabum.com.br/produtos/fotos/355910/headset-gamer-corsair-hs55-stereo-p2-3-5mm-drivers-50mm-carbono-ca-9011260-na_1661450850_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:21.511Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Corsair HS55 Stereo P2 3.5mm, Drivers 50mm, Branco - CA-9011261-NA",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 209.99,
+  "de": 411.65,
+  "url": "https://www.kabum.com.br/produto/355911/headset-gamer-corsair-hs55-stereo-p2-3-5mm-drivers-50mm-branco-ca-9011261-na",
+  "img": "https://images.kabum.com.br/produtos/fotos/355911/headset-gamer-corsair-hs55-stereo-p2-3-5mm-drivers-50mm-branco-ca-9011261-na_1661450938_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:23.197Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Corsair HS80 Premium, RGB, Surround, Dolby 7.1, Drivers 50mm, Preto - CA-9011237-NA",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 545.99,
+  "de": 941.16,
+  "url": "https://www.kabum.com.br/produto/355914/headset-gamer-corsair-hs80-premium-rgb-surround-dolby-7-1-drivers-50mm-preto-ca-9011237-na",
+  "img": "https://images.kabum.com.br/produtos/fotos/355914/headset-gamer-corsair-hs80-premium-rgb-surround-dolby-7-1-wireless-drivers-50mm-preto-ca-9011237-na_1663964209_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:24.842Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Corsair HS80 Premium, RGB, Surround, Dolby 7.1, Drivers 50mm, Branco - CA-9011238-NA",
+  "ean": null,
+  "marca": "Corsair",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 645.9,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/355915/headset-gamer-corsair-hs80-premium-rgb-surround-dolby-7-1-drivers-50mm-branco-ca-9011238-na",
+  "img": "https://images.kabum.com.br/produtos/fotos/355915/headset-gamer-corsair-hs80-premium-rgb-surround-dolby-7-1-wireless-drivers-50mm-branco-ca-9011238-na_1661451409_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:26.543Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Warrior, Rama, PH299, para PC",
+  "ean": null,
+  "marca": "Warrior",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 47.9,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/357445/headset-gamer-warrior-rama-ph299-para-pc",
+  "img": "https://images.kabum.com.br/produtos/fotos/magalu/357445/Headset-Gamer-Warrior-Rama-PH299-para-PC_1654869515_g.jpg",
+  "vendedor": {
+   "oficial": false,
+   "nome": "Magalu",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:28.186Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Havit H2030S Gamenote, Drivers 50mm, Ergonômico, PC PS4 e Xbox, Preto e Vermelho - H2030S",
+  "ean": null,
+  "marca": "Havit",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 169.9,
+  "de": 238.4,
+  "url": "https://www.kabum.com.br/produto/388215/headset-gamer-havit-h2030s-gamenote-drivers-50mm-ergonomico-pc-ps4-e-xbox-preto-e-vermelho-h2030s",
+  "img": "https://images.kabum.com.br/produtos/fotos/388215/headset-gamer-havit-gamenote-50mm-ps4-xbox-preto-e-vermelho-h2030s_1664821385_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:29.848Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Havit H2008D Gamenote, Drivers 50mm, Som Hi-Fi, PC PS4 e Xbox, Preto - H2008D",
+  "ean": null,
+  "marca": "Havit",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 289.99,
+  "de": null,
+  "url": "https://www.kabum.com.br/produto/388216/headset-gamer-havit-h2008d-gamenote-drivers-50mm-som-hi-fi-pc-ps4-e-xbox-preto-h2008d",
+  "img": "https://images.kabum.com.br/produtos/fotos/388216/headset-gamer-havit-gamenote-50mm-ps4-xbox-preto-h2008d_1665406057_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-22T22:48:31.529Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Redragon Nireus, RGB, Som Surround 7.1, Drivers 50mm, USB,  Preto - H399-RGB",
+  "ean": null,
+  "marca": "Redragon",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 158.99,
+  "de": 352.93,
+  "url": "https://www.kabum.com.br/produto/402591/headset-gamer-redragon-nireus-rgb-som-surround-7-1-drivers-50mm-usb-preto-h399-rgb",
+  "img": "https://images.kabum.com.br/produtos/fotos/402591/headset-gamer-redragon-nireus-rgb-som-surround-7-1-drivers-50mm-usb-preto-h399-rgb_1670429064_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:33.195Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Astro Gaming A10, Drivers 40mm, P3, PS e PC, Branco - 939-002063",
+  "ean": null,
+  "marca": "Astro Gaming",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 369.98,
+  "de": 705.87,
+  "url": "https://www.kabum.com.br/produto/404401/headset-gamer-astro-gaming-a10-drivers-40mm-p3-ps-e-pc-branco-939-002063",
+  "img": "https://images.kabum.com.br/produtos/fotos/404401/headset-gamer-astro-a10-drivers-40mm-p3-ps-e-pc-branco-939-002063_1670871092_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:34.832Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Astro Gaming A10, Drivers 40mm, P3, Xbox e PC, Branco - 939-002051",
+  "ean": null,
+  "marca": "Astro Gaming",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 379.99,
+  "de": 705.87,
+  "url": "https://www.kabum.com.br/produto/404403/headset-gamer-astro-gaming-a10-drivers-40mm-p3-xbox-e-pc-branco-939-002051",
+  "img": "https://images.kabum.com.br/produtos/fotos/404403/headset-gamer-astro-a10-drivers-40mm-p3-xbox-e-pc-branco-939-002051_1670874684_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:36.502Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Astro Gaming A10, Drivers 40mm, P3, PC, Cinza - 939-002070",
+  "ean": null,
+  "marca": "Astro Gaming",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 349.99,
+  "de": 523.97,
+  "url": "https://www.kabum.com.br/produto/404404/headset-gamer-astro-gaming-a10-drivers-40mm-p3-pc-cinza-939-002070",
+  "img": "https://images.kabum.com.br/produtos/fotos/404404/headset-gamer-astro-a10-drivers-40mm-p3-pc-cinza-939-002070_1670875678_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:38.211Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Astro Gaming A10, Drivers 40mm, P3, PC, Lilás - 939-002077",
+  "ean": null,
+  "marca": "Astro Gaming",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 299.99,
+  "de": 705.87,
+  "url": "https://www.kabum.com.br/produto/404405/headset-gamer-astro-gaming-a10-drivers-40mm-p3-pc-lilas-939-002077",
+  "img": "https://images.kabum.com.br/produtos/fotos/404405/headset-gamer-astro-a10-drivers-40mm-p3-pc-lilas-939-002077_1671039695_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:39.884Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Creative Braze, Drivers 40mm, P2, Preto - 70GH032000000",
+  "ean": null,
+  "marca": "Creative",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 189.99,
+  "de": 235.18,
+  "url": "https://www.kabum.com.br/produto/404808/headset-gamer-creative-braze-drivers-40mm-p2-preto-70gh032000000",
+  "img": "https://images.kabum.com.br/produtos/fotos/404808/headset-gamer-creative-braze-drivers-40mm-p2-preto-70gh032000000_1700827240_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:41.510Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Razer Kaira X For XBOX, Drivers 50mm, P3, PC, Consoles,Mobile, Vermelho - RZ04-03970500-R3U1",
+  "ean": null,
+  "marca": "Razer",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 435.9,
+  "de": 658.71,
+  "url": "https://www.kabum.com.br/produto/405286/headset-razer-kaira-x-for-xbox-drivers-50mm-p3-pc-consoles-mobile-vermelho-rz04-03970500-r3u1",
+  "img": "https://images.kabum.com.br/produtos/fotos/405286/headset-razer-kaira-x-for-xbox-drivers-50mm-p3-pc-consoles-mobile-vermelho-rz04-03970500-r3u1_1672143585_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:43.285Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
+  "titulo": "Headset Gamer Havit H2002D, Drivers 53mm, P3, XBOX ONE e PS4, Rosa - HV-H2002P",
+  "ean": null,
+  "marca": "Havit",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Periféricos/Headset Gamer/Com Fio",
+  "caminhoLoja": [
+   "Periféricos",
+   "Headset Gamer",
+   "Com Fio"
+  ],
+  "preco": 169.99,
+  "de": 470.58,
+  "url": "https://www.kabum.com.br/produto/405787/headset-gamer-havit-h2002d-drivers-53mm-p3-xbox-one-e-ps4-rosa-hv-h2002p",
+  "img": "https://images.kabum.com.br/produtos/fotos/405787/headset-gamer-havit-h2002d-drivers-53mm-p3-xbox-one-e-ps4-rosa-hv-h2002p_1775654577_g.jpg",
+  "vendedor": {
+   "oficial": true,
+   "nome": "KaBuM!",
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-22T22:48:44.968Z"
+ },
+ {
+  "fonte": "sitemap-kabum",
+  "loja": "KaBuM!",
   "titulo": "Headset Gamer Havit H2002D, Drivers 53mm, P3, XBOX ONE e PS4, Branco e Vermelho - HV-H2002WR",
   "ean": null,
   "marca": "Havit",
@@ -2028,7 +2080,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:27.706Z"
+  "coletadoEm": "2026-11-22T22:48:46.802Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2054,7 +2106,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:29.354Z"
+  "coletadoEm": "2026-11-22T22:48:48.444Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2080,7 +2132,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:31.093Z"
+  "coletadoEm": "2026-11-22T22:48:50.109Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2106,7 +2158,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:32.758Z"
+  "coletadoEm": "2026-11-22T22:48:51.858Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2133,7 +2185,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:34.465Z"
+  "coletadoEm": "2026-11-22T22:48:53.631Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2160,7 +2212,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:36.154Z"
+  "coletadoEm": "2026-11-22T22:48:55.307Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2187,7 +2239,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:37.860Z"
+  "coletadoEm": "2026-11-22T22:48:57.020Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2214,7 +2266,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:39.523Z"
+  "coletadoEm": "2026-11-22T22:48:58.656Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2241,7 +2293,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:41.197Z"
+  "coletadoEm": "2026-11-22T22:49:00.379Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2268,7 +2320,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:42.950Z"
+  "coletadoEm": "2026-11-22T22:49:02.109Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2295,7 +2347,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:44.598Z"
+  "coletadoEm": "2026-11-22T22:49:03.753Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2322,7 +2374,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:46.235Z"
+  "coletadoEm": "2026-11-22T22:49:05.375Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2349,7 +2401,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:47.868Z"
+  "coletadoEm": "2026-11-22T22:49:07.109Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2376,7 +2428,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:49.523Z"
+  "coletadoEm": "2026-11-22T22:49:08.817Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2403,7 +2455,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:51.180Z"
+  "coletadoEm": "2026-11-22T22:49:10.449Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2430,7 +2482,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:52.850Z"
+  "coletadoEm": "2026-11-22T22:49:12.108Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2457,7 +2509,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:54.494Z"
+  "coletadoEm": "2026-11-22T22:49:13.796Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2484,7 +2536,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:56.409Z"
+  "coletadoEm": "2026-11-22T22:49:15.475Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2511,7 +2563,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:58.134Z"
+  "coletadoEm": "2026-11-22T22:49:17.092Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2538,7 +2590,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:36:59.802Z"
+  "coletadoEm": "2026-11-22T22:49:18.753Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2565,7 +2617,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:01.638Z"
+  "coletadoEm": "2026-11-22T22:49:20.446Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2592,7 +2644,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:03.372Z"
+  "coletadoEm": "2026-11-22T22:49:22.231Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2619,7 +2671,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:05.070Z"
+  "coletadoEm": "2026-11-22T22:49:23.977Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2646,7 +2698,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:06.760Z"
+  "coletadoEm": "2026-11-22T22:49:25.694Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2673,7 +2725,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:08.499Z"
+  "coletadoEm": "2026-11-22T22:49:27.419Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2700,7 +2752,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:10.193Z"
+  "coletadoEm": "2026-11-22T22:49:29.049Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2727,7 +2779,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:11.904Z"
+  "coletadoEm": "2026-11-22T22:49:30.806Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2754,7 +2806,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:13.666Z"
+  "coletadoEm": "2026-11-22T22:49:32.505Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2781,7 +2833,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:15.320Z"
+  "coletadoEm": "2026-11-22T22:49:34.172Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2808,7 +2860,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:17.005Z"
+  "coletadoEm": "2026-11-22T22:49:35.816Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2835,7 +2887,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:18.668Z"
+  "coletadoEm": "2026-11-22T22:49:37.479Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2862,7 +2914,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:20.415Z"
+  "coletadoEm": "2026-11-22T22:49:39.125Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2888,7 +2940,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:22.116Z"
+  "coletadoEm": "2026-11-22T22:49:40.746Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2914,7 +2966,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:23.899Z"
+  "coletadoEm": "2026-11-22T22:49:42.417Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2940,7 +2992,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:25.586Z"
+  "coletadoEm": "2026-11-22T22:49:44.122Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2966,7 +3018,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:27.259Z"
+  "coletadoEm": "2026-11-22T22:49:45.800Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -2992,7 +3044,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:29.024Z"
+  "coletadoEm": "2026-11-22T22:49:47.499Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3018,7 +3070,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:30.709Z"
+  "coletadoEm": "2026-11-22T22:49:49.222Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3044,7 +3096,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:32.378Z"
+  "coletadoEm": "2026-11-22T22:49:50.866Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3070,7 +3122,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:34.233Z"
+  "coletadoEm": "2026-11-22T22:49:52.757Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3096,7 +3148,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:35.961Z"
+  "coletadoEm": "2026-11-22T22:49:54.528Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3122,7 +3174,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:37.670Z"
+  "coletadoEm": "2026-11-22T22:49:56.438Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3148,7 +3200,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:39.366Z"
+  "coletadoEm": "2026-11-22T22:49:58.102Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3172,7 +3224,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:41.094Z"
+  "coletadoEm": "2026-11-22T22:49:59.777Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3196,7 +3248,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:42.847Z"
+  "coletadoEm": "2026-11-22T22:50:01.540Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3220,7 +3272,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:44.519Z"
+  "coletadoEm": "2026-11-22T22:50:03.304Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3246,7 +3298,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:46.180Z"
+  "coletadoEm": "2026-11-22T22:50:05.009Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3272,7 +3324,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:47.896Z"
+  "coletadoEm": "2026-11-22T22:50:06.711Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3298,7 +3350,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:49.561Z"
+  "coletadoEm": "2026-11-22T22:50:08.451Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3324,7 +3376,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:51.218Z"
+  "coletadoEm": "2026-11-22T22:50:10.235Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3350,7 +3402,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:52.878Z"
+  "coletadoEm": "2026-11-22T22:50:11.903Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3376,7 +3428,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:54.620Z"
+  "coletadoEm": "2026-11-22T22:50:13.708Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3402,7 +3454,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:56.528Z"
+  "coletadoEm": "2026-11-22T22:50:15.500Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3428,7 +3480,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:58.217Z"
+  "coletadoEm": "2026-11-22T22:50:17.199Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3454,7 +3506,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:37:59.927Z"
+  "coletadoEm": "2026-11-22T22:50:19.086Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3480,7 +3532,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:01.635Z"
+  "coletadoEm": "2026-11-22T22:50:21.055Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3506,7 +3558,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:03.289Z"
+  "coletadoEm": "2026-11-22T22:50:22.764Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3532,7 +3584,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:05.011Z"
+  "coletadoEm": "2026-11-22T22:50:24.516Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3558,7 +3610,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:06.679Z"
+  "coletadoEm": "2026-11-22T22:50:26.384Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3584,7 +3636,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:08.435Z"
+  "coletadoEm": "2026-11-22T22:50:28.053Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3600,17 +3652,17 @@
    "Acionador e Botoeira",
    "Botoeira"
   ],
-  "preco": 53.2,
+  "preco": 55.4,
   "de": null,
   "url": "https://www.kabum.com.br/produto/414221/botoeira-intelbras-sem-fio-branca-bt-100",
   "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/414221/large/Botoeira-Intelbras-Sem-Fio-Branca-Bt-100_1794604165.png",
   "vendedor": {
    "oficial": false,
-   "nome": "Digi Mania",
+   "nome": "INTELBRAS",
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:10.113Z"
+  "coletadoEm": "2026-11-22T22:50:29.841Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3636,7 +3688,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:11.781Z"
+  "coletadoEm": "2026-11-22T22:50:31.546Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3662,7 +3714,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:13.422Z"
+  "coletadoEm": "2026-11-22T22:50:33.180Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3688,7 +3740,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:15.117Z"
+  "coletadoEm": "2026-11-22T22:50:34.909Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3714,7 +3766,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:16.805Z"
+  "coletadoEm": "2026-11-22T22:50:36.657Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3739,7 +3791,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:18.576Z"
+  "coletadoEm": "2026-11-22T22:50:38.315Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3764,7 +3816,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:20.420Z"
+  "coletadoEm": "2026-11-22T22:50:40.048Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3789,7 +3841,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:22.120Z"
+  "coletadoEm": "2026-11-22T22:50:41.928Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3814,7 +3866,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:23.776Z"
+  "coletadoEm": "2026-11-22T22:50:43.698Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3839,7 +3891,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:25.472Z"
+  "coletadoEm": "2026-11-22T22:50:45.424Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3864,7 +3916,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:27.325Z"
+  "coletadoEm": "2026-11-22T22:50:47.154Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3890,7 +3942,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:29.045Z"
+  "coletadoEm": "2026-11-22T22:50:48.797Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3916,7 +3968,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:30.728Z"
+  "coletadoEm": "2026-11-22T22:50:50.486Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3942,7 +3994,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:32.389Z"
+  "coletadoEm": "2026-11-22T22:50:52.228Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3968,7 +4020,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:34.064Z"
+  "coletadoEm": "2026-11-22T22:50:53.959Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -3994,7 +4046,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:35.773Z"
+  "coletadoEm": "2026-11-22T22:50:55.762Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4020,7 +4072,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:37.467Z"
+  "coletadoEm": "2026-11-22T22:50:57.461Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4046,7 +4098,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:39.138Z"
+  "coletadoEm": "2026-11-22T22:50:59.167Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4072,7 +4124,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:40.886Z"
+  "coletadoEm": "2026-11-22T22:51:00.839Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4098,7 +4150,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:42.556Z"
+  "coletadoEm": "2026-11-22T22:51:02.604Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4124,7 +4176,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:44.316Z"
+  "coletadoEm": "2026-11-22T22:51:04.324Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4150,7 +4202,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:46.093Z"
+  "coletadoEm": "2026-11-22T22:51:06.081Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4176,7 +4228,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:47.877Z"
+  "coletadoEm": "2026-11-22T22:51:07.751Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4201,7 +4253,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:49.569Z"
+  "coletadoEm": "2026-11-22T22:51:09.456Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4226,7 +4278,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:51.240Z"
+  "coletadoEm": "2026-11-22T22:51:11.358Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4252,7 +4304,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:52.971Z"
+  "coletadoEm": "2026-11-22T22:51:13.099Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4278,7 +4330,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:54.764Z"
+  "coletadoEm": "2026-11-22T22:51:14.752Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4305,7 +4357,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:56.459Z"
+  "coletadoEm": "2026-11-22T22:51:16.290Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4332,7 +4384,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:58.141Z"
+  "coletadoEm": "2026-11-22T22:51:17.985Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4359,7 +4411,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:38:59.810Z"
+  "coletadoEm": "2026-11-22T22:51:19.618Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4386,7 +4438,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:01.464Z"
+  "coletadoEm": "2026-11-22T22:51:21.299Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4413,7 +4465,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:03.137Z"
+  "coletadoEm": "2026-11-22T22:51:22.981Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4440,7 +4492,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:04.785Z"
+  "coletadoEm": "2026-11-22T22:51:24.636Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4467,7 +4519,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:06.470Z"
+  "coletadoEm": "2026-11-22T22:51:26.301Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4494,7 +4546,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:08.120Z"
+  "coletadoEm": "2026-11-22T22:51:27.846Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4521,7 +4573,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:09.781Z"
+  "coletadoEm": "2026-11-22T22:51:29.575Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4548,7 +4600,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:11.464Z"
+  "coletadoEm": "2026-11-22T22:51:31.283Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4575,7 +4627,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:13.106Z"
+  "coletadoEm": "2026-11-22T22:51:32.953Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4602,7 +4654,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:14.791Z"
+  "coletadoEm": "2026-11-22T22:51:34.611Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4629,7 +4681,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:16.517Z"
+  "coletadoEm": "2026-11-22T22:51:36.380Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4656,7 +4708,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:18.199Z"
+  "coletadoEm": "2026-11-22T22:51:37.936Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4683,7 +4735,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:19.894Z"
+  "coletadoEm": "2026-11-22T22:51:39.648Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4710,7 +4762,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:21.588Z"
+  "coletadoEm": "2026-11-22T22:51:41.316Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4737,7 +4789,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:23.285Z"
+  "coletadoEm": "2026-11-22T22:51:43.004Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4764,7 +4816,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:24.945Z"
+  "coletadoEm": "2026-11-22T22:51:44.684Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4791,7 +4843,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:26.594Z"
+  "coletadoEm": "2026-11-22T22:51:46.435Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4818,7 +4870,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:28.288Z"
+  "coletadoEm": "2026-11-22T22:51:48.315Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4845,7 +4897,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:30.042Z"
+  "coletadoEm": "2026-11-22T22:51:49.993Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4872,7 +4924,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:31.683Z"
+  "coletadoEm": "2026-11-22T22:51:51.700Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4899,7 +4951,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:33.593Z"
+  "coletadoEm": "2026-11-22T22:51:53.326Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4926,7 +4978,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:35.288Z"
+  "coletadoEm": "2026-11-22T22:51:54.970Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4953,7 +5005,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:36.952Z"
+  "coletadoEm": "2026-11-22T22:51:56.673Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -4980,7 +5032,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:38.643Z"
+  "coletadoEm": "2026-11-22T22:51:58.348Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5007,7 +5059,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:40.296Z"
+  "coletadoEm": "2026-11-22T22:52:00.003Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5034,7 +5086,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:41.999Z"
+  "coletadoEm": "2026-11-22T22:52:01.658Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5061,7 +5113,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:43.681Z"
+  "coletadoEm": "2026-11-22T22:52:03.314Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5088,7 +5140,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:45.401Z"
+  "coletadoEm": "2026-11-22T22:52:04.940Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5115,7 +5167,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:47.059Z"
+  "coletadoEm": "2026-11-22T22:52:06.623Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5142,7 +5194,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:48.781Z"
+  "coletadoEm": "2026-11-22T22:52:08.277Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5169,7 +5221,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:50.487Z"
+  "coletadoEm": "2026-11-22T22:52:09.920Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5196,7 +5248,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:52.201Z"
+  "coletadoEm": "2026-11-22T22:52:11.615Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5223,7 +5275,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:53.854Z"
+  "coletadoEm": "2026-11-22T22:52:13.337Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5250,7 +5302,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:55.509Z"
+  "coletadoEm": "2026-11-22T22:52:14.979Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5274,7 +5326,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:57.297Z"
+  "coletadoEm": "2026-11-22T22:52:16.639Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5298,7 +5350,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:39:59.026Z"
+  "coletadoEm": "2026-11-22T22:52:18.295Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5322,7 +5374,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:00.732Z"
+  "coletadoEm": "2026-11-22T22:52:19.970Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5348,7 +5400,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:02.495Z"
+  "coletadoEm": "2026-11-22T22:52:21.670Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5374,7 +5426,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:04.184Z"
+  "coletadoEm": "2026-11-22T22:52:23.307Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5400,7 +5452,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:05.893Z"
+  "coletadoEm": "2026-11-22T22:52:24.969Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5426,7 +5478,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:07.541Z"
+  "coletadoEm": "2026-11-22T22:52:26.784Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5452,7 +5504,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:09.209Z"
+  "coletadoEm": "2026-11-22T22:52:28.421Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5478,7 +5530,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:10.862Z"
+  "coletadoEm": "2026-11-22T22:52:30.260Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5504,7 +5556,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:12.529Z"
+  "coletadoEm": "2026-11-22T22:52:31.901Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5530,7 +5582,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:14.240Z"
+  "coletadoEm": "2026-11-22T22:52:33.561Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5556,7 +5608,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:15.907Z"
+  "coletadoEm": "2026-11-22T22:52:35.206Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5582,7 +5634,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:17.598Z"
+  "coletadoEm": "2026-11-22T22:52:37.045Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5608,7 +5660,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:19.346Z"
+  "coletadoEm": "2026-11-22T22:52:39.080Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5634,7 +5686,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:21.001Z"
+  "coletadoEm": "2026-11-22T22:52:40.792Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5660,7 +5712,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:22.654Z"
+  "coletadoEm": "2026-11-22T22:52:42.479Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5686,7 +5738,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:24.344Z"
+  "coletadoEm": "2026-11-22T22:52:44.149Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5712,7 +5764,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:25.998Z"
+  "coletadoEm": "2026-11-22T22:52:45.887Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5738,7 +5790,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:27.638Z"
+  "coletadoEm": "2026-11-22T22:52:47.528Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5764,7 +5816,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:29.340Z"
+  "coletadoEm": "2026-11-22T22:52:49.236Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5790,7 +5842,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:31.040Z"
+  "coletadoEm": "2026-11-22T22:52:50.995Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5816,7 +5868,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:32.727Z"
+  "coletadoEm": "2026-11-22T22:52:52.718Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5842,7 +5894,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:34.423Z"
+  "coletadoEm": "2026-11-22T22:52:54.458Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5868,7 +5920,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:36.121Z"
+  "coletadoEm": "2026-11-22T22:52:56.175Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5894,7 +5946,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:37.841Z"
+  "coletadoEm": "2026-11-22T22:52:58.072Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5920,7 +5972,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:39.497Z"
+  "coletadoEm": "2026-11-22T22:52:59.719Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5946,7 +5998,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:41.218Z"
+  "coletadoEm": "2026-11-22T22:53:01.355Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5971,7 +6023,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:46.161Z"
+  "coletadoEm": "2026-11-22T22:53:06.418Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -5996,7 +6048,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:47.815Z"
+  "coletadoEm": "2026-11-22T22:53:08.097Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6021,7 +6073,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:49.524Z"
+  "coletadoEm": "2026-11-22T22:53:09.920Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6046,7 +6098,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:51.208Z"
+  "coletadoEm": "2026-11-22T22:53:11.629Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6071,7 +6123,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:52.927Z"
+  "coletadoEm": "2026-11-22T22:53:13.416Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6096,7 +6148,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:54.697Z"
+  "coletadoEm": "2026-11-22T22:53:15.123Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6121,7 +6173,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:56.338Z"
+  "coletadoEm": "2026-11-22T22:53:16.826Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6146,7 +6198,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:58.024Z"
+  "coletadoEm": "2026-11-22T22:53:18.491Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6172,7 +6224,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:40:59.669Z"
+  "coletadoEm": "2026-11-22T22:53:20.150Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6198,7 +6250,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:01.399Z"
+  "coletadoEm": "2026-11-22T22:53:21.929Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6224,7 +6276,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:03.124Z"
+  "coletadoEm": "2026-11-22T22:53:23.682Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6248,7 +6300,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:04.890Z"
+  "coletadoEm": "2026-11-22T22:53:25.360Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6272,7 +6324,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:06.549Z"
+  "coletadoEm": "2026-11-22T22:53:27.136Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6297,7 +6349,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:08.273Z"
+  "coletadoEm": "2026-11-22T22:53:28.783Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6322,7 +6374,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:09.964Z"
+  "coletadoEm": "2026-11-22T22:53:30.596Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6347,7 +6399,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:11.653Z"
+  "coletadoEm": "2026-11-22T22:53:32.254Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6372,7 +6424,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:13.342Z"
+  "coletadoEm": "2026-11-22T22:53:33.924Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6398,7 +6450,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:14.997Z"
+  "coletadoEm": "2026-11-22T22:53:35.609Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6424,7 +6476,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:16.717Z"
+  "coletadoEm": "2026-11-22T22:53:37.250Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6450,7 +6502,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:18.410Z"
+  "coletadoEm": "2026-11-22T22:53:38.889Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6476,7 +6528,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:20.074Z"
+  "coletadoEm": "2026-11-22T22:53:40.557Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6502,7 +6554,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:21.738Z"
+  "coletadoEm": "2026-11-22T22:53:42.286Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6528,7 +6580,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:23.427Z"
+  "coletadoEm": "2026-11-22T22:53:43.980Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6554,7 +6606,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:25.080Z"
+  "coletadoEm": "2026-11-22T22:53:45.667Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6580,7 +6632,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:26.748Z"
+  "coletadoEm": "2026-11-22T22:53:47.675Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6606,7 +6658,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:28.455Z"
+  "coletadoEm": "2026-11-22T22:53:49.337Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6632,7 +6684,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:30.129Z"
+  "coletadoEm": "2026-11-22T22:53:51.036Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6658,7 +6710,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:31.786Z"
+  "coletadoEm": "2026-11-22T22:53:52.956Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6684,7 +6736,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:33.507Z"
+  "coletadoEm": "2026-11-22T22:53:54.685Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6710,7 +6762,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:35.176Z"
+  "coletadoEm": "2026-11-22T22:53:56.508Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6736,7 +6788,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:36.844Z"
+  "coletadoEm": "2026-11-22T22:53:58.176Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6762,7 +6814,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:38.542Z"
+  "coletadoEm": "2026-11-22T22:53:59.961Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6788,7 +6840,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:40.199Z"
+  "coletadoEm": "2026-11-22T22:54:01.649Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6814,7 +6866,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:41.887Z"
+  "coletadoEm": "2026-11-22T22:54:03.350Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6840,7 +6892,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:43.639Z"
+  "coletadoEm": "2026-11-22T22:54:05.142Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6866,7 +6918,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:45.407Z"
+  "coletadoEm": "2026-11-22T22:54:06.811Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6892,7 +6944,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:47.180Z"
+  "coletadoEm": "2026-11-22T22:54:08.454Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6918,7 +6970,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:48.876Z"
+  "coletadoEm": "2026-11-22T22:54:10.160Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6944,7 +6996,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:50.567Z"
+  "coletadoEm": "2026-11-22T22:54:11.812Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6970,7 +7022,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:52.217Z"
+  "coletadoEm": "2026-11-22T22:54:13.508Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -6996,7 +7048,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:53.875Z"
+  "coletadoEm": "2026-11-22T22:54:15.045Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7022,7 +7074,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:55.534Z"
+  "coletadoEm": "2026-11-22T22:54:16.699Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7048,7 +7100,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:57.183Z"
+  "coletadoEm": "2026-11-22T22:54:18.366Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7074,7 +7126,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:41:58.851Z"
+  "coletadoEm": "2026-11-22T22:54:19.998Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7100,7 +7152,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:00.508Z"
+  "coletadoEm": "2026-11-22T22:54:21.688Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7126,7 +7178,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:02.214Z"
+  "coletadoEm": "2026-11-22T22:54:23.345Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7152,7 +7204,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:03.955Z"
+  "coletadoEm": "2026-11-22T22:54:24.972Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7178,7 +7230,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:05.735Z"
+  "coletadoEm": "2026-11-22T22:54:26.626Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7204,7 +7256,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:07.378Z"
+  "coletadoEm": "2026-11-22T22:54:28.290Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7230,7 +7282,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:09.106Z"
+  "coletadoEm": "2026-11-22T22:54:29.966Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7256,7 +7308,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:10.884Z"
+  "coletadoEm": "2026-11-22T22:54:31.677Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7282,7 +7334,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:12.638Z"
+  "coletadoEm": "2026-11-22T22:54:33.379Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7308,7 +7360,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:14.383Z"
+  "coletadoEm": "2026-11-22T22:54:35.064Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7334,7 +7386,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:16.145Z"
+  "coletadoEm": "2026-11-22T22:54:36.708Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7360,7 +7412,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:17.829Z"
+  "coletadoEm": "2026-11-22T22:54:38.396Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7386,7 +7438,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:19.487Z"
+  "coletadoEm": "2026-11-22T22:54:40.047Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7412,7 +7464,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:21.136Z"
+  "coletadoEm": "2026-11-22T22:54:41.801Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7438,7 +7490,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:22.794Z"
+  "coletadoEm": "2026-11-22T22:54:43.486Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7464,7 +7516,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:24.617Z"
+  "coletadoEm": "2026-11-22T22:54:45.129Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7490,7 +7542,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:26.286Z"
+  "coletadoEm": "2026-11-22T22:54:46.658Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7516,7 +7568,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:27.938Z"
+  "coletadoEm": "2026-11-22T22:54:48.306Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7542,7 +7594,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:29.620Z"
+  "coletadoEm": "2026-11-22T22:54:50.023Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7568,7 +7620,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:31.543Z"
+  "coletadoEm": "2026-11-22T22:54:51.672Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7594,7 +7646,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:33.187Z"
+  "coletadoEm": "2026-11-22T22:54:53.343Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7620,7 +7672,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:34.854Z"
+  "coletadoEm": "2026-11-22T22:54:55.040Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7646,7 +7698,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:36.533Z"
+  "coletadoEm": "2026-11-22T22:54:56.741Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7672,7 +7724,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:38.183Z"
+  "coletadoEm": "2026-11-22T22:54:58.446Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7698,7 +7750,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:39.920Z"
+  "coletadoEm": "2026-11-22T22:55:00.129Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7724,7 +7776,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:41.622Z"
+  "coletadoEm": "2026-11-22T22:55:01.806Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7750,7 +7802,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:43.273Z"
+  "coletadoEm": "2026-11-22T22:55:03.335Z"
  },
  {
   "fonte": "sitemap-kabum",
@@ -7775,7 +7827,7 @@
    "nome": "WeHawk",
    "reputacao": null
   },
-  "disponivel": true,
-  "coletadoEm": "2026-11-22T13:42:44.930Z"
+  "disponivel": false,
+  "coletadoEm": "2026-11-22T22:55:04.992Z"
  }
 ]

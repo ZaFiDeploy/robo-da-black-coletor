@@ -430,5 +430,29 @@
    "disponivel": true,
    "coletadoEm": "2026-11-22T13:59:22.920Z"
   }
+ },
+ {
+  "url": "https://www.rihappy.com.br/lousa-magica-disney-pixar-toy-story-5-lilipad-toyng/p",
+  "loja": "Ri Happy",
+  "titulo": "Lousa Mágica - Disney - Pixar - Toy Story 5 - Lilipad - Toyng",
+  "preco": 76.99,
+  "de": 109.99,
+  "ean": "7899871631191",
+  "por": "ean",
+  "candidatos": 1,
+  "outra": {
+   "loja": "Americanas",
+   "titulo": "Lousa Mágica Infantil Toyng Lilypad Disney Toy Story 3 a 4 Anos Verde",
+   "ean": "7899871631191",
+   "marca": "Toyng Brinquedos",
+   "modelo": "sap_4333223",
+   "preco": 99.99,
+   "de": null,
+   "vendedor": "AMERICANAS SA",
+   "url": "https://www.americanas.com.br/lousa-mgica-lilipad-toy-story-61511/p",
+   "img": "https://americanas.vteximg.com.br/arquivos/ids/37428007/LOUSAMGICALILIPADTOYSTORY61511.jpg?v=639124596145430000",
+   "disponivel": true,
+   "coletadoEm": "2026-11-22T23:12:46.602Z"
+  }
  }
 ]
