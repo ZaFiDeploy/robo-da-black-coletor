@@ -2,1046 +2,6 @@
  {
   "fonte": "sitemap-cobasi",
   "loja": "Cobasi",
-  "titulo": "Ossinho Original Dingo 1 unidade",
-  "ean": "615650300006",
-  "marca": "Dingo",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Ossinhos e Petiscos"
-  ],
-  "preco": 4.7,
-  "de": 11.9,
-  "url": "https://www.cobasi.com.br/ossinho-dingo-original-mini-unidade-3601012/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:28:32.713Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Areia para Gatos Like Cat Granulado Higiênico de Madeira",
-  "ean": "7898912289049",
-  "marca": "Megavet",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Higiene e Limpeza",
-   "Areia Higiênica"
-  ],
-  "preco": 17.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/areia-para-gatos-like-cat-granulado-higienico-de-madeira-3701416/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:28:35.575Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Biscoito Pedigree Biscrok para Cães Adultos Raças Grandes Leite",
-  "ean": "7896029043271",
-  "marca": "Pedigree",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Cookies e Biscoitos"
-  ],
-  "preco": 25.19,
-  "de": 27.99,
-  "url": "https://www.cobasi.com.br/biscrok-maxi-pedigree-3325775/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:28:39.384Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração GranPlus Menu Gatos Adultos Salmão e Arroz",
-  "ean": "7896048906793",
-  "marca": "Gran Plus",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 27.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-gran-plus-gatos-adultos-salmao-e-arroz-3659460/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:28:42.089Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Combo Antipulgas Fiprolex Cães até 10kg",
-  "ean": "7898043433700",
-  "marca": "Fiprolex",
-  "modelo": "7898043433700",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 52.9,
-  "de": 81.9,
-  "url": "https://www.cobasi.com.br/combo-antipulgas-fiprolex-067ml-caes-ate-10kg-ceva-3766070/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/184442-194-194/Combo-Antipulgas-Fiprolex-Caes-ate-10kg-Ceva.jpg?v=638429347418900000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:28:45.512Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Aditivo Antiodor Pipicat Campestre",
-  "ean": "7896273807797",
-  "marca": "Pipicat",
-  "modelo": "7896273807797",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Higiene e Limpeza",
-   "Areia Higiênica"
-  ],
-  "preco": 18.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/aditivo-antiodor-campestre-500g-pipicat-3713724/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/353997-194-194/CAMPESTRE.jpg?v=638721121382030000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:28:49.362Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Desinfetante Lysoform Pets Original",
-  "ean": "7894650939666",
-  "marca": "Lysoform",
-  "modelo": "7894650939666",
-  "cat": null,
-  "catLoja": "Casa",
-  "caminhoLoja": [
-   "Casa",
-   "Limpeza",
-   "Eliminador de Odores e Desinfetantes"
-  ],
-  "preco": 19.9,
-  "de": null,
-  "url": "https://www.cobasi.com.br/desinfetante-lysoform-pets-original-3670740/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1060915-194-194/Desinfetante-Lysoform-Pets-Original-1L.png?v=638611603883570000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-24T03:28:52.085Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Eliminador de Odores Vet+20 Lavanda",
-  "ean": "7898285573622",
-  "marca": "Vet20",
-  "modelo": "7898285573622",
-  "cat": null,
-  "catLoja": "Casa",
-  "caminhoLoja": [
-   "Casa",
-   "Limpeza",
-   "Eliminador de Odores e Desinfetantes"
-  ],
-  "preco": 70.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/eliminador-de-odores-vet-20-lavanda-3748668/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/198760-194-194/Eliminador-de-Odores-Vet-20-Lavanda-3748668.jpg?v=638132127972500000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:28:54.966Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Premier Formula Cães Adultos Raças Pequenas Frango e Mandioca",
-  "ean": "7897348200994",
-  "marca": "Premier",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 33.9,
-  "de": 39.99,
-  "url": "https://www.cobasi.com.br/racao-premier-formula-racas-pequenas-caes-adultos-3795267/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:28:57.630Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Bolsa Pet para Transporte Aéreo Fabrica Pet",
-  "ean": "7908260300928",
-  "marca": "Fabrica Pet",
-  "modelo": "7908260300928",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Acessórios para Transporte",
-   "Bolsa de Transporte"
-  ],
-  "preco": 359.9,
-  "de": null,
-  "url": "https://www.cobasi.com.br/bolsa-de-transporte-em-aviao-gol-oficial-3826677/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1090771-194-194/Bolsa-Pet-para-Transporte-Aereo-Fabrica-Pet-fechada.webp?v=639294252219800000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:01.161Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Premier Nutrição Clínica Hipoalergênico Cães Médio e Grande Porte Cordeiro e Arroz",
-  "ean": "7897348207351",
-  "marca": "Premier",
-  "modelo": "7897348207351",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Ração",
-   "Ração Medicamentosa"
-  ],
-  "preco": 399.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-premier-nutricao-clinica-hipoalergenico-caes-porte-medio-e-grande-3954861/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1083706-194-194/Racao-Premier-Nut-Clinica-Hipoalergenico-Caes-Med-e-Gde-Cordeiro-10.1kg-frente.webp?v=638918286793230000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:03.852Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "NexGard Antipulgas e Carrapatos para Cães de 25,1 a 50 kg",
-  "ean": "7898053774527",
-  "marca": "NexGard",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 100.5,
-  "de": 154.99,
-  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-nexgard-para-caes-de-25-a-50kg-3772330/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:09.717Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas Simparic 40mg para Cães 10 a 20kg",
-  "ean": "7898049719488",
-  "marca": "Simparic",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 80.9,
-  "de": 134.99,
-  "url": "https://www.cobasi.com.br/antipulgas-simparic-10-1-a-20--kg-zoetis-3823562/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:14.476Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Úmida Friskies Gatos Adultos Peru ao Molho",
-  "ean": "7891000118061",
-  "marca": "Friskies",
-  "modelo": "7891000118061",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Úmida"
-  ],
-  "preco": 2.84,
-  "de": 3.79,
-  "url": "https://www.cobasi.com.br/racao-umida-nestle-purina-friskies-peru-ao-molho-gatos-adultos-3697826/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1113598-194-194/Racao Umida Friskies Gatos Adultos Peru ao Molho embalagem_FRENTE-01.webp?v=639214512610100000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:17.887Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Úmida Friskies Gatos Adultos Atum ao Molho",
-  "ean": "7891000118115",
-  "marca": "Friskies",
-  "modelo": "7891000118115",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Úmida"
-  ],
-  "preco": 2.99,
-  "de": 3.79,
-  "url": "https://www.cobasi.com.br/racao-umida-nestle-purina-friskies-atum-ao-molho-gatos-adultos-3697818/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1113588-194-194/Racao Umida Friskies Gatos Adultos Atum ao Molho embalagem_FRENTE-01.webp?v=639214509363770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:20.563Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Tapete Higiênico Slim Pads 80x60cm Petmais",
-  "ean": "7898917919224",
-  "marca": "Petmais",
-  "modelo": "7898917919224",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Higiene e Limpeza",
-   "Tapete Higiênico"
-  ],
-  "preco": 82.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/tapete-higienico-slim-pads-petmais-3892688/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1077407-194-194/tapete-higienico-slim-pads-petmais_1.webp?v=638864816158100000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-24T03:29:24.225Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas Invicto Cães de 11,4 a 57 kg Dechra",
-  "ean": "7898344752814",
-  "marca": "Invicto",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 27.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/antipulgas-invicto-caes-de-11-4-a-57-kg-dechra-3974153/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-24T03:29:27.367Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Rótula Bovina Bona Pet Osso para Cachorro",
-  "ean": "7899638312936",
-  "marca": "Bona Pet",
-  "modelo": "7899638312936",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Ossinhos e Petiscos"
-  ],
-  "preco": 7.5,
-  "de": null,
-  "url": "https://www.cobasi.com.br/rotula-bovina-bona-pet-osso-para-cachorro-3776335/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/981430-194-194/7899638312936.jpg?v=638772272400200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:30.955Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Petisco Orelha para Cães Petiscão",
-  "ean": "7898396116022",
-  "marca": "Petiscao",
-  "modelo": "7898396116022",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Ossinhos e Petiscos"
-  ],
-  "preco": 9.49,
-  "de": null,
-  "url": "https://www.cobasi.com.br/petisco-para-caes-orelha-petiscao-3966770/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/451472-194-194/Orelha_.jpg?v=637520393805730000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:34.524Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas Advantage Max3 Cães 4kg a 10kg",
-  "ean": "7891106911252",
-  "marca": "Advantage",
-  "modelo": "7891106911252",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 177.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/antipulgas-advantage-max3-caes-4kg-a-10kg-elanco-3211591/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1100465-194-194/Advantage Max3 - caes de 4 a 10kg - 3 pipetas.webp?v=639122844380770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:38.412Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Petisco Dreamies para Gatos Adultos Carne Tentadora",
-  "ean": "7896029028414",
-  "marca": "Dreamies",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Petiscos",
-   "Petiscos"
-  ],
-  "preco": 6.32,
-  "de": null,
-  "url": "https://www.cobasi.com.br/petisco-dreamies-carne-para-gatos-adultos-3708224/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:41.866Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Úmida Whiskas Sachê Frango ao Molho Gatos Adultos",
-  "ean": "7896029046173",
-  "marca": "Whiskas",
-  "modelo": "7896029046173",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Úmida"
-  ],
-  "preco": 2.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-umida-whiskas-frango-ao-molho-3793981/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1051150-194-194/Racao-Umida-Whiskas-Sache-Frango-ao-Molho-Gatos-Adultos.png?v=639286132862300000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:44.357Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Organnact Lysin SF Suplemento para Gatos",
-  "ean": "7898195861017",
-  "marca": "Organnact",
-  "modelo": "7898195861017",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Medicamentos",
-   "Vitaminas e Suplementos"
-  ],
-  "preco": 122.46,
-  "de": null,
-  "url": "https://www.cobasi.com.br/organnact-cat-lysin-sf-100g-3539481/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1061498-194-194/Organnact-Gatos-Lysin-SF-1.jpg?v=638623472768130000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:47.770Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Royal Canin X-Small Cães Adultos Porte Mini",
-  "ean": "7896181215622",
-  "marca": "Royal Canin",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 66.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-x-small-adult-royal-canin-3699110/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:50.385Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Coelho e Mini Coelho Serelepe",
-  "ean": "7898329490250",
-  "marca": "Criacao Forte",
-  "modelo": "7898329490250",
-  "cat": null,
-  "catLoja": "Outros-animais",
-  "caminhoLoja": [
-   "Outros-animais",
-   "Coelhos",
-   "Ração e Alimentos"
-  ],
-  "preco": 15.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-coelho-e-mini-coelho-500g-serelepe-3792667/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1023262-194-194/7898329490250.jpg?v=638022983603770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:54.125Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Petisco Bilisko Bifinho de Maçã e Cenoura para Cães",
-  "ean": "7896447102789",
-  "marca": "Bilisko",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Bifinhos"
-  ],
-  "preco": 6.29,
-  "de": null,
-  "url": "https://www.cobasi.com.br/bifinho-de-maca-e-cenoura-para-caes-bilisko-3604887/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:29:57.878Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Coleira Antipulgas Seresto Cães Acima de 8kg - 8 Meses de Proteção",
-  "ean": "7891106910262",
-  "marca": "Seresto",
-  "modelo": "7891106910262",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Coleira Antipulgas"
-  ],
-  "preco": 166.9,
-  "de": 238.99,
-  "url": "https://www.cobasi.com.br/coleira-antipulgas-seresto-caes-acima-de-8-kg-8-meses-de-protecao-3767590/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1080746-194-194/Seresto-Maior-que-8.webp?v=638929321374700000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:00.950Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Úmida Whiskas Sachê Salmão ao Molho Gatos Adultos",
-  "ean": "7896029046296",
-  "marca": "Whiskas",
-  "modelo": "7896029046296",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Úmida"
-  ],
-  "preco": 2.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-umida-whiskas-salmao-ao-molho-3794384/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1051192-194-194/Racao-Umida-Whiskas-Sache-Salmao-ao-Molho-Gatos-Adultos-frente.png?v=639286133478700000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:03.489Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Petisco Gatos Kelcat Snacks Salmão",
-  "ean": "7896273804147",
-  "marca": "Kelcat",
-  "modelo": "7896273804147",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Petiscos",
-   "Petiscos"
-  ],
-  "preco": 7.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/kelcat-snack-salmao-40g-3126772/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1051754-194-194/Petisco-Kelcat-Snack-Salmao-40g.png?v=638769605167730000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:07.170Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas e Carrapatos Frontline Topspot Gatos",
-  "ean": "7898053772578",
-  "marca": "Frontline",
-  "modelo": "7898053772578",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 32.29,
-  "de": 37.99,
-  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-frontline-topspot-para-gatos--3920681/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1011400-194-194/920681--1-.jpg?v=639257680450170000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:10.695Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Pro Plan Cães Adultos Raças Pequenas",
-  "ean": "7891000246030",
-  "marca": "Pro Plan",
-  "modelo": "7891000246030",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 283.41,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-para-caes-adultos-racas-pequenas-pro-plan-3559903/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/359304-194-194/7891000246030.jpg?v=638152850422300000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-24T03:30:13.408Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Aditivo Antiodor Pipicat Sem Perfume",
-  "ean": "7896273807810",
-  "marca": "Pipicat",
-  "modelo": "7896273807810",
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Higiene e Limpeza",
-   "Areia Higiênica"
-  ],
-  "preco": 17.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/aditivo-antiodor-sem-perfume-500g-pipicat-3713660/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/353994-194-194/antibacterial.jpg?v=638721119709870000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": false,
-  "coletadoEm": "2026-11-24T03:30:16.579Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Royal Canin Indoor Gatos Adultos",
-  "ean": "7896181212829",
-  "marca": "Royal Canin",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 33.43,
-  "de": 37.99,
-  "url": "https://www.cobasi.com.br/racao-royal-canin-gatos-indoor-3797782/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:19.310Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas e Carrapatos Frontline Topspot para Cães de 1 a 10kg",
-  "ean": "7898053772554",
-  "marca": "Frontline",
-  "modelo": "7898053772554",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 36.54,
-  "de": 42.99,
-  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-frontline-topspot-para-caes-de-1-a-10kg-3920312/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1011394-194-194/920312--1-.jpg?v=638137317235200000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:22.202Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Petisco Bilisko Palito Fino de Carne para Cães",
-  "ean": "7896447104578",
-  "marca": "Bilisko",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Petiscos",
-   "Sticks e Palitos"
-  ],
-  "preco": 6.29,
-  "de": null,
-  "url": "https://www.cobasi.com.br/palito-fino-de-carne-para-caes-bilisko-3739057/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:24.621Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Antipulgas Advantage Max3 Cães mais de 25kg",
-  "ean": "7891106911276",
-  "marca": "Advantage",
-  "modelo": "7891106911276",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Antipulgas e Carrapatos"
-  ],
-  "preco": 245.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/antipulgas-advantage-max3-caes-mais-de-25kg-elanco-3211753/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1100481-194-194/Advantage-Max3---caes-acima-25kg---3-pipetas.webp?v=639122847255770000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:27.840Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Royal Canin Bolas de Pelo para Gatos Adultos",
-  "ean": "7896181213413",
-  "marca": "Royal Canin",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Gatos",
-  "caminhoLoja": [
-   "Gatos",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 41.99,
-  "de": 51.5,
-  "url": "https://www.cobasi.com.br/racao-royal-canin-gatos-intense-hairball-34-3647977/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:30.554Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Vermífugo Top Dog para Cães 2,5kg",
-  "ean": "7898019866631",
-  "marca": "Top Dog",
-  "modelo": "7898019866631",
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Medicamentos",
-   "Vermífugo"
-  ],
-  "preco": 40.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/top-dog-caes-25kg-ourofino-3595209/p",
-  "img": "https://cobasi.vteximg.com.br/arquivos/ids/325154-194-194/Top-Dog-Caes-25kg-Ourofino.jpg?v=638959668479100000",
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:34.502Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Royal Canin Mini Light Cães Adultos Porte Pequeno com Tendência à Obesidade",
-  "ean": "7896181212492",
-  "marca": "Royal Canin",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 69.55,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-royal-canin-light-caes-adultos-porte-pequeno-e-mini-3510980/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:37.041Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
-  "titulo": "Ração Golden Fórmula Cães Adultos Carne e Arroz",
-  "ean": "7897348203797",
-  "marca": "Golden",
-  "modelo": null,
-  "cat": null,
-  "catLoja": "Cachorro",
-  "caminhoLoja": [
-   "Cachorro",
-   "Ração",
-   "Ração Seca"
-  ],
-  "preco": 59.99,
-  "de": null,
-  "url": "https://www.cobasi.com.br/racao-golden-formula-para-caes-adultos-carne-e-arroz-3615463/p",
-  "img": null,
-  "vendedor": {
-   "oficial": true,
-   "nome": null,
-   "reputacao": null
-  },
-  "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:39.528Z"
- },
- {
-  "fonte": "sitemap-cobasi",
-  "loja": "Cobasi",
   "titulo": "Mordedor Pelúcia Porquinho Mini Nó Jambo",
   "ean": "7899669607827",
   "marca": "Jambo",
@@ -1068,6 +28,1046 @@
  {
   "fonte": "sitemap-cobasi",
   "loja": "Cobasi",
+  "titulo": "Ossinho Original Dingo 1 unidade",
+  "ean": "615650300006",
+  "marca": "Dingo",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Ossinhos e Petiscos"
+  ],
+  "preco": 4.7,
+  "de": 11.9,
+  "url": "https://www.cobasi.com.br/ossinho-dingo-original-mini-unidade-3601012/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:18.854Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Areia para Gatos Like Cat Granulado Higiênico de Madeira",
+  "ean": "7898912289049",
+  "marca": "Megavet",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Higiene e Limpeza",
+   "Areia Higiênica"
+  ],
+  "preco": 17.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/areia-para-gatos-like-cat-granulado-higienico-de-madeira-3701416/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:22.038Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Biscoito Pedigree Biscrok para Cães Adultos Raças Grandes Leite",
+  "ean": "7896029043271",
+  "marca": "Pedigree",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Cookies e Biscoitos"
+  ],
+  "preco": 27.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/biscrok-maxi-pedigree-3325775/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:26.363Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração GranPlus Menu Gatos Adultos Salmão e Arroz",
+  "ean": "7896048906793",
+  "marca": "Gran Plus",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 27.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-gran-plus-gatos-adultos-salmao-e-arroz-3659460/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:30.105Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Combo Antipulgas Fiprolex Cães até 10kg",
+  "ean": "7898043433700",
+  "marca": "Fiprolex",
+  "modelo": "7898043433700",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 52.9,
+  "de": 81.9,
+  "url": "https://www.cobasi.com.br/combo-antipulgas-fiprolex-067ml-caes-ate-10kg-ceva-3766070/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/184442-194-194/Combo-Antipulgas-Fiprolex-Caes-ate-10kg-Ceva.jpg?v=638429347418900000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:34.875Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Aditivo Antiodor Pipicat Campestre",
+  "ean": "7896273807797",
+  "marca": "Pipicat",
+  "modelo": "7896273807797",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Higiene e Limpeza",
+   "Areia Higiênica"
+  ],
+  "preco": 18.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/aditivo-antiodor-campestre-500g-pipicat-3713724/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/353997-194-194/CAMPESTRE.jpg?v=638721121382030000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:37.999Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Desinfetante Lysoform Pets Original",
+  "ean": "7894650939666",
+  "marca": "Lysoform",
+  "modelo": "7894650939666",
+  "cat": null,
+  "catLoja": "Casa",
+  "caminhoLoja": [
+   "Casa",
+   "Limpeza",
+   "Eliminador de Odores e Desinfetantes"
+  ],
+  "preco": 19.9,
+  "de": null,
+  "url": "https://www.cobasi.com.br/desinfetante-lysoform-pets-original-3670740/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1060915-194-194/Desinfetante-Lysoform-Pets-Original-1L.png?v=638611603883570000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-24T16:19:40.965Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Eliminador de Odores Vet+20 Lavanda",
+  "ean": "7898285573622",
+  "marca": "Vet20",
+  "modelo": "7898285573622",
+  "cat": null,
+  "catLoja": "Casa",
+  "caminhoLoja": [
+   "Casa",
+   "Limpeza",
+   "Eliminador de Odores e Desinfetantes"
+  ],
+  "preco": 70.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/eliminador-de-odores-vet-20-lavanda-3748668/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/198760-194-194/Eliminador-de-Odores-Vet-20-Lavanda-3748668.jpg?v=638132127972500000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:44.563Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Premier Formula Cães Adultos Raças Pequenas Frango e Mandioca",
+  "ean": "7897348200994",
+  "marca": "Premier",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 33.9,
+  "de": 39.99,
+  "url": "https://www.cobasi.com.br/racao-premier-formula-racas-pequenas-caes-adultos-3795267/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:46.100Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Bolsa Pet para Transporte Aéreo Fabrica Pet",
+  "ean": "7908260300928",
+  "marca": "Fabrica Pet",
+  "modelo": "7908260300928",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Acessórios para Transporte",
+   "Bolsa de Transporte"
+  ],
+  "preco": 359.9,
+  "de": null,
+  "url": "https://www.cobasi.com.br/bolsa-de-transporte-em-aviao-gol-oficial-3826677/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1090771-194-194/Bolsa-Pet-para-Transporte-Aereo-Fabrica-Pet-fechada.webp?v=639294252219800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:48.894Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Premier Nutrição Clínica Hipoalergênico Cães Médio e Grande Porte Cordeiro e Arroz",
+  "ean": "7897348207351",
+  "marca": "Premier",
+  "modelo": "7897348207351",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Ração",
+   "Ração Medicamentosa"
+  ],
+  "preco": 399.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-premier-nutricao-clinica-hipoalergenico-caes-porte-medio-e-grande-3954861/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1083706-194-194/Racao-Premier-Nut-Clinica-Hipoalergenico-Caes-Med-e-Gde-Cordeiro-10.1kg-frente.webp?v=638918286793230000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:51.585Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "NexGard Antipulgas e Carrapatos para Cães de 25,1 a 50 kg",
+  "ean": "7898053774527",
+  "marca": "NexGard",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 100.5,
+  "de": 154.99,
+  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-nexgard-para-caes-de-25-a-50kg-3772330/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:54.215Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas Simparic 40mg para Cães 10 a 20kg",
+  "ean": "7898049719488",
+  "marca": "Simparic",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 80.9,
+  "de": 134.99,
+  "url": "https://www.cobasi.com.br/antipulgas-simparic-10-1-a-20--kg-zoetis-3823562/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:19:57.174Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Úmida Friskies Gatos Adultos Peru ao Molho",
+  "ean": "7891000118061",
+  "marca": "Friskies",
+  "modelo": "7891000118061",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Úmida"
+  ],
+  "preco": 2.84,
+  "de": 3.79,
+  "url": "https://www.cobasi.com.br/racao-umida-nestle-purina-friskies-peru-ao-molho-gatos-adultos-3697826/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1113598-194-194/Racao Umida Friskies Gatos Adultos Peru ao Molho embalagem_FRENTE-01.webp?v=639214512610100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:00.465Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Úmida Friskies Gatos Adultos Atum ao Molho",
+  "ean": "7891000118115",
+  "marca": "Friskies",
+  "modelo": "7891000118115",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Úmida"
+  ],
+  "preco": 2.99,
+  "de": 3.79,
+  "url": "https://www.cobasi.com.br/racao-umida-nestle-purina-friskies-atum-ao-molho-gatos-adultos-3697818/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1113588-194-194/Racao Umida Friskies Gatos Adultos Atum ao Molho embalagem_FRENTE-01.webp?v=639214509363770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:04.400Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Tapete Higiênico Slim Pads 80x60cm Petmais",
+  "ean": "7898917919224",
+  "marca": "Petmais",
+  "modelo": "7898917919224",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Higiene e Limpeza",
+   "Tapete Higiênico"
+  ],
+  "preco": 82.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/tapete-higienico-slim-pads-petmais-3892688/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1077407-194-194/tapete-higienico-slim-pads-petmais_1.webp?v=638864816158100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-24T16:20:07.926Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas Invicto Cães de 11,4 a 57 kg Dechra",
+  "ean": "7898344752814",
+  "marca": "Invicto",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 27.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/antipulgas-invicto-caes-de-11-4-a-57-kg-dechra-3974153/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-24T16:20:11.188Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Rótula Bovina Bona Pet Osso para Cachorro",
+  "ean": "7899638312936",
+  "marca": "Bona Pet",
+  "modelo": "7899638312936",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Ossinhos e Petiscos"
+  ],
+  "preco": 7.5,
+  "de": null,
+  "url": "https://www.cobasi.com.br/rotula-bovina-bona-pet-osso-para-cachorro-3776335/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/981430-194-194/7899638312936.jpg?v=638772272400200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:14.310Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Petisco Orelha para Cães Petiscão",
+  "ean": "7898396116022",
+  "marca": "Petiscao",
+  "modelo": "7898396116022",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Ossinhos e Petiscos"
+  ],
+  "preco": 9.49,
+  "de": null,
+  "url": "https://www.cobasi.com.br/petisco-para-caes-orelha-petiscao-3966770/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/451472-194-194/Orelha_.jpg?v=637520393805730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:16.835Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas Advantage Max3 Cães 4kg a 10kg",
+  "ean": "7891106911252",
+  "marca": "Advantage",
+  "modelo": "7891106911252",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 177.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/antipulgas-advantage-max3-caes-4kg-a-10kg-elanco-3211591/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1100465-194-194/Advantage Max3 - caes de 4 a 10kg - 3 pipetas.webp?v=639122844380770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:19.599Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Petisco Dreamies para Gatos Adultos Carne Tentadora",
+  "ean": "7896029028414",
+  "marca": "Dreamies",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Petiscos",
+   "Petiscos"
+  ],
+  "preco": 6.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/petisco-dreamies-carne-para-gatos-adultos-3708224/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:22.599Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Úmida Whiskas Sachê Frango ao Molho Gatos Adultos",
+  "ean": "7896029046173",
+  "marca": "Whiskas",
+  "modelo": "7896029046173",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Úmida"
+  ],
+  "preco": 2.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-umida-whiskas-frango-ao-molho-3793981/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1051150-194-194/Racao-Umida-Whiskas-Sache-Frango-ao-Molho-Gatos-Adultos.png?v=639286132862300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:25.383Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Organnact Lysin SF Suplemento para Gatos",
+  "ean": "7898195861017",
+  "marca": "Organnact",
+  "modelo": "7898195861017",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Medicamentos",
+   "Vitaminas e Suplementos"
+  ],
+  "preco": 122.46,
+  "de": null,
+  "url": "https://www.cobasi.com.br/organnact-cat-lysin-sf-100g-3539481/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1061498-194-194/Organnact-Gatos-Lysin-SF-1.jpg?v=638623472768130000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:28.804Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Royal Canin X-Small Cães Adultos Porte Mini",
+  "ean": "7896181215622",
+  "marca": "Royal Canin",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 66.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-x-small-adult-royal-canin-3699110/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:32.022Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Coelho e Mini Coelho Serelepe",
+  "ean": "7898329490250",
+  "marca": "Criacao Forte",
+  "modelo": "7898329490250",
+  "cat": null,
+  "catLoja": "Outros-animais",
+  "caminhoLoja": [
+   "Outros-animais",
+   "Coelhos",
+   "Ração e Alimentos"
+  ],
+  "preco": 15.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-coelho-e-mini-coelho-500g-serelepe-3792667/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1023262-194-194/7898329490250.jpg?v=638022983603770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:36.454Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Petisco Bilisko Bifinho de Maçã e Cenoura para Cães",
+  "ean": "7896447102789",
+  "marca": "Bilisko",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Bifinhos"
+  ],
+  "preco": 6.29,
+  "de": null,
+  "url": "https://www.cobasi.com.br/bifinho-de-maca-e-cenoura-para-caes-bilisko-3604887/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:40.671Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Coleira Antipulgas Seresto Cães Acima de 8kg - 8 Meses de Proteção",
+  "ean": "7891106910262",
+  "marca": "Seresto",
+  "modelo": "7891106910262",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Coleira Antipulgas"
+  ],
+  "preco": 166.9,
+  "de": 238.99,
+  "url": "https://www.cobasi.com.br/coleira-antipulgas-seresto-caes-acima-de-8-kg-8-meses-de-protecao-3767590/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1080746-194-194/Seresto-Maior-que-8.webp?v=638929321374700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:43.939Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Úmida Whiskas Sachê Salmão ao Molho Gatos Adultos",
+  "ean": "7896029046296",
+  "marca": "Whiskas",
+  "modelo": "7896029046296",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Úmida"
+  ],
+  "preco": 2.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-umida-whiskas-salmao-ao-molho-3794384/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1051192-194-194/Racao-Umida-Whiskas-Sache-Salmao-ao-Molho-Gatos-Adultos-frente.png?v=639286133478700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:48.186Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Petisco Gatos Kelcat Snacks Salmão",
+  "ean": "7896273804147",
+  "marca": "Kelcat",
+  "modelo": "7896273804147",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Petiscos",
+   "Petiscos"
+  ],
+  "preco": 7.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/kelcat-snack-salmao-40g-3126772/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1051754-194-194/Petisco-Kelcat-Snack-Salmao-40g.png?v=638769605167730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:51.422Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas e Carrapatos Frontline Topspot Gatos",
+  "ean": "7898053772578",
+  "marca": "Frontline",
+  "modelo": "7898053772578",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 32.29,
+  "de": 37.99,
+  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-frontline-topspot-para-gatos--3920681/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1011400-194-194/920681--1-.jpg?v=639257680450170000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:20:54.191Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Pro Plan Cães Adultos Raças Pequenas",
+  "ean": "7891000246030",
+  "marca": "Pro Plan",
+  "modelo": "7891000246030",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 283.41,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-para-caes-adultos-racas-pequenas-pro-plan-3559903/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/359304-194-194/7891000246030.jpg?v=638152850422300000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-24T16:20:57.287Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Aditivo Antiodor Pipicat Sem Perfume",
+  "ean": "7896273807810",
+  "marca": "Pipicat",
+  "modelo": "7896273807810",
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Higiene e Limpeza",
+   "Areia Higiênica"
+  ],
+  "preco": 17.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/aditivo-antiodor-sem-perfume-500g-pipicat-3713660/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/353994-194-194/antibacterial.jpg?v=638721119709870000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": false,
+  "coletadoEm": "2026-11-24T16:21:01.241Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Royal Canin Indoor Gatos Adultos",
+  "ean": "7896181212829",
+  "marca": "Royal Canin",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 33.43,
+  "de": 37.99,
+  "url": "https://www.cobasi.com.br/racao-royal-canin-gatos-indoor-3797782/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:21:04.046Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas e Carrapatos Frontline Topspot para Cães de 1 a 10kg",
+  "ean": "7898053772554",
+  "marca": "Frontline",
+  "modelo": "7898053772554",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 39.04,
+  "de": null,
+  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-frontline-topspot-para-caes-de-1-a-10kg-3920312/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1011394-194-194/920312--1-.jpg?v=638137317235200000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:21:07.329Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Petisco Bilisko Palito Fino de Carne para Cães",
+  "ean": "7896447104578",
+  "marca": "Bilisko",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Petiscos",
+   "Sticks e Palitos"
+  ],
+  "preco": 6.29,
+  "de": null,
+  "url": "https://www.cobasi.com.br/palito-fino-de-carne-para-caes-bilisko-3739057/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:21:10.541Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Antipulgas Advantage Max3 Cães mais de 25kg",
+  "ean": "7891106911276",
+  "marca": "Advantage",
+  "modelo": "7891106911276",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Antipulgas e Carrapatos"
+  ],
+  "preco": 245.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/antipulgas-advantage-max3-caes-mais-de-25kg-elanco-3211753/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/1100481-194-194/Advantage-Max3---caes-acima-25kg---3-pipetas.webp?v=639122847255770000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:21:14.991Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Royal Canin Bolas de Pelo para Gatos Adultos",
+  "ean": "7896181213413",
+  "marca": "Royal Canin",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Gatos",
+  "caminhoLoja": [
+   "Gatos",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 41.99,
+  "de": 51.5,
+  "url": "https://www.cobasi.com.br/racao-royal-canin-gatos-intense-hairball-34-3647977/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:21:18.514Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Vermífugo Top Dog para Cães 2,5kg",
+  "ean": "7898019866631",
+  "marca": "Top Dog",
+  "modelo": "7898019866631",
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Medicamentos",
+   "Vermífugo"
+  ],
+  "preco": 40.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/top-dog-caes-25kg-ourofino-3595209/p",
+  "img": "https://cobasi.vteximg.com.br/arquivos/ids/325154-194-194/Top-Dog-Caes-25kg-Ourofino.jpg?v=638959668479100000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:21:21.605Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Royal Canin Mini Light Cães Adultos Porte Pequeno com Tendência à Obesidade",
+  "ean": "7896181212492",
+  "marca": "Royal Canin",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 69.55,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-royal-canin-light-caes-adultos-porte-pequeno-e-mini-3510980/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:21:24.284Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
+  "titulo": "Ração Golden Fórmula Cães Adultos Carne e Arroz",
+  "ean": "7897348203797",
+  "marca": "Golden",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Cachorro",
+  "caminhoLoja": [
+   "Cachorro",
+   "Ração",
+   "Ração Seca"
+  ],
+  "preco": 59.99,
+  "de": null,
+  "url": "https://www.cobasi.com.br/racao-golden-formula-para-caes-adultos-carne-e-arroz-3615463/p",
+  "img": null,
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-24T16:21:27.040Z"
+ },
+ {
+  "fonte": "sitemap-cobasi",
+  "loja": "Cobasi",
   "titulo": "Ração Úmida Guabi Natural Grain Free para Gatos Sabor Frango, Salmão e Vegetais",
   "ean": "7896048917508",
   "marca": "Guabi Natural",
@@ -1089,7 +1089,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:46.491Z"
+  "coletadoEm": "2026-11-24T16:21:33.975Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1115,7 +1115,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:50.314Z"
+  "coletadoEm": "2026-11-24T16:21:38.463Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1141,7 +1141,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:53.400Z"
+  "coletadoEm": "2026-11-24T16:21:41.639Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1167,7 +1167,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:56.735Z"
+  "coletadoEm": "2026-11-24T16:21:45.340Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1193,7 +1193,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:30:59.331Z"
+  "coletadoEm": "2026-11-24T16:21:48.378Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1219,7 +1219,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:02.720Z"
+  "coletadoEm": "2026-11-24T16:21:51.437Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1245,7 +1245,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:07.229Z"
+  "coletadoEm": "2026-11-24T16:21:55.616Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1271,7 +1271,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:10.535Z"
+  "coletadoEm": "2026-11-24T16:21:59.739Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1297,7 +1297,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:14.005Z"
+  "coletadoEm": "2026-11-24T16:22:04.879Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1323,7 +1323,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:17.564Z"
+  "coletadoEm": "2026-11-24T16:22:09.187Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1349,7 +1349,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:20.928Z"
+  "coletadoEm": "2026-11-24T16:22:12.965Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1375,7 +1375,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:24.876Z"
+  "coletadoEm": "2026-11-24T16:22:16.633Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1401,7 +1401,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:28.450Z"
+  "coletadoEm": "2026-11-24T16:22:20.118Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1427,7 +1427,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:32.783Z"
+  "coletadoEm": "2026-11-24T16:22:24.655Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1453,7 +1453,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:37.910Z"
+  "coletadoEm": "2026-11-24T16:22:27.832Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1479,7 +1479,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:41.727Z"
+  "coletadoEm": "2026-11-24T16:22:30.576Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1505,7 +1505,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:45.208Z"
+  "coletadoEm": "2026-11-24T16:22:33.413Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1531,7 +1531,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:48.532Z"
+  "coletadoEm": "2026-11-24T16:22:37.121Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1557,7 +1557,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:51.991Z"
+  "coletadoEm": "2026-11-24T16:22:41.979Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1583,7 +1583,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:54.612Z"
+  "coletadoEm": "2026-11-24T16:22:44.540Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1609,7 +1609,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:31:58.019Z"
+  "coletadoEm": "2026-11-24T16:22:47.371Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1635,7 +1635,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:01.102Z"
+  "coletadoEm": "2026-11-24T16:22:50.339Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1661,7 +1661,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:05.318Z"
+  "coletadoEm": "2026-11-24T16:22:53.614Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1687,7 +1687,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:09.358Z"
+  "coletadoEm": "2026-11-24T16:22:56.648Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1713,7 +1713,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:12.095Z"
+  "coletadoEm": "2026-11-24T16:23:00.606Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1739,7 +1739,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:15.957Z"
+  "coletadoEm": "2026-11-24T16:23:03.841Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1765,7 +1765,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:18.838Z"
+  "coletadoEm": "2026-11-24T16:23:06.566Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1791,7 +1791,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:21.506Z"
+  "coletadoEm": "2026-11-24T16:23:10.440Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1817,7 +1817,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:24.675Z"
+  "coletadoEm": "2026-11-24T16:23:13.859Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1843,7 +1843,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:27.936Z"
+  "coletadoEm": "2026-11-24T16:23:17.026Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1869,7 +1869,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:31.543Z"
+  "coletadoEm": "2026-11-24T16:23:20.278Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1895,7 +1895,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:34.688Z"
+  "coletadoEm": "2026-11-24T16:23:23.416Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1921,7 +1921,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:38.274Z"
+  "coletadoEm": "2026-11-24T16:23:26.480Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1947,7 +1947,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:41.169Z"
+  "coletadoEm": "2026-11-24T16:23:29.024Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1973,7 +1973,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:44.443Z"
+  "coletadoEm": "2026-11-24T16:23:32.676Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -1999,7 +1999,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:47.385Z"
+  "coletadoEm": "2026-11-24T16:23:35.652Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2025,7 +2025,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:50.792Z"
+  "coletadoEm": "2026-11-24T16:23:39.202Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2051,7 +2051,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:54.122Z"
+  "coletadoEm": "2026-11-24T16:23:42.259Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2077,7 +2077,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:57.475Z"
+  "coletadoEm": "2026-11-24T16:23:45.219Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2103,7 +2103,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:32:59.929Z"
+  "coletadoEm": "2026-11-24T16:23:47.758Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2129,7 +2129,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:02.860Z"
+  "coletadoEm": "2026-11-24T16:23:50.994Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2155,7 +2155,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:06.737Z"
+  "coletadoEm": "2026-11-24T16:23:54.757Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2181,7 +2181,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:09.885Z"
+  "coletadoEm": "2026-11-24T16:23:57.848Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2207,7 +2207,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:13.149Z"
+  "coletadoEm": "2026-11-24T16:24:00.786Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2233,7 +2233,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:15.813Z"
+  "coletadoEm": "2026-11-24T16:24:04.265Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2259,7 +2259,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:19.610Z"
+  "coletadoEm": "2026-11-24T16:24:08.294Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2285,7 +2285,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:22.195Z"
+  "coletadoEm": "2026-11-24T16:24:11.794Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2311,7 +2311,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:25.470Z"
+  "coletadoEm": "2026-11-24T16:24:14.559Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2337,7 +2337,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:33:29.458Z"
+  "coletadoEm": "2026-11-24T16:24:17.872Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2363,7 +2363,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:32.940Z"
+  "coletadoEm": "2026-11-24T16:24:21.407Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2389,7 +2389,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:35.779Z"
+  "coletadoEm": "2026-11-24T16:24:24.642Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2415,7 +2415,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:39.880Z"
+  "coletadoEm": "2026-11-24T16:24:27.979Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2441,7 +2441,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:43.463Z"
+  "coletadoEm": "2026-11-24T16:24:31.182Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2467,7 +2467,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:46.124Z"
+  "coletadoEm": "2026-11-24T16:24:34.455Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2493,7 +2493,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:49.036Z"
+  "coletadoEm": "2026-11-24T16:24:37.776Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2519,7 +2519,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:51.906Z"
+  "coletadoEm": "2026-11-24T16:24:40.570Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2545,7 +2545,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:55.227Z"
+  "coletadoEm": "2026-11-24T16:24:44.248Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2571,7 +2571,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:33:59.410Z"
+  "coletadoEm": "2026-11-24T16:24:47.704Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2597,7 +2597,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:02.404Z"
+  "coletadoEm": "2026-11-24T16:24:50.509Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2623,7 +2623,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:05.167Z"
+  "coletadoEm": "2026-11-24T16:24:53.947Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2649,7 +2649,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:07.848Z"
+  "coletadoEm": "2026-11-24T16:24:57.316Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2675,7 +2675,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:11.191Z"
+  "coletadoEm": "2026-11-24T16:25:00.320Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2701,7 +2701,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:14.853Z"
+  "coletadoEm": "2026-11-24T16:25:04.561Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2727,7 +2727,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:17.400Z"
+  "coletadoEm": "2026-11-24T16:25:07.658Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2753,7 +2753,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:20.863Z"
+  "coletadoEm": "2026-11-24T16:25:11.213Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2779,7 +2779,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:24.344Z"
+  "coletadoEm": "2026-11-24T16:25:14.778Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2805,7 +2805,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:27.066Z"
+  "coletadoEm": "2026-11-24T16:25:18.356Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2831,7 +2831,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:29.769Z"
+  "coletadoEm": "2026-11-24T16:25:22.202Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2857,7 +2857,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:32.310Z"
+  "coletadoEm": "2026-11-24T16:25:24.980Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2883,7 +2883,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:35.115Z"
+  "coletadoEm": "2026-11-24T16:25:27.941Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2909,7 +2909,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:36.662Z"
+  "coletadoEm": "2026-11-24T16:25:30.877Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2935,7 +2935,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:39.166Z"
+  "coletadoEm": "2026-11-24T16:25:34.199Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2961,7 +2961,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:41.862Z"
+  "coletadoEm": "2026-11-24T16:25:37.107Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -2987,7 +2987,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:44.577Z"
+  "coletadoEm": "2026-11-24T16:25:40.893Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3013,7 +3013,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:47.495Z"
+  "coletadoEm": "2026-11-24T16:25:44.482Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3039,7 +3039,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:50.978Z"
+  "coletadoEm": "2026-11-24T16:25:48.224Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3065,7 +3065,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:53.760Z"
+  "coletadoEm": "2026-11-24T16:25:50.845Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3091,7 +3091,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:56.308Z"
+  "coletadoEm": "2026-11-24T16:25:54.644Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3117,7 +3117,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:34:58.831Z"
+  "coletadoEm": "2026-11-24T16:25:57.417Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3143,7 +3143,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:01.557Z"
+  "coletadoEm": "2026-11-24T16:26:00.441Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3169,7 +3169,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:04.887Z"
+  "coletadoEm": "2026-11-24T16:26:03.456Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3195,7 +3195,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:07.949Z"
+  "coletadoEm": "2026-11-24T16:26:06.408Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3221,7 +3221,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:35:10.702Z"
+  "coletadoEm": "2026-11-24T16:26:09.737Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3247,7 +3247,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:14.372Z"
+  "coletadoEm": "2026-11-24T16:26:13.447Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3273,7 +3273,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:17.005Z"
+  "coletadoEm": "2026-11-24T16:26:16.697Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3299,7 +3299,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:20.651Z"
+  "coletadoEm": "2026-11-24T16:26:20.140Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3325,7 +3325,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:24.003Z"
+  "coletadoEm": "2026-11-24T16:26:23.967Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3351,7 +3351,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:27.916Z"
+  "coletadoEm": "2026-11-24T16:26:27.725Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3377,7 +3377,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:31.261Z"
+  "coletadoEm": "2026-11-24T16:26:31.591Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3403,7 +3403,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:33.971Z"
+  "coletadoEm": "2026-11-24T16:26:34.299Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3429,7 +3429,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:36.841Z"
+  "coletadoEm": "2026-11-24T16:26:37.161Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3455,7 +3455,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:40.438Z"
+  "coletadoEm": "2026-11-24T16:26:40.790Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3481,7 +3481,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:43.117Z"
+  "coletadoEm": "2026-11-24T16:26:44.721Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3507,7 +3507,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:46.250Z"
+  "coletadoEm": "2026-11-24T16:26:48.143Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3533,7 +3533,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:49.645Z"
+  "coletadoEm": "2026-11-24T16:26:50.967Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3559,7 +3559,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:53.031Z"
+  "coletadoEm": "2026-11-24T16:26:54.379Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3585,7 +3585,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:56.294Z"
+  "coletadoEm": "2026-11-24T16:26:57.652Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3611,7 +3611,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:35:58.988Z"
+  "coletadoEm": "2026-11-24T16:27:00.741Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3637,7 +3637,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:02.199Z"
+  "coletadoEm": "2026-11-24T16:27:04.986Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3663,7 +3663,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:05.768Z"
+  "coletadoEm": "2026-11-24T16:27:08.346Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3689,7 +3689,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:08.597Z"
+  "coletadoEm": "2026-11-24T16:27:11.985Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3715,7 +3715,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:11.049Z"
+  "coletadoEm": "2026-11-24T16:27:14.855Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3741,7 +3741,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:14.417Z"
+  "coletadoEm": "2026-11-24T16:27:17.714Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3767,7 +3767,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:17.017Z"
+  "coletadoEm": "2026-11-24T16:27:20.591Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3793,7 +3793,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:19.898Z"
+  "coletadoEm": "2026-11-24T16:27:23.978Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3819,7 +3819,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:23.085Z"
+  "coletadoEm": "2026-11-24T16:27:27.343Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3845,7 +3845,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:28.242Z"
+  "coletadoEm": "2026-11-24T16:27:31.000Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3871,7 +3871,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:36:31.369Z"
+  "coletadoEm": "2026-11-24T16:27:34.288Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3897,7 +3897,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:34.030Z"
+  "coletadoEm": "2026-11-24T16:27:37.680Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3923,7 +3923,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:37.983Z"
+  "coletadoEm": "2026-11-24T16:27:40.542Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3949,7 +3949,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:41.096Z"
+  "coletadoEm": "2026-11-24T16:27:43.414Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -3975,7 +3975,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:36:44.543Z"
+  "coletadoEm": "2026-11-24T16:27:47.101Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4001,7 +4001,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:36:47.382Z"
+  "coletadoEm": "2026-11-24T16:27:50.204Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4027,7 +4027,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:50.925Z"
+  "coletadoEm": "2026-11-24T16:27:53.781Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4053,7 +4053,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:36:54.227Z"
+  "coletadoEm": "2026-11-24T16:27:57.220Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4079,7 +4079,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:36:57.670Z"
+  "coletadoEm": "2026-11-24T16:28:00.480Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4105,7 +4105,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:00.346Z"
+  "coletadoEm": "2026-11-24T16:28:03.513Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4131,7 +4131,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:02.882Z"
+  "coletadoEm": "2026-11-24T16:28:06.708Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4157,7 +4157,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:06.219Z"
+  "coletadoEm": "2026-11-24T16:28:10.425Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4183,7 +4183,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:09.264Z"
+  "coletadoEm": "2026-11-24T16:28:13.455Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4209,7 +4209,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:12.420Z"
+  "coletadoEm": "2026-11-24T16:28:16.633Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4235,7 +4235,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:16.835Z"
+  "coletadoEm": "2026-11-24T16:28:20.766Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4261,7 +4261,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:19.780Z"
+  "coletadoEm": "2026-11-24T16:28:24.176Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4287,7 +4287,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:23.506Z"
+  "coletadoEm": "2026-11-24T16:28:26.863Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4313,7 +4313,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:26.252Z"
+  "coletadoEm": "2026-11-24T16:28:30.371Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4339,7 +4339,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:28.959Z"
+  "coletadoEm": "2026-11-24T16:28:34.692Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4365,7 +4365,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:31.733Z"
+  "coletadoEm": "2026-11-24T16:28:37.446Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4391,7 +4391,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:34.756Z"
+  "coletadoEm": "2026-11-24T16:28:40.554Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4417,7 +4417,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:37.618Z"
+  "coletadoEm": "2026-11-24T16:28:44.257Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4443,7 +4443,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:40.534Z"
+  "coletadoEm": "2026-11-24T16:28:47.482Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4469,7 +4469,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:44.152Z"
+  "coletadoEm": "2026-11-24T16:28:51.238Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4495,7 +4495,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:49.068Z"
+  "coletadoEm": "2026-11-24T16:28:56.427Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4521,7 +4521,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:53.217Z"
+  "coletadoEm": "2026-11-24T16:29:00.694Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4547,7 +4547,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:55.947Z"
+  "coletadoEm": "2026-11-24T16:29:04.471Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4573,7 +4573,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:37:58.945Z"
+  "coletadoEm": "2026-11-24T16:29:07.273Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4599,7 +4599,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:02.330Z"
+  "coletadoEm": "2026-11-24T16:29:10.827Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4625,7 +4625,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:04.935Z"
+  "coletadoEm": "2026-11-24T16:29:13.547Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4651,7 +4651,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:07.621Z"
+  "coletadoEm": "2026-11-24T16:29:16.652Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4677,7 +4677,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:12.107Z"
+  "coletadoEm": "2026-11-24T16:29:20.089Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4703,7 +4703,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:15.211Z"
+  "coletadoEm": "2026-11-24T16:29:23.508Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4729,7 +4729,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:18.208Z"
+  "coletadoEm": "2026-11-24T16:29:26.580Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4755,7 +4755,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:21.391Z"
+  "coletadoEm": "2026-11-24T16:29:29.868Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4781,7 +4781,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:24.427Z"
+  "coletadoEm": "2026-11-24T16:29:32.426Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4807,7 +4807,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:27.959Z"
+  "coletadoEm": "2026-11-24T16:29:34.934Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4833,7 +4833,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:30.772Z"
+  "coletadoEm": "2026-11-24T16:29:38.231Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4859,7 +4859,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:34.183Z"
+  "coletadoEm": "2026-11-24T16:29:41.102Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4885,7 +4885,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:37.489Z"
+  "coletadoEm": "2026-11-24T16:29:43.664Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4911,7 +4911,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:40.769Z"
+  "coletadoEm": "2026-11-24T16:29:46.999Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4937,7 +4937,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:43.559Z"
+  "coletadoEm": "2026-11-24T16:29:49.729Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4963,7 +4963,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:47.136Z"
+  "coletadoEm": "2026-11-24T16:29:52.459Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -4989,7 +4989,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:51.005Z"
+  "coletadoEm": "2026-11-24T16:29:55.379Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5015,7 +5015,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:53.655Z"
+  "coletadoEm": "2026-11-24T16:29:58.376Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5041,7 +5041,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:56.212Z"
+  "coletadoEm": "2026-11-24T16:30:01.713Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5067,7 +5067,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:38:59.109Z"
+  "coletadoEm": "2026-11-24T16:30:04.682Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5093,7 +5093,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:02.472Z"
+  "coletadoEm": "2026-11-24T16:30:07.562Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5119,7 +5119,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:05.756Z"
+  "coletadoEm": "2026-11-24T16:30:10.378Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5145,7 +5145,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:08.517Z"
+  "coletadoEm": "2026-11-24T16:30:14.250Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5171,7 +5171,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:11.182Z"
+  "coletadoEm": "2026-11-24T16:30:17.423Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5197,7 +5197,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:39:13.911Z"
+  "coletadoEm": "2026-11-24T16:30:19.928Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5223,7 +5223,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:17.405Z"
+  "coletadoEm": "2026-11-24T16:30:24.184Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5249,7 +5249,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:20.122Z"
+  "coletadoEm": "2026-11-24T16:30:27.747Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5275,7 +5275,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:23.199Z"
+  "coletadoEm": "2026-11-24T16:30:31.342Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5301,7 +5301,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:26.769Z"
+  "coletadoEm": "2026-11-24T16:30:34.511Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5327,7 +5327,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:29.569Z"
+  "coletadoEm": "2026-11-24T16:30:38.288Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5353,7 +5353,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:33.556Z"
+  "coletadoEm": "2026-11-24T16:30:41.854Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5379,7 +5379,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:36.291Z"
+  "coletadoEm": "2026-11-24T16:30:45.716Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5405,7 +5405,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:39.331Z"
+  "coletadoEm": "2026-11-24T16:30:48.404Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5431,7 +5431,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:41.872Z"
+  "coletadoEm": "2026-11-24T16:30:51.116Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5457,7 +5457,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:45.144Z"
+  "coletadoEm": "2026-11-24T16:30:54.586Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5483,7 +5483,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:48.071Z"
+  "coletadoEm": "2026-11-24T16:30:57.935Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5509,7 +5509,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:51.582Z"
+  "coletadoEm": "2026-11-24T16:31:00.706Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5535,7 +5535,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:54.171Z"
+  "coletadoEm": "2026-11-24T16:31:03.486Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5561,7 +5561,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:39:57.970Z"
+  "coletadoEm": "2026-11-24T16:31:07.242Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5587,7 +5587,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:00.709Z"
+  "coletadoEm": "2026-11-24T16:31:10.166Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5613,7 +5613,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:04.113Z"
+  "coletadoEm": "2026-11-24T16:31:12.921Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5639,7 +5639,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:07.208Z"
+  "coletadoEm": "2026-11-24T16:31:17.232Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5665,7 +5665,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:10.105Z"
+  "coletadoEm": "2026-11-24T16:31:21.104Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5691,7 +5691,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:13.386Z"
+  "coletadoEm": "2026-11-24T16:31:24.374Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5717,7 +5717,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:17.390Z"
+  "coletadoEm": "2026-11-24T16:31:29.008Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5743,7 +5743,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:21.122Z"
+  "coletadoEm": "2026-11-24T16:31:32.734Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5769,7 +5769,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:24.438Z"
+  "coletadoEm": "2026-11-24T16:31:36.454Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5795,7 +5795,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:28.213Z"
+  "coletadoEm": "2026-11-24T16:31:40.016Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5821,7 +5821,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:31.535Z"
+  "coletadoEm": "2026-11-24T16:31:44.073Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5847,7 +5847,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:35.029Z"
+  "coletadoEm": "2026-11-24T16:31:47.754Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5873,7 +5873,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:38.584Z"
+  "coletadoEm": "2026-11-24T16:31:50.476Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5899,7 +5899,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:42.745Z"
+  "coletadoEm": "2026-11-24T16:31:54.393Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5925,7 +5925,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:46.688Z"
+  "coletadoEm": "2026-11-24T16:31:57.980Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5951,7 +5951,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:50.208Z"
+  "coletadoEm": "2026-11-24T16:32:01.225Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -5977,7 +5977,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:53.575Z"
+  "coletadoEm": "2026-11-24T16:32:04.972Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6003,7 +6003,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:40:57.663Z"
+  "coletadoEm": "2026-11-24T16:32:08.158Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6029,7 +6029,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:01.156Z"
+  "coletadoEm": "2026-11-24T16:32:11.452Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6055,7 +6055,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:04.615Z"
+  "coletadoEm": "2026-11-24T16:32:15.282Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6081,7 +6081,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:08.443Z"
+  "coletadoEm": "2026-11-24T16:32:19.545Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6107,7 +6107,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:12.274Z"
+  "coletadoEm": "2026-11-24T16:32:23.455Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6133,7 +6133,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:15.988Z"
+  "coletadoEm": "2026-11-24T16:32:27.406Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6159,7 +6159,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:19.838Z"
+  "coletadoEm": "2026-11-24T16:32:31.248Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6185,7 +6185,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:23.450Z"
+  "coletadoEm": "2026-11-24T16:32:35.478Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6211,7 +6211,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:27.446Z"
+  "coletadoEm": "2026-11-24T16:32:38.831Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6237,7 +6237,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:30.302Z"
+  "coletadoEm": "2026-11-24T16:32:42.135Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6263,7 +6263,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:32.994Z"
+  "coletadoEm": "2026-11-24T16:32:44.819Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6289,7 +6289,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:41:36.201Z"
+  "coletadoEm": "2026-11-24T16:32:48.022Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6315,7 +6315,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:41:39.937Z"
+  "coletadoEm": "2026-11-24T16:32:51.372Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6341,7 +6341,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:41:43.225Z"
+  "coletadoEm": "2026-11-24T16:32:54.571Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6367,7 +6367,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:46.699Z"
+  "coletadoEm": "2026-11-24T16:32:57.370Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6393,7 +6393,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:49.425Z"
+  "coletadoEm": "2026-11-24T16:33:00.204Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6419,7 +6419,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:52.825Z"
+  "coletadoEm": "2026-11-24T16:33:04.046Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6445,7 +6445,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:55.812Z"
+  "coletadoEm": "2026-11-24T16:33:07.237Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6471,7 +6471,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:41:58.904Z"
+  "coletadoEm": "2026-11-24T16:33:10.722Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6497,7 +6497,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:01.997Z"
+  "coletadoEm": "2026-11-24T16:33:14.490Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6523,7 +6523,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:05.423Z"
+  "coletadoEm": "2026-11-24T16:33:17.958Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6549,7 +6549,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:08.958Z"
+  "coletadoEm": "2026-11-24T16:33:20.674Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6575,7 +6575,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:11.637Z"
+  "coletadoEm": "2026-11-24T16:33:23.883Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6601,7 +6601,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:42:14.893Z"
+  "coletadoEm": "2026-11-24T16:33:27.142Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6627,7 +6627,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:17.486Z"
+  "coletadoEm": "2026-11-24T16:33:30.546Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6653,7 +6653,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:19.969Z"
+  "coletadoEm": "2026-11-24T16:33:33.463Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6679,7 +6679,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:24.000Z"
+  "coletadoEm": "2026-11-24T16:33:37.261Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6705,7 +6705,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:42:27.393Z"
+  "coletadoEm": "2026-11-24T16:33:40.881Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6731,7 +6731,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:30.153Z"
+  "coletadoEm": "2026-11-24T16:33:44.537Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6757,7 +6757,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:33.452Z"
+  "coletadoEm": "2026-11-24T16:33:47.682Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6783,7 +6783,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:36.069Z"
+  "coletadoEm": "2026-11-24T16:33:50.418Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6809,7 +6809,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:39.378Z"
+  "coletadoEm": "2026-11-24T16:33:53.009Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6835,7 +6835,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:42.614Z"
+  "coletadoEm": "2026-11-24T16:33:56.540Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6861,7 +6861,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:42:45.239Z"
+  "coletadoEm": "2026-11-24T16:34:00.122Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6887,7 +6887,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:48.765Z"
+  "coletadoEm": "2026-11-24T16:34:03.954Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6913,7 +6913,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:51.905Z"
+  "coletadoEm": "2026-11-24T16:34:07.952Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6939,7 +6939,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:55.001Z"
+  "coletadoEm": "2026-11-24T16:34:11.381Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6965,7 +6965,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:42:57.686Z"
+  "coletadoEm": "2026-11-24T16:34:14.530Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -6991,7 +6991,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:00.852Z"
+  "coletadoEm": "2026-11-24T16:34:18.324Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7017,7 +7017,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:04.034Z"
+  "coletadoEm": "2026-11-24T16:34:21.279Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7043,7 +7043,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:06.797Z"
+  "coletadoEm": "2026-11-24T16:34:24.883Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7069,7 +7069,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:10.527Z"
+  "coletadoEm": "2026-11-24T16:34:28.340Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7095,7 +7095,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:13.235Z"
+  "coletadoEm": "2026-11-24T16:34:32.322Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7121,7 +7121,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:16.703Z"
+  "coletadoEm": "2026-11-24T16:34:35.652Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7147,7 +7147,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:20.381Z"
+  "coletadoEm": "2026-11-24T16:34:39.764Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7173,7 +7173,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:24.219Z"
+  "coletadoEm": "2026-11-24T16:34:43.735Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7199,7 +7199,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:28.424Z"
+  "coletadoEm": "2026-11-24T16:34:47.040Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7225,7 +7225,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:31.195Z"
+  "coletadoEm": "2026-11-24T16:34:49.710Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7251,7 +7251,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:33.975Z"
+  "coletadoEm": "2026-11-24T16:34:52.506Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7277,7 +7277,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:38.518Z"
+  "coletadoEm": "2026-11-24T16:34:56.572Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7303,7 +7303,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:43:41.849Z"
+  "coletadoEm": "2026-11-24T16:34:59.926Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7329,7 +7329,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:45.196Z"
+  "coletadoEm": "2026-11-24T16:35:03.688Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7355,7 +7355,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:48.562Z"
+  "coletadoEm": "2026-11-24T16:35:08.236Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7381,7 +7381,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:52.528Z"
+  "coletadoEm": "2026-11-24T16:35:12.255Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7407,7 +7407,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:43:56.242Z"
+  "coletadoEm": "2026-11-24T16:35:16.127Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7433,7 +7433,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:00.536Z"
+  "coletadoEm": "2026-11-24T16:35:20.595Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7459,7 +7459,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:05.980Z"
+  "coletadoEm": "2026-11-24T16:35:24.140Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7485,7 +7485,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:10.845Z"
+  "coletadoEm": "2026-11-24T16:35:27.230Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7511,7 +7511,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:13.322Z"
+  "coletadoEm": "2026-11-24T16:35:30.451Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7537,7 +7537,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:16.889Z"
+  "coletadoEm": "2026-11-24T16:35:36.489Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7563,7 +7563,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:22.177Z"
+  "coletadoEm": "2026-11-24T16:35:41.318Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7589,7 +7589,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:25.547Z"
+  "coletadoEm": "2026-11-24T16:35:46.401Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7615,7 +7615,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:28.203Z"
+  "coletadoEm": "2026-11-24T16:35:51.737Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7641,7 +7641,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:30.950Z"
+  "coletadoEm": "2026-11-24T16:35:54.286Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7667,7 +7667,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:34.438Z"
+  "coletadoEm": "2026-11-24T16:35:58.154Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7693,7 +7693,7 @@
    "reputacao": null
   },
   "disponivel": false,
-  "coletadoEm": "2026-11-24T03:44:37.211Z"
+  "coletadoEm": "2026-11-24T16:36:03.008Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7719,7 +7719,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:40.233Z"
+  "coletadoEm": "2026-11-24T16:36:06.258Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7745,7 +7745,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:42.883Z"
+  "coletadoEm": "2026-11-24T16:36:09.914Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7771,7 +7771,7 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:45.972Z"
+  "coletadoEm": "2026-11-24T16:36:13.993Z"
  },
  {
   "fonte": "sitemap-cobasi",
@@ -7797,6 +7797,6 @@
    "reputacao": null
   },
   "disponivel": true,
-  "coletadoEm": "2026-11-24T03:44:49.656Z"
+  "coletadoEm": "2026-11-24T16:36:17.637Z"
  }
 ]
