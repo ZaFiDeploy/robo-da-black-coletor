@@ -1,0 +1,287 @@
+[
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda Umbro Diamond Duo Masculina",
+  "ean": "7909526574930",
+  "marca": "&Joy",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 69.9,
+  "de": 100,
+  "url": "https://www.decathlon.com.br/bermuda-umbro-diamond-duo-masculina-2145598170/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/131003845/17138049549589.jpg?v=638500152031800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T15:59:39.638Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda Mizuno Energy M 7\" Masculina",
+  "ean": "1114756320689",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 94.9,
+  "de": 105.9,
+  "url": "https://www.decathlon.com.br/bermuda-mizuno-energy-m-7--masculina-2145598181/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/131004029/17138978275464.jpg?v=638500152247800000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T15:59:42.922Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bermuda Mizuno Tennis Master M 7\" Masculina",
+  "ean": "3334756359658",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 99.9,
+  "de": 149.9,
+  "url": "https://www.decathlon.com.br/bermuda-mizuno-tennis-master-m-7--masculina-2145598338/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/131009808/17138978955033.jpg?v=638500165899630000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T15:59:46.362Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Tennis Masculino Mizuno Wave Enforce Tour All Court",
+  "ean": "7893659629554",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 749.99,
+  "de": 1099.99,
+  "url": "https://www.decathlon.com.br/tenis-de-tennis-masculino-mizuno-wave-enforce-tour-all-court-2145598415/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170019712/17581405961086.jpg?v=638937374350970000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T15:59:49.712Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Chuteira de Campo Masculina Mizuno Alpha Elite",
+  "ean": "7894756186759",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Chuteiras"
+  ],
+  "preco": 799.99,
+  "de": 1099.99,
+  "url": "https://www.decathlon.com.br/chuteira-de-campo-masculina-mizuno-alpha-elite-2145598416/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170017888/17581403987960.jpg?v=638937372160600000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T15:59:53.059Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Corrida Feminino Mizuno Wave Dynasty 6",
+  "ean": "7894756108270",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 429.99,
+  "de": 499.99,
+  "url": "https://www.decathlon.com.br/tenis-de-corrida-feminino-mizuno-wave-dynasty-6-2145598454/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170018269/17581404250948.jpg?v=638937372506270000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T15:59:56.649Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Tênis de Tennis Feminino Mizuno Wave Enforce Tour All Court",
+  "ean": "7893659872295",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Calçados",
+  "caminhoLoja": [
+   "Calçados",
+   "Calçados",
+   "Tênis"
+  ],
+  "preco": 699.99,
+  "de": 1099.99,
+  "url": "https://www.decathlon.com.br/tenis-de-tennis-feminino-mizuno-wave-enforce-tour-all-court-2145598492/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/131036776/17136042000231.jpg?v=638500201094930000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T15:59:59.654Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Shorts de Compreensão Feminino Mizuno Impulse Core Mid",
+  "ean": "7894756282857",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Inferiores",
+   "Bermudas e Shorts"
+  ],
+  "preco": 279.99,
+  "de": 319.99,
+  "url": "https://www.decathlon.com.br/shorts-de-compreensao-feminino-mizuno-impulse-core-mid-2145598491/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/131573134/17138307810341.jpg?v=638501996874330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T16:00:02.889Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Camiseta Rip Curl Filter WT24 Masculina Navy",
+  "ean": "7908680972101",
+  "marca": "Rip Curl",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Roupas",
+  "caminhoLoja": [
+   "Roupas",
+   "Superiores",
+   "Camisetas"
+  ],
+  "preco": 131.4,
+  "de": 183,
+  "url": "https://www.decathlon.com.br/camiseta-rip-curl-filter-wt24-masculina-navy-2145598649/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/131564600/17109433650022.jpg?v=638501996152730000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T16:00:06.246Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Bola Iniciação de Borracha Magussy Tamanho 14",
+  "ean": "7898579510180",
+  "marca": "Magussy",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Equipamentos",
+  "caminhoLoja": [
+   "Equipamentos",
+   "Bolas de Futebol e Society"
+  ],
+  "preco": 52.71,
+  "de": 55.35,
+  "url": "https://www.decathlon.com.br/bola-iniciacao-de-borracha-magussy-tamanho-14-2145598668/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/173036120/17582119274782.jpg?v=639023567580700000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T16:00:09.318Z"
+ },
+ {
+  "fonte": "sitemap-decathlon",
+  "loja": "Decathlon",
+  "titulo": "Viseira Unissex Mizuno Sky",
+  "ean": "7894756567923",
+  "marca": "MIZUNO",
+  "modelo": null,
+  "cat": null,
+  "catLoja": "Acessórios",
+  "caminhoLoja": [
+   "Acessórios",
+   "Trajes",
+   "Boné, chapeu e viseira"
+  ],
+  "preco": 79.99,
+  "de": 119.99,
+  "url": "https://www.decathlon.com.br/viseira-unissex-mizuno-sky-2145598674/p",
+  "img": "https://decathlonstore.vtexassets.com/arquivos/ids/170021079/17581407785230.jpg?v=638937375918330000",
+  "vendedor": {
+   "oficial": true,
+   "nome": null,
+   "reputacao": null
+  },
+  "disponivel": true,
+  "coletadoEm": "2026-11-25T16:00:12.395Z"
+ }
+]

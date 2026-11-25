@@ -1,8 +1,8 @@
 {
- "geradoEm": "2026-11-25T02:03:33.329Z",
- "checadoEm": "24/11, 23:03",
- "total": 9119,
- "monitorados": 17928,
+ "geradoEm": "2026-11-25T16:26:32.353Z",
+ "checadoEm": "25/11, 13:26",
+ "total": 9290,
+ "monitorados": 18296,
  "lojasMonitoradas": [
   "Ri Happy",
   "Renner",
@@ -15,13 +15,13 @@
   "Cobasi",
   "Carrefour"
  ],
- "checadas": 426,
+ "checadas": 430,
  "porClasse": {
   "imperdivel": 24,
-  "otimo": 58,
-  "bom": 66,
-  "nao_checado": 8693,
-  "falso": 278
+  "otimo": 62,
+  "bom": 68,
+  "nao_checado": 8860,
+  "falso": 276
  },
  "lojas": [
   "Ri Happy",
@@ -45,7 +45,7 @@
   "outros": {
    "nome": "Outros",
    "arquivo": "ofertas-outros.json",
-   "n": 1793,
+   "n": 1861,
    "checadas": 48,
    "lojas": [
     "Ri Happy",
@@ -59,8 +59,8 @@
   "MLB1430": {
    "nome": "Calçados, Roupas e Bolsas",
    "arquivo": "ofertas-MLB1430.json",
-   "n": 4092,
-   "checadas": 86,
+   "n": 4161,
+   "checadas": 89,
    "lojas": [
     "Renner",
     "Decathlon",
@@ -73,13 +73,13 @@
   "MLB1246": {
    "nome": "Beleza e Cuidado Pessoal",
    "arquivo": "ofertas-MLB1246.json",
-   "n": 297,
+   "n": 303,
    "checadas": 17,
    "lojas": [
     "Polishop",
     "Mercado Livre",
-    "Renner",
     "Americanas",
+    "Renner",
     "Decathlon"
    ]
   },
@@ -87,7 +87,7 @@
    "nome": "Eletrodomésticos",
    "arquivo": "ofertas-MLB5726.json",
    "n": 71,
-   "checadas": 31,
+   "checadas": 30,
    "lojas": [
     "Mercado Livre",
     "Polishop",
@@ -101,7 +101,7 @@
   "MLB1403": {
    "nome": "Alimentos e Bebidas",
    "arquivo": "ofertas-MLB1403.json",
-   "n": 53,
+   "n": 54,
    "checadas": 3,
    "lojas": [
     "Mercado Livre",
@@ -114,7 +114,7 @@
   "MLB1071": {
    "nome": "Pet Shop",
    "arquivo": "ofertas-MLB1071.json",
-   "n": 143,
+   "n": 147,
    "checadas": 30,
    "lojas": [
     "Ri Happy",
@@ -129,7 +129,7 @@
   "MLB1574": {
    "nome": "Casa, Móveis e Decoração",
    "arquivo": "ofertas-MLB1574.json",
-   "n": 240,
+   "n": 241,
    "checadas": 67,
    "lojas": [
     "Polishop",
@@ -145,8 +145,8 @@
   "MLB1648": {
    "nome": "Informática",
    "arquivo": "ofertas-MLB1648.json",
-   "n": 1271,
-   "checadas": 91,
+   "n": 1275,
+   "checadas": 93,
    "lojas": [
     "KaBuM!",
     "Mercado Livre",
@@ -229,7 +229,7 @@
   "MLB1384": {
    "nome": "Bebês",
    "arquivo": "ofertas-MLB1384.json",
-   "n": 52,
+   "n": 53,
    "checadas": 2,
    "lojas": [
     "Americanas",
@@ -241,7 +241,7 @@
   "MLB3937": {
    "nome": "Joias e Relógios",
    "arquivo": "ofertas-MLB3937.json",
-   "n": 409,
+   "n": 423,
    "checadas": 0,
    "lojas": [
     "Decathlon",
@@ -252,7 +252,7 @@
   "MLB1276": {
    "nome": "Esportes e Fitness",
    "arquivo": "ofertas-MLB1276.json",
-   "n": 76,
+   "n": 78,
    "checadas": 0,
    "lojas": [
     "Decathlon",
@@ -276,7 +276,7 @@
   "MLB1368": {
    "nome": "Arte, Papelaria e Armarinho",
    "arquivo": "ofertas-MLB1368.json",
-   "n": 35,
+   "n": 36,
    "checadas": 0,
    "lojas": [
     "Renner",
