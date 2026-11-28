@@ -478,5 +478,29 @@
    "disponivel": true,
    "coletadoEm": "2026-11-27T16:03:07.428Z"
   }
+ },
+ {
+  "url": "https://www.cobasi.com.br/antipulgas-e-carrapatos-nexgard-para-caes-de-25-a-50kg-3772330/p",
+  "loja": "Cobasi",
+  "titulo": "NexGard Antipulgas e Carrapatos para Cães de 25,1 a 50 kg",
+  "preco": 100.5,
+  "de": 154.99,
+  "ean": "7898053774527",
+  "por": "ean",
+  "candidatos": 1,
+  "outra": {
+   "loja": "Americanas",
+   "titulo": "Nexgard Antipulgas e Carrapatos 25,1 a 50Kg",
+   "ean": "7898053774527",
+   "marca": "Nexgard",
+   "modelo": "5411670391",
+   "preco": 87.05,
+   "de": null,
+   "vendedor": "Tudo de Bicho II",
+   "url": "https://www.americanas.com.br/nexgard-antipulgas-e-carrapatos-25-1-a-50kg-5411670375/p",
+   "img": "https://americanas.vteximg.com.br/arquivos/ids/14690338/5411670375_1_xlarge.jpg?v=638754532137100000",
+   "disponivel": true,
+   "coletadoEm": "2026-11-28T01:14:00.803Z"
+  }
  }
 ]
